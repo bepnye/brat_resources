@@ -1,0 +1,9 @@
+T1	HMM 305 313	efficacy
+T2	HMM 718 758	Patient-reported outcome (PROs) measures
+T3	HMM 842 867	improvement in dry mouth.
+T4	HMM 878 897	saliva measurements
+T5	HMM 1020 1036	severe dry mouth
+T6	HMM 1060 1073	sticky saliva
+T7	HMM 1098 1135	needing to sip fluids to swallow food
+T8	HMM 1166 1193	waking up at night to drink
+T9	HMM 1262 1308	stimulated or unstimulated saliva measurements

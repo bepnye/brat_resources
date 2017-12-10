@@ -1,0 +1,7 @@
+T1	HMM 234 274	B-type natriuretic peptide (BNP) levels.
+T2	HMM 684 714	total medical cost at 3 months
+T3	HMM 768 870	diagnostic certainty, time to appropriate therapy, functional capacity, hospitalization and mortality.
+T4	HMM 957 970	Heart failure
+T5	HMM 1019 1099	number of hospitalizations, functional status and total medical cost at 3 months
+T6	HMM 1215 1218	BNP
+T7	HMM 1229 1249	diagnostic certainty

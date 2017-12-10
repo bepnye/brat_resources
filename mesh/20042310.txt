@@ -1,0 +1,22 @@
+Adult
+Aged
+Antibodies, Monoclonal
+Antibodies, Monoclonal, Humanized
+Antineoplastic Agents
+Colectomy
+Deoxycytidine
+Dose-Response Relationship, Drug
+Drug Therapy, Combination
+Female
+Fluorouracil
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Neoadjuvant Therapy
+Neoplasm Staging
+Prodrugs
+Prospective Studies
+Receptor, Epidermal Growth Factor
+Rectal Neoplasms
+Treatment Outcome

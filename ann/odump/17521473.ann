@@ -1,0 +1,14 @@
+T1	HMM 260 285	paediatric tonsillectomy.
+T2	HMM 1087 1108	longer operative time
+T3	HMM 1184 1210	Intra-operative blood loss
+T4	HMM 1370 1396	post-operative pain scores
+T5	HMM 1558 1569	pain scores
+T6	HMM 1769 1781	pain scores.
+T7	HMM 1793 1835	reactionary post-tonsillectomy haemorrhage
+T8	HMM 1883 1923	secondary post-tonsillectomy haemorrhage
+T9	HMM 2120 2140	safe and easy to use
+T10	HMM 2145 2158	tonsillectomy
+T11	HMM 2173 2222	operative time, blood loss and complication rates
+T12	HMM 2330 2382	operative bleeding and immediate post-operative pain
+T13	HMM 2502 2516	operative time
+T14	HMM 2533 2557	late post-operative pain

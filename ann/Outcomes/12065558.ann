@@ -1,0 +1,13 @@
+T1	Outcomes 9 17	survival
+T2	Outcomes 386 411	efficacy and tolerability
+T3	Outcomes 806 814	efficacy
+T4	Outcomes 818 851	time to disease progression (TTP)
+T5	Outcomes 957 973	overall survival
+T6	Outcomes 1063 1092	objective tumor response rate
+T7	Outcomes 1139 1191	Gastrointestinal side effects and hand-foot syndrome
+T8	Outcomes 1243 1262	myalgia, arthralgia
+T9	Outcomes 1268 1292	neutropenic fever/sepsis
+T10	Outcomes 1344 1366	grade 3 adverse events
+T11	Outcomes 1436 1450	grade 4 events
+T12	Outcomes 1560 1576	TTP and survival
+T13	Outcomes 1665 1681	toxicity profile

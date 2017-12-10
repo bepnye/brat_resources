@@ -1,0 +1,12 @@
+T1	HMM 0 47	Short-term metabolic and cardiovascular effects
+T2	HMM 532 554	body mass index (BMI):
+T3	HMM 922 925	BMI
+T4	HMM 968 984	subcutaneous fat
+T5	HMM 1014 1035	deep subcutaneous fat
+T6	HMM 1147 1174	insulin sensitivity (WBISI)
+T7	HMM 1296 1315	insulin sensitivity
+T8	HMM 1357 1424	inflammatory cytokines or lipid parameters, cardiovascular function
+T9	HMM 1440 1459	heart rate recovery
+T10	HMM 1570 1579	tolerated
+T11	HMM 1712 1732	insulin sensitivity.
+T12	HMM 1806 1858	cardio-metabolic consequences of adolescent obesity.

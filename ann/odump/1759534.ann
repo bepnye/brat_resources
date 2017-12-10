@@ -1,0 +1,10 @@
+T1	HMM 533 546	linear height
+T2	HMM 569 584	body mass index
+T3	HMM 605 674	Mean muscle volume of the thigh, estimated by computerised tomography
+T4	HMM 799 833	adipose tissue volume of the thigh
+T5	HMM 849 879	subscapular skinfold thickness
+T6	HMM 903 935	muscle to fat ratio of the thigh
+T7	HMM 1047 1106	mean isometric strength of the quadriceps muscles increased
+T8	HMM 1274 1324	Exercise capacity performed on a bicycle ergometer
+T9	HMM 1496 1513	adverse reactions
+T10	HMM 1557 1571	hemoglobin A1c

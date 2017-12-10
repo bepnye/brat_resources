@@ -1,0 +1,15 @@
+T1	Treatment 34 72	high-frequency oscillatory ventilation
+T2	Treatment 189 227	high-frequency oscillatory ventilation
+T3	Treatment 509 555	protective conventional mechanical ventilation
+T4	Treatment 584 644	three 1-hr periods of high-frequency oscillatory ventilation
+T5	Treatment 738 757	5, 10, or 15 cm H2O
+T6	Treatment 907 949	during conventional mechanical ventilation
+T7	Treatment 987 1031	at high-frequency oscillatory ventilation+15
+T8	Treatment 1113 1155	During conventional mechanical ventilation
+T9	Treatment 1426 1437	ratio>0.9).
+T10	Treatment 1438 1479	High-frequency oscillatory ventilation+10
+T11	Treatment 1718 1802	with conventional mechanical ventilation or high-frequency oscillatory ventilation+5
+T12	Treatment 2436 2480	at high-frequency oscillatory ventilation+15
+T13	Treatment 2597 2641	under high-frequency oscillatory ventilation
+T14	Treatment 2694 2745	with protective conventional mechanical ventilation
+T15	Treatment 2962 3007	during high-frequency oscillatory ventilation

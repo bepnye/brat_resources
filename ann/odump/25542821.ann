@@ -1,0 +1,15 @@
+T1	HMM 0 8	Efficacy
+T2	HMM 13 19	safety
+T3	HMM 109 117	efficacy
+T4	HMM 122 128	safety
+T5	HMM 593 670	Amenorrhea, controlled bleeding, fibroid volume, quality of life (QoL), pain.
+T6	HMM 767 777	amenorrhea
+T7	HMM 843 862	controlled bleeding
+T8	HMM 903 923	Menstruation resumed
+T9	HMM 1030 1079	median reductions from baseline in fibroid volume
+T10	HMM 1173 1185	Pain and QoL
+T11	HMM 1239 1248	tolerated
+T12	HMM 1310 1325	adverse events.
+T13	HMM 1432 1449	bleeding and pain
+T14	HMM 1458 1472	fibroid volume
+T15	HMM 1486 1489	QoL

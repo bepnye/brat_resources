@@ -1,0 +1,11 @@
+T1	HMM 68 82	skill training
+T2	HMM 176 253	parallel patient and physician computer-mediated communication skill training
+T3	HMM 420 443	patient-centered skills
+T4	HMM 791 822	communication and satisfaction.
+T5	HMM 873 879	skills
+T6	HMM 932 1060	identification of problems/concerns, information exchange, treatment adherence, shared decision-making and interpersonal rapport
+T7	HMM 1201 1230	higher levels of satisfaction
+T8	HMM 1367 1395	positive and parallel impact
+T9	HMM 1442 1472	patient-centered communication
+T10	HMM 1480 1501	patient satisfaction.
+T11	HMM 1560 1583	cost and time effective

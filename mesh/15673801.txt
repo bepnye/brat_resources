@@ -1,0 +1,19 @@
+Cyclophosphamide
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Glucocorticoids
+Granulomatosis with Polyangiitis
+Humans
+Immunoglobulin G
+Immunosuppressive Agents
+Male
+Methotrexate
+Middle Aged
+Neoplasms
+Proportional Hazards Models
+Receptors, Tumor Necrosis Factor
+Remission Induction
+Secondary Prevention
+Treatment Failure
+Tumor Necrosis Factor-alpha

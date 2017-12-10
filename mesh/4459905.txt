@@ -1,0 +1,17 @@
+Adult
+Aged
+Analgesia
+Anesthesia, Conduction
+Anesthetics, Local
+Blood Pressure
+Female
+Humans
+Joint Diseases
+Male
+Mepivacaine
+Middle Aged
+Neuralgia
+Pain
+Propylamines
+Pulse
+Thiophenes

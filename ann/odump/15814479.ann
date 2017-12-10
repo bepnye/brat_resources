@@ -1,0 +1,7 @@
+T1	HMM 448 458	GAI scores
+T2	HMM 490 519	WAIS-III subtest performance.
+T3	HMM 877 964	Demographic variables included age, education, ethnicity, gender and region of country.
+T4	HMM 992 1069	vocabulary, information, picture completion, and matrix reasoning raw scores.
+T5	HMM 1132 1136	GAI.
+T6	HMM 1141 1172	GAI-Estimate (GAI-E) algorithms
+T7	HMM 1219 1233	standard error

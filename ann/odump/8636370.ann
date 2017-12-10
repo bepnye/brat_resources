@@ -1,0 +1,9 @@
+T1	HMM 135 150	body mass index
+T2	HMM 1000 1038	Lean body mass (LBM) and body fat (BF)
+T3	HMM 1197 1221	serum IGF-I,LBM, and TBW
+T4	HMM 1253 1255	BF
+T5	HMM 1282 1292	serum GHBP
+T6	HMM 1444 1446	BF
+T7	HMM 1527 1546	baseline GHBP level
+T8	HMM 1614 1651	GH-induced increment in IGF-I and TBW
+T9	HMM 1722 1724	BF

@@ -1,0 +1,5 @@
+T1	HMM 178 209	Time in therapeutic range (TTR)
+T2	HMM 988 1002	study mean TTR
+T3	HMM 1123 1129	lower.
+T4	HMM 1130 1191	Time below range for stroke and time above range for bleeding
+T5	HMM 1420 1431	CONCLUSIONS

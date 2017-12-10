@@ -1,0 +1,11 @@
+T1	HMM 798 805	groups.
+T2	HMM 806 815	Mucositis
+T3	HMM 829 884	with the World Health Organisation (WHO) grading scale.
+T4	HMM 903 937	with a 10 cm visual analogue scale
+T5	HMM 986 991	pain.
+T6	HMM 992 1119	Start and duration of therapy with pain relieving drugs, serum C-reactive protein values, and number of days of hospitalisation
+T7	HMM 1152 1160	records.
+T8	HMM 1161 1195	Data on OM, oral pain, use of i.v.
+T9	HMM 1196 1234	opioids and total parenteral nutrition
+T10	HMM 1314 1350	groups on OM, oral pain, use of i.v.
+T11	HMM 1351 1361	opioids or

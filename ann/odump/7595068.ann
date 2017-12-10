@@ -1,0 +1,9 @@
+T1	HMM 59 87	plasma lipoprotein[a] levels
+T2	HMM 111 140	Plasma lipoprotein[a] (Lp[a])
+T3	HMM 646 661	levels of Lp[a]
+T4	HMM 783 794	differences
+T5	HMM 894 906	plasma Lp[a]
+T6	HMM 1010 1015	Lp[a]
+T7	HMM 1088 1108	Lp[a] concentrations
+T8	HMM 1144 1220	tissue-plasminogen activator (t-PA) activity, factor VII coagualant activity
+T9	HMM 1225 1248	plasma LDL cholesterol.

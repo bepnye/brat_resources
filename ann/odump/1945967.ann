@@ -1,0 +1,8 @@
+T1	HMM 0 8	Efficacy
+T2	HMM 134 151	rectal infections
+T3	HMM 842 856	skin breakdown
+T4	HMM 861 879	rectal infections;
+T5	HMM 1128 1156	severity of granulocytopenia
+T6	HMM 1165 1195	incidence of rectal infections
+T7	HMM 1250 1285	occurrence of perirectal infections
+T8	HMM 1300 1314	skin breakdown

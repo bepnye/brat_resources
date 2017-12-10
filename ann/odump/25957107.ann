@@ -1,0 +1,18 @@
+T1	HMM 37 55	vascular functions
+T2	HMM 161 187	cardiovascular dysfunction
+T3	HMM 295 331	micro- and macrovascular dysfunction
+T4	HMM 537 553	macrovasculature
+T5	HMM 582 610	Skin microvascular functions
+T6	HMM 649 698	plasma level of endothelial microparticles (EMPs)
+T7	HMM 711 729	endothelial injury
+T8	HMM 795 818	femoral artery diameter
+T9	HMM 823 833	compliance
+T10	HMM 842 890	carotid wall thickness, diameter, and compliance
+T11	HMM 915 971	early phase of endothelium-dependent vasodilation to ACh
+T12	HMM 1010 1020	late phase
+T13	HMM 1074 1079	EMPs.
+T14	HMM 1116 1127	early phase
+T15	HMM 1163 1182	effects of bed rest
+T16	HMM 1190 1200	late phase
+T17	HMM 1285 1319	endothelium-dependent vasodilation
+T18	HMM 1442 1464	microvascular function

@@ -1,0 +1,8 @@
+T1	HMM 32 84	repeated sprint and change of direction performance.
+T2	HMM 207 286	repeated sprint ability (RSA) and change of direction speed (CODS) performance.
+T3	HMM 413 416	RSA
+T4	HMM 862 963	Mean, total (sum of six sprints), first, and best sprint times (MST, TST, FST, and BST, respectively)
+T5	HMM 1036 1045	RSA times
+T6	HMM 1405 1417	sprint times
+T7	HMM 1763 1778	RSA performance
+T8	HMM 1802 1819	CODS performance.

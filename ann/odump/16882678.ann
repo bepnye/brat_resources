@@ -1,0 +1,11 @@
+T1	HMM 97 128	coenzyme Q(10) (CoQ(10)) levels
+T2	HMM 267 320	cardiocirculatory efficiency and endothelial function
+T3	HMM 834 910	peak VO(2) and endothelium-dependent dilation of the brachial artery (EDDBA)
+T4	HMM 1012 1032	peak VO(2)+9%, EDDBA
+T5	HMM 1039 1082	systolic wall thickening score index (SWTI)
+T6	HMM 1181 1201	plasma CoQ(10) level
+T7	HMM 1335 1398	functional capacity, endothelial function, and LV contractility
+T8	HMM 1418 1431	side effects.
+T9	HMM 1485 1506	plasma CoQ(10) levels
+T10	HMM 1659 1663	SWTI
+T11	HMM 1736 1778	contractility of dysfunctional myocardium.

@@ -1,0 +1,9 @@
+T1	HMM 991 995	Pain
+T2	HMM 1030 1044	pain intensity
+T3	HMM 1154 1191	activity and return of bowel function
+T4	HMM 1258 1270	side effects
+T5	HMM 1502 1516	bowel function
+T6	HMM 1646 1657	oral intake
+T7	HMM 1734 1742	coughing
+T8	HMM 1793 1808	pain management
+T9	HMM 2012 2025	complications

@@ -1,0 +1,5 @@
+T1	HMM 0 13	Abrasive wear
+T2	HMM 137 150	abrasive wear
+T3	HMM 826 838	Dentine wear
+T4	HMM 1117 1140	dentine wear reduction.
+T5	HMM 1237 1256	eroded dentine wear

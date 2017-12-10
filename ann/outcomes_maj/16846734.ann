@@ -1,0 +1,9 @@
+T1	Outcomes 150 158	activity
+T2	Outcomes 163 171	toxicity
+T3	Outcomes 917 999	Median response duration, time to treatment failure, and time to progression (TTP)
+T4	Outcomes 1169 1177	toxicity
+T5	Outcomes 1199 1212	neutropaenia,
+T6	Outcomes 1280 1293	neutropaenia,
+T7	Outcomes 1304 1348	anaemia, febrile neutropaenia, and diarrhoea
+T8	Outcomes 1593 1601	toxicity
+T9	Outcomes 1749 1757	toxicity

@@ -1,0 +1,13 @@
+Adult
+Aged
+Cardiac Catheterization
+Cardiac Surgical Procedures
+Chronic Disease
+Double-Blind Method
+Female
+Heart Failure
+Humans
+Male
+Middle Aged
+Myoblasts, Skeletal
+Myocardial Infarction

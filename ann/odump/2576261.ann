@@ -1,0 +1,9 @@
+T1	HMM 478 499	Fasting blood samples
+T2	HMM 603 633	Blood lipoprotein lipid levels
+T3	HMM 649 687	Serum total cholesterol did not change
+T4	HMM 754 782	serum triglyceride increased
+T5	HMM 802 824	HDL-cholesterol by 14%
+T6	HMM 829 850	8% in the GTD and DSG
+T7	HMM 877 902	serum LDL level decreased
+T8	HMM 971 1001	no further significant changes
+T9	HMM 1128 1199	small and probably favorable effects on serum lipoprotein lipid levels.

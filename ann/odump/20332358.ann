@@ -1,0 +1,6 @@
+T1	HMM 114 133	glycemic excursions
+T2	HMM 247 263	glucose-lowering
+T3	HMM 737 763	reduced glucose excursions
+T4	HMM 816 872	failed to suppress glucagon but delayed gastric emptying
+T5	HMM 927 961	reduces postprandial hyperglycemia
+T6	HMM 1017 1034	glucose excursion

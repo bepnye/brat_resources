@@ -1,0 +1,8 @@
+T1	HMM 857 907	necrosis of tumor, size of tumor, local recurrence
+T2	HMM 913 933	survival of patient.
+T3	HMM 946 977	clinical symptom remission rate
+T4	HMM 1060 1097	tumor necrosis and minification rates
+T5	HMM 1266 1293	tumor local recurrence rate
+T6	HMM 1405 1429	median survival duration
+T7	HMM 1624 1643	tumor necrosis rate
+T8	HMM 1661 1689	patients' survival duration.

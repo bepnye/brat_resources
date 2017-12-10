@@ -1,0 +1,14 @@
+Adult
+Aged
+Coronary Disease
+Diabetes Mellitus, Type 2
+Female
+Humans
+Hypoglycemic Agents
+Male
+Middle Aged
+Myocardial Infarction
+PPAR gamma
+Risk Factors
+Stroke
+Thiazolidinediones

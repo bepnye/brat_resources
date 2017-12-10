@@ -1,0 +1,4 @@
+T1	HMM 0 22	Neuroendocrine effects
+T2	HMM 285 301	plasma prolactin
+T3	HMM 325 347	plasma growth hormone.
+T4	HMM 371 402	plasma cortisol concentrations.

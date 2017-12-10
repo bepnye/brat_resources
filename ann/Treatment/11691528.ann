@@ -1,0 +1,6 @@
+T1	Treatment 160 174	cardiac pacing
+T2	Treatment 356 371	cardiac pacing.
+T3	Treatment 652 699	dual-chamber pacemaker implant (paced patients)
+T4	Treatment 703 733	standard treatment (controls).
+T5	Treatment 927 936	pacemaker
+T6	Treatment 941 949	controls

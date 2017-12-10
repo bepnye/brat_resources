@@ -1,0 +1,17 @@
+T1	HMM 404 446	identify the risk of progressive stenoses.
+T2	HMM 740 756	minimal diameter
+T3	HMM 858 900	number of conventional stenosis parameters
+T4	HMM 961 972	correlation
+T5	HMM 980 1007	changes in minimal diameter
+T6	HMM 1013 1041	baseline % diameter stenosis
+T7	HMM 1065 1081	minimal diameter
+T8	HMM 1109 1139	reference diameter of stenoses
+T9	HMM 1168 1195	changes were not correlated
+T10	HMM 1201 1233	stenosis length and plaque area.
+T11	HMM 1285 1310	progressing to occlusions
+T12	HMM 1331 1347	remaining patent
+T13	HMM 1372 1391	% diameter stenosis
+T14	HMM 1440 1471	progression of coronary disease
+T15	HMM 1515 1523	stenoses
+T16	HMM 1531 1541	occlusions
+T17	HMM 1624 1677	progression of atherosclerosis predominantly occurred

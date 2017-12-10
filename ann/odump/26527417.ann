@@ -1,0 +1,11 @@
+T1	HMM 58 74	serum bile acids
+T2	HMM 302 314	tolerability
+T3	HMM 326 346	bile acid metabolism
+T4	HMM 830 847	study, bile acids
+T5	HMM 862 973	by HPLC-MS in plasma and faeces, and fibroblast growth factor 19 (FGF19) and 7α-hydroxy-4-cholesten-3-one (C4)
+T6	HMM 999 1032	RESULTS No serious adverse events
+T7	HMM 1138 1178	study, plasma total bile acids and FGF19
+T8	HMM 1303 1316	(P < 0.05).
+T9	HMM 1317 1342	Plasma C4 and faecal bile
+T10	HMM 1528 1546	majority of faecal
+T11	HMM 1709 1749	interrupts the enterohepatic circulation

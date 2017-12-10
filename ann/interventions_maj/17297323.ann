@@ -1,0 +1,8 @@
+T1	Intervention 233 273	arteriovenous extracorporeal lung assist
+T2	Intervention 288 326	high-frequency oscillatory ventilation
+T3	Intervention 497 515	Saline lung lavage
+T4	Intervention 743 780	pressure-controlled ventilation (PCV)
+T5	Intervention 822 825	PCV
+T6	Intervention 861 869	AV-ECLA;
+T7	Intervention 879 884	HFOV;
+T8	Intervention 894 911	HFOV and AV-ECLA.

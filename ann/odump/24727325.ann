@@ -1,0 +1,12 @@
+T1	HMM 368 488	LCS6 genotype and its association with KRAS mutation status, clinicopathologic features, and disease-free survival (DFS)
+T2	HMM 816 833	and KRAS mutation
+T3	HMM 1024 1045	(15.2%) blood samples
+T4	HMM 1054 1124	(14.6%) tumor samples heterozygous or homozygous for the LCS6 G-allele
+T5	HMM 1182 1237	(85.4%) tumor samples homozygous for the LCS6 T-allele.
+T6	HMM 1238 1254	Genotype results
+T7	HMM 1339 1340	.
+T8	HMM 1341 1358	G-allele carriers
+T9	HMM 1451 1468	The LCS6 genotype
+T10	HMM 1488 1541	with KRAS mutation status, clinicopathologic features
+T11	HMM 1557 1563	or DFS
+T12	HMM 1667 1692	with KRAS mutation status

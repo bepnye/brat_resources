@@ -1,0 +1,9 @@
+T1	HMM 189 209	rapid muscle fatigue
+T2	HMM 311 325	muscle fatigue
+T3	HMM 603 618	isometric force
+T4	HMM 710 735	force-time integral (FTI)
+T5	HMM 1142 1167	fatigue time measurements
+T6	HMM 1251 1268	FTI measurements.
+T7	HMM 1477 1492	muscle fatigue.
+T8	HMM 1612 1645	fatigue time or FTI measurements.
+T9	HMM 1747 1775	recovery of muscle strength.

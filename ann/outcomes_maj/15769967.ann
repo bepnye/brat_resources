@@ -1,0 +1,15 @@
+T1	Outcomes 50 83	cardiovascular events and cancer:
+T2	Outcomes 440 469	risk of cancer, cancer death,
+T3	Outcomes 474 501	major cardiovascular events
+T4	Outcomes 1387 1510	cancer incidence, cancer deaths, and major cardiovascular events (myocardial infarction, stroke, and cardiovascular death).
+T5	Outcomes 1539 1593	heart failure, unstable angina, and revascularizations
+T6	Outcomes 1695 1712	cancer incidence,
+T7	Outcomes 1886 1900	cancer deaths,
+T8	Outcomes 1988 2016	major cardiovascular events,
+T9	Outcomes 2144 2165	risk of heart failure
+T10	Outcomes 2209 2242	hospitalization for heart failure
+T11	Outcomes 2400 2465	cancer incidence, cancer deaths, and major cardiovascular events,
+T12	Outcomes 2477 2538	rates of heart failure and hospitalizations for heart failure
+T13	Outcomes 2660 2666	cancer
+T14	Outcomes 2670 2697	major cardiovascular events
+T15	Outcomes 2728 2741	heart failure

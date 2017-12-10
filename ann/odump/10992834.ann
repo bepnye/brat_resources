@@ -1,0 +1,8 @@
+T1	HMM 92 111	neuromuscular block
+T2	HMM 193 221	onset of neuromuscular block
+T3	HMM 566 616	mean (+/- SD) time to 90% block and the onset time
+T4	HMM 620 635	succinylcholine
+T5	HMM 875 894	neuromuscular block
+T6	HMM 900 954	onset time of succinylcholine at the adductor pollicis
+T7	HMM 1139 1187	Clinical duration at the adductor pollicis (AMG)
+T8	HMM 1422 1454	onset of the neuromuscular block

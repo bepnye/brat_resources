@@ -1,0 +1,11 @@
+T1	HMM 301 310	cure rate
+T2	HMM 400 439	mean parasite and fever clearance times
+T3	HMM 845 871	Recurrence of parasitaemia
+T4	HMM 1016 1044	susceptibility to mefloquine
+T5	HMM 1059 1084	inhibitory concentrations
+T6	HMM 1135 1160	inhibitory concentrations
+T7	HMM 1242 1251	resistant
+T8	HMM 1314 1325	sensitivity
+T9	HMM 1354 1363	sensitive
+T10	HMM 1409 1418	resistant
+T11	HMM 1439 1448	sensitive

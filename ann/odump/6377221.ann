@@ -1,0 +1,10 @@
+T1	HMM 572 594	Mean airway resistance
+T2	HMM 627 654	specific airway conductance
+T3	HMM 689 722	mean dynamic pulmonary compliance
+T4	HMM 864 875	weight gain
+T5	HMM 968 979	weight gain
+T6	HMM 1011 1023	Fluid intake
+T7	HMM 1150 1221	urine output, osmolal clearance, and potassium and phosphorus excretion
+T8	HMM 1246 1265	retained less fluid
+T9	HMM 1285 1306	excreted less calcium
+T10	HMM 1383 1396	lung function

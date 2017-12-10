@@ -1,0 +1,11 @@
+T1	HMM 69 103	nausea, vomiting and appetite loss
+T2	HMM 285 319	nausea, vomiting and appetite loss
+T3	HMM 1005 1041	complete inhibition rate of vomiting
+T4	HMM 1164 1181	grade of vomiting
+T5	HMM 1207 1213	Nausea
+T6	HMM 1330 1343	Appetite loss
+T7	HMM 1485 1491	nausea
+T8	HMM 1542 1558	on appetite loss
+T9	HMM 1686 1715	inhibitory effect on vomiting
+T10	HMM 1870 1876	nausea
+T11	HMM 1928 1941	appetite loss

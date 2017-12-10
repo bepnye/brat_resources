@@ -1,0 +1,4 @@
+T1	HMM 847 868	repeat pregnancy rate
+T2	HMM 993 1024	percentage returning to school.
+T3	HMM 1103 1118	fully immunized
+T4	HMM 1237 1265	used the emergency room less

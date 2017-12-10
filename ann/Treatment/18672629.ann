@@ -1,0 +1,9 @@
+T1	Treatment 38 46	atropine
+T2	Treatment 80 91	neostigmine
+T3	Treatment 180 205	atropine plus neostigmine
+T4	Treatment 544 562	0.9 mg of atropine
+T5	Treatment 574 581	control
+T6	Treatment 597 616	1.2 mg of atropine.
+T7	Treatment 638 675	2.5 mg of neostigmine simultaneously.
+T8	Treatment 1183 1191	atropine
+T9	Treatment 1204 1215	neostigmine

@@ -1,0 +1,8 @@
+T1	HMM 4 10	effect
+T2	HMM 320 367	assess the respiratory and hemodynamic response
+T3	HMM 569 627	Sleeping polysomnographic and impedance cardiographic data
+T4	HMM 953 973	Cheyne-Stokes apneas
+T5	HMM 1008 1017	hypopneas
+T6	HMM 1037 1051	hypopnea index
+T7	HMM 1094 1119	Cheyne-Stokes apnea index
+T8	HMM 1350 1412	Thoracic fluid content index and left ventricular hemodynamics

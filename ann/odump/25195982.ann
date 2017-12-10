@@ -1,0 +1,12 @@
+T1	HMM 45 62	indirect benefits
+T2	HMM 372 416	dispatcher cardiopulmonary (CPR) instruction
+T3	HMM 556 569	bystander CPR
+T4	HMM 894 914	Bystander CPR status
+T5	HMM 998 1023	bystander CPR (any B-CPR)
+T6	HMM 1052 1130	bystander CPR with or without dispatcher assistance (DA-CPR and B-CPR, no DA).
+T7	HMM 1193 1198	B-CPR
+T8	HMM 1269 1274	B-CPR
+T9	HMM 1413 1432	receiving any B-CPR
+T10	HMM 1570 1576	DA-CPR
+T11	HMM 1679 1700	Odds of bystander CPR
+T12	HMM 1775 1782	DA-CPR.

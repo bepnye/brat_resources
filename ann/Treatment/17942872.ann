@@ -1,0 +1,14 @@
+T1	Treatment 0 20	Human papillomavirus
+T2	Treatment 25 43	Papanicolaou tests
+T3	Treatment 560 620	HPV test plus a Papanicolaou (Pap) test (intervention group)
+T4	Treatment 624 657	a Pap test alone (control group).
+T5	Treatment 680 688	HPV test
+T6	Treatment 702 710	Pap test
+T7	Treatment 740 748	HPV test
+T8	Treatment 947 986	Pap smears and colposcopies with biopsy
+T9	Treatment 1349 1361	intervention
+T10	Treatment 1554 1561	control
+T11	Treatment 1674 1686	intervention
+T12	Treatment 1883 1890	control
+T13	Treatment 2089 2097	HPV test
+T14	Treatment 2105 2113	Pap test

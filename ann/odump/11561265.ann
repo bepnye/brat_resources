@@ -1,0 +1,5 @@
+T1	HMM 845 862	intensity of pain
+T2	HMM 919 996	total length of hospital stay, time to ambulation, and time to oral nutrition
+T3	HMM 1063 1074	pain scores
+T4	HMM 1147 1178	total length of hospitalization
+T5	HMM 1300 1455	time to first ambulation, time to first bowel sounds, time to tolerating oral nutrition, incidence of nausea/vomiting or pruritus, and time to first flatus

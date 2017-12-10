@@ -1,0 +1,11 @@
+T1	HMM 0 16	Atrioventricular
+T2	HMM 182 209	risk of developing AV block
+T3	HMM 706 717	PQ interval
+T4	HMM 780 843	atrial stimulus-Q intervals at pacing rates of 100 and 120 bpm.
+T5	HMM 848 870	occurrence of AV block
+T6	HMM 970 981	PQ interval
+T7	HMM 1015 1068	atrial stimulus-Q intervals or Wenckebach block point
+T8	HMM 1141 1162	grade 2 to 3 AV block
+T9	HMM 1249 1274	right bundle-branch block
+T10	HMM 1342 1384	PQ interval and atrial stimulus-Q interval
+T11	HMM 1555 1559	safe

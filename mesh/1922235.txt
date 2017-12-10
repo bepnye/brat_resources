@@ -1,0 +1,13 @@
+Administration, Oral
+Adolescent
+Adult
+Cefixime
+Cefotaxime
+Ceftriaxone
+Drug Resistance, Microbial
+Drug Tolerance
+Female
+Gonorrhea
+Humans
+Injections, Intramuscular
+Male

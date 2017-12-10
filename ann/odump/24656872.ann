@@ -1,0 +1,12 @@
+T1	HMM 24 64	low consumption of fruits and vegetables
+T2	HMM 161 197	consumption of fruits and vegetables
+T3	HMM 572 643	consumption of one daily serving of fruits (80 g) and vegetables (60 g)
+T4	HMM 686 707	non-recommended foods
+T5	HMM 1051 1114	fruit consumption: family income higher than four minimum wages
+T6	HMM 1127 1159	lower paternal educational level
+T7	HMM 1174 1213	lower fruit consumption at 12-16 months
+T8	HMM 1264 1289	consumption of vegetables
+T9	HMM 1295 1325	low paternal educational level
+T10	HMM 1340 1399	consumption of high-sugar content beverages at 12-16 months
+T11	HMM 1542 1585	early feeding practices, parental education
+T12	HMM 1591 1604	family income

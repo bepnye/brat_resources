@@ -1,0 +1,15 @@
+T1	HMM 36 44	D status
+T2	HMM 166 189	vitamin D insufficiency
+T3	HMM 285 328	serum 25-hydrocyvitamin D (25(OH)D) levels.
+T4	HMM 345 372	sensitivity and specificity
+T5	HMM 397 424	identify VDI (25(OH)D level
+T6	HMM 654 657	VDI
+T7	HMM 681 686	black
+T8	HMM 719 723	(BMI
+T9	HMM 784 814	likely to tan in the past year
+T10	HMM 844 853	sunscreen
+T11	HMM 881 922	report sun exposure in the last 3 months.
+T12	HMM 942 968	vitamin D from supplements
+T13	HMM 1090 1226	models, black race, BMI, suntan within the past year, sun exposure in the past 3 months, sunscreen use and supplemental vitamin D intake
+T14	HMM 1340 1381	≥89% sensitivity but ≤35% specificity
+T15	HMM 1501 1505	risk

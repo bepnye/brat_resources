@@ -1,0 +1,13 @@
+T1	HMM 28 50	depression and anxiety
+T2	HMM 64 76	self-esteem:
+T3	HMM 203 224	anxiety or depression
+T4	HMM 239 259	psychological aspect
+T5	HMM 437 474	depression, anxiety, and self-esteem.
+T6	HMM 650 747	RBDI questionnaire (Raitasalo's modification of the short form of the Beck Depression Inventory).
+T7	HMM 943 953	depression
+T8	HMM 967 985	better self-esteem
+T9	HMM 1028 1039	proportions
+T10	HMM 1043 1052	depressed
+T11	HMM 1066 1073	anxious
+T12	HMM 1173 1195	depression and anxiety
+T13	HMM 1239 1250	self-esteem

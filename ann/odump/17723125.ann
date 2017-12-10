@@ -1,0 +1,12 @@
+T1	HMM 125 147	venous thromboembolism
+T2	HMM 289 311	venous thromboembolism
+T3	HMM 407 415	efficacy
+T4	HMM 420 426	safety
+T5	HMM 924 960	venous thromboembolism up to day 10.
+T6	HMM 991 1030	major bleeding and all-cause mortality.
+T7	HMM 1143 1170	venous thromboembolism rate
+T8	HMM 1390 1424	proximal deep vein thrombosis rate
+T9	HMM 1471 1483	Major bleeds
+T10	HMM 1749 1754	died.
+T11	HMM 1890 1917	venous thromboembolism rate
+T12	HMM 1978 1995	low bleeding risk

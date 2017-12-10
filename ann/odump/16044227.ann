@@ -1,0 +1,7 @@
+T1	HMM 17 38	maxillary tooth sizes
+T2	HMM 1076 1088	tooth widths
+T3	HMM 1447 1472	vestibulo-oral dimension.
+T4	HMM 1473 1492	Overall tooth width
+T5	HMM 1650 1665	crown diameters
+T6	HMM 1736 1746	tooth-size
+T7	HMM 1798 1815	dental-arch space

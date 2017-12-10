@@ -1,0 +1,14 @@
+T1	HMM 278 297	efficacy and safety
+T2	HMM 430 452	response and toxicity.
+T3	HMM 794 808	response rates
+T4	HMM 949 981	median progression-free survival
+T5	HMM 1009 1042	median times to tumor progression
+T6	HMM 1100 1116	minimal toxicity
+T7	HMM 1128 1139	neutropenia
+T8	HMM 1146 1156	leukopenia
+T9	HMM 1166 1182	other toxicities
+T10	HMM 1366 1375	efficacy.
+T11	HMM 1376 1432	Best response rates and median time to tumor progression
+T12	HMM 1741 1762	grade 3/4 toxicities:
+T13	HMM 1889 1908	efficacy and safety
+T14	HMM 1961 1982	efficacy and toxicity

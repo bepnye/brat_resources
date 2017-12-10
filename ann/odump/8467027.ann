@@ -1,0 +1,14 @@
+T1	HMM 15 24	pneumonia
+T2	HMM 119 144	clinical, bacteriological
+T3	HMM 149 172	pharmacological effects
+T4	HMM 442 476	endotracheal colonisation with ps.
+T5	HMM 477 487	aeruginosa
+T6	HMM 557 589	incidence of secondary pneumonia
+T7	HMM 639 677	Systemic administration of antibiotics
+T8	HMM 782 828	growth of fungi in the upper respiratory tract
+T9	HMM 884 910	incidence mainly of staph.
+T10	HMM 911 923	epidermidis.
+T11	HMM 1000 1009	tolerated
+T12	HMM 1101 1119	allergic reactions
+T13	HMM 1131 1152	respiratory pressures
+T14	HMM 1156 1176	bronchoconstrictions

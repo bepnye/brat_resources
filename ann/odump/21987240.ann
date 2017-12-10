@@ -1,0 +1,6 @@
+T1	HMM 340 360	oral bioavailability
+T2	HMM 733 759	moxifloxacin plasma levels
+T3	HMM 914 948	moxifloxacin plasma concentrations
+T4	HMM 1049 1066	C(max) and T(max)
+T5	HMM 1128 1184	The mean areas under the plasma concentration time curve
+T6	HMM 1326 1350	resulting in a mean oral

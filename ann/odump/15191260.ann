@@ -1,0 +1,5 @@
+T1	HMM 596 619	heart failure self-care
+T2	HMM 734 753	support reciprocity
+T3	HMM 838 889	heart failure readmissions, length of stay, or cost
+T4	HMM 928 958	heart failure readmission rate
+T5	HMM 1060 1109	low overall enrollment and high readmission rates

@@ -1,0 +1,16 @@
+T1	HMM 397 405	efficacy
+T2	HMM 808 932	Clinical Global Impression (CGI) scale, Aberrant Behavior Checklist (ABC), and Autism Treatment Evaluation Checklist (ATEC).
+T3	HMM 975 978	CGI
+T4	HMM 1056 1075	overall functioning
+T5	HMM 1090 1108	receptive language
+T6	HMM 1123 1141	social interaction
+T7	HMM 1160 1171	eye contact
+T8	HMM 1430 1449	parental CGI scores
+T9	HMM 1520 1539	overall functioning
+T10	HMM 1554 1572	receptive language
+T11	HMM 1591 1602	eye contact
+T12	HMM 1624 1627	ABC
+T13	HMM 1694 1758	total score, irritability, stereotypy, hyperactivity, and speech
+T14	HMM 1884 1913	ABC total score and subscales
+T15	HMM 2009 2042	ATEC, sensory/cognitive awareness
+T16	HMM 2465 2570	overall functioning, receptive language, social interaction, eye contact, and sensory/cognitive awareness

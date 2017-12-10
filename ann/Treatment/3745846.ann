@@ -1,0 +1,10 @@
+T1	Treatment 0 41	Domperidone, metoclopramide, and placebo.
+T2	Treatment 156 180	gastric prokinetic drugs
+T3	Treatment 533 547	metoclopramide
+T4	Treatment 562 573	domperidone
+T5	Treatment 588 598	or placebo
+T6	Treatment 939 953	metoclopramide
+T7	Treatment 1062 1073	domperidone
+T8	Treatment 1156 1163	placebo
+T9	Treatment 1387 1407	placebo, domperidone
+T10	Treatment 1413 1427	metoclopramide

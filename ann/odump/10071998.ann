@@ -1,0 +1,5 @@
+T1	HMM 831 868	Visual analog scale (VAS) pain scores
+T2	HMM 1022 1049	amount of narcotic required
+T3	HMM 1133 1143	VAS scores
+T4	HMM 1192 1251	amount of analgesics and narcotics required after discharge
+T5	HMM 1282 1351	Timed variables, such as time to urination, ambulation, and discharge

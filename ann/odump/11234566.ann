@@ -1,0 +1,11 @@
+T1	HMM 0 26	Phase-dependent modulation
+T2	HMM 34 49	soleus H-reflex
+T3	HMM 68 77	arm swing
+T4	HMM 134 167	modulation of the soleus H-reflex
+T5	HMM 242 250	H-reflex
+T6	HMM 363 389	soleus H-reflex depression
+T7	HMM 457 467	depression
+T8	HMM 656 666	depression
+T9	HMM 885 906	ipsilateral arm swing
+T10	HMM 932 965	depression of the soleus H-reflex
+T11	HMM 1031 1064	depression of the soleus H-reflex

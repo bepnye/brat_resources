@@ -1,0 +1,16 @@
+Coronary Disease
+Coronary Vessels
+Electrocardiography
+Female
+Forecasting
+Humans
+Logistic Models
+Male
+Middle Aged
+Multivariate Analysis
+Myocardial Infarction
+ROC Curve
+Reproducibility of Results
+Sensitivity and Specificity
+Thrombolytic Therapy
+Treatment Outcome

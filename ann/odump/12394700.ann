@@ -1,0 +1,7 @@
+T1	HMM 750 766	Serum hemoglobin
+T2	HMM 833 859	volume of irrigation fluid
+T3	HMM 1030 1039	withdrawn
+T4	HMM 1141 1176	mean blood loss in irrigation fluid
+T5	HMM 1320 1330	blood loss
+T6	HMM 1523 1531	bleeding
+T7	HMM 1677 1687	blood loss

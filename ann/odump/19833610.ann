@@ -1,0 +1,7 @@
+T1	HMM 829 878	Change in left ventricular (LV) ejection fraction
+T2	HMM 890 950	Change in exercise capacity (peak VO(2)) and quality of life
+T3	HMM 964 1006	Infarct size (additional aim), and safety.
+T4	HMM 1019 1051	rates of adverse clinical events
+T5	HMM 1142 1179	change of global LV systolic function
+T6	HMM 1331 1344	exercise time
+T7	HMM 1429 1452	peak oxygen consumption

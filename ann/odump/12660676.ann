@@ -1,0 +1,8 @@
+T1	HMM 787 874	Killip class, lower baseline systolic pressure, intravenous preenrollment lidocaine use
+T2	HMM 892 904	thrombolysis
+T3	HMM 1006 1055	baseline systolic pressure, intravenous lidocaine
+T4	HMM 1107 1126	baseline heart rate
+T5	HMM 1150 1171	30-day mortality rate
+T6	HMM 1305 1327	1-year mortality rates
+T7	HMM 1370 1403	30-day and 1-year mortality rates
+T8	HMM 1642 1657	mortality rates

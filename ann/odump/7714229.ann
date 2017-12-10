@@ -1,0 +1,9 @@
+T1	HMM 65 85	cognitive impairment
+T2	HMM 554 586	significant cognitive impairment
+T3	HMM 607 658	Computerized Neuropsychological Test Battery (CNTB)
+T4	HMM 669 705	decreased salivation and heart rate.
+T5	HMM 750 820	effect on CNTB scores, increased salivation, and increased heart rate.
+T6	HMM 842 864	cholinomimetic effects
+T7	HMM 915 965	changes in CNTB scores, heart rate, and salivation
+T8	HMM 1082 1105	cholinomimetic activity
+T9	HMM 1166 1184	muscarinic effects

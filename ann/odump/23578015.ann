@@ -1,0 +1,13 @@
+T1	HMM 41 90	attention-deficit/hyperactivity disorder symptoms
+T2	HMM 196 221	efficacy and tolerability
+T3	HMM 266 325	symptoms of attention-deficit/hyperactivity disorder (ADHD)
+T4	HMM 621 649	ADHD Rating Scale (ADHD-RS).
+T5	HMM 698 760	mean total, inattention, and hyperactivity-impulsivity ADHD-RS
+T6	HMM 769 778	decreased
+T7	HMM 860 888	ADHD-RS inattention subscale
+T8	HMM 920 955	hyperactivity-impulsivity subscale.
+T9	HMM 956 970	Adverse events
+T10	HMM 1063 1082	nausea and fatigue.
+T11	HMM 1097 1120	serious adverse events.
+T12	HMM 1242 1263	improve ADHD symptoms
+T13	HMM 1308 1322	adverse events

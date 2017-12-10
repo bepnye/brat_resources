@@ -1,0 +1,7 @@
+T1	HMM 82 90	efficacy
+T2	HMM 193 232	Symptoms of pain, discomfort and nausea
+T3	HMM 343 364	respiratory function.
+T4	HMM 407 441	intraperitoneal marker, gentamicin
+T5	HMM 576 610	postoperative respiratory function
+T6	HMM 622 650	amount of pain or discomfort
+T7	HMM 709 715	nausea

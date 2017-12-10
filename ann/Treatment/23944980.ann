@@ -1,0 +1,14 @@
+T1	Treatment 8 50	ultrasound-guided celiac plexus neurolysis
+T2	Treatment 150 170	bilateral paramedian
+T3	Treatment 175 224	unilateral paramedian needle-insertion technique.
+T4	Treatment 239 290	Percutaneous anterior abdominal ultrasound guidance
+T5	Treatment 569 619	ultrasound-guided celiac plexus neurolysis (USCPN)
+T6	Treatment 709 714	USCPN
+T7	Treatment 721 767	bilateral paramedian (double needle) technique
+T8	Treatment 773 821	unilateral paramedian (single needle) technique.
+T9	Treatment 983 990	ethanol
+T10	Treatment 1002 1013	bupivacaine
+T11	Treatment 1034 1046	unilaterally
+T12	Treatment 1063 1077	or bilaterally
+T13	Treatment 1765 1889	CONCLUSION Ultrasound-guided celiac plexus neurolysis using unilateral paramedian (single needle) needle-insertion technique
+T14	Treatment 1904 1972	with bilateral paramedian (double needle) needle-insertion technique

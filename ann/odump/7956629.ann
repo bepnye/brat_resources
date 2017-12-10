@@ -1,0 +1,12 @@
+T1	HMM 2 14	cost-benefit
+T2	HMM 383 396	cost-benefits
+T3	HMM 621 635	metabolic data
+T4	HMM 650 666	glycemic control
+T5	HMM 735 764	reduced glycemic fluctuations
+T6	HMM 857 881	mild hypoglycemic events
+T7	HMM 943 1025	Quality of life, judged by Diabetes Control and Complications Trial questionnaires
+T8	HMM 1059 1128	Direct costs, including pump acquisition, implantation, and follow-up
+T9	HMM 1218 1232	more effective
+T10	HMM 1260 1268	accepted
+T11	HMM 1279 1285	costly
+T12	HMM 1365 1381	glycemic control

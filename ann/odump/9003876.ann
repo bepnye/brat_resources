@@ -1,0 +1,8 @@
+T1	HMM 692 728	Spirometry, pulse and blood pressure
+T2	HMM 849 873	mean spirometric values.
+T3	HMM 905 924	mean peak flow (PF)
+T4	HMM 970 994	forced expiratory volume
+T5	HMM 1073 1095	changes in PF and FEV1
+T6	HMM 1308 1313	FEV1.
+T7	HMM 1337 1360	pulse or blood pressure
+T8	HMM 1457 1475	mean resting pulse

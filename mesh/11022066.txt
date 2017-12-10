@@ -1,0 +1,18 @@
+Aneurysm, Ruptured
+Brain
+Cerebral Angiography
+Cross-Over Studies
+Embolization, Therapeutic
+Follow-Up Studies
+Glasgow Outcome Scale
+Humans
+Intracranial Aneurysm
+Logistic Models
+Magnetic Resonance Imaging
+Neuropsychological Tests
+Odds Ratio
+Prospective Studies
+Recovery of Function
+Subarachnoid Hemorrhage
+Survival Analysis
+Treatment Outcome

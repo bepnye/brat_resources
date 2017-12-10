@@ -1,0 +1,9 @@
+T1	HMM 0 44	Enhancement of blood glucose lowering effect
+T2	HMM 664 684	Blood glucose levels
+T3	HMM 931 964	metabolic effect of glibenclamide
+T4	HMM 1127 1168	maximal metabolic effect of glibenclamide
+T5	HMM 1283 1322	total metabolic effect of glibenclamide
+T6	HMM 1464 1536	serum insulin levels, C-peptide levels, and serum glibenclamide profiles
+T7	HMM 1675 1696	hypoglycemic episodes
+T8	HMM 1859 1878	insulin sensitivity
+T9	HMM 1898 1928	increased risk of hypoglycemia

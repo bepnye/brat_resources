@@ -1,0 +1,6 @@
+T1	Treatment 28 64	minimally-invasive surgery plus rtPA
+T2	Treatment 582 661	minimally-invasive surgery plus recombinant tissue plasminogen activator (rtPA)
+T3	Treatment 773 840	surgical intervention plus rtPA and standard medical management for
+T4	Treatment 971 1023	stereotactic catheter placement and clot aspiration.
+T5	Treatment 1024 1042	Injections of rtPA
+T6	Treatment 1196 1210	sterile saline

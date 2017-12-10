@@ -1,0 +1,24 @@
+T1	Treatment 71 189	induction chemotherapy followed by either standard thoracic radiotherapy or hyperfractionated accelerated radiotherapy
+T2	Treatment 286 321	once-daily radiation therapy (qdRT)
+T3	Treatment 327 381	hyperfractionated accelerated radiation therapy (HART)
+T4	Treatment 402 425	induction chemotherapy.
+T5	Treatment 639 661	Induction chemotherapy
+T6	Treatment 689 700	carboplatin
+T7	Treatment 756 766	paclitaxel
+T8	Treatment 988 992	qdRT
+T9	Treatment 1009 1014	HART;
+T10	Treatment 1157 1161	qdRT
+T11	Treatment 1174 1178	HART
+T12	Treatment 1234 1238	HART
+T13	Treatment 1243 1247	qdRT
+T14	Treatment 1310 1314	HART
+T15	Treatment 1319 1323	qdRT
+T16	Treatment 1394 1398	HART
+T17	Treatment 1420 1424	qdRT
+T18	Treatment 1548 1552	HART
+T19	Treatment 1557 1561	qdRT
+T20	Treatment 1606 1610	HART
+T21	Treatment 1707 1711	HART
+T22	Treatment 1861 1883	induction chemotherapy
+T23	Treatment 1889 1917	carboplatin-paclitaxel, HART
+T24	Treatment 2126 2130	HART

@@ -1,0 +1,14 @@
+T1	HMM 27 82	speed and effectiveness of subgingival calculus removal
+T2	HMM 182 198	calculus removal
+T3	HMM 318 373	speed and effectiveness of subgingival calculus removal
+T4	HMM 783 893	time taken to reach the therapeutic endpoint of a clean, smooth root surface in a defined region on each tooth
+T5	HMM 1249 1280	mean percent remaining calculus
+T6	HMM 1517 1568	mean time in seconds to reach the clinical endpoint
+T7	HMM 1833 1850	"smooth" surfaces
+T8	HMM 1890 1916	"slight" surface roughness
+T9	HMM 1947 1967	"moderate" roughness
+T10	HMM 2005 2097	percent calculus remaining, surface roughness, or time spent among the 3 treating clinicians
+T11	HMM 2177 2203	percent calculus remaining
+T12	HMM 2284 2298	Root roughness
+T13	HMM 2410 2414	time
+T14	HMM 2455 2459	time

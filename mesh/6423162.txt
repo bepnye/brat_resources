@@ -1,0 +1,8 @@
+Adult
+Blood Flow Velocity
+Endoscopy
+Humans
+Intubation, Intratracheal
+Mucous Membrane
+Pressure
+Trachea

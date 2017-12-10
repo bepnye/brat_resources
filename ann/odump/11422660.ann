@@ -1,0 +1,5 @@
+T1	HMM 828 986	Insulin sensitivity (rate of glucose infusion per kg fat free body mass and minute), nicotine and free fatty acid (FFA) levels, pulse rate and blood pressure.
+T2	HMM 1100 1117	insulin resistant
+T3	HMM 1210 1228	insulin resistance
+T4	HMM 1401 1444	FFA levels, pulse rates and blood pressure.
+T5	HMM 1508 1526	insulin resistance

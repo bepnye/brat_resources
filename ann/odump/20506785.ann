@@ -1,0 +1,12 @@
+T1	HMM 152 228	safety, efficacy and also the maximum duration of effect of the pleural tent
+T2	HMM 688 710	incidences of air leak
+T3	HMM 950 975	mean duration of air leak
+T4	HMM 1019 1058	number of days of a chest tube duration
+T5	HMM 1096 1144	length of postoperative in-hospital stay in days
+T6	HMM 1186 1216	hospital stay cost per patient
+T7	HMM 1391 1438	occurrence and duration of prolonged air leaks.
+T8	HMM 1466 1487	duration of air leaks
+T9	HMM 1663 1672	air leaks
+T10	HMM 1771 1796	simple and safe procedure
+T11	HMM 1814 1835	duration of air leaks
+T12	HMM 1844 1864	hospital stay costs.

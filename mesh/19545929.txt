@@ -1,0 +1,21 @@
+Adult
+Aged
+Alopecia
+Antineoplastic Combined Chemotherapy Protocols
+Carcinoma, Non-Small-Cell Lung
+Deoxycytidine
+Disease Progression
+Disease-Free Survival
+Female
+Follow-Up Studies
+Glutamates
+Guanine
+Humans
+Lung Neoplasms
+Male
+Middle Aged
+Neoplasm Staging
+Neutropenia
+Paclitaxel
+Peripheral Nervous System Diseases
+Survival Analysis

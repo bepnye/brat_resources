@@ -1,0 +1,10 @@
+T1	HMM 168 187	cognitive processes
+T2	HMM 640 785	tests of sustained attention, verbal learning, hand-eye coordination, and spatial memory assessed before, during, and after the 8-week treatment.
+T3	HMM 844 850	ANOVA.
+T4	HMM 1078 1126	cancellation task (number of correct detections)
+T5	HMM 1133 1172	verbal learning task (word recognition)
+T6	HMM 1254 1275	Equivocal improvement
+T7	HMM 1295 1315	spatial memory task.
+T8	HMM 1390 1429	Purdue Pegboard (hand-eye coordination)
+T9	HMM 1442 1481	Analog Classroom Task (timed math test)
+T10	HMM 1617 1639	cognitive performance.

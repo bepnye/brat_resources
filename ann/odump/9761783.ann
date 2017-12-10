@@ -1,0 +1,9 @@
+T1	HMM 1260 1293	8-oxo-dG levels in lymphocyte DNA
+T2	HMM 1349 1376	mean 8-oxo-dG concentration
+T3	HMM 1460 1468	8-oxo-dG
+T4	HMM 1568 1588	Oxidative DNA damage
+T5	HMM 1684 1720	mean baseline levels of antioxidants
+T6	HMM 1945 1987	premature coronary heart disease mortality
+T7	HMM 2087 2125	coronary heart disease mortality rates
+T8	HMM 2230 2262	significant positive correlation
+T9	HMM 2289 2303	stomach cancer

@@ -1,0 +1,7 @@
+T1	HMM 0 38	Total and Partial Prevalence of Cancer
+T2	HMM 211 228	cancer prevalence
+T3	HMM 462 482	prevalence of cancer
+T4	HMM 823 851	Total and partial prevalence
+T5	HMM 1023 1060	One-yr, 2-3 yr, and 4-5 yr prevalence
+T6	HMM 1269 1299	5-yr prevalence of all cancers
+T7	HMM 1464 1481	cancer prevalence

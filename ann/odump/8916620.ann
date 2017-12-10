@@ -1,0 +1,4 @@
+T1	HMM 668 678	continuous
+T2	HMM 682 698	binary outcomes.
+T3	HMM 733 743	consistent
+T4	HMM 748 774	robust variance estimates.

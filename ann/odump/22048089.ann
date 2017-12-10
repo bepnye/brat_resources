@@ -1,0 +1,11 @@
+T1	HMM 260 298	functional and quality-of-life indices
+T2	HMM 303 328	rates of revision surgery
+T3	HMM 580 622	Western Ontario Rotator Cuff (WORC) index.
+T4	HMM 663 756	American Shoulder and Elbow Surgeons (ASES) shoulder assessment form and a count of revisions
+T5	HMM 911 931	WORC and ASES scores
+T6	HMM 1021 1040	WORC or ASES scores
+T7	HMM 1350 1356	repair
+T8	HMM 1425 1443	additional surgery
+T9	HMM 1485 1535	number of patients who required additional surgery
+T10	HMM 1790 1828	functional and quality-of-life indices
+T11	HMM 1905 1928	higher reoperation rate

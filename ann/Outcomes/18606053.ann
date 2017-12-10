@@ -1,0 +1,9 @@
+T1	Outcomes 915 1020	Change in the clinical symptom score (consisting of the subscores redness, swelling, pain, and secretion)
+T2	Outcomes 1032 1075	visual analogue scale (VAS) rating for pain
+T3	Outcomes 1123 1155	patient's assessment of efficacy
+T4	Outcomes 1191 1228	frequency and type of adverse events.
+T5	Outcomes 1284 1292	swelling
+T6	Outcomes 1357 1365	efficacy
+T7	Outcomes 1478 1500	clinical symptom score
+T8	Outcomes 1586 1606	severe symptom score
+T9	Outcomes 1843 1865	adverse drug reactions

@@ -1,0 +1,10 @@
+T1	HMM 11 24	wound healing
+T2	HMM 165 190	efficacy and tolerability
+T3	HMM 598 644	nasal-breathing-resistance according to scores
+T4	HMM 1029 1055	clinically proven efficacy
+T5	HMM 1078 1090	tolerability
+T6	HMM 1158 1168	compliance
+T7	HMM 1204 1227	improvement of symptoms
+T8	HMM 1282 1290	efficacy
+T9	HMM 1332 1344	tolerability
+T10	HMM 1544 1584	enlargement and improvement of effective

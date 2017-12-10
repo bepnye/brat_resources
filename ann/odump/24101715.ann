@@ -1,0 +1,7 @@
+T1	HMM 18 25	anxiety
+T2	HMM 573 592	overall functioning
+T3	HMM 600 641	severity of the primary anxiety diagnosis
+T4	HMM 837 867	reduction in anxiety symptoms.
+T5	HMM 868 888	Fidelity of delivery
+T6	HMM 914 918	high
+T7	HMM 924 934	attendance

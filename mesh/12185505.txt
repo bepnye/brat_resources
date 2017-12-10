@@ -1,0 +1,18 @@
+Adult
+Antineoplastic Combined Chemotherapy Protocols
+Bleomycin
+Combined Modality Therapy
+Cyclophosphamide
+Dose-Response Relationship, Drug
+Epirubicin
+Female
+Humans
+Lymphoma, B-Cell
+Male
+Mediastinal Neoplasms
+Middle Aged
+Prednisone
+Radiotherapy, Adjuvant
+Survival Analysis
+Treatment Outcome
+Vincristine

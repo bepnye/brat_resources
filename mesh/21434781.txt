@@ -1,0 +1,17 @@
+Absorptiometry, Photon
+Adult
+Aged
+Arthroplasty, Replacement, Knee
+Bone Screws
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Osteoarthritis, Knee
+Prospective Studies
+Prosthesis Design
+Prosthesis Failure
+Tibia
+Titanium
+Treatment Outcome

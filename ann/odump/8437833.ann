@@ -1,0 +1,6 @@
+T1	HMM 396 412	adverse effects.
+T2	HMM 563 571	response
+T3	HMM 1243 1252	tolerated
+T4	HMM 1328 1364	Apneic episodes requiring intubation
+T5	HMM 1472 1483	retreatment
+T6	HMM 1638 1679	progressed to stage 5 retinal detachment.

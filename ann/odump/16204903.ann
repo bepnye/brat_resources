@@ -1,0 +1,6 @@
+T1	HMM 548 571	Healing of anal fissure
+T2	HMM 626 662	Rates of complete healing of fissure
+T3	HMM 768 836	Mean (SD) time taken for complete healing with combination treatment
+T4	HMM 992 1012	Rates of pain relief
+T5	HMM 1047 1067	Stoppage of bleeding
+T6	HMM 1158 1189	systemic or local side effects.

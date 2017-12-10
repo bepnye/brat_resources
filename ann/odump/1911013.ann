@@ -1,0 +1,8 @@
+T1	HMM 25 44	cerebral blood flow
+T2	HMM 49 67	oxygen consumption
+T3	HMM 113 138	Cerebral blood flow (CBF)
+T4	HMM 143 185	cerebral metabolic rate for oxygen (CMRO2)
+T5	HMM 890 924	Plasma concentrations of midazolam
+T6	HMM 1025 1073	plasma concentration of midazolam, CBF or CMRO2.
+T7	HMM 1089 1105	no effect on CBF
+T8	HMM 1110 1116	CMRO2.

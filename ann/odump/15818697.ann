@@ -1,0 +1,11 @@
+T1	HMM 12 32	radiographic benefit
+T2	HMM 289 312	assess the relationship
+T3	HMM 486 545	clinical variables and measures of radiographic progression
+T4	HMM 834 890	improvement by American College of Rheumatology criteria
+T5	HMM 1043 1082	28-joint Disease Activity Score (DAS28)
+T6	HMM 1096 1114	tender joint count
+T7	HMM 1128 1147	swollen joint count
+T8	HMM 1165 1195	C-reactive protein (CRP) level
+T9	HMM 1368 1392	radiographic progression
+T10	HMM 1682 1753	ACR response status (mean change in modified Sharp/van der Heijde score
+T11	HMM 2404 2424	clinical improvement

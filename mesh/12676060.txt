@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Analysis of Variance
+Audiometry, Pure-Tone
+Auditory Pathways
+Autistic Disorder
+Confidence Intervals
+Female
+Humans
+Male
+Matched-Pair Analysis
+Mental Processes
+Pitch Discrimination
+Pitch Perception
+ROC Curve
+Random Allocation
+Sensory Thresholds

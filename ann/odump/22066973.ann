@@ -1,0 +1,6 @@
+T1	HMM 555 758	Hemodynamics, rate of cesarean delivery, sensory block level, Bromage motor scale scores, instrument-assisted delivery, oxytocin use, visual analog scale (VAS) scores, Apgar scores, umbilical cord artery
+T2	HMM 763 906	analysis, and maternal side-effects including nausea, vomiting, pruritus, urinary retention, shivering, hypotension, and respiratory depression
+T3	HMM 992 1225	maternal hemodynamics, neonatal heart rate, VAS scores, rate of cesarean delivery, sensory block level, Bromage motor scale scores, instrument-assisted delivery, oxytocin use, hypotension, nausea, vomiting, and respiratory depression
+T4	HMM 1255 1297	pruritus, shivering, and urinary retention
+T5	HMM 1412 1431	Umbilical artery pH
+T6	HMM 1559 1630	Birth-weight, umbilical artery PO(2) and base deficit, and Apgar scores

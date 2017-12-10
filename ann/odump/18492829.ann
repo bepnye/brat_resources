@@ -1,0 +1,12 @@
+T1	HMM 816 831	gene expression
+T2	HMM 921 990	expression of genes related to oxidative stress and immune activation
+T3	HMM 1014 1069	expression of genes related to macronutrient metabolism
+T4	HMM 1074 1104	cell proliferation in the gut.
+T5	HMM 1149 1190	intestinal expression (120-124%) of genes
+T6	HMM 1230 1249	removal of oxidants
+T7	HMM 1275 1294	expression of genes
+T8	HMM 1308 1347	oxidative stress and immune activation.
+T9	HMM 1395 1432	intestinal oxidative-defense capacity
+T10	HMM 1503 1518	jejunal atrophy
+T11	HMM 1533 1555	small intestine growth
+T12	HMM 1567 1583	body weight gain

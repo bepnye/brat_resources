@@ -1,0 +1,16 @@
+T1	HMM 75 83	vaccines
+T2	HMM 297 311	Immunogenicity
+T3	HMM 685 714	local and systemic reactions.
+T4	HMM 715 730	Local reactions
+T5	HMM 739 759	swelling and redness
+T6	HMM 898 903	Fever
+T7	HMM 1068 1096	Geometric mean titres (GMTs)
+T8	HMM 1110 1115	ELISA
+T9	HMM 1120 1177	pertussis toxin (PT) and filamentous haemagglutinin (FHA)
+T10	HMM 1323 1364	GMTs of tetanus and diphtheria antitoxins
+T11	HMM 1453 1463	GMTs to PT
+T12	HMM 1625 1636	GMTs to FHA
+T13	HMM 1853 1864	immunogenic
+T14	HMM 1871 1904	less local and systemic reactions
+T15	HMM 1966 1981	antibody titres
+T16	HMM 2078 2109	anti-PT and anti-FHA antibodies

@@ -1,0 +1,6 @@
+T1	HMM 547 572	cerebral blood flow (CBF)
+T2	HMM 865 868	CBF
+T3	HMM 906 931	lean and overweight/obese
+T4	HMM 1200 1229	insulin-induced CBF reduction
+T5	HMM 1319 1369	peripheral insulin sensitivity and eating behavior
+T6	HMM 1489 1511	wanting of sweet foods

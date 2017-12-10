@@ -1,0 +1,19 @@
+T1	Treatment 0 74	Piperacillin/tazobactam plus tobramycin versus ceftazidime plus tobramycin
+T2	Treatment 230 257	piperacillin and tazobactam
+T3	Treatment 463 474	ceftazidime
+T4	Treatment 501 511	tobramycin
+T5	Treatment 551 563	piperacillin
+T6	Treatment 578 588	tazobactam
+T7	Treatment 623 633	tobramycin
+T8	Treatment 670 680	Vancomycin
+T9	Treatment 731 742	ceftazidime
+T10	Treatment 819 842	piperacillin/tazobactam
+T11	Treatment 1127 1148	antibacterial therapy
+T12	Treatment 1266 1289	piperacillin/tazobactam
+T13	Treatment 1326 1337	ceftazidime
+T14	Treatment 1489 1513	piperacillin/ tazobactam
+T15	Treatment 1545 1556	ceftazidime
+T16	Treatment 1603 1615	glycopeptide
+T17	Treatment 1630 1653	piperacillin/tazobactam
+T18	Treatment 1757 1780	piperacillin/tazobactam
+T19	Treatment 1911 1942	empiric glycopeptide antibiotic

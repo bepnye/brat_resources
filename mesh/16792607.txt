@@ -1,0 +1,14 @@
+Adult
+Anesthesia Recovery Period
+Anesthesia, Epidural
+Anesthesia, Obstetrical
+Anesthesia, Spinal
+Cesarean Section
+Female
+Humans
+Hypotension
+Intraoperative Complications
+Needles
+Paresthesia
+Postoperative Nausea and Vomiting
+Pregnancy

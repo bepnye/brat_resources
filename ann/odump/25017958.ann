@@ -1,0 +1,9 @@
+T1	HMM 674 785	pain score (VAS), hematoma/seroma, urinary retention, wound infection incidence, and duration of hospital stay.
+T2	HMM 794 798	Pain
+T3	HMM 903 921	postoperative pain
+T4	HMM 1009 1017	hematoma
+T5	HMM 1063 1069	seroma
+T6	HMM 1117 1126	infection
+T7	HMM 1235 1263	postoperative complications.
+T8	HMM 1278 1299	mean of hospital stay
+T9	HMM 1692 1702	activities

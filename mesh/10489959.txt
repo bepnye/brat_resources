@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Aged
+Blood Glucose
+Blood Specimen Collection
+England
+Female
+Fingers
+Humans
+Male
+Middle Aged
+Pain Measurement
+Phlebotomy
+Predictive Value of Tests
+Thumb

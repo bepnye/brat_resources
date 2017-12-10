@@ -1,0 +1,6 @@
+T1	HMM 593 620	prothrombin time (PT) ratio
+T2	HMM 751 766	stable PT ratio
+T3	HMM 957 995	number of days (time to stabilization)
+T4	HMM 1097 1135	stable PT ratio (stabilization dosage)
+T5	HMM 1202 1217	stable PT ratio
+T6	HMM 1326 1353	mean times to stabilization

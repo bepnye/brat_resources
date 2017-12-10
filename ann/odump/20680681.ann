@@ -1,0 +1,8 @@
+T1	HMM 551 566	VEGF and VEGFR2
+T2	HMM 904 930	changes in VEGF expression
+T3	HMM 1028 1043	VEGF expression
+T4	HMM 1075 1088	baseline VEGF
+T5	HMM 1247 1264	VEGFR2 expression
+T6	HMM 1409 1426	VEGFR2 expression
+T7	HMM 1461 1474	response rate
+T8	HMM 1541 1581	suppression of a key angiogenic pathway.

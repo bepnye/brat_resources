@@ -1,0 +1,10 @@
+T1	HMM 579 685	Intraoperative bleeding, operative time, postoperative pain, complication rates, and return to normal diet
+T2	HMM 751 774	intraoperative bleeding
+T3	HMM 782 795	mean bleeding
+T4	HMM 857 876	mean operative time
+T5	HMM 890 959	Mean postoperative pain score and mean time for return to normal diet
+T6	HMM 1003 1021	Primary hemorrhage
+T7	HMM 1062 1096	Secondary postoperative hemorrhage
+T8	HMM 1243 1253	hemostasis
+T9	HMM 1261 1279	postoperative pain
+T10	HMM 1285 1313	quick return to normal diet.

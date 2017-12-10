@@ -1,0 +1,11 @@
+T1	HMM 0 51	Longterm safety, efficacy, and radiographic outcome
+T2	HMM 146 192	safety, efficacy, and radiographic progression
+T3	HMM 525 531	Safety
+T4	HMM 609 646	Efficacy and radiographic progression
+T5	HMM 667 742	American College of Rheumatology response criteria, disease activity scores
+T6	HMM 748 771	Total Sharp Score (TSS)
+T7	HMM 781 835	Rates of serious adverse events and serious infections
+T8	HMM 973 981	Efficacy
+T9	HMM 1170 1194	radiographic progression
+T10	HMM 1453 1509	efficacy and decreased rate of radiographic progression.
+T11	HMM 1514 1546	rate of radiographic progression

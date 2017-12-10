@@ -1,0 +1,5 @@
+T1	HMM 0 24	Safety and effectiveness
+T2	HMM 1222 1238	median follow-up
+T3	HMM 1368 1400	Median progression-free survival
+T4	HMM 1456 1479	median overall survival
+T5	HMM 1580 1631	Incidences of bevacizumab-associated adverse events

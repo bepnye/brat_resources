@@ -1,0 +1,10 @@
+T1	HMM 1154 1188	number of grafted coronary vessels
+T2	HMM 1223 1248	aortic crossclamping time
+T3	HMM 1309 1325	ventilation time
+T4	HMM 1384 1408	intensive care unit stay
+T5	HMM 1470 1488	hospital mortality
+T6	HMM 1602 1635	early postoperative complications
+T7	HMM 1665 1690	cerebrovascular accidents
+T8	HMM 1873 1888	graft occlusion
+T9	HMM 1931 1948	angina recurrence
+T10	HMM 2091 2129	graft occlusion and angina recurrence.

@@ -1,0 +1,18 @@
+Adult
+Azathioprine
+Cyclophosphamide
+Disease Progression
+Dose-Response Relationship, Drug
+Erythrocytes
+Female
+Glomerulonephritis, IGA
+Glucocorticoids
+Humans
+Immunosuppressive Agents
+Kidney
+Male
+Prednisolone
+Prospective Studies
+Proteinuria
+Survival Analysis
+Urine

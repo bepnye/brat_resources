@@ -1,0 +1,12 @@
+T1	HMM 218 243	decreasing blood pressure
+T2	HMM 308 348	ambulatory blood pressure (ABP) response
+T3	HMM 462 477	characteristics
+T4	HMM 494 513	treatment efficacy.
+T5	HMM 794 806	ABP response
+T6	HMM 920 959	daytime systolic/diastolic ABP response
+T7	HMM 1104 1112	response
+T8	HMM 1219 1257	night-time systolic/diastolic response
+T9	HMM 1518 1573	gender is an independent predictor of the ABP responses
+T10	HMM 1646 1662	responded better
+T11	HMM 1683 1703	Men responded better
+T12	HMM 1727 1752	women responded similarly

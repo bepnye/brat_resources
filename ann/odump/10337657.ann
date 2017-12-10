@@ -1,0 +1,11 @@
+T1	HMM 37 100	pathologic stage and resection limit status of prostate cancer.
+T2	HMM 739 806	effect of NHT on pathologic stage of PCa and resection limit status
+T3	HMM 1265 1309	pathologic stage and resection limit status.
+T4	HMM 1743 1763	pathological stage B
+T5	HMM 1908 1951	percentage of cancers with negative margins
+T6	HMM 2150 2198	proportion of patients with pathological stage B
+T7	HMM 2231 2247	negative margins
+T8	HMM 2351 2392	pathological stage B and negative margins
+T9	HMM 2813 2837	pathological downstaging
+T10	HMM 2868 2905	positive margins in the RP specimens.
+T11	HMM 3023 3041	beneficial effects

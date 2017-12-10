@@ -1,0 +1,8 @@
+T1	HMM 88 122	spring seasonal allergic rhinitis.
+T2	HMM 354 381	seasonal allergic rhinitis.
+T3	HMM 896 904	symptoms
+T4	HMM 1172 1200	daytime nasal symptoms score
+T5	HMM 1450 1598	nighttime symptoms and daytime eye symptoms, patient and physician global evaluations of allergic rhinitis, and rhinoconjunctivitis quality of life.
+T6	HMM 1780 1795	well tolerated.
+T7	HMM 1870 1886	symptom severity
+T8	HMM 1898 1924	quality-of-life parameters

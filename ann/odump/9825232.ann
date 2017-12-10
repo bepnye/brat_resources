@@ -1,0 +1,4 @@
+T1	HMM 151 189	blood pressure and vascular resistance
+T2	HMM 301 320	hemodynamic effects
+T3	HMM 974 1053	(aortic integral, pulmonary integral, end-systolic and end-diastolic diameters)
+T4	HMM 1058 1069	heart rate;

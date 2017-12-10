@@ -1,0 +1,5 @@
+T1	HMM 781 789	appetite
+T2	HMM 1005 1031	no significant differences
+T3	HMM 1039 1114	number of episodes of vomiting, the severity of nausea or clinical efficacy
+T4	HMM 1442 1462	efficacy in patients
+T5	HMM 1491 1509	slightly inferior.

@@ -1,0 +1,8 @@
+T1	HMM 54 78	induction of anaesthesia
+T2	HMM 161 185	induction of anaesthesia
+T3	HMM 281 302	loss of consciousness
+T4	HMM 317 357	loss of verbal contact with the patient)
+T5	HMM 381 402	duration of induction
+T6	HMM 507 522	total dose used
+T7	HMM 642 682	systolic and diastolic arterial pressure
+T8	HMM 810 829	incidence of apnoea

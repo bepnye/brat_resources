@@ -1,0 +1,15 @@
+T1	Outcomes 104 195	efficacy, safety, predictability, stability, and changes in higher-order aberrations (HOAs)
+T2	Outcomes 200 225	contrast sensitivity (CS)
+T3	Outcomes 745 802	Efficacy, safety, predictability, stability, HOAs, and CS
+T4	Outcomes 879 1062	Uncorrected visual acuity (UCVA), best-corrected visual acuity (BCVA), manifest refraction, CS by means of the Functional Acuity Contrast Test, and HOAs by means of Zywave aberrometry
+T5	Outcomes 1162 1166	UCVA
+T6	Outcomes 1208 1224	Efficacy indexes
+T7	Outcomes 1285 1297	No eyes lost
+T8	Outcomes 1314 1319	BCVA;
+T9	Outcomes 1345 1351	gained
+T10	Outcomes 1370 1376	gained
+T11	Outcomes 1592 1618	HOA root mean square (RMS)
+T12	Outcomes 1710 1730	reduction in HOA RMS
+T13	Outcomes 1784 1804	Contrast sensitivity
+T14	Outcomes 1934 1979	reduction of CS as a function of HOA increase
+T15	Outcomes 2066 2083	spatial frequency

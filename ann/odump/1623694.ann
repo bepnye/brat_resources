@@ -1,0 +1,11 @@
+T1	HMM 0 20	Differential effects
+T2	HMM 313 401	Total peripheral resistance (TPR), heart rate-corrected electromechanical systole (QS2c)
+T3	HMM 407 432	preejection period (PEPc)
+T4	HMM 515 518	TRP
+T5	HMM 579 589	heart rate
+T6	HMM 594 608	cardiac output
+T7	HMM 680 684	QS2c
+T8	HMM 722 742	prolongation of QS2c
+T9	HMM 784 810	negative inotropic effect.
+T10	HMM 832 852	vasodilatory effects
+T11	HMM 979 1005	negative inotropic effects

@@ -1,0 +1,11 @@
+T1	HMM 0 8	Efficacy
+T2	HMM 26 41	quality of life
+T3	HMM 264 296	deterioration of quality of life
+T4	HMM 699 714	Quality of life
+T5	HMM 737 805	'Profile of Mood States' scale and the 'Everyday Life' questionnaire
+T6	HMM 911 926	quality of life
+T7	HMM 1109 1150	modalities depression, fatigue, and vigor
+T8	HMM 1246 1335	lower deterioration of depression, anger, mind function, everyday life, and zest for life
+T9	HMM 1390 1408	beneficial effects
+T10	HMM 1533 1580	deterioration of depression, fatigue, and vigor
+T11	HMM 1618 1633	quality of life

@@ -1,0 +1,28 @@
+Adult
+Anesthesia, Dental
+Anesthesia, Local
+Anesthetics, Local
+Arterial Pressure
+Bicuspid
+Blood Pressure
+Carticaine
+Dental Pulp
+Dose-Response Relationship, Drug
+Drug Delivery Systems
+Electrocardiography
+Epinephrine
+Female
+Follow-Up Studies
+Heart Rate
+Humans
+Male
+Mandible
+Monitoring, Physiologic
+Pain Threshold
+Periodontal Ligament
+Safety
+Single-Blind Method
+Therapy, Computer-Assisted
+Time Factors
+Vasoconstrictor Agents
+Young Adult

@@ -1,0 +1,15 @@
+Adult
+Analysis of Variance
+Blood Glucose
+C-Peptide
+Double-Blind Method
+Female
+Humans
+Hypertension
+Insulin
+Male
+Middle Aged
+Nifedipine
+Nitrendipine
+Obesity
+Time Factors

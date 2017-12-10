@@ -1,0 +1,20 @@
+Adult
+Analysis of Variance
+Blood Glucose
+Dietary Carbohydrates
+Dietary Proteins
+Dietary Supplements
+Double-Blind Method
+Energy Metabolism
+Exercise
+Fatigue
+Heart Rate
+Humans
+Insulin
+Lactic Acid
+Lipid Metabolism
+Male
+Oxygen
+Physical Endurance
+Respiration
+Time Factors

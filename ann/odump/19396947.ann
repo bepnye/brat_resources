@@ -1,0 +1,10 @@
+T1	HMM 37 76	oxidative stress and antioxidant status
+T2	HMM 316 351	metabolic state of oxidative stress
+T3	HMM 677 690	blood samples
+T4	HMM 773 899	levels of malondialdehyde (MDA), nitrite+nitrate (NOx), and the activity of myeloperoxidase (MPO), superoxide dismutase (SOD).
+T5	HMM 1086 1119	activity of MPO and levels of MDA
+T6	HMM 1139 1175	lower SOD activity and levels of NOx
+T7	HMM 1211 1238	MPO activity and MDA levels
+T8	HMM 1267 1294	SOD activity and NOx levels
+T9	HMM 1458 1491	serum MPO activity, levels of MDA
+T10	HMM 1503 1533	serum SOD activity, NOx levels

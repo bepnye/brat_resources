@@ -1,0 +1,8 @@
+T1	HMM 76 85	analgesia
+T2	HMM 193 211	epidural analgesia
+T3	HMM 471 498	Median onset of pain relief
+T4	HMM 683 706	duration of pain relief
+T5	HMM 761 780	achieve pain relief
+T6	HMM 893 923	median duration of pain relief
+T7	HMM 1077 1097	quality of analgesia
+T8	HMM 1188 1274	sensory block, percentage of patients with motor block or incidence of adverse events.

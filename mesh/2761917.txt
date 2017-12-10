@@ -1,0 +1,21 @@
+Adolescent
+Adult
+Anorexia
+Anus Neoplasms
+Condylomata Acuminata
+Drug Administration Schedule
+Electrocoagulation
+Fatigue
+Female
+Genital Neoplasms, Female
+Headache
+Humans
+Injections, Intramuscular
+Injections, Subcutaneous
+Interferon Type I
+Interferon-alpha
+Middle Aged
+Neoplasm Recurrence, Local
+Neoplasms, Multiple Primary
+Random Allocation
+Recombinant Proteins

@@ -1,0 +1,4 @@
+T1	HMM 554 578	Blood pressure reduction
+T2	HMM 726 780	levels of serum bilirubin, uric acid and triglycerides
+T3	HMM 879 902	Serum cholesterol level
+T4	HMM 1015 1044	mild to moderate hypertension

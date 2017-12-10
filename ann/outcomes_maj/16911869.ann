@@ -1,0 +1,12 @@
+T1	Outcomes 834 853	proarrhythmic event
+T2	Outcomes 919 1009	postbaseline ventricular tachycardia events, postbaseline run of ventricular ectopic beats
+T3	Outcomes 1026 1072	relevant symptoms (e.g. hypotension, syncope),
+T4	Outcomes 1079 1126	episode of ventricular flutter or fibrillation.
+T5	Outcomes 1324 1334	heart rate
+T6	Outcomes 1365 1411	number and rate of ventricular premature beats
+T7	Outcomes 1489 1519	ventricular tachycardia events
+T8	Outcomes 1601 1633	supraventricular premature beats
+T9	Outcomes 1710 1782	Vital signs and electrocardiogram data, including corrected QT intervals
+T10	Outcomes 1850 1882	overall adverse event experience
+T11	Outcomes 1991 2025	infections and respiratory events,
+T12	Outcomes 2086 2108	cardiac adverse events

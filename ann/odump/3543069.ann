@@ -1,0 +1,5 @@
+T1	HMM 753 784	food refusal, and stomach upset
+T2	HMM 830 846	untoward effects
+T3	HMM 892 961	Irritability, agitation, and crying along with continued food refusal
+T4	HMM 1000 1011	body weight
+T5	HMM 1054 1073	rebound weight gain

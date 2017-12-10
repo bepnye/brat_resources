@@ -1,0 +1,15 @@
+T1	HMM 31 80	haemodynamic state and cerebral oxygen saturation
+T2	HMM 199 264	hypotension, risk of cerebral hypoperfusion, and cerebral injury.
+T3	HMM 353 371	cerebral perfusion
+T4	HMM 377 399	postoperative recovery
+T5	HMM 637 779	mean arterial pressure, cerebral oxygen saturation, middle cerebral artery velocity, and cardiac function using transthoracic echocardiography
+T6	HMM 805 828	neurocognitive function
+T7	HMM 878 914	mean (SD) cerebral oxygen saturation
+T8	HMM 1027 1063	level of cerebral saturation upright
+T9	HMM 1177 1214	Middle cerebral artery blood velocity
+T10	HMM 1266 1277	hypotension
+T11	HMM 1350 1378	systemic vascular resistance
+T12	HMM 1427 1442	cardiac output.
+T13	HMM 1446 1486	postoperative neurocognitive dysfunction
+T14	HMM 1573 1594	cerebral desaturation
+T15	HMM 1630 1656	Cerebral oxygen saturation

@@ -1,0 +1,14 @@
+T1	HMM 533 631	Operating and anesthesia times, postoperative pain, complications, hospital stay, functional index
+T2	HMM 658 695	sick leave, and time to full recovery
+T3	HMM 732 746	operating time
+T4	HMM 751 761	overweight
+T5	HMM 906 920	operating time
+T6	HMM 1013 1043	operating and anesthesia times
+T7	HMM 1143 1161	Postoperative pain
+T8	HMM 1283 1301	Postoperative pain
+T9	HMM 1636 1649	Hospital stay
+T10	HMM 1822 1832	Sick leave
+T11	HMM 2089 2110	Time to full recovery
+T12	HMM 2318 2336	postoperative pain
+T13	HMM 2350 2372	postoperative recovery
+T14	HMM 2480 2525	operating time, hospital stay, and sick leave

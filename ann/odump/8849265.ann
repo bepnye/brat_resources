@@ -1,0 +1,12 @@
+T1	HMM 10 65	recombinant human granulocyte colony-stimulating factor
+T2	HMM 273 293	serum rhG-CSF levels
+T3	HMM 369 389	serum rhG-CSF levels
+T4	HMM 527 545	serum G-CSF levels
+T5	HMM 550 579	circulating neutrophil counts
+T6	HMM 892 910	Serum G-CSF levels
+T7	HMM 958 976	Serum G-CSF levels
+T8	HMM 1021 1044	endogenous G-CSF levels
+T9	HMM 1200 1218	serum G-CSF levels
+T10	HMM 1361 1385	concentration-time curve
+T11	HMM 1389 1396	rhG-CSF
+T12	HMM 1519 1537	serum G-CSF levels

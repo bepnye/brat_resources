@@ -1,0 +1,6 @@
+T1	HMM 204 217	sodium burden
+T2	HMM 713 731	ionic mass balance
+T3	HMM 925 950	Interdialytic weight gain
+T4	HMM 1019 1054	Predialysis systolic blood pressure
+T5	HMM 1116 1154	reduction in convective sodium removal
+T6	HMM 1186 1210	diffusive sodium removal

@@ -1,0 +1,13 @@
+Acute Disease
+Animals
+Child
+Child, Preschool
+Dose-Response Relationship, Drug
+Drug Resistance
+Female
+Humans
+Malaria, Falciparum
+Male
+Mefloquine
+Plasmodium falciparum
+Treatment Outcome

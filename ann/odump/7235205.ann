@@ -1,0 +1,7 @@
+T1	HMM 0 27	Theophylline concentrations
+T2	HMM 127 154	Theophylline concentrations
+T3	HMM 414 453	ratio of serum to saliva concentrations
+T4	HMM 681 719	mean serum theophylline concentrations
+T5	HMM 844 859	peak variation.
+T6	HMM 915 927	Side effects
+T7	HMM 1074 1107	serum theophylline concentrations

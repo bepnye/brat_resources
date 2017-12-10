@@ -1,0 +1,8 @@
+T1	HMM 831 845	operation time
+T2	HMM 851 904	incidence rate of complications and the hospital stay
+T3	HMM 1017 1044	postoperative complications
+T4	HMM 1052 1101	aspiration pneumonia and surgical site infection.
+T5	HMM 1106 1120	operation time
+T6	HMM 1258 1284	postoperative hospital day
+T7	HMM 1380 1445	operation time, complication rate and postoperative hospital stay
+T8	HMM 1541 1556	safe, tolerable

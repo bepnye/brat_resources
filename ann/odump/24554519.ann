@@ -1,0 +1,9 @@
+T1	HMM 90 96	stress
+T2	HMM 101 108	anxiety
+T3	HMM 623 705	mood, anxiety, stress, and symptoms associated with post-traumatic stress disorder
+T4	HMM 945 970	psychological functioning
+T5	HMM 1040 1058	long-term outcomes
+T6	HMM 1212 1237	psychological functioning
+T7	HMM 1347 1387	post-traumatic stress disorder symptoms.
+T8	HMM 1584 1592	outcomes
+T9	HMM 1647 1659	acute stress

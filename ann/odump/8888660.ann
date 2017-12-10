@@ -1,0 +1,13 @@
+T1	HMM 0 6	Effect
+T2	HMM 41 60	cardiac arrhythmias
+T3	HMM 211 234	ventricular arrhythmias
+T4	HMM 440 511	Clinical, biochemical, and 48-hour ambulatory electrocardiographic data
+T5	HMM 554 588	Signal-averaged electrocardiograms
+T6	HMM 633 668	Average LV posterior wall thickness
+T7	HMM 763 791	Systolic blood pressure (BP)
+T8	HMM 952 967	Serum potassium
+T9	HMM 1105 1139	ventricular premature contractions
+T10	HMM 1245 1268	ventricular tachycardia
+T11	HMM 1318 1353	signal-averaged electrocardiography
+T12	HMM 1514 1537	ventricular arrhythmias
+T13	HMM 1541 1588	signal-averaged electrocardiographic variables.

@@ -1,0 +1,25 @@
+Adolescent
+Adult
+Aged
+Blood Pressure
+Child
+Dose-Response Relationship, Drug
+Double-Blind Method
+Dyspnea
+Endothelin Receptor Antagonists
+Endpoint Determination
+Female
+Humans
+Hypertension, Pulmonary
+Intention to Treat Analysis
+Isoxazoles
+Kaplan-Meier Estimate
+Liver Function Tests
+Male
+Middle Aged
+Pulmonary Wedge Pressure
+Sample Size
+Thiophenes
+Treatment Outcome
+Vascular Resistance
+Young Adult

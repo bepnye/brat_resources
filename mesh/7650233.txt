@@ -1,0 +1,14 @@
+Adult
+Antibodies, Bacterial
+Diphtheria
+Diphtheria Toxoid
+Diphtheria-Tetanus Vaccine
+Female
+Humans
+Immunoglobulins
+Injections, Intramuscular
+Male
+Tetanus
+Tetanus Antitoxin
+Tetanus Toxoid
+Vaccines, Combined

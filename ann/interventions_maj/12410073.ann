@@ -1,0 +1,17 @@
+T1	Intervention 28 35	placebo
+T2	Intervention 56 63	porcine
+T3	Intervention 71 89	synthetic secretin
+T4	Intervention 177 185	biologic
+T5	Intervention 190 216	synthetic porcine secretin
+T6	Intervention 220 227	placebo
+T7	Intervention 355 379	psychotropic medications
+T8	Intervention 571 588	biologic secretin
+T9	Intervention 600 618	synthetic secretin
+T10	Intervention 640 648	placebo.
+T11	Intervention 1086 1095	secretin.
+T12	Intervention 1199 1206	placebo
+T13	Intervention 1284 1291	placebo
+T14	Intervention 1296 1314	synthetic secretin
+T15	Intervention 1359 1367	biologic
+T16	Intervention 1371 1389	synthetic secretin
+T17	Intervention 1431 1438	placebo

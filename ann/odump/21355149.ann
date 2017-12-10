@@ -1,0 +1,7 @@
+T1	HMM 591 626	Integral of Clinical Symptoms (ICS)
+T2	HMM 631 657	Bone Mineral Density (BMD)
+T3	HMM 916 939	BMD of lumbar vertebrae
+T4	HMM 944 949	femur
+T5	HMM 1065 1088	BMD of lumbar vertebrae
+T6	HMM 1193 1273	abdominal pain, diarrhea, nausea, vomiting, dyspepsia and other adverse reaction
+T7	HMM 1302 1328	degree and occurrence rate

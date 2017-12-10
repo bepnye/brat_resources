@@ -1,0 +1,18 @@
+Adult
+Aged
+Area Under Curve
+Cross-Over Studies
+Dose-Response Relationship, Drug
+Electrocardiography
+Fasting
+Female
+Food-Drug Interactions
+Humans
+Magnetic Resonance Imaging
+Male
+Middle Aged
+Neoplasms
+Quinazolines
+Tomography, X-Ray Computed
+Treatment Outcome
+Young Adult

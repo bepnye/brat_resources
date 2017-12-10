@@ -1,0 +1,15 @@
+Adult
+Analysis of Variance
+Antiretroviral Therapy, Highly Active
+CD4 Lymphocyte Count
+Drug Administration Schedule
+Female
+Follow-Up Studies
+HIV Infections
+HIV Protease Inhibitors
+Humans
+Kaplan-Meier Estimate
+Male
+Reverse Transcriptase Inhibitors
+United States
+Viral Load

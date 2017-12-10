@@ -1,0 +1,14 @@
+Aged
+Amiodarone
+Anti-Arrhythmia Agents
+Defibrillators, Implantable
+Female
+Humans
+Male
+Middle Aged
+Resuscitation
+Sotalol
+Statistics, Nonparametric
+Survival Analysis
+Tachycardia, Ventricular
+Ventricular Fibrillation

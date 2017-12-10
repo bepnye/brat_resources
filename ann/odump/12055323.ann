@@ -1,0 +1,6 @@
+T1	HMM 672 700	reported energy intake (rEI)
+T2	HMM 702 728	Basal metabolic rate (BMR)
+T3	HMM 771 795	physical activity (EEPA)
+T4	HMM 1313 1334	rEI and misreporting.
+T5	HMM 1335 1362	Mean reported energy intake
+T6	HMM 1402 1426	total energy expenditure

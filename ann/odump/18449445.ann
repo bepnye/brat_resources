@@ -1,0 +1,10 @@
+T1	HMM 550 616	postoperative infections, length of stay and inflammatory markers.
+T2	HMM 1035 1064	duration of enteral nutrition
+T3	HMM 1146 1174	length of postoperative stay
+T4	HMM 1226 1265	Wound infections and general infections
+T5	HMM 1307 1320	Fistula rates
+T6	HMM 1426 1513	two plasma proteins (albumin, transferrin), lymphocytes, weight, IL-6, CPR and TNFalpha
+T7	HMM 1576 1584	TNFalpha
+T8	HMM 1622 1667	Gastrointestinal tolerance and diarrhoea rate
+T9	HMM 1769 1783	infection rate
+T10	HMM 1846 1859	fistula rates

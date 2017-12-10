@@ -1,0 +1,6 @@
+T1	HMM 0 23	Maximal bioavailability
+T2	HMM 121 142	absorption of digoxin
+T3	HMM 229 236	digoxin
+T4	HMM 260 344	Plasma levels, areas under 24-hour plasma concentration curves and urinary excretion
+T5	HMM 407 414	digoxin
+T6	HMM 550 573	digoxin bioavailability

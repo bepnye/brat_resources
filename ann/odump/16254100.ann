@@ -1,0 +1,5 @@
+T1	HMM 25 52	adjuvant tamoxifen response
+T2	HMM 1114 1159	Oestrogen receptor positive ductal carcinomas
+T3	HMM 1222 1246	recurrence free survival
+T4	HMM 1523 1601	more complex, with a clear response in tumours with high and low proliferation
+T5	HMM 1683 1690	poorly.

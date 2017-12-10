@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Antineoplastic Combined Chemotherapy Protocols
+Child
+Child, Preschool
+Female
+Humans
+Infant
+Infant, Newborn
+Kidney Neoplasms
+Male
+Middle Aged
+Neoplasm Metastasis
+Neoplasm Staging
+Radiotherapy
+Random Allocation
+Wilms Tumor

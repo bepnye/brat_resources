@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Blood Glucose
+Diabetes Mellitus, Type 1
+Diabetic Retinopathy
+Female
+Hemoglobin A
+Humans
+Infusions, Parenteral
+Insulin
+Male
+Time Factors

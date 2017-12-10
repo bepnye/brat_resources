@@ -1,0 +1,6 @@
+T1	HMM 149 179	Placental growth factor (PlGF)
+T2	HMM 507 511	PlGF
+T3	HMM 712 791	death, myocardial infarction (MI), unstable angina, revascularization or stroke
+T4	HMM 967 986	risk of death or MI
+T5	HMM 1348 1367	risk of death or MI
+T6	HMM 1552 1556	PlGF

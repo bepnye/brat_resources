@@ -1,0 +1,10 @@
+T1	HMM 206 251	event-free survival and total treatment costs
+T2	HMM 1287 1329	Parsonnet score and quality-of-life score.
+T3	HMM 1330 1382	Twenty-eight-day mortality and 1-year mortality rate
+T4	HMM 1394 1416	quality-of-life scores
+T5	HMM 1446 1465	Event-free survival
+T6	HMM 1606 1627	total treatment costs
+T7	HMM 1976 2010	1-year outcome and quality of life
+T8	HMM 2079 2098	event-free survival
+T9	HMM 2127 2149	revascularization rate
+T10	HMM 2239 2250	lower costs

@@ -1,0 +1,4 @@
+T1	HMM 59 75	Pharmacokinetics
+T2	HMM 833 842	half-life
+T3	HMM 1234 1257	beta-blocking activity.
+T4	HMM 1263 1273	metabolite

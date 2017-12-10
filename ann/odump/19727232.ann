@@ -1,0 +1,17 @@
+T1	HMM 583 605	clinical manifestation
+T2	HMM 610 641	Autism Behavior Checklist (ABC)
+T3	HMM 646 672	intelligence quotient (IQ)
+T4	HMM 752 786	changes of clinical manifestations
+T5	HMM 801 804	ABC
+T6	HMM 809 812	IQ.
+T7	HMM 838 840	IQ
+T8	HMM 1037 1053	greatly improved
+T9	HMM 1083 1161	disorders of their language, social interactions and typical behavior symptoms
+T10	HMM 1198 1217	abnormal behaviors.
+T11	HMM 1222 1254	scores of IQ or DQ had increased
+T12	HMM 1269 1285	ABC had dropped.
+T13	HMM 1380 1457	decreasing level of both ABC scores and the increasing level of the IQ scores
+T14	HMM 1503 1533	decreasing level of ABC scores
+T15	HMM 1682 1700	language disorders
+T16	HMM 1706 1768	difficulties of social interactions, typical behavior symptoms
+T17	HMM 1773 1793	developmental levels

@@ -1,0 +1,26 @@
+T1	Treatment 0 22	Pelvic lymphadenectomy
+T2	Treatment 47 106	laparotomy extraperitoneal, transperitoneal or laparoscopic
+T3	Treatment 159 231	transperitoneal, extraperitoneal and laparoscopic pelvic lymphadenectomy
+T4	Treatment 321 342	radical hysterectomy.
+T5	Treatment 430 445	radical surgery
+T6	Treatment 500 590	transperitoneal (TPL), extraperitoneal (EPL) or laparoscopic pelvic lymphadenectomy (LPL).
+T7	Treatment 614 645	classical radical hysterectomy.
+T8	Treatment 871 875	(TPL
+T9	Treatment 879 882	EPL
+T10	Treatment 912 915	TPL
+T11	Treatment 919 922	LPL
+T12	Treatment 936 944	TPL, EPL
+T13	Treatment 949 952	LPL
+T14	Treatment 1068 1090	TPL, EPL and LPL group
+T15	Treatment 1187 1191	(TPL
+T16	Treatment 1195 1198	EPL
+T17	Treatment 1208 1211	TPL
+T18	Treatment 1215 1218	LPL
+T19	Treatment 1232 1240	TPL, EPL
+T20	Treatment 1245 1248	LPL
+T21	Treatment 1275 1278	EPL
+T22	Treatment 1283 1286	LPL
+T23	Treatment 1320 1323	TPL
+T24	Treatment 1393 1396	LPL
+T25	Treatment 1469 1472	EPL
+T26	Treatment 1477 1480	LPL

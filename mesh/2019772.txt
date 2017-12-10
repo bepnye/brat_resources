@@ -1,0 +1,22 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Agranulocytosis
+Amikacin
+Bacterial Infections
+Ceftazidime
+Child
+Child, Preschool
+Drug Therapy, Combination
+Female
+Follow-Up Studies
+Gram-Positive Bacteria
+Humans
+Infant
+Male
+Middle Aged
+Neoplasms
+Prospective Studies
+Sepsis
+Vancomycin

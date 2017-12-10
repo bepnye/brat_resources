@@ -1,0 +1,15 @@
+T1	Treatment 11 29	alcohol dependence
+T2	Treatment 113 147	Concurrent alcohol dependence (AD)
+T3	Treatment 349 376	contingency management (CM)
+T4	Treatment 425 427	AD
+T5	Treatment 652 691	methadone-maintained, cocaine-dependent
+T6	Treatment 711 795	with and without concurrent AD, randomized to standard care (SC) with or without CM.
+T7	Treatment 805 835	with and without concurrent AD
+T8	Treatment 898 900	AD
+T9	Treatment 937 939	AD
+T10	Treatment 1072 1078	non-AD
+T11	Treatment 1112 1114	CM
+T12	Treatment 1165 1167	SC
+T13	Treatment 1230 1232	AD
+T14	Treatment 1307 1309	AD
+T15	Treatment 1356 1362	non-AD

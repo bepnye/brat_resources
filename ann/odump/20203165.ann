@@ -1,0 +1,5 @@
+T1	HMM 0 6	Effect
+T2	HMM 1082 1122	Predialysis beta(2)-microglobulin levels
+T3	HMM 1241 1378	serum albumin, high-sensitivity C-reactive protein, fibrinogen, IL-6, triglycerides, HDL cholesterol, LDL cholesterol, and lipoprotein(a)
+T4	HMM 1423 1463	aortic PWV, a marker of aortic stiffness
+T5	HMM 1562 1590	rate of change in aortic PWV

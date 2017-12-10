@@ -1,0 +1,7 @@
+T1	HMM 747 866	Range of motion, Constant score, Oxford Shoulder Score, Short Form 36, and Hospital Anxiety and Disability Scale (HADS)
+T2	HMM 992 1011	mean Constant score
+T3	HMM 1110 1157	shoulder symptoms on Oxford and Constant scores
+T4	HMM 1209 1257	individual physiotherapy or home exercises alone
+T5	HMM 1339 1379	physiotherapy groups over home exercises
+T6	HMM 1392 1403	HADS scores
+T7	HMM 1489 1507	HADS anxiety score

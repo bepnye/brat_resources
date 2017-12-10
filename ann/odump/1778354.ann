@@ -1,0 +1,13 @@
+T1	HMM 703 712	subjects.
+T2	HMM 713 724	Body weight
+T3	HMM 909 939	0.0001); maximal oxygen uptake
+T4	HMM 1028 1036	0.0001).
+T5	HMM 1037 1054	Glucose tolerance
+T6	HMM 1139 1172	accumulated incidence of diabetes
+T7	HMM 1232 1244	in remission
+T8	HMM 1273 1279	years.
+T9	HMM 1280 1325	Blood pressure, lipids, and hyperinsulinaemia
+T10	HMM 1339 1382	and early insulin responsiveness to glucose
+T11	HMM 1414 1434	in glucose tolerance
+T12	HMM 1450 1469	to weight reduction
+T13	HMM 1499 1520	and increased fitness

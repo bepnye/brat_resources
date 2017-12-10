@@ -1,0 +1,11 @@
+T1	HMM 233 371	Plasma P-selectin antigen, tissue plasminogen activator (tPA) antigen and activity, and plasminogen activator inhibitor-1 (PAI-1) activity
+T2	HMM 525 578	levels of P-selectin, tPA antigen, and PAI-1 activity
+T3	HMM 588 608	significantly higher
+T4	HMM 673 694	level of tPA activity
+T5	HMM 856 880	P-selectin concentration
+T6	HMM 906 920	PAI-1 activity
+T7	HMM 957 968	tPA antigen
+T8	HMM 998 1010	tPA activity
+T9	HMM 1151 1180	increased platelet activation
+T10	HMM 1185 1207	decreased fibrinolysis
+T11	HMM 1274 1293	platelet activation

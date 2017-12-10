@@ -1,0 +1,10 @@
+T1	HMM 33 47	blood pressure
+T2	HMM 173 187	blood pressure
+T3	HMM 495 522	excretion of norepinephrine
+T4	HMM 588 602	blood pressure
+T5	HMM 617 622	heart
+T6	HMM 771 806	Urinary excretion of norepinephrine
+T7	HMM 882 911	Blood pressure and heart rate
+T8	HMM 1071 1099	sympathetic nervous activity
+T9	HMM 1165 1195	blood pressure and heart rate.
+T10	HMM 1240 1308	risk for both target organ damage and acute cardiovascular diseases.

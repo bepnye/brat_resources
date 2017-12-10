@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents
+Carcinoma
+Cisplatin
+Combined Modality Therapy
+Disease-Free Survival
+Female
+Humans
+Kaplan-Meier Estimate
+Middle Aged
+Neoplasm Staging
+Paclitaxel
+Radiotherapy
+Uterine Cervical Neoplasms

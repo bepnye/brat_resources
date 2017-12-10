@@ -1,0 +1,5 @@
+T1	HMM 49 120	resident vaccine administration performance and immunization knowledge.
+T2	HMM 666 684	Resident knowledge
+T3	HMM 759 828	significantly less missed opportunities/vaccine administration errors
+T4	HMM 1018 1051	postintervention knowledge scores
+T5	HMM 1235 1293	reduced missed opportunities/vaccine administration errors

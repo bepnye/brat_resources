@@ -1,0 +1,13 @@
+T1	HMM 41 58	esophageal cancer
+T2	HMM 210 232	Esophageal cancer (EC)
+T3	HMM 364 371	cancer.
+T4	HMM 453 463	PD and EC.
+T5	HMM 824 833	IRs of EC
+T6	HMM 904 906	EC
+T7	HMM 924 934	overall IR
+T8	HMM 1035 1049	lower IR of EC
+T9	HMM 1080 1090	(p<0.001).
+T10	HMM 1091 1128	Multivariable Cox regression analysis
+T11	HMM 1531 1537	showed
+T12	HMM 1710 1715	lower
+T13	HMM 1865 1881	cohort, subjects

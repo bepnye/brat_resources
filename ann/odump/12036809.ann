@@ -1,0 +1,17 @@
+T1	HMM 53 89	long-term adaptation of blood lipids
+T2	HMM 197 233	long-term adaptation of blood lipids
+T3	HMM 398 435	serum short-chain fatty acids (SCFAs)
+T4	HMM 444 514	relation between changes in serum acetate and changes in blood lipids.
+T5	HMM 766 786	Carbohydrate intakes
+T6	HMM 991 1010	Fasting serum SCFAs
+T7	HMM 1081 1094	serum acetate
+T8	HMM 1293 1307	Serum butyrate
+T9	HMM 1448 1472	Changes in serum acetate
+T10	HMM 1508 1526	changes in lipids.
+T11	HMM 1536 1560	changes in serum acetate
+T12	HMM 1603 1651	changes in the ratio of total to HDL cholesterol
+T13	HMM 1695 1737	postprandial (P = 0.016) triacylglycerols.
+T14	HMM 1795 1806	serum SCFAs
+T15	HMM 1833 1863	carbohydrate and fiber intakes
+T16	HMM 1910 1923	serum acetate
+T17	HMM 1958 2001	long-term adaptive changes in blood lipids.

@@ -1,0 +1,15 @@
+T1	Outcomes 50 75	diastolic perfusion time.
+T2	Outcomes 594 625	Left ventricular time intervals
+T3	Outcomes 631 639	obtained
+T4	Outcomes 652 687	carotid thermistor plethysmography.
+T5	Outcomes 688 706	Diastolic duration
+T6	Outcomes 711 845	calculated by subtracting the electromechanical systole from the R-R interval and expressed as a percentage of the cardiac cycle (%D).
+T7	Outcomes 871 894	total exercise duration
+T8	Outcomes 960 996	time to 0.1-mV ST segment depression
+T9	Outcomes 1072 1120	induced a reduction of the rate-pressure product
+T10	Outcomes 1132 1172	extent of ischemic ST segment depression
+T11	Outcomes 1190 1192	%D
+T12	Outcomes 1263 1280	linear regression
+T13	Outcomes 1403 1465	no difference was observed between both slopes and intercepts.
+T14	Outcomes 1487 1527	relationship between R-R interval and %D
+T15	Outcomes 1608 1626	diastolic duration

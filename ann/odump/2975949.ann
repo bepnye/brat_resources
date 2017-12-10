@@ -1,0 +1,8 @@
+T1	HMM 34 49	restenosis rate
+T2	HMM 1184 1201	symptoms improved
+T3	HMM 1268 1281	symptom free;
+T4	HMM 1347 1375	angiographic restenosis rate
+T5	HMM 1430 1459	major bleeding complications.
+T6	HMM 1576 1589	exercise test
+T7	HMM 1632 1660	angiographic restenosis rate
+T8	HMM 2007 2030	angiographic restenosis

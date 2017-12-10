@@ -1,0 +1,13 @@
+T1	Outcomes 31 47	clinical outcome
+T2	Outcomes 127 143	clinical outcome
+T3	Outcomes 648 850	total energy intake and growth over the first six postnatal weeks, sepsis incidence, liver function, milk tolerance, duration of respiratory support, duration of hospital stay and complication incidence
+T4	Outcomes 975 989	energy intake,
+T5	Outcomes 1061 1073	weight gain,
+T6	Outcomes 1102 1126	head circumference gain,
+T7	Outcomes 1181 1218	episodes of culture confirmed sepsis,
+T8	Outcomes 1278 1299	parenteral nutrition,
+T9	Outcomes 1352 1377	tolerated full milk feeds
+T10	Outcomes 1462 1498	requirement for supplemental oxygen,
+T11	Outcomes 1562 1586	discharged home earlier,
+T12	Outcomes 1685 1718	relative risk of any complication
+T13	Outcomes 1757 1827	clinical outcome in ill preterm infants requiring parenteral nutrition

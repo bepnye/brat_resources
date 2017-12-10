@@ -1,0 +1,21 @@
+T1	Treatment 10 84	inspiratory impedance threshold device on a facemask and endotracheal tube
+T2	Treatment 241 285	inspiratory impedance threshold device (ITD)
+T3	Treatment 383 406	endotracheal tube (ETT)
+T4	Treatment 414 477	active compression-decompression cardiopulmonary resuscitation.
+T5	Treatment 512 515	ITD
+T6	Treatment 578 594	facemask or ETT.
+T7	Treatment 603 625	An active and sham ITD
+T8	Treatment 659 667	facemask
+T9	Treatment 683 686	ETT
+T10	Treatment 694 756	active compression-decompression cardiopulmonary resuscitation
+T11	Treatment 1019 1043	A sham and an active ITD
+T12	Treatment 1103 1111	facemask
+T13	Treatment 1127 1131	ETT.
+T14	Treatment 1403 1407	sham
+T15	Treatment 1439 1449	active ITD
+T16	Treatment 1627 1643	facemask and ETT
+T17	Treatment 1700 1743	active ITD attached to a facemask or an ETT
+T18	Treatment 1961 1964	ITD
+T19	Treatment 1975 1985	a facemask
+T20	Treatment 1989 1992	ETT
+T21	Treatment 2011 2035	ITD-facemask combination

@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Anesthesia, Spinal
+Blood Pressure
+Bupivacaine
+Clonidine
+Female
+Hip Prosthesis
+Humans
+Male
+Meperidine
+Middle Aged
+Morphine
+Pain Measurement
+Pain, Postoperative

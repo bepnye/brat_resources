@@ -1,0 +1,11 @@
+Blood Pressure
+Echocardiography
+Female
+Hemodynamics
+High-Frequency Ventilation
+Humans
+Male
+Middle Aged
+Respiration, Artificial
+Respiratory Distress Syndrome, Adult
+Ventricular Function, Right

@@ -1,0 +1,8 @@
+T1	HMM 626 675	blood pressure, hemodynamics, and humoral factors
+T2	HMM 816 830	Blood pressure
+T3	HMM 877 914	Whole blood and plasma volume indices
+T4	HMM 1008 1042	ratio of serum sodium to potassium
+T5	HMM 1084 1107	systolic blood pressure
+T6	HMM 1138 1174	Plasma norepinephrine concentrations
+T7	HMM 1396 1434	resting level of plasma norepinephrine
+T8	HMM 1474 1494	mean blood pressure.

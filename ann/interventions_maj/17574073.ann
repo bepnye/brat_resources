@@ -1,0 +1,4 @@
+T1	Intervention 755 766	doxorubicin
+T2	Intervention 778 799	doxorubicin/cisplatin
+T3	Intervention 812 834	doxorubicin/paclitaxel
+T4	Intervention 851 883	paclitaxel/doxorubicin/cisplatin

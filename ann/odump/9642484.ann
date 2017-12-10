@@ -1,0 +1,12 @@
+T1	HMM 97 137	progression of coronary atherosclerosis.
+T2	HMM 267 283	atherosclerosis.
+T3	HMM 329 359	progression of atherosclerosis
+T4	HMM 973 988	atherosclerosis
+T5	HMM 1231 1242	progression
+T6	HMM 1417 1450	angiographic new lesion formation
+T7	HMM 1515 1535	angiographic lesions
+T8	HMM 1745 1760	clinical events
+T9	HMM 1845 1869	angiographic progression
+T10	HMM 1885 1900	clinical events
+T11	HMM 2275 2327	progression of established coronary atherosclerosis.
+T12	HMM 2483 2523	progression of coronary atherosclerosis.

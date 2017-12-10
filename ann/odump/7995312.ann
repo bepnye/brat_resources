@@ -1,0 +1,9 @@
+T1	HMM 292 338	Sitting systolic and diastolic blood pressures
+T2	HMM 682 726	additional therapy with hydrochlorothiazide.
+T3	HMM 775 797	similar response rates
+T4	HMM 891 905	adverse events
+T5	HMM 944 963	rate of withdrawals
+T6	HMM 998 1003	Cough
+T7	HMM 1048 1066	headache, sweating
+T8	HMM 1072 1083	hot flushes
+T9	HMM 1174 1199	control of blood pressure

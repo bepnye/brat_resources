@@ -1,0 +1,9 @@
+T1	HMM 53 67	peer substance
+T2	HMM 493 527	Self-reported smoking and drinking
+T3	HMM 631 664	peer and adolescent substance use
+T4	HMM 755 768	Substance use
+T5	HMM 773 796	the number of substance
+T6	HMM 905 948	number of substance using friends over time
+T7	HMM 1045 1058	substance use
+T8	HMM 1316 1353	peer use to adolescent substance use.
+T9	HMM 1375 1397	adolescent to peer use

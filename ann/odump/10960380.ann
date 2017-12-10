@@ -1,0 +1,10 @@
+T1	HMM 1211 1274	cephalad dermatome level of the block and degree of motor block
+T2	HMM 1309 1329	Times to two-segment
+T3	HMM 1334 1349	T-10 regression
+T4	HMM 1446 1468	Time to L-1 regression
+T5	HMM 1660 1682	hypotension and emesis
+T6	HMM 1707 1740	bradycardia and urinary retention
+T7	HMM 1808 1839	transient neurological symptoms
+T8	HMM 2233 2261	Sensory and motor regression
+T9	HMM 2331 2343	Side effects
+T10	HMM 2364 2395	transient neurological symptoms

@@ -1,0 +1,9 @@
+T1	Treatment 275 284	secretin.
+T2	Treatment 567 575	secretin
+T3	Treatment 579 587	placebo.
+T4	Treatment 660 684	synthetic human secretin
+T5	Treatment 695 712	placebo (saline).
+T6	Treatment 821 866	placebo, followed six weeks later by secretin
+T7	Treatment 889 918	secretin followed by placebo.
+T8	Treatment 1582 1590	secretin
+T9	Treatment 1596 1604	placebo.

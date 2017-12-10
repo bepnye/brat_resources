@@ -1,0 +1,16 @@
+Adult
+Aged
+Antacids
+Cell Count
+Cimetidine
+Duodenal Ulcer
+Fasting
+Female
+Gastric Acid
+Gastric Mucosa
+Gastritis
+Humans
+Male
+Middle Aged
+Parietal Cells, Gastric
+Time Factors

@@ -1,0 +1,8 @@
+T1	HMM 718 768	walking alone, performing a simple arithmetic task
+T2	HMM 810 902	Walking time in seconds, number of steps, frequency of lateral line stepping-over, and stops
+T3	HMM 918 931	Health status
+T4	HMM 1105 1137	Walking time and number of steps
+T5	HMM 1360 1384	lateral gait instability
+T6	HMM 1615 1650	walking- associated arithmetic task
+T7	HMM 1681 1703	lateral gait stability
+T8	HMM 1772 1792	verbal fluency task.

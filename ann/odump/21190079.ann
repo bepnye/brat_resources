@@ -1,0 +1,9 @@
+T1	HMM 929 940	HER2 status
+T2	HMM 1102 1122	HER2 mRNA expression
+T3	HMM 1232 1265	HER2 overexpression/amplification
+T4	HMM 1395 1420	Positive HER2 mRNA levels
+T5	HMM 1484 1570	correlation between central HER2 expression and HER2 status measured by kinetic RT-PCR
+T6	HMM 1675 1838	central HER2 as well as HER2 mRNA expression were predictors for a pathological complete response after neoadjuvant anthracycline/taxane-based primary chemotherapy
+T7	HMM 1933 1953	The predictive value
+T8	HMM 1977 2000	the central HER2 status
+T9	HMM 2048 2127	The locally assessed HER2 status was not predictive of response to chemotherapy

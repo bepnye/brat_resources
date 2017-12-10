@@ -1,0 +1,13 @@
+T1	HMM 39 67	plasma von Willebrand factor
+T2	HMM 72 105	soluble P-selectin concentrations
+T3	HMM 202 284	plasma von Willebrand factor (vWf, an index of endothelial damage and dysfunction)
+T4	HMM 289 349	soluble P-selectin (sP-sel, an index of platelet activation)
+T5	HMM 580 619	Plasma concentrations of vWf and sP-sel
+T6	HMM 1082 1097	Mean plasma vWf
+T7	HMM 1258 1279	severe LV dysfunction
+T8	HMM 1376 1394	vWf concentrations
+T9	HMM 1550 1573	mean vWf concentrations
+T10	HMM 1666 1693	mitral regurgitation in CHF
+T11	HMM 1740 1768	Plasma sP-sel concentrations
+T12	HMM 1934 1969	endothelial damage and dysfunction.
+T13	HMM 2050 2085	endothelial damage and dysfunction.

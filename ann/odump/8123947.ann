@@ -1,0 +1,7 @@
+T1	HMM 11 36	intravenous line survival
+T2	HMM 41 50	phlebitis
+T3	HMM 996 1024	phlebitis incidence and i.v.
+T4	HMM 1025 1038	line survival
+T5	HMM 1135 1149	survival times
+T6	HMM 1162 1171	phlebitis
+T7	HMM 1527 1550	hep/hc-related problems

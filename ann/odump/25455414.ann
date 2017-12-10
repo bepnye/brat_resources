@@ -1,0 +1,8 @@
+T1	HMM 1180 1324	CT number, background noise, signal-to-noise ratio (SNR), effective dose, HCC-to-liver contrast-to-noise ratio (CNR), and figure of merit (FOM).
+T2	HMM 1325 1415	Sensitivity, specificity, and area under the receiver-operating-characteristic curve (AUC)
+T3	HMM 1475 1507	Vascular and hepatic enhancement
+T4	HMM 1609 1633	Subjective image quality
+T5	HMM 1673 1706	Sensitivity, specificity, and AUC
+T6	HMM 1711 1725	detecting HCCs
+T7	HMM 1986 2021	contrast enhancement, image quality
+T8	HMM 2027 2045	detection of HCCs.

@@ -1,0 +1,8 @@
+T1	HMM 210 217	outcome
+T2	HMM 1015 1055	CRT total procedure times (skin-to-skin)
+T3	HMM 1143 1198	Mean placement of LV pacing lead into target vein times
+T4	HMM 1283 1311	Mean total fluoroscopy times
+T5	HMM 1394 1395	.
+T6	HMM 1396 1420	Mean LV lead fluoroscopy
+T7	HMM 1509 1531	No major complications
+T8	HMM 1629 1681	shortens the duration of LV pacing lead implantation

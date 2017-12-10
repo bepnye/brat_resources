@@ -1,0 +1,7 @@
+T1	Intervention 29 40	gemcitabine
+T2	Intervention 44 71	paclitaxel plus carboplatin
+T3	Intervention 84 94	paclitaxel
+T4	Intervention 166 199	gemcitabine plus carboplatin (GC)
+T5	Intervention 203 235	paclitaxel plus carboplatin (TC)
+T6	Intervention 409 420	gemcitabine
+T7	Intervention 511 521	paclitaxel

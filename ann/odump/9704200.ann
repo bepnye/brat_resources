@@ -1,0 +1,9 @@
+T1	HMM 61 83	fibrinolytic shutdown.
+T2	HMM 346 503	Fibrinogen and plasminogen concentrations in plasma, plasminogen activator inhibitor activity in plasma and fibrinolytic activity in concentrated euglobulins
+T3	HMM 632 664	rise of fibrinogen concentration
+T4	HMM 681 698	plasminogen level
+T5	HMM 731 767	Fibrinolytic activity in euglobulins
+T6	HMM 857 897	plasminogen activator inhibitor activity
+T7	HMM 986 1021	postoperative fibrinolytic shutdown
+T8	HMM 1052 1073	fibrinolytic activity
+T9	HMM 1160 1185	plasminogen concentration

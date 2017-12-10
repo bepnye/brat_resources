@@ -1,0 +1,4 @@
+T1	Intervention 435 458	not treated with ozone;
+T2	Intervention 468 511	ozone application followed by acid etching;
+T3	Intervention 521 564	acid etching followed by ozone application;
+T4	Intervention 578 620	ozone and application of sodium ascorbate.

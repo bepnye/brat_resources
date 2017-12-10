@@ -1,0 +1,14 @@
+T1	HMM 273 306	[progression-free survival (PFS)]
+T2	HMM 677 696	Cardiac event rates
+T3	HMM 868 871	PFS
+T4	HMM 938 962	confidence interval (CI)
+T5	HMM 1009 1039	Overall risk of cardiotoxicity
+T6	HMM 1128 1144	Overall survival
+T7	HMM 1241 1249	Alopecia
+T8	HMM 1304 1310	nausea
+T9	HMM 1329 1337	vomiting
+T10	HMM 1359 1370	neutropenia
+T11	HMM 1441 1474	Palmar-plantar erythrodysesthesia
+T12	HMM 1492 1502	stomatitis
+T13	HMM 1524 1533	mucositis
+T14	HMM 1724 1780	cardiotoxicity, myelosuppression, vomiting and alopecia.

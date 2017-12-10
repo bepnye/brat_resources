@@ -1,0 +1,10 @@
+T1	Treatment 32 58	capecitabine and cisplatin
+T2	Treatment 66 104	concurrent cisplatin and 5-flurouracil
+T3	Treatment 219 245	capecitabine and cisplatin
+T4	Treatment 251 296	concurrent cisplatin and 5-flurouracil (5-FU)
+T5	Treatment 516 549	taxol and cisplatin chemotherapy)
+T6	Treatment 591 611	concurrent cisplatin
+T7	Treatment 640 648	and 5-FU
+T8	Treatment 754 763	cisplatin
+T9	Treatment 796 808	capecitabine
+T10	Treatment 1603 1629	capecitabine and cisplatin

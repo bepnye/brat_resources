@@ -1,0 +1,8 @@
+T1	HMM 928 1001	average time spent in the operating room or in the total irrigation fluid
+T2	HMM 1076 1109	room temperature irrigation fluid
+T3	HMM 1140 1157	body temperature.
+T4	HMM 1172 1183	temperature
+T5	HMM 1248 1265	irrigation fluid.
+T6	HMM 1366 1375	elevation
+T7	HMM 1385 1407	core body temperature.
+T8	HMM 1537 1553	body temperature

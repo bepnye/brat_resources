@@ -1,0 +1,6 @@
+T1	HMM 58 72	"no flow time"
+T2	HMM 287 318	time without chest compressions
+T3	HMM 597 617	"no-flow time" (NFT)
+T4	HMM 1123 1162	establishing and performing ventilation
+T5	HMM 1290 1293	NFT
+T6	HMM 1394 1397	NFT

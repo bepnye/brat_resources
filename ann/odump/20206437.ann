@@ -1,0 +1,19 @@
+T1	HMM 702 722	standing stress test
+T2	HMM 728 749	Sandvik questionnaire
+T3	HMM 755 805	Incontinence Quality of Life (I-QOL) questionnaire
+T4	HMM 815 921	International Consultation on Incontinence Questionnaire-Female Lower Urinary Tract Symptoms (ICIQ-FLUTS).
+T5	HMM 932 944	satisfaction
+T6	HMM 949 962	complications
+T7	HMM 1044 1055	stress test
+T8	HMM 1077 1098	Sandvik questionnaire
+T9	HMM 1130 1147	surgical outcomes
+T10	HMM 1268 1288	Objective cure rates
+T11	HMM 1365 1386	Subjective cure rates
+T12	HMM 1478 1561	I-QOL and domain scores of the ICIQ-FLUTS (filling and incontinence sum, QOL score)
+T13	HMM 1567 1589	patients' satisfaction
+T14	HMM 1643 1682	intraoperative vaginal wall perforation
+T15	HMM 1696 1714	increased bleeding
+T16	HMM 1735 1769	temporary postoperative retention.
+T17	HMM 1940 1950	cure rates
+T18	HMM 1976 1979	QOL
+T19	HMM 1984 2006	treatment satisfaction

@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Asthma
+Child
+Child, Preschool
+Evaluation Studies as Topic
+Family Practice
+Female
+Humans
+Lung
+Male
+Middle Aged
+Peak Expiratory Flow Rate
+Spirometry
+Vital Capacity

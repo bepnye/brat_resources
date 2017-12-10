@@ -1,0 +1,5 @@
+T1	HMM 0 24	Increased growth hormone
+T2	HMM 201 224	growth hormone response
+T3	HMM 572 586	growth hormone
+T4	HMM 674 705	diagnosisxdrugxtime interaction
+T5	HMM 821 844	growth hormone response

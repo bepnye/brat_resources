@@ -1,0 +1,14 @@
+T1	Outcomes 0 30	[Sentinel lymph node detection
+T2	Outcomes 624 660	sensibility in detect positive nodes
+T3	Outcomes 687 706	stage and prognosis
+T4	Outcomes 1033 1074	mean number of sentinel nodes per patient
+T5	Outcomes 1132 1166	transoperative lympho-scintigraphy
+T6	Outcomes 1172 1192	extra sentinel nodes
+T7	Outcomes 1398 1471	association of hematoxylin and eosin and immunohistochemical examination.
+T8	Outcomes 1529 1537	feasible
+T9	Outcomes 1563 1569	simple
+T10	Outcomes 1585 1600	produce upstage
+T11	Outcomes 1674 1678	safe
+T12	Outcomes 1747 1755	accuracy
+T13	Outcomes 1797 1811	lymph drainage
+T14	Outcomes 1868 1882	Upstaging rate

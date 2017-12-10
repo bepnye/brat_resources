@@ -1,0 +1,8 @@
+T1	HMM 697 724	hormone receptor variations
+T2	HMM 773 779	biopsy
+T3	HMM 904 924	Objective regression
+T4	HMM 1072 1098	Median time to progression
+T5	HMM 1144 1160	Overall survival
+T6	HMM 1245 1257	Metrorrhagia
+T7	HMM 1417 1428	PgR content
+T8	HMM 1450 1505	Plasma level variations of TAM, N-desmethyl TAM and MPA

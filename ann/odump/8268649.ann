@@ -1,0 +1,8 @@
+T1	HMM 0 37	Deficiency of serum ionized magnesium
+T2	HMM 398 401	IMg
+T3	HMM 737 742	IMg2+
+T4	HMM 815 843	greater or normal TMg values
+T5	HMM 933 963	Ionized calcium (ICa2+) values
+T6	HMM 1079 1097	ICa2+/IMg2+ ratios
+T7	HMM 1201 1216	total magnesium
+T8	HMM 1226 1242	ionized (%IMg2+)

@@ -1,0 +1,14 @@
+T1	HMM 89 135	minimal clinically important difference (MCID)
+T2	HMM 873 1010	a pictorial flip chart to describe atrial fibrillation; the consequences of a minor stroke, a major stroke, and a major bleeding episode;
+T3	HMM 1015 1055	chance of stroke if not taking warfarin;
+T4	HMM 1060 1114	chance of a major bleeding episode if taking warfarin;
+T5	HMM 1131 1196	inconvenience, minor side effects, and costs of warfarin therapy;
+T6	HMM 1221 1358	elicitation methods to determine their MCIDs (the smallest reduction in stroke risk at which the patients were willing to take warfarin).
+T7	HMM 1359 1482	Patients' knowledge of their stroke risk, acceptability of the interview process, and factors determining their preferences
+T8	HMM 1620 1629	mean MCID
+T9	HMM 1766 1777	stroke risk
+T10	HMM 1849 1879	knowledge of their stroke risk
+T11	HMM 1968 1972	MCID
+T12	HMM 2156 2160	MCID
+T13	HMM 2455 2527	patients' knowledge of their disease and its consequences and treatment.
+T14	HMM 2568 2573	MCIDs

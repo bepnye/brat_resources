@@ -1,0 +1,4 @@
+T1	HMM 526 570	brain regions sensitive to musical structure
+T2	HMM 718 765	scrambling of both pitch and rhythmic structure
+T3	HMM 789 821	high-level linguistic structure.
+T4	HMM 878 914	representations of musical structure

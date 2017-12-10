@@ -1,0 +1,9 @@
+T1	HMM 23 65	pharmacokinetics of paracetamol in saliva.
+T2	HMM 140 157	in vitro reaction
+T3	HMM 449 472	paracetamol absorption.
+T4	HMM 548 599	in vivo interaction of paracetamol and ferrous ion.
+T5	HMM 823 827	AUC8
+T6	HMM 892 896	Cmax
+T7	HMM 1050 1109	paracetamol pharmacokinetic parameter oral clearance (C1/F)
+T8	HMM 1147 1169	volume of distribution
+T9	HMM 1244 1276	decreased paracetamol absorption

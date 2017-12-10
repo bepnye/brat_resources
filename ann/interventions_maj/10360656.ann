@@ -1,0 +1,9 @@
+T1	Intervention 31 46	5-fluorouracil,
+T2	Intervention 63 85	human interferon-beta,
+T3	Intervention 166 199	5-fluorouracil (5-FU) monotherapy
+T4	Intervention 211 270	5-FU combined with natural human interferon-beta (IFN-beta)
+T5	Intervention 589 597	IFN-beta
+T6	Intervention 845 858	IFN-3 to 5-FU
+T7	Intervention 1141 1145	5-FU
+T8	Intervention 1549 1553	5-FU
+T9	Intervention 1558 1566	IFN-beta

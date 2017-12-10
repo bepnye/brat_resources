@@ -1,0 +1,9 @@
+T1	HMM 4 12	accuracy
+T2	HMM 16 45	clinical neurosensory testing
+T3	HMM 255 309	statistical efficacy of the clinical neurosensory test
+T4	HMM 923 973	positive predictive and negative predictive values
+T5	HMM 1382 1504	statistically significant positive relationship found between the sensory impairment score and the degree of nerve injury.
+T6	HMM 1617 1631	less efficient
+T7	HMM 1678 1710	high incidence of false-positive
+T8	HMM 1721 1735	false-negative
+T9	HMM 1814 1836	statistical efficiency

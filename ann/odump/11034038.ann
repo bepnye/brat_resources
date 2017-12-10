@@ -1,0 +1,8 @@
+T1	HMM 62 88	excessive anticoagulation.
+T2	HMM 800 843	mean calculated time to reach an INR of 4.0
+T3	HMM 941 974	Overcorrection of anticoagulation
+T4	HMM 1041 1066	Overt warfarin resistance
+T5	HMM 1140 1186	major bleeding or thromboembolic complications
+T6	HMM 1207 1215	bleeding
+T7	HMM 1671 1684	INR reduction
+T8	HMM 1740 1759	INR overcorrection.

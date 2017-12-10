@@ -1,0 +1,15 @@
+T1	HMM 39 47	survival
+T2	HMM 85 102	Osteopontin (OPN)
+T3	HMM 512 543	expression and relevance of OPN
+T4	HMM 698 701	IHC
+T5	HMM 712 735	ELISAs of blood/BM sera
+T6	HMM 750 781	microarray data for mRNA levels
+T7	HMM 808 833	Expression of OPN protein
+T8	HMM 969 996	levels of OPN within the BM
+T9	HMM 1025 1041	overall survival
+T10	HMM 1091 1117	karyotype, blast clearance
+T11	HMM 1136 1159	level of OPN expression
+T12	HMM 1198 1201	OS.
+T13	HMM 1353 1372	OPN mRNA expression
+T14	HMM 1393 1412	event-free survival
+T15	HMM 1549 1563	OPN expression

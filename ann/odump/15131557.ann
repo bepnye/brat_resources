@@ -1,0 +1,9 @@
+T1	HMM 280 295	restenosis rate
+T2	HMM 787 816	mean minimal luminal diameter
+T3	HMM 965 994	mean minimal luminal diameter
+T4	HMM 1102 1124	mean diameter stenosis
+T5	HMM 1178 1208	Binary angiographic restenosis
+T6	HMM 1323 1340	reocclusion rates
+T7	HMM 1413 1452	rate of target lesion revascularization
+T8	HMM 1708 1739	target lesion revascularization
+T9	HMM 1774 1790	restenosis rate.

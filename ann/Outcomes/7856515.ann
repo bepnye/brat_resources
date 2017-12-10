@@ -1,0 +1,7 @@
+T1	Outcomes 62 77	effective dose.
+T2	Outcomes 106 128	adverse health effects
+T3	Outcomes 708 726	oronasal breathing
+T4	Outcomes 902 921	oronasal breathing.
+T5	Outcomes 1082 1095	lower airways
+T6	Outcomes 1236 1272	duration of oronasal breathing (tON)
+T7	Outcomes 1299 1391	ventilation rate during oronasal breathing (VE(ON)); inhaled hydrogen ion concentration [H+]

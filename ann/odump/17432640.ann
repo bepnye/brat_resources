@@ -1,0 +1,8 @@
+T1	HMM 506 563	gastric drainage volume, therapeutic times and cured rate
+T2	HMM 666 690	gastric drainage volume.
+T3	HMM 695 705	cured rate
+T4	HMM 725 742	therapeutic times
+T5	HMM 909 945	cured rate and the therapeutic times
+T6	HMM 1067 1084	therapeutic times
+T7	HMM 1091 1101	cured rate
+T8	HMM 1112 1119	effect.

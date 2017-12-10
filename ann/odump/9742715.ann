@@ -1,0 +1,6 @@
+T1	HMM 0 6	Memory
+T2	HMM 120 128	response
+T3	HMM 566 588	used the escape option
+T4	HMM 767 792	Signal-detection analyses
+T5	HMM 858 877	Optimality analyses
+T6	HMM 891 902	efficiency.

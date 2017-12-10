@@ -1,0 +1,9 @@
+T1	Intervention 258 279	adjuvant chemotherapy
+T2	Intervention 290 307	mitomycin C (MMC)
+T3	Intervention 312 327	carmofur (HCFU)
+T4	Intervention 907 910	MMC
+T5	Intervention 964 967	MMC
+T6	Intervention 1111 1121	MMC + HCFU
+T7	Intervention 1207 1211	HCFU
+T8	Intervention 1368 1371	MMC
+T9	Intervention 1707 1711	HCFU

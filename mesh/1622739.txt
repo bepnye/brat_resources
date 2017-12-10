@@ -1,0 +1,19 @@
+Aged
+Cohort Studies
+Dose-Response Relationship, Drug
+Humans
+Infusions, Intra-Arterial
+Interleukin-2
+Killer Cells, Lymphokine-Activated
+Killer Cells, Natural
+Leukocyte Count
+Leukocytes, Mononuclear
+Liver Neoplasms
+Lung Neoplasms
+Lymphocyte Activation
+Lymphocytes
+Male
+Middle Aged
+Neoplasms
+Phenotype
+Splenic Artery

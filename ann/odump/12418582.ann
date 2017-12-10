@@ -1,0 +1,16 @@
+T1	HMM 326 350	efficacy safety and cost
+T2	HMM 959 973	symptom scores
+T3	HMM 1358 1363	PEFam
+T4	HMM 1368 1392	mean evening PEF (PEFpm)
+T5	HMM 1494 1520	mean rate of exacerbations
+T6	HMM 1819 1843	fewer nocturnal symptoms
+T7	HMM 1880 1899	symptom-free nights
+T8	HMM 1912 1939	nights with a symptom score
+T9	HMM 1959 1984	nights with no awakenings
+T10	HMM 1997 2035	Total asthma-related health-care costs
+T11	HMM 2137 2151	well tolerated
+T12	HMM 2160 2181	similar low incidence
+T13	HMM 2185 2200	adverse events.
+T14	HMM 2572 2645	reducing exacerbations and nights with symptoms or night-time awakenings.
+T15	HMM 2667 2678	less costly
+T16	HMM 2706 2743	lower hospitalisation and drug costs.

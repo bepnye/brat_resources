@@ -1,0 +1,13 @@
+Adult
+Female
+Fetal Growth Retardation
+Gestational Age
+Heart Rate, Fetal
+Hot Temperature
+Humans
+Labor, Obstetric
+Oligohydramnios
+Pregnancy
+Pregnancy, Prolonged
+Prospective Studies
+Sodium Chloride

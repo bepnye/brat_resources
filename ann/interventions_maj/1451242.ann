@@ -1,0 +1,22 @@
+T1	Intervention 15 22	placebo
+T2	Intervention 67 80	streptokinase
+T3	Intervention 85 96	angioplasty
+T4	Intervention 109 120	angioplasty
+T5	Intervention 224 243	thrombolytic agents
+T6	Intervention 264 312	transluminal coronary angioplasty (PTCA) therapy
+T7	Intervention 760 779	intravenous heparin
+T8	Intervention 799 811	oral aspirin
+T9	Intervention 854 878	placebo or streptokinase
+T10	Intervention 1264 1271	placebo
+T11	Intervention 1282 1295	streptokinase
+T12	Intervention 1379 1386	placebo
+T13	Intervention 1397 1410	streptokinase
+T14	Intervention 1601 1608	placebo
+T15	Intervention 1613 1626	streptokinase
+T16	Intervention 1883 1890	placebo
+T17	Intervention 1895 1908	streptokinase
+T18	Intervention 1931 1951	Coronary angiography
+T19	Intervention 2232 2245	streptokinase
+T20	Intervention 2687 2708	streptokinase therapy
+T21	Intervention 2944 2956	PTCA therapy
+T22	Intervention 3031 3052	streptokinase therapy

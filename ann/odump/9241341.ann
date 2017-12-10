@@ -1,0 +1,9 @@
+T1	HMM 707 732	Cumulative amount of i.v.
+T2	HMM 733 768	morphine used in the first 24 hours
+T3	HMM 784 830	amount of the drug used during each 2-h period
+T4	HMM 954 979	mean cumulative 24-h i.v.
+T5	HMM 980 1004	PCA morphine requirement
+T6	HMM 1159 1172	less morphine
+T7	HMM 1282 1294	maximum i.v.
+T8	HMM 1295 1311	PCA morphine use
+T9	HMM 1392 1410	Analgesic efficacy

@@ -1,0 +1,9 @@
+T1	HMM 42 51	cessation
+T2	HMM 423 433	quit rates
+T3	HMM 475 494	Infant birth weight
+T4	HMM 631 686	Birth weight for infants born to women who quit smoking
+T5	HMM 826 841	Peer counseling
+T6	HMM 854 887	number of cigarettes smoked daily
+T7	HMM 909 936	cigarette abstinence rates.
+T8	HMM 937 956	Infant birth weight
+T9	HMM 1084 1098	newborn health

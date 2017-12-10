@@ -1,0 +1,6 @@
+T1	HMM 153 172	perinatal survival.
+T2	HMM 194 208	neonatal death
+T3	HMM 391 397	deaths
+T4	HMM 641 691	management of intrapartum-related neonatal hypoxia
+T5	HMM 1198 1224	health workers performance
+T6	HMM 1369 1417	intrapartum outcome and early neonatal survival.

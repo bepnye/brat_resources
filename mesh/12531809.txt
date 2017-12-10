@@ -1,0 +1,18 @@
+6-Mercaptopurine
+Administration, Oral
+Antimetabolites, Antineoplastic
+Blood Cell Count
+Child
+Child, Preschool
+Dexamethasone
+Drug Administration Schedule
+Female
+Humans
+Infant
+Injections, Intravenous
+Injections, Spinal
+Karyotyping
+Male
+Methotrexate
+Precursor Cell Lymphoblastic Leukemia-Lymphoma
+Prednisone

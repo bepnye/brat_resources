@@ -1,0 +1,16 @@
+T1	HMM 39 59	acute adverse events
+T2	HMM 289 315	acute adverse events (AEs)
+T3	HMM 879 893	Adverse events
+T4	HMM 923 973	Common Terminology Criteria for Adverse Events, v.
+T5	HMM 974 991	3.0 (CTCAE v3.0).
+T6	HMM 1183 1192	acute AEs
+T7	HMM 1359 1370	severe AEs.
+T8	HMM 1543 1554	severe AEs.
+T9	HMM 1555 1563	Diarrhea
+T10	HMM 1584 1586	AE
+T11	HMM 1592 1607	severe diarrhea
+T12	HMM 1812 1828	severe diarrhea.
+T13	HMM 1909 1924	severe diarrhea
+T14	HMM 2156 2171	severe diarrhea
+T15	HMM 2318 2334	severe diarrhea.
+T16	HMM 2433 2442	acute AEs

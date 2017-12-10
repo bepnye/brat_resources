@@ -1,0 +1,8 @@
+T1	HMM 896 983	MEASURES Bulbar conjunctival hyperemia, ocular surface temperature, and ocular symptoms
+T2	HMM 1049 1106	RESULTS Bulbar conjunctival hyperemia and ocular symptoms
+T3	HMM 1270 1287	reduced hyperemia
+T4	HMM 1446 1499	lowered the antigen-raised ocular surface temperature
+T5	HMM 1619 1642	reduced the temperature
+T6	HMM 1698 1715	a similar cooling
+T7	HMM 2153 2163	challenge.
+T8	HMM 2164 2196	Signs of allergic conjunctivitis

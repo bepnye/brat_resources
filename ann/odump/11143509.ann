@@ -1,0 +1,6 @@
+T1	HMM 0 18	[Complication rate
+T2	HMM 480 511	Complication rate and mortality
+T3	HMM 610 637	postoperative complications
+T4	HMM 724 734	morbidity;
+T5	HMM 757 767	mortality)
+T6	HMM 924 953	higher morbidity or mortality

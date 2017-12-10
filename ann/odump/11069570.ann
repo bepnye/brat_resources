@@ -1,0 +1,8 @@
+T1	HMM 265 286	allergic inflammation
+T2	HMM 1011 1023	SCORAD score
+T3	HMM 1039 1075	extent and severity of atopic eczema
+T4	HMM 1188 1202	skin condition
+T5	HMM 1331 1337	SCORAD
+T6	HMM 1580 1583	CD4
+T7	HMM 1757 1779	allergic inflammation.
+T8	HMM 1837 1859	inflammatory responses

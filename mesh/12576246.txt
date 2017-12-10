@@ -1,0 +1,19 @@
+Adult
+Biopsy, Needle
+Blood Chemical Analysis
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Endosonography
+Female
+Follow-Up Studies
+Hormone Antagonists
+Humans
+Immunohistochemistry
+Leiomyoma
+Middle Aged
+Mifepristone
+Multivariate Analysis
+Reference Values
+Statistics, Nonparametric
+Treatment Outcome
+Uterine Neoplasms

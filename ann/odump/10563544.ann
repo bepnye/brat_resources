@@ -1,0 +1,6 @@
+T1	HMM 299 357	sustained resting pressure (tone) and contractile activity
+T2	HMM 741 767	Baseline tone and activity
+T3	HMM 1136 1153	tone and activity
+T4	HMM 1232 1236	Tone
+T5	HMM 1337 1353	rate of recovery
+T6	HMM 1476 1492	tone or activity

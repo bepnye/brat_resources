@@ -1,0 +1,6 @@
+T1	HMM 95 118	intrathoracic pressures
+T2	HMM 160 216	compression-decompression cardiopulmonary resuscitation.
+T3	HMM 1246 1298	mean +/- sd maximum negative intrathoracic pressures
+T4	HMM 1318 1370	decompression phase of cardiopulmonary resuscitation
+T5	HMM 1581 1617	Decompression phase airway pressures
+T6	HMM 1778 1809	negative intratracheal pressure

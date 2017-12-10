@@ -1,0 +1,9 @@
+T1	Intervention 29 94	paroxetine, pentoxifylline, riluzole, pramipexole and venlafaxine
+T2	Intervention 196 261	paroxetine, pentoxifylline, riluzole, venlafaxine and pramipexole
+T3	Intervention 356 363	placebo
+T4	Intervention 760 767	placebo
+T5	Intervention 872 897	antidepressant paroxetine
+T6	Intervention 917 959	phosphodiesterase inhibitor pentoxifylline
+T7	Intervention 984 1020	glutamate release inhibitor riluzole
+T8	Intervention 1069 1080	venlafaxine
+T9	Intervention 1104 1132	dopamine agonist pramipexole

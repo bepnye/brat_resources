@@ -1,0 +1,4 @@
+T1	HMM 641 682	postoperative mortality and complications
+T2	HMM 695 723	local and distant recurrence
+T3	HMM 746 763	overall survival.
+T4	HMM 866 889	postoperative mortality

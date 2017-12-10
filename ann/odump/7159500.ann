@@ -1,0 +1,8 @@
+T1	HMM 92 98	effect
+T2	HMM 543 560	total cholesterol
+T3	HMM 642 694	low density lipoprotein cholesterol (LDL-cholesterol
+T4	HMM 896 911	LDL-cholesterol
+T5	HMM 917 929	apoprotein B
+T6	HMM 993 1052	plasma triglyceride level and the triglyceride distribution
+T7	HMM 1176 1224	fasting plasma glucose level nor the body weight
+T8	HMM 1292 1333	slight nausea, meteorism and constipation

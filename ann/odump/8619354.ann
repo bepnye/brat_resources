@@ -1,0 +1,6 @@
+T1	HMM 477 482	onset
+T2	HMM 521 537	adverse reaction
+T3	HMM 600 632	imaging quality and side effects
+T4	HMM 715 738	excellent image quality
+T5	HMM 745 770	low rate of side effects.
+T6	HMM 798 840	safe and effective nonionic contrast agent

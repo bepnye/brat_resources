@@ -1,0 +1,10 @@
+T1	HMM 0 8	Efficacy
+T2	HMM 219 223	safe
+T3	HMM 228 237	effective
+T4	HMM 632 671	interval from randomization to delivery
+T5	HMM 872 917	admitted for labor during the dosing interval
+T6	HMM 982 1014	mean gestational age at delivery
+T7	HMM 1130 1162	incidence of postdates pregnancy
+T8	HMM 1188 1204	Hyperstimulation
+T9	HMM 1364 1373	effective
+T10	HMM 1378 1394	initiating labor

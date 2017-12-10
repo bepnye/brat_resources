@@ -1,0 +1,11 @@
+T1	HMM 66 97	eradicating Helicobacter pylori
+T2	HMM 875 886	Eradication
+T3	HMM 972 994	Successful eradication
+T4	HMM 1014 1082	negative 13C-urea breath tests or one negative and one missing test.
+T5	HMM 1083 1112	Adverse events and compliance
+T6	HMM 1258 1260	H.
+T7	HMM 1261 1277	pylori-positive.
+T8	HMM 1429 1446	eradication rates
+T9	HMM 1672 1686	Adverse events
+T10	HMM 1878 1905	experiencing a bitter taste
+T11	HMM 2015 2031	eradication rate

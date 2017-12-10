@@ -1,0 +1,13 @@
+Adult
+Ambulatory Surgical Procedures
+Anesthesia
+Female
+Fentanyl
+Genital Diseases, Female
+Humans
+Ketorolac
+Nausea
+Pain, Postoperative
+Single-Blind Method
+Tolmetin
+Vomiting

@@ -1,0 +1,15 @@
+Adult
+Aged
+Agranulocytosis
+Antineoplastic Combined Chemotherapy Protocols
+Drug Evaluation
+Female
+Humans
+Leukemia, Myeloid, Acute
+Lithium
+Lithium Carbonate
+Male
+Middle Aged
+Neutropenia
+Random Allocation
+Remission Induction

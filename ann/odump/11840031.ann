@@ -1,0 +1,15 @@
+T1	HMM 0 13	Immune status
+T2	HMM 192 214	immunization responses
+T3	HMM 255 302	cellular aspects of the immunologic development
+T4	HMM 446 465	immunologic effects
+T5	HMM 548 571	immune cell populations
+T6	HMM 970 1004	Thirty-two immune cell populations
+T7	HMM 1097 1196	general pediatric immune status, emphasizing maturation and activation of B, T, and NK lymphocytes.
+T8	HMM 1391 1422	percentage of CD57 + NK T cells
+T9	HMM 1624 1759	populations of lymphocytes, eosinophils, total T, helper T, naive helper, memory/effector helper, CD57 - T, and CD11b + CD8 + NK cells.
+T10	HMM 1772 1788	cell populations
+T11	HMM 1924 1942	immune cell status
+T12	HMM 2009 2035	immune system development.
+T13	HMM 2128 2151	immune cell populations
+T14	HMM 2175 2209	numbers and percentages of T cells
+T15	HMM 2224 2260	numbers and percentages of NK cells.

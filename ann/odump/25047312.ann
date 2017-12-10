@@ -1,0 +1,8 @@
+T1	HMM 695 752	effectiveness, sedation, irritation and cooperation score
+T2	HMM 799 848	safety assessment, vital signs and O 2 saturation
+T3	HMM 952 964	were sedated
+T4	HMM 1010 1038	an overall complication rate
+T5	HMM 1069 1087	presented euphoria
+T6	HMM 1229 1243	became sedated
+T7	HMM 1313 1395	including heart rate, respiratory rate, systolic blood pressure and O 2 saturation
+T8	HMM 1523 1545	are effective and safe

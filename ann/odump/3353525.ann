@@ -1,0 +1,6 @@
+T1	HMM 51 80	cortisol and glucose response
+T2	HMM 409 438	cortisol and glucose response
+T3	HMM 1060 1068	cortisol
+T4	HMM 1100 1114	glucose levels
+T5	HMM 1296 1328	mean cortisol and glucose levels
+T6	HMM 1389 1415	blood glucose and cortisol

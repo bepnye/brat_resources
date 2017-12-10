@@ -1,0 +1,9 @@
+T1	HMM 843 857	acetaminophen.
+T2	HMM 858 950	Time to extubation, morphine and midazolam amounts, hourly pain scores, and seizure activity
+T3	HMM 1049 1062	participated.
+T4	HMM 1063 1097	Median survival time to extubation
+T5	HMM 1327 1347	with low pain scores
+T6	HMM 1388 1405	with a pain score
+T7	HMM 1524 1550	normal cranial ultrasounds
+T8	HMM 1563 1580	86%); no seizures
+T9	HMM 1767 1843	effect on time to extubation, morphine or midazolam exposure, or pain scores

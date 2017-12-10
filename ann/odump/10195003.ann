@@ -1,0 +1,5 @@
+T1	HMM 527 545	diagnostic quality
+T2	HMM 660 670	diagnostic
+T3	HMM 710 720	diagnostic
+T4	HMM 1007 1032	poorer bladder distension
+T5	HMM 1064 1093	significantly less discomfort

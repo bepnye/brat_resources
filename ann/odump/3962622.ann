@@ -1,0 +1,5 @@
+T1	HMM 48 60	disinfectant
+T2	HMM 354 375	standard disinfection
+T3	HMM 766 808	significant quantitative diminished growth
+T4	HMM 1082 1125	toxic or allergic reaction post-operatively
+T5	HMM 1222 1269	effective pre-operative antimicrobial treatment

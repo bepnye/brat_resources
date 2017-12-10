@@ -1,0 +1,4 @@
+T1	HMM 448 468	backward memory span
+T2	HMM 507 526	forward-memory-span
+T3	HMM 895 914	tapping performance
+T4	HMM 1000 1019	recall performance.

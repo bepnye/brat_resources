@@ -1,0 +1,14 @@
+T1	HMM 0 30	[Sentinel lymph node detection
+T2	HMM 624 660	sensibility in detect positive nodes
+T3	HMM 687 706	stage and prognosis
+T4	HMM 1033 1074	mean number of sentinel nodes per patient
+T5	HMM 1132 1166	transoperative lympho-scintigraphy
+T6	HMM 1172 1192	extra sentinel nodes
+T7	HMM 1398 1471	association of hematoxylin and eosin and immunohistochemical examination.
+T8	HMM 1529 1537	feasible
+T9	HMM 1563 1569	simple
+T10	HMM 1585 1600	produce upstage
+T11	HMM 1674 1678	safe
+T12	HMM 1747 1755	accuracy
+T13	HMM 1797 1811	lymph drainage
+T14	HMM 1868 1882	Upstaging rate

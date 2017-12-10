@@ -1,0 +1,10 @@
+T1	Treatment 0 13	[Radiotherapy
+T2	Treatment 104 148	low- versus high-dose photon bean radiation]
+T3	Treatment 201 227	low-dose radiation therapy
+T4	Treatment 566 595	0 vs 10 vs 36 Gy of radiation
+T5	Treatment 973 978	10 Gy
+T6	Treatment 1157 1162	10 Gy
+T7	Treatment 1499 1505	36 Gy.
+T8	Treatment 1616 1628	10 or 36 Gy.
+T9	Treatment 1680 1685	10 Gy
+T10	Treatment 1813 1819	36 Gy;

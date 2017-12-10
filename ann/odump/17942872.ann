@@ -1,0 +1,4 @@
+T1	HMM 932 986	double-blinded Pap smears and colposcopies with biopsy
+T2	HMM 1147 1222	rates of grade 2 or 3 cervical intraepithelial neoplasia or cancer detected
+T3	HMM 1391 1459	lesions of grade 2 or 3 cervical intraepithelial neoplasia or cancer
+T4	HMM 1722 1746	2 or 3 lesions or cancer

@@ -1,0 +1,9 @@
+T1	Treatment 0 25	Uvulopalatopharyngoplasty
+T2	Treatment 33 65	laser assisted uvulopalatoplasty
+T3	Treatment 265 310	conventional uvulopalatopharyngoplasty (UPPP)
+T4	Treatment 315 354	laser assisted uvulopalatoplasty (LAUP)
+T5	Treatment 506 519	UPPP or LAUP.
+T6	Treatment 965 969	LAUP
+T7	Treatment 977 982	UPPP.
+T8	Treatment 1171 1175	LAUP
+T9	Treatment 1180 1184	UPPP

@@ -1,0 +1,9 @@
+T1	HMM 0 31	Metal release and metal allergy
+T2	HMM 669 690	release of metal ions
+T3	HMM 727 754	incidence of metal allergy.
+T4	HMM 1153 1179	hypersensitivity to metals
+T5	HMM 1305 1322	hypersensitivity.
+T6	HMM 1386 1423	urinary levels of cobalt and chromium
+T7	HMM 1505 1518	metal allergy
+T8	HMM 1604 1637	levels of metal ions in the urine
+T9	HMM 1691 1718	prevalence of metal allergy

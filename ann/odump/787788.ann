@@ -1,0 +1,8 @@
+T1	HMM 277 296	number becoming ill
+T2	HMM 315 333	number of episodes
+T3	HMM 354 375	mean illness duration
+T4	HMM 457 472	throat cultures
+T5	HMM 482 510	beta-hemolytic streptococcus
+T6	HMM 567 599	overall complicated illness rate
+T7	HMM 616 643	Plasma ascorbic acid levels
+T8	HMM 832 844	mean illness

@@ -1,0 +1,14 @@
+T1	HMM 72 116	recanalization of the infarct-related artery
+T2	HMM 130 159	myocardial tissue reperfusion
+T3	HMM 354 409	early reperfusion in ST-elevation myocardial infarction
+T4	HMM 851 881	pre-pPCI ST-segment resolution
+T5	HMM 921 938	TIMI flow grade 3
+T6	HMM 971 987	TIMI frame count
+T7	HMM 1032 1050	%diameter stenosis
+T8	HMM 1267 1294	myocardial tissue perfusion
+T9	HMM 1387 1402	cardiac enzymes
+T10	HMM 1461 1471	rise of CK
+T11	HMM 1514 1523	QRS score
+T12	HMM 1544 1556	infarct size
+T13	HMM 1690 1749	signs of early recanalization of the infarct-related artery
+T14	HMM 1776 1806	myocardial tissue reperfusion.

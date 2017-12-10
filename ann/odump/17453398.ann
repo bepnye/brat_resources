@@ -1,0 +1,12 @@
+T1	HMM 176 205	heterotopic ossification (HO)
+T2	HMM 244 256	side effects
+T3	HMM 452 491	NSAIDs on heterotopic ossification (HO)
+T4	HMM 748 761	HO was graded
+T5	HMM 893 905	discontinued
+T6	HMM 958 971	side effects.
+T7	HMM 1084 1096	showed no HO
+T8	HMM 1100 1120	showed HO of grade 1
+T9	HMM 1127 1147	showed HO of grade 2
+T10	HMM 1239 1261	showed no ossification
+T11	HMM 1265 1279	showed grade 1
+T12	HMM 1287 1302	showed grade 2.

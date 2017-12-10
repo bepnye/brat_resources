@@ -1,0 +1,5 @@
+T1	HMM 20 34	recovery times
+T2	HMM 429 457	recovery and discharge times
+T3	HMM 894 951	time to emergence and time to meeting discharge criteria.
+T4	HMM 1111 1186	intraoperative vital signs and postoperative emesis and opioid requirements
+T5	HMM 1323 1337	discharge time

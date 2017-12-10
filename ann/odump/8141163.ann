@@ -1,0 +1,8 @@
+T1	HMM 392 406	blood pressure
+T2	HMM 454 470	half-life (T1/2)
+T3	HMM 613 627	T1/2 increased
+T4	HMM 779 790	accumulated
+T5	HMM 883 897	T1/2 increases
+T6	HMM 979 985	effect
+T7	HMM 997 1021	more prominent in blacks
+T8	HMM 1045 1063	accumulate more Na

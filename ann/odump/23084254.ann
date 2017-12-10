@@ -1,0 +1,16 @@
+T1	HMM 93 116	cancer-related fatigue.
+T2	HMM 126 154	Cancer related fatigue (CRF)
+T3	HMM 587 597	CRF level.
+T4	HMM 841 860	Fatigue score (CRF)
+T5	HMM 883 997	Functional Assessment of Cancer Therapy-Anaemia Questionnaire (FACT-An-) (FACT-G score & FACT-An Anemia subscale).
+T6	HMM 1189 1192	CRF
+T7	HMM 1265 1288	Fatigue score reduction
+T8	HMM 1353 1366	FACT-An score
+T9	HMM 1391 1402	FACT-An Toi
+T10	HMM 1436 1447	Anaemia-ANS
+T11	HMM 1521 1550	General Quality of Life score
+T12	HMM 1577 1614	individual wellbeing scores; Physical
+T13	HMM 1626 1635	Emotional
+T14	HMM 1647 1653	Social
+T15	HMM 1668 1678	Functional
+T16	HMM 1808 1825	self-reported CRF

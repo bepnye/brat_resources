@@ -1,0 +1,17 @@
+T1	HMM 27 54	serum hepatitis B virus DNA
+T2	HMM 59 83	blood lymphocyte subsets
+T3	HMM 241 254	CD4/CD8 ratio
+T4	HMM 816 840	Peripheral blood samples
+T5	HMM 1063 1097	Peripheral blood mononuclear cells
+T6	HMM 1236 1254	mean CD4/CD8 ratio
+T7	HMM 1328 1342	CD4/CD8 ratios
+T8	HMM 1502 1522	number of CD8+ cells
+T9	HMM 1606 1619	CD4/CD8 ratio
+T10	HMM 1711 1731	number of CD8+ cells
+T11	HMM 1758 1790	increase in serum HBV DNA levels
+T12	HMM 1919 1932	CD4/CD8 ratio
+T13	HMM 1982 1993	CD4+ cells.
+T14	HMM 2015 2025	viral load
+T15	HMM 2156 2170	CD4/CD8 ratios
+T16	HMM 2353 2396	cellular distribution and viral replication
+T17	HMM 2488 2505	modulatory effect

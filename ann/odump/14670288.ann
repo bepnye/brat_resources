@@ -1,0 +1,9 @@
+T1	HMM 852 940	Symptom and medication scores, skin test results and (in asthmatic patients) FEV1 values
+T2	HMM 971 986	Adverse effects
+T3	HMM 1036 1091	significant improvement in symptom and medication usage
+T4	HMM 1106 1132	skin test scores decreased
+T5	HMM 1150 1163	FEV1 improved
+T6	HMM 1189 1225	symptom and skin test scores did not
+T7	HMM 1240 1246	change
+T8	HMM 1260 1262	No
+T9	HMM 1272 1287	adverse effects

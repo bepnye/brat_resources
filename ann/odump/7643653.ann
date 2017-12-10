@@ -1,0 +1,12 @@
+T1	HMM 8 18	assessment
+T2	HMM 203 222	Clinical evaluation
+T3	HMM 252 364	catheter insertion, complications, accuracy of oxygen sensor data and fibrin deposition on the catheter surface.
+T4	HMM 369 404	success rate for catheter insertion
+T5	HMM 491 533	catheter failures (blocked or non-reading)
+T6	HMM 703 718	sensor accuracy
+T7	HMM 823 828	Drift
+T8	HMM 883 918	Significant errors of recalibration
+T9	HMM 1005 1019	sampling lumen
+T10	HMM 1064 1081	fibrin deposition
+T11	HMM 1124 1159	success rate for catheter insertion
+T12	HMM 1207 1215	accuracy

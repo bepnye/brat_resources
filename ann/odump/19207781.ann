@@ -1,0 +1,5 @@
+T1	HMM 339 368	esophageal ulcerations (ESUL)
+T2	HMM 1274 1279	ESUL.
+T3	HMM 1325 1329	ESUL
+T4	HMM 1365 1457	AF, maximum energy delivered, usage of a nasogastric tube, and additional left atrial lines.
+T5	HMM 1540 1545	ESUL.

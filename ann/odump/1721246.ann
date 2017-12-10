@@ -1,0 +1,7 @@
+T1	HMM 192 207	cough responses
+T2	HMM 572 577	cough
+T3	HMM 681 686	cough
+T4	HMM 817 831	cough symptoms
+T5	HMM 854 859	cough
+T6	HMM 989 994	cough
+T7	HMM 1076 1081	cough

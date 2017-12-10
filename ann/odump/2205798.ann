@@ -1,0 +1,4 @@
+T1	HMM 724 748	mortality and morbidity.
+T2	HMM 1059 1072	risk of death
+T3	HMM 1605 1639	symptom-specific risk of mortality
+T4	HMM 1674 1734	diarrhea, convulsions, and other infection-related symptoms.

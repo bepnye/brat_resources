@@ -1,0 +1,14 @@
+T1	HMM 304 324	locoregional control
+T2	HMM 329 354	disease specific survival
+T3	HMM 608 625	influence of EGFr
+T4	HMM 630 663	histopathological differentiation
+T5	HMM 673 711	overall treatment time of radiotherapy
+T6	HMM 1079 1088	responded
+T7	HMM 1276 1298	tumor differentiation.
+T8	HMM 1362 1395	prominent separation of response:
+T9	HMM 1436 1451	differentiation
+T10	HMM 1694 1719	disease specific survival
+T11	HMM 1826 1860	superior to conventional treatment
+T12	HMM 1878 1886	response
+T13	HMM 1933 1951	expression of EGFr
+T14	HMM 1970 1992	tumor differentiation.

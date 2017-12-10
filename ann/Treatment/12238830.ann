@@ -1,0 +1,10 @@
+T1	Treatment 15 36	sotalol and magnesium
+T2	Treatment 229 242	Sotalol alone
+T3	Treatment 247 262	magnesium alone
+T4	Treatment 416 439	alone or in combination
+T5	Treatment 593 606	sotalol alone
+T6	Treatment 706 721	magnesium alone
+T7	Treatment 824 869	both pharmacologic agents at the same dosages
+T8	Treatment 883 910	or no antiarrhythmic agents
+T9	Treatment 1491 1498	sotalol
+T10	Treatment 1509 1518	magnesium

@@ -1,0 +1,10 @@
+T1	HMM 8 14	effect
+T2	HMM 330 344	anti-Xa levels
+T3	HMM 419 433	anti-Xa levels
+T4	HMM 776 790	Anti-Xa levels
+T5	HMM 901 947	bleeding and recurrent venous thromboembolism.
+T6	HMM 979 993	anti-Xa levels
+T7	HMM 1078 1082	died
+T8	HMM 1158 1177	mean anti-Xa levels
+T9	HMM 1408 1438	accumulation of anti-Xa effect
+T10	HMM 1486 1500	anti-Xa levels

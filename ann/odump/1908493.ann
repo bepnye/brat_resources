@@ -1,0 +1,10 @@
+T1	HMM 8 31	growth hormone response
+T2	HMM 545 554	GH levels
+T3	HMM 697 707	PRL values
+T4	HMM 747 767	TRH-induced PRL peak
+T5	HMM 909 926	PRL plasma values
+T6	HMM 1131 1156	GH and PRL plasma levels.
+T7	HMM 1190 1200	GH and PRL
+T8	HMM 1319 1383	GHRH- and the TRH-induced hormonal peaks and the subsequent fall
+T9	HMM 1498 1510	PRL/GH peaks
+T10	HMM 1569 1579	GH and PRL

@@ -1,0 +1,10 @@
+Aged
+Amiodarone
+Atrial Fibrillation
+Atrial Flutter
+Benzofurans
+Disopyramide
+Female
+Humans
+Male
+Random Allocation

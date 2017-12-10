@@ -1,0 +1,5 @@
+T1	HMM 220 249	rate and extent of absorption
+T2	HMM 631 645	Plasma samples
+T3	HMM 780 796	"test/reference"
+T4	HMM 856 891	C(max) AUC(0-t) and AUC(0-infinity)
+T5	HMM 1020 1035	safety profiles

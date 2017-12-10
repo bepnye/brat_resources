@@ -1,0 +1,12 @@
+T1	HMM 395 399	pain
+T2	HMM 461 482	post-thoracotomy pain
+T3	HMM 497 529	postoperative pulmonary function
+T4	HMM 802 833	Visual analog scale pain scores
+T5	HMM 843 940	with cough, and with movement of the ipsilateral arm, forced expiratory volume in 1 second (FEV1)
+T6	HMM 946 973	forced vital capacity (FVC)
+T7	HMM 1036 1046	Opioid use
+T8	HMM 1164 1168	FEV1
+T9	HMM 1212 1215	FVC
+T10	HMM 1314 1318	FEV1
+T11	HMM 1408 1419	pain scores
+T12	HMM 1449 1461	Opioid usage

@@ -1,0 +1,4 @@
+T1	HMM 773 800	gastrointestinal toxicities
+T2	HMM 830 926	Late Effect of Normal Tissue-Subjective Objective Management Analytic (LENT-SOMA) toxicity table
+T3	HMM 1200 1243	grade 2 or higher gastrointestinal toxicity
+T4	HMM 1343 1353	difference

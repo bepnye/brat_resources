@@ -1,0 +1,6 @@
+T1	HMM 204 231	satisfaction rate, efficacy
+T2	HMM 237 254	complication rate
+T3	HMM 795 920	Quality of the visualization of the uterine cavity, procedure time, complications, patient discomfort, and satisfaction rate.
+T4	HMM 951 982	abdominal and shoulder tip pain
+T5	HMM 1008 1027	vasovagal reactions
+T6	HMM 1083 1134	higher satisfaction rate and a lower operative time

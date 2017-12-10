@@ -1,0 +1,5 @@
+T1	HMM 438 476	incidence of nausea, vomiting, or both
+T2	HMM 529 538	incidence
+T3	HMM 619 637	nausea or vomiting
+T4	HMM 669 687	nausea or vomiting
+T5	HMM 821 839	nausea or vomiting

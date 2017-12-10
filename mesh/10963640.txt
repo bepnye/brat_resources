@@ -1,0 +1,15 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Breast Neoplasms
+Cyclophosphamide
+Disease-Free Survival
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Epirubicin
+Female
+Fluorouracil
+Humans
+Middle Aged
+Neoplasm Metastasis
+Survival Analysis

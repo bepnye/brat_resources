@@ -1,0 +1,10 @@
+T1	HMM 974 1012	costs for Medicaid PCS/waiver services
+T2	HMM 1023 1040	Medicaid services
+T3	HMM 1456 1502	expenditures for personal care/waiver services
+T4	HMM 1639 1678	costs for personal care/waiver services
+T5	HMM 1801 1821	total Medicaid costs
+T6	HMM 2080 2096	cost differences
+T7	HMM 2199 2223	cost shrink over time-to
+T8	HMM 2301 2315	Medicaid costs
+T9	HMM 2533 2553	receive any services
+T10	HMM 2636 2674	lower proportion of the amount of care

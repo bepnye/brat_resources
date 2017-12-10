@@ -1,0 +1,7 @@
+T1	HMM 0 34	Improved intraoperative management
+T2	HMM 38 58	anastomotic bleeding
+T3	HMM 170 183	effectiveness
+T4	HMM 271 291	anastomotic bleeding
+T5	HMM 533 550	immediate sealing
+T6	HMM 788 805	immediate sealing
+T7	HMM 1131 1147	ultimate sealing

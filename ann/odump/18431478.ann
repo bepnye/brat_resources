@@ -1,0 +1,9 @@
+T1	HMM 1274 1311	clinical failure on or before day- 4.
+T2	HMM 1396 1413	Clinical failures
+T3	HMM 1548 1557	Adherence
+T4	HMM 1647 1663	Clinical failure
+T5	HMM 1688 1705	placebo treatment
+T6	HMM 1754 1803	excess respiratory rate of >10 breaths per minute
+T7	HMM 1852 1873	vomiting at enrolment
+T8	HMM 1921 1955	history of use of broncho-dilators
+T9	HMM 2005 2018	non-adherence

@@ -1,0 +1,26 @@
+T1	Intervention 10 30	direct current pulse
+T2	Intervention 95 126	Han's Acupoint Nerve Stimulator
+T3	Intervention 247 272	direct current (DC) pulse
+T4	Intervention 285 316	Han's Acupoint Nerve Stimulator
+T5	Intervention 474 478	HANS
+T6	Intervention 486 533	patient controlled intravenous analgesia (PCIA)
+T7	Intervention 541 568	patient-controlled epidural
+T8	Intervention 580 585	PCEA)
+T9	Intervention 780 811	Han's Acupoint Nerve Stimulator
+T10	Intervention 865 876	Ondansetron
+T11	Intervention 900 908	tramadol
+T12	Intervention 998 1006	tramadol
+T13	Intervention 1017 1028	ondansetron
+T14	Intervention 1163 1174	ropivacaine
+T15	Intervention 1271 1282	Ropivacaine
+T16	Intervention 1294 1304	Sufentanil
+T17	Intervention 1370 1374	PCA)
+T18	Intervention 1792 1796	HANS
+T19	Intervention 1830 1834	PCEA
+T20	Intervention 1872 1876	PCIA
+T21	Intervention 1930 1934	PCEA
+T22	Intervention 2030 2034	PCEA
+T23	Intervention 2178 2182	PCIA
+T24	Intervention 2722 2726	PCEA
+T25	Intervention 2892 2896	HANS
+T26	Intervention 2940 2944	HANS

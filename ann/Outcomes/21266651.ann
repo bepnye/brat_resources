@@ -1,0 +1,20 @@
+T1	Outcomes 22 41	severe hypoglycemia
+T2	Outcomes 224 248	severe hypoglycemia (SH)
+T3	Outcomes 264 280	clinical utility
+T4	Outcomes 284 319	continuous glucose monitoring (CGM)
+T5	Outcomes 869 904	CGM-derived indices of hypoglycemia
+T6	Outcomes 979 986	SH rate
+T7	Outcomes 1031 1035	rate
+T8	Outcomes 1074 1076	SH
+T9	Outcomes 1115 1127	SH frequency
+T10	Outcomes 1160 1170	CGM values
+T11	Outcomes 1237 1272	the positive predictive value (PPV)
+T12	Outcomes 1309 1346	for hypoglycemic area under the curve
+T13	Outcomes 1351 1378	the low blood glucose index
+T14	Outcomes 1390 1396	by CGM
+T15	Outcomes 1398 1412	CONCLUSIONS SH
+T16	Outcomes 1476 1481	of SH
+T17	Outcomes 1493 1499	study.
+T18	Outcomes 1500 1525	CGM-measured hypoglycemia
+T19	Outcomes 1564 1571	with SH
+T20	Outcomes 1607 1614	the PPV

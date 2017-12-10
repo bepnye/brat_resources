@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Appendectomy
+Appendicitis
+Body Mass Index
+Body Weight
+Comorbidity
+Female
+Humans
+Laparoscopy
+Male
+Middle Aged
+Obesity
+Pain, Postoperative
+Postoperative Complications
+Prospective Studies
+Time Factors
+Treatment Outcome

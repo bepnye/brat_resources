@@ -1,0 +1,13 @@
+T1	Intervention 0 10	Mexiletine
+T2	Intervention 146 157	mexiletine,
+T3	Intervention 417 427	mexiletine
+T4	Intervention 499 652	receive mexiletine (maximum dose, 600 mg/day) or placebo for 6 weeks, followed by the alternative intervention for 6 weeks after a 1-week washout period.
+T5	Intervention 681 843	assessed using a visual analogue scale card in 19 patients who received at least 2 weeks of the drug, 16 of whom were crossed-over to receive the alternate agent.
+T6	Intervention 952 962	mexiletine
+T7	Intervention 1174 1184	mexiletine
+T8	Intervention 1217 1225	placebo,
+T9	Intervention 1287 1295	placebo,
+T10	Intervention 1452 1462	mexiletine
+T11	Intervention 1470 1478	placebo.
+T12	Intervention 1543 1554	mexiletine,
+T13	Intervention 1592 1611	placebo. Mexiletine

@@ -1,0 +1,15 @@
+T1	HMM 271 277	stress
+T2	HMM 282 297	immune response
+T3	HMM 742 757	Stress response
+T4	HMM 815 856	plasma cortisol and blood glucose levels.
+T5	HMM 857 872	Immune function
+T6	HMM 899 929	immunoglobulin A (IgA) levels.
+T7	HMM 930 1064	Patients' postoperative pain, anxiety, blood pressure (BP), heart rate (HR) and oxygen saturation were also studied as stress markers.
+T8	HMM 1123 1140	level of cortisol
+T9	HMM 1328 1344	anxiety and pain
+T10	HMM 1363 1371	morphine
+T11	HMM 1473 1481	morphine
+T12	HMM 1578 1582	pain
+T13	HMM 1655 1703	IgA, blood glucose, BP, HR and oxygen saturation
+T14	HMM 1862 1875	anxiety, pain
+T15	HMM 1880 1901	morphine consumption.

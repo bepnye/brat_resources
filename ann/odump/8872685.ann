@@ -1,0 +1,12 @@
+T1	HMM 39 61	splanchnic oxygenation
+T2	HMM 147 226	hepatic venous oxygen saturation (ShvO2) and splanchnic oxygen (O2) extraction.
+T3	HMM 1040 1246	hemodynamic parameters, arterial (SaO2), mixed venous (SvO2), and hepatic venous oxygen saturations, systemic and splanchnic O2 extraction, arterial, mixed venous, and hepatic venous lactate concentrations.
+T4	HMM 1247 1299	Cardiac output (CO) and mean arterial pressure (MAP)
+T5	HMM 1338 1376	SaO2, SvO2, and systemic O2 extraction
+T6	HMM 1495 1500	ShvO2
+T7	HMM 1573 1578	ShvO2
+T8	HMM 1604 1628	splanchnic O2 extraction
+T9	HMM 1715 1720	ShvO2
+T10	HMM 1755 1775	splanchnic perfusion
+T11	HMM 1810 1820	CO and MAP
+T12	HMM 1870 1890	splanchnic perfusion

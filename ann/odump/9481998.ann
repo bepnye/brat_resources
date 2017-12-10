@@ -1,0 +1,8 @@
+T1	HMM 89 110	pain-relieving effect
+T2	HMM 144 178	temporomandibular (TMJ) joint pain
+T3	HMM 734 766	pain levels and pain sensitivity
+T4	HMM 786 814	visual analogue scales (VAS)
+T5	HMM 819 849	pressure pain threshold (PPT).
+T6	HMM 875 893	post-treatment VAS
+T7	HMM 926 944	post-treatment PPT
+T8	HMM 1113 1117	pain

@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aged
+Brain Injuries
+Female
+Humans
+Internationality
+Male
+Middle Aged
+Outcome Assessment (Health Care)
+Prognosis
+Reproducibility of Results
+Risk Assessment
+Risk Factors
+Sensitivity and Specificity
+Treatment Outcome

@@ -1,0 +1,14 @@
+T1	HMM 42 57	thromboembolism
+T2	HMM 732 748	ischaemic stroke
+T3	HMM 753 770	systemic embolism
+T4	HMM 1087 1118	absolute rate of primary events
+T5	HMM 1161 1188	primary event rate per year
+T6	HMM 1275 1306	absolute rate of primary events
+T7	HMM 1505 1536	absolute rate of primary events
+T8	HMM 1579 1606	primary event rate per year
+T9	HMM 1698 1738	rate of all stroke with residual deficit
+T10	HMM 1902 1918	ischaemic stroke
+T11	HMM 1965 1983	absolute reduction
+T12	HMM 1987 1998	stroke rate
+T13	HMM 2069 2083	rate of stroke
+T14	HMM 2133 2147	rate of stroke

@@ -1,0 +1,14 @@
+T1	Treatment 0 8	Afatinib
+T2	Treatment 16 28	methotrexate
+T3	Treatment 448 456	Afatinib
+T4	Treatment 596 604	afatinib
+T5	Treatment 619 631	methotrexate
+T6	Treatment 1316 1397	EGFR-targeted antibody therapy (but not EGFR-targeted tyrosine-kinase inhibitors)
+T7	Treatment 1476 1551	oral afatinib (40 mg/day) or intravenous methotrexate (40 mg/m(2) per week)
+T8	Treatment 2344 2352	afatinib
+T9	Treatment 2364 2377	methotrexate.
+T10	Treatment 2475 2487	the afatinib
+T11	Treatment 2502 2518	the methotrexate
+T12	Treatment 3046 3057	in 44 (14%)
+T13	Treatment 3087 3102	and 18 (11%) of
+T14	Treatment 3134 3148	INTERPRETATION

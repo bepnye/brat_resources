@@ -1,0 +1,21 @@
+Adolescent
+Adult
+Aged
+Anticarcinogenic Agents
+Child
+Child, Preschool
+Combined Modality Therapy
+Dose-Response Relationship, Drug
+Dose-Response Relationship, Radiation
+Early Termination of Clinical Trials
+Humans
+Infant
+Methoxsalen
+Middle Aged
+Mycosis Fungoides
+PUVA Therapy
+Photosensitizing Agents
+Skin Neoplasms
+Tetrahydronaphthalenes
+Treatment Outcome
+Young Adult

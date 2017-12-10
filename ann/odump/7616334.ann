@@ -1,0 +1,6 @@
+T1	HMM 19 52	ambulatory opioid detoxification:
+T2	HMM 114 125	feasibility
+T3	HMM 129 186	primary care-based ambulatory opioid detoxification (AOD)
+T4	HMM 1404 1439	mean admission opioid craving score
+T5	HMM 1464 1488	withdrawal symptom score
+T6	HMM 1536 1540	AODs

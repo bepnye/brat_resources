@@ -1,0 +1,12 @@
+T1	HMM 314 346	reflexes and breathing responses
+T2	HMM 598 873	sleep state (active and quiet sleep by electroencephalogram, eye movements, breathing, and behavior), cardiorespiratory measurements (nasal airflow, chest wall movements, heart rate, and oxygen saturation), swallowing, and esophageal activity (solid state pressure catheter).
+T3	HMM 1055 1065	swallowing
+T4	HMM 1308 1318	swallowing
+T5	HMM 1329 1336	arousal
+T6	HMM 1413 1437	swallowing and breathing
+T7	HMM 1519 1531	swallows/min
+T8	HMM 1547 1559	breaths/min;
+T9	HMM 1667 1674	arousal
+T10	HMM 1911 1926	swallowing rate
+T11	HMM 1994 2002	arousal.
+T12	HMM 2020 2046	airway protective reflexes

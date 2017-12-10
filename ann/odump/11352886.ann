@@ -1,0 +1,7 @@
+T1	HMM 43 55	embolization
+T2	HMM 98 131	platelet aggregation and adhesion
+T3	HMM 460 481	antiplatelet efficacy
+T4	HMM 1151 1211	number of Doppler embolic signals in the L-arginine and GSNO
+T5	HMM 1250 1275	number of embolic signals
+T6	HMM 1388 1416	The reduction in the signals
+T7	HMM 1497 1530	attenuate Doppler embolic signals

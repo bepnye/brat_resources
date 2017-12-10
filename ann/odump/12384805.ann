@@ -1,0 +1,6 @@
+T1	HMM 487 546	determination of the duration of the relapse-free interval.
+T2	HMM 757 799	relapse-free interval or overall survival.
+T3	HMM 886 916	number of invaded lymph nodes.
+T4	HMM 968 990	estimated relapse rate
+T5	HMM 1045 1061	overall survival
+T6	HMM 1209 1262	duration of disease-free survival or overall survival

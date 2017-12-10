@@ -1,0 +1,8 @@
+T1	Treatment 136 141	usual
+T2	Treatment 146 160	extended care.
+T3	Treatment 238 256	nutrition services
+T4	Treatment 402 407	usual
+T5	Treatment 412 425	extended care
+T6	Treatment 497 552	receive usual nutrition care or extended nutrition care
+T7	Treatment 633 826	usual care patients received no further nutrition support, whereas extended care patients received telephone dietary counselling from the same dietitian for up to 100 days post-transplantation
+T8	Treatment 1769 1822	were satisfied with usual and extended nutrition care

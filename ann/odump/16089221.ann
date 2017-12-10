@@ -1,0 +1,9 @@
+T1	HMM 90 108	analgesic efficacy
+T2	HMM 166 201	post-tonsillectomy pain management.
+T3	HMM 497 520	pain levels twice daily
+T4	HMM 529 551	visual analogue scale.
+T5	HMM 737 768	Mean postoperative days of pain
+T6	HMM 841 877	Mean postoperative days of analgesic
+T7	HMM 975 999	postoperative hemorrhage
+T8	HMM 1101 1117	analgesic effect
+T9	HMM 1143 1173	post-tonsillectomy pain relief

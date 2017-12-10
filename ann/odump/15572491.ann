@@ -1,0 +1,9 @@
+T1	HMM 31 41	blood loss
+T2	HMM 154 162	bleeding
+T3	HMM 535 556	Postpartum hemorrhage
+T4	HMM 572 582	blood loss
+T5	HMM 1079 1113	incidence of postpartum hemorrhage
+T6	HMM 1202 1227	mean estimated blood loss
+T7	HMM 1270 1310	mean minutes of the third stage of labor
+T8	HMM 1416 1590	Hemoglobin difference before and after delivery, need for second or third uterotonic agent, and all measured neonatal variables including birth weights, and umbilical cord pH
+T9	HMM 1717 1739	postpartum hemorrhage.

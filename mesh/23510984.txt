@@ -1,0 +1,26 @@
+Adenocarcinoma
+Adult
+Aged
+Aged, 80 and over
+Antibodies, Monoclonal
+Antineoplastic Combined Chemotherapy Protocols
+Camptothecin
+Colorectal Neoplasms
+Disease-Free Survival
+Double-Blind Method
+Female
+Fluorouracil
+Genotype
+Humans
+Insulin-Like Growth Factor Binding Proteins
+Kaplan-Meier Estimate
+Leucovorin
+Liver Neoplasms
+Male
+Middle Aged
+Proportional Hazards Models
+Proto-Oncogene Proteins
+Receptors, IgG
+Treatment Outcome
+Tumor Markers, Biological
+ras Proteins

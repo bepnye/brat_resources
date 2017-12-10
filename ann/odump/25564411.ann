@@ -1,0 +1,7 @@
+T1	HMM 570 589	oncologic prognoses
+T2	HMM 900 927	disease-free survival rates
+T3	HMM 1080 1102	overall survival rates
+T4	HMM 1250 1292	disease-free survival and overall survival
+T5	HMM 1439 1465	surgical complication rate
+T6	HMM 1706 1716	recurrence
+T7	HMM 1733 1742	prognosis

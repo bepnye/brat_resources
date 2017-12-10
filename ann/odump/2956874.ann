@@ -1,0 +1,8 @@
+T1	HMM 76 129	initial and final intravenous hemodynamic evaluation.
+T2	HMM 292 308	Hemodynamic data
+T3	HMM 735 748	Cardiac index
+T4	HMM 806 830	pulmonary wedge pressure
+T5	HMM 885 913	mean arterial blood pressure
+T6	HMM 954 982	systemic vascular resistance
+T7	HMM 1030 1040	Heart rate
+T8	HMM 1326 1330	CHF.

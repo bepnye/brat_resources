@@ -1,0 +1,8 @@
+T1	HMM 173 183	CD4 counts
+T2	HMM 634 649	total WBC count
+T3	HMM 662 683	% change in CD4 count
+T4	HMM 700 726	% change in CD4/CD8 ratios
+T5	HMM 763 834	absolute CD4 count, absolute CD4/CD8 ratio, and total and B-lymphocytes
+T6	HMM 951 959	toxicity
+T7	HMM 1027 1051	immunostimulatory effect
+T8	HMM 1188 1210	HIV-infected patients.

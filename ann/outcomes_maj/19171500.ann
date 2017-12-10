@@ -1,0 +1,14 @@
+T1	Outcomes 250 258	efficacy
+T2	Outcomes 263 269	safety
+T3	Outcomes 449 478	periodic limb movements (PLM)
+T4	Outcomes 483 499	sleep parameters
+T5	Outcomes 517 533	polysomnography,
+T6	Outcomes 567 584	sleep disturbance
+T7	Outcomes 597 609	RLS severity
+T8	Outcomes 884 919	PLM per hour in bed asleep or awake
+T9	Outcomes 1154 1186	PLM while asleep and while awake
+T10	Outcomes 1283 1297	median for PLM
+T11	Outcomes 1463 1483	Median sleep latency
+T12	Outcomes 1608 1631	Median total sleep time
+T13	Outcomes 1966 1981	adverse events,
+T14	Outcomes 2014 2032	daytime somnolence

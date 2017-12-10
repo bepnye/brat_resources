@@ -1,0 +1,4 @@
+T1	HMM 109 117	efficacy
+T2	HMM 968 990	return of sinus rhythm
+T3	HMM 1060 1088	termination of persistent AF
+T4	HMM 1252 1264	mean voltage

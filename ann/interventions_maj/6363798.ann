@@ -1,0 +1,11 @@
+T1	Intervention 36 48	indomethacin
+T2	Intervention 101 113	indomethacin
+T3	Intervention 290 303	indomethacin,
+T4	Intervention 347 354	placebo
+T5	Intervention 502 523	placebo, indomethacin
+T6	Intervention 622 634	indomethacin
+T7	Intervention 698 705	placebo
+T8	Intervention 719 731	indomethacin
+T9	Intervention 806 818	indomethacin
+T10	Intervention 1200 1208	placebo.
+T11	Intervention 1591 1603	indomethacin

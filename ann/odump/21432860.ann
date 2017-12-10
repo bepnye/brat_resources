@@ -1,0 +1,12 @@
+T1	HMM 63 75	renal injury
+T2	HMM 427 439	renal injury
+T3	HMM 522 535	AGE-RAGE axis
+T4	HMM 615 640	renoprotective properties
+T5	HMM 682 735	serum levels of AGE and soluble form of RAGE (sRAGE).
+T6	HMM 981 995	AGE-RAGE axis.
+T7	HMM 1187 1198	Proteinuria
+T8	HMM 1230 1262	circulating AGE and sRAGE levels
+T9	HMM 1328 1365	blood pressure (BP)-lowering effects.
+T10	HMM 1400 1513	glucose, glycated hemoglobin, lipid levels, and estimated glomerular filtration rate, treatment with azelnidipine
+T11	HMM 1545 1641	circulating AGE, sRAGE, proteinuria, and urinary levels of liver-type fatty acid binding protein
+T12	HMM 1776 1801	renoprotective properties

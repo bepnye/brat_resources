@@ -1,0 +1,5 @@
+T1	HMM 174 200	dopaminergic (DA) function
+T2	HMM 308 325	clinical efficacy
+T3	HMM 598 641	motor hyperactivity and attention symptoms.
+T4	HMM 838 853	sedative effect
+T5	HMM 890 906	stimulant effect

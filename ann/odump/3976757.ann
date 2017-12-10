@@ -1,0 +1,3 @@
+T1	HMM 456 484	rate of premature deliveries
+T2	HMM 621 659	perinatal death or fetal malformations
+T3	HMM 681 698	mean birth weight

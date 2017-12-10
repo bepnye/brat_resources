@@ -1,0 +1,4 @@
+T1	HMM 741 760	CHF hospitalisation
+T2	HMM 841 850	mortality
+T3	HMM 901 921	CHF hospitalizations
+T4	HMM 1021 1064	Days of hospital stay for CHF exacerbations

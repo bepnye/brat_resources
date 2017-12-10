@@ -1,0 +1,5 @@
+T1	HMM 29 48	efficacy and safety
+T2	HMM 761 798	was in-segment binary restenosis rate
+T3	HMM 858 1060	included target vessel failure (TVF; including cardiac death, myocardial infarction, and target vessel revascularization) and Academic Research Consortium-defined definite/probable stent thrombosis (ST)
+T4	HMM 1143 1151	endpoint
+T5	HMM 1393 1404	the rate of

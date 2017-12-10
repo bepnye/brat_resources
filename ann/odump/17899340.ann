@@ -1,0 +1,8 @@
+T1	HMM 29 42	remember more
+T2	HMM 192 210	retrieval success.
+T3	HMM 405 424	correct cued-recall
+T4	HMM 446 466	incorrect responses.
+T5	HMM 721 770	recall of both visual detail and auditory details
+T6	HMM 805 829	recall of false details.
+T7	HMM 921 930	retrieval
+T8	HMM 1020 1038	eyewitness recall.

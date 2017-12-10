@@ -1,0 +1,11 @@
+Adult
+Anesthetics, Intravenous
+Female
+Humans
+Injections, Intravenous
+Lidocaine
+Male
+Pain
+Phlebotomy
+Propofol
+Single-Blind Method

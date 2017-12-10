@@ -1,0 +1,8 @@
+T1	HMM 0 14	Sedation depth
+T2	HMM 110 154	intraoperative Bispectral Index (BIS) values
+T3	HMM 285 304	hip fracture repair
+T4	HMM 401 409	survival
+T5	HMM 465 474	mortality
+T6	HMM 586 602	1-year mortality
+T7	HMM 815 831	1-year mortality
+T8	HMM 998 1061	reduced mortality after light sedation during spinal anesthesia

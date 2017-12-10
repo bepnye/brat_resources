@@ -1,0 +1,8 @@
+T1	HMM 44 58	blood pressure
+T2	HMM 279 301	blood pressure control
+T3	HMM 970 1057	baseline and quarterly systolic blood pressure (SBP) and diastolic blood pressure (DBP)
+T4	HMM 1202 1217	blood pressures
+T5	HMM 1306 1317	SBP and DBP
+T6	HMM 1489 1497	Mean SBP
+T7	HMM 1719 1727	Mean DBP
+T8	HMM 2035 2049	blood pressure

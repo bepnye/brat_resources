@@ -1,0 +1,11 @@
+T1	HMM 862 892	effectiveness and tolerability
+T2	HMM 1629 1643	blood pressure
+T3	HMM 1796 1832	Trough blood pressure and heart rate
+T4	HMM 2034 2046	tolerability
+T5	HMM 2203 2208	SiDBP
+T6	HMM 2270 2301	sitting systolic blood pressure
+T7	HMM 3204 3229	Mean (SD) SiSBP and SiDBP
+T8	HMM 3514 3525	SiSBP/SiDBP
+T9	HMM 3583 3603	SiDBP response rates
+T10	HMM 3784 3807	clinical adverse events
+T11	HMM 3963 3984	dizziness and dyspnea

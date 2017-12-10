@@ -1,0 +1,10 @@
+T1	HMM 78 112	nocturnal growth hormone secretion
+T2	HMM 117 133	slow-wave sleep.
+T3	HMM 438 459	slow-wave sleep (SWS)
+T4	HMM 464 467	GH.
+T5	HMM 952 954	GH
+T6	HMM 1085 1109	Plasma GH concentrations
+T7	HMM 1183 1196	Effectiveness
+T8	HMM 1287 1313	suppression of GH response
+T9	HMM 1383 1386	SWS
+T10	HMM 1488 1504	sleep parameters

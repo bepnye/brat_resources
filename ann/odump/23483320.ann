@@ -1,0 +1,15 @@
+T1	HMM 37 78	postoperative pain and local inflammation
+T2	HMM 199 207	efficacy
+T3	HMM 666 673	points.
+T4	HMM 674 682	Efficacy
+T5	HMM 696 876	by total amount of morphine consumed, pain intensity, range of motion (ROM), the concentration change of PGE-2 and IL-6 of joint fluid, and postoperative nausea and vomiting (PONV)
+T6	HMM 941 954	less morphine
+T7	HMM 980 996	less pain scores
+T8	HMM 1025 1033	more ROM
+T9	HMM 1098 1114	postoperatively.
+T10	HMM 1115 1159	The concentration of PGE-2 and IL-6 of joint
+T11	HMM 1258 1274	postoperatively.
+T12	HMM 1275 1296	The overall incidence
+T13	HMM 1499 1542	improved postoperative analgesic management
+T14	HMM 1577 1607	requirement, lower pain scores
+T15	HMM 1621 1674	significantly lowered local inflammation factors PGE2

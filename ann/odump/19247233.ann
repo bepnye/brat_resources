@@ -1,0 +1,13 @@
+T1	HMM 45 63	healing properties
+T2	HMM 201 219	healing properties
+T3	HMM 773 800	Evaluation of wound healing
+T4	HMM 898 926	Visible re-epithelialisation
+T5	HMM 978 1000	wound area had closed.
+T6	HMM 1090 1107	cosmetic outcomes
+T7	HMM 1210 1226	high mean scores
+T8	HMM 1255 1291	Histological examination of biopsies
+T9	HMM 1346 1368	dermis remained intact
+T10	HMM 1585 1608	performance of plasters
+T11	HMM 1800 1807	healing
+T12	HMM 1819 1836	healing outcomes.
+T13	HMM 1948 1999	re-epithelialisation and overall cosmetic outcomes.

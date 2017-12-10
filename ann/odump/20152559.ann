@@ -1,0 +1,7 @@
+T1	HMM 355 374	safety and efficacy
+T2	HMM 1028 1182	primary end point was noninferiority of 9-month target vessel failure defined as cardiac death, myocardial infarction, or target vessel revascularization.
+T3	HMM 1321 1342	target vessel failure
+T4	HMM 1425 1462	periprocedural myocardial infarctions
+T5	HMM 1587 1678	cardiac death, myocardial infarction, target vessel revascularization, or stent thrombosis.
+T6	HMM 1709 1750	binary angiographic in-segment restenosis
+T7	HMM 1850 1881	target lesion revascularization

@@ -1,0 +1,22 @@
+T1	HMM 315 377	pain, disability, health status, sickness absence, reassurance
+T2	HMM 391 403	satisfaction
+T3	HMM 407 413	belief
+T4	HMM 1516 1812	Roland adaptation of the Sickness Impact Profile, visual analogue pain scale, health status scale, EuroQol, use of primary and secondary care services, and physical and complementary therapies, sickness absence, medication use, patient satisfaction, reassurance and belief in value of radiography
+T5	HMM 1930 1943	low back pain
+T6	HMM 2049 2062	health status
+T7	HMM 2110 2116	health
+T8	HMM 2120 2137	functional status
+T9	HMM 2187 2226	consulted the general practitioner (GP)
+T10	HMM 2333 2367	any other services, medication use
+T11	HMM 2371 2387	sickness absence
+T12	HMM 2409 2433	serious spinal pathology
+T13	HMM 2502 2529	discovertebral degeneration
+T14	HMM 2534 2550	normal findings.
+T15	HMM 2640 2652	Satisfaction
+T16	HMM 2781 2788	worried
+T17	HMM 2798 2807	reassured
+T18	HMM 3225 3233	outcomes
+T19	HMM 3392 3405	economic loss
+T20	HMM 3567 3596	functioning, severity of pain
+T21	HMM 3600 3621	overall health status
+T22	HMM 3661 3673	GP workload.

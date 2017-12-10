@@ -1,0 +1,4 @@
+T1	HMM 762 824	wound healing, water loss, inflammation, and pain alleviation.
+T2	HMM 837 862	transepidermal water loss
+T3	HMM 1024 1042	secondary efficacy
+T4	HMM 1151 1164	burn injuries

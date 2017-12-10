@@ -1,0 +1,16 @@
+T1	HMM 44 74	Helicobacter pylori infection.
+T2	HMM 137 157	inflammatory changes
+T3	HMM 655 675	histopathology score
+T4	HMM 712 728	gastric lesions.
+T5	HMM 822 843	histopathology scores
+T6	HMM 952 960	H pylori
+T7	HMM 1057 1075	free of infection.
+T8	HMM 1118 1152	regression in histopathology score
+T9	HMM 1184 1207	H pylori negative time.
+T10	HMM 1226 1234	H pylori
+T11	HMM 1259 1269	regression
+T12	HMM 1285 1296	progression
+T13	HMM 1358 1392	rate of healing of gastric lesions
+T14	HMM 1418 1441	years free of infection
+T15	HMM 1517 1546	Preneoplastic gastric lesions
+T16	HMM 1749 1768	H pylori infection.

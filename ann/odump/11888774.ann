@@ -1,0 +1,9 @@
+T1	HMM 266 274	survival
+T2	HMM 1001 1024	median observation time
+T3	HMM 1105 1124	Kaplan-Meier curves
+T4	HMM 1259 1284	no lymph node involvement
+T5	HMM 1514 1541	nodal spread of tumor cells
+T6	HMM 1776 1794	long-term survival
+T7	HMM 1942 1967	improved overall survival
+T8	HMM 2063 2071	survival
+T9	HMM 2101 2137	locoregional spread of cancer cells.

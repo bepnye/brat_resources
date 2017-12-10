@@ -1,0 +1,9 @@
+T1	HMM 18 41	cesarean wound healing;
+T2	HMM 114 121	healing
+T3	HMM 274 300	healing of cesarean wound.
+T4	HMM 665 678	Wound healing
+T5	HMM 747 759	REEDA scale.
+T6	HMM 1047 1114	concerning body mass index, heart rate, and systolic blood pressure
+T7	HMM 1208 1260	the wound healing score 24 hours after the operation
+T8	HMM 1313 1336	the wound healing score
+T9	HMM 1698 1714	positive effects

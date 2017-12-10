@@ -1,0 +1,11 @@
+T1	HMM 39 49	QT changes
+T2	HMM 139 162	cardiac repolarisation.
+T3	HMM 242 253	ECG changes
+T4	HMM 465 496	ECG and arterial blood pressure
+T5	HMM 526 537	QT interval
+T6	HMM 647 692	Transmural dispersion of repolarisation (TDR)
+T7	HMM 757 766	QTc value
+T8	HMM 838 864	QTcb, QTcf and QTcF values
+T9	HMM 1032 1035	TDR
+T10	HMM 1110 1113	QTc
+T11	HMM 1186 1190	TDR.

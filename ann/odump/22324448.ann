@@ -1,0 +1,10 @@
+T1	HMM 27 35	efficacy
+T2	HMM 659 696	resolution rate of diarrhoea at 72 h.
+T3	HMM 703 839	duration of diarrhoea, daily stool outputs, stool consistency, working days lost by parents, adjunctive medications, and hospitalisation
+T4	HMM 1010 1038	Resolution rate of diarrhoea
+T5	HMM 1207 1228	duration of diarrhoea
+T6	HMM 1286 1305	daily stool outputs
+T7	HMM 1353 1370	stool consistency
+T8	HMM 1474 1526	Rate of parents that missed at least one working day
+T9	HMM 1557 1608	rate of children that needed adjunctive medications
+T10	HMM 1640 1655	hospitalisation

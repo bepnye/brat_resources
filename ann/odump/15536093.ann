@@ -1,0 +1,10 @@
+T1	HMM 706 714	Survival
+T2	HMM 961 982	presumptive diagnosis
+T3	HMM 1057 1075	hospital admission
+T4	HMM 1139 1166	total patient-hospital days
+T5	HMM 1196 1214	Actuarial survival
+T6	HMM 1245 1281	survival free from recurrent syncope
+T7	HMM 1461 1477	diagnostic yield
+T8	HMM 1518 1536	hospital admission
+T9	HMM 1541 1570	total length of hospital stay
+T10	HMM 1621 1630	mortality

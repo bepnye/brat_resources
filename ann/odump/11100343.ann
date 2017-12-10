@@ -1,0 +1,8 @@
+T1	HMM 211 219	efficacy
+T2	HMM 266 311	acute non-variceal gastrointestinal bleeding.
+T3	HMM 859 894	mean blood transfusion requirements
+T4	HMM 1113 1134	time of bleeding stop
+T5	HMM 1282 1316	rebleeding and the mortality rates
+T6	HMM 1424 1433	effective
+T7	HMM 1465 1509	acute non-variceal gastrointestinal bleeding
+T8	HMM 1577 1595	additional benefit

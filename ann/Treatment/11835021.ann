@@ -1,0 +1,10 @@
+T1	Treatment 4 35	Low Energy Safety Study (LESS):
+T2	Treatment 187 234	implantable cardioverter defibrillators (ICDs).
+T3	Treatment 239 269	Low Energy Safety Study (LESS)
+T4	Treatment 417 455	defibrillation threshold testing (DFT)
+T5	Treatment 471 482	ICD implant
+T6	Treatment 602 772	initial 2 shocks for ventricular fibrillation conversion programmed at 2 energy steps above DFT++ (typically 4-6 J, maximum 10 J) with subsequent shocks at maximum energy
+T7	Treatment 793 833	all shocks programmed at maximum energy.
+T8	Treatment 1066 1071	DFT++
+T9	Treatment 1362 1381	antiarrhythmic drug
+T10	Treatment 1633 1637	LESS

@@ -1,0 +1,10 @@
+T1	HMM 50 91	transthoracic echocardiographic detection
+T2	HMM 95 116	patent foramen ovale.
+T3	HMM 225 263	precordial echocardiographic detection
+T4	HMM 502 516	atrial defects
+T5	HMM 1300 1372	Catheterization and echocardiographic assessment of patent foramen ovale
+T6	HMM 1411 1431	Patent foramen ovale
+T7	HMM 1622 1665	intensity of left ventricular opacification
+T8	HMM 1814 1823	sensitive
+T9	HMM 1857 1891	assessment of patent foramen ovale
+T10	HMM 2013 2094	ability of precordial contrast echocardiography to diagnose patent foramen ovale.

@@ -1,0 +1,7 @@
+T1	Intervention 224 250	sirolimus, corticosteroid,
+T2	Intervention 255 277	cyclosporine reduction
+T3	Intervention 468 494	standard-dose cyclosporine
+T4	Intervention 496 501	sCsA,
+T5	Intervention 514 539	reduced-dose cyclosporine
+T6	Intervention 541 546	rCsA,
+T7	Intervention 584 614	sirolimus and corticosteroids.

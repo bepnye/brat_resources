@@ -1,0 +1,8 @@
+T1	HMM 407 424	walking capacity.
+T2	HMM 784 810	pain-free walking distance
+T3	HMM 820 848	claudication distance (ICD)]
+T4	HMM 887 936	pain-free and the absolute walking distance (ACD)
+T5	HMM 1044 1065	claudication distance
+T6	HMM 1323 1353	initial claudication distance)
+T7	HMM 1406 1425	Functional recovery
+T8	HMM 1803 1819	walking capacity

@@ -1,0 +1,16 @@
+Adult
+Aged
+Amlodipine
+Azetidinecarboxylic Acid
+Calcium Channel Blockers
+Coronary Artery Disease
+Dihydropyridines
+Disease Progression
+Double-Blind Method
+Endpoint Determination
+Female
+Humans
+Hypertension
+Male
+Middle Aged
+Young Adult

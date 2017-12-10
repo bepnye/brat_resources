@@ -1,0 +1,7 @@
+T1	HMM 396 424	overall survival probability
+T2	HMM 579 589	recurrence
+T3	HMM 669 690	multivariate analysis
+T4	HMM 814 831	nodal involvement
+T5	HMM 872 888	age distribution
+T6	HMM 917 941	sizofiran administration
+T7	HMM 974 993	primary tumour size

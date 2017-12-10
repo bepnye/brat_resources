@@ -1,0 +1,18 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents, Hormonal
+Asian Continental Ancestry Group
+Breast Neoplasms
+Chemotherapy, Adjuvant
+Disease-Free Survival
+Double-Blind Method
+Female
+Humans
+Kaplan-Meier Estimate
+Middle Aged
+Neoadjuvant Therapy
+Nitriles
+Postoperative Period
+Tamoxifen
+Triazoles

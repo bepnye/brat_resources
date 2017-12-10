@@ -1,0 +1,14 @@
+T1	HMM 521 550	efficacy and the tolerability
+T2	HMM 971 989	cholesterol levels
+T3	HMM 1050 1065	diastolic blood
+T4	HMM 1323 1348	cholesterol plasma levels
+T5	HMM 1367 1370	HDL
+T6	HMM 1394 1398	LDL.
+T7	HMM 1399 1405	APO-A1
+T8	HMM 1502 1522	plasma triglycerides
+T9	HMM 1545 1563	plasma cholesterol
+T10	HMM 1600 1603	HDL
+T11	HMM 1627 1631	LDL.
+T12	HMM 1848 1899	total cholesterol and LDL-cholesterol plasma levels
+T13	HMM 1932 1949	HDL plasma levels
+T14	HMM 2037 2080	total cholesterol or cholesterol fractions.

@@ -1,0 +1,12 @@
+T1	HMM 939 956	Febrile reactions
+T2	HMM 1204 1209	fever
+T3	HMM 1217 1225	headache
+T4	HMM 1235 1247	bullous skin
+T5	HMM 1268 1285	risk of mortality
+T6	HMM 1507 1511	died
+T7	HMM 1570 1611	overall rate of encephalopathic syndromes
+T8	HMM 1731 1777	risk of developing an encephalopathic syndrome
+T9	HMM 1874 1891	febrile reactions
+T10	HMM 1903 1911	headache
+T11	HMM 1922 1939	bullous eruptions
+T12	HMM 1953 1973	systolic hypotension

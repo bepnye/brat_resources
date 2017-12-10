@@ -1,0 +1,10 @@
+T1	HMM 25 42	clinical outcomes
+T2	HMM 194 308	major adverse cardiovascular event (MACE) (death, nonfatal myocardial infarction, target lesion revascularization)
+T3	HMM 317 336	predictors of MACEs
+T4	HMM 686 700	rates of MACEs
+T5	HMM 776 801	definite stent thrombosis
+T6	HMM 1011 1032	independent predictor
+T7	HMM 1036 1040	MACE
+T8	HMM 1120 1157	target vessel revascularization (TVR)
+T9	HMM 1247 1288	rates of MACEs, TVR, and stent thrombosis
+T10	HMM 1403 1416	MACEs and TVR

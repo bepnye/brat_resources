@@ -1,0 +1,16 @@
+Adult
+Aged
+Coronary Disease
+Drugs, Chinese Herbal
+Female
+Heart Failure
+Humans
+Male
+Middle Aged
+Panax
+Phytotherapy
+Plants, Medicinal
+Pulmonary Heart Disease
+Qi
+Rheumatic Heart Disease
+Yang Deficiency

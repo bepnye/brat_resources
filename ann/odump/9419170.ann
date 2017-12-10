@@ -1,0 +1,5 @@
+T1	HMM 30 53	cytomegalovirus viremia
+T2	HMM 565 582	number of samples
+T3	HMM 686 713	PCR viremia and PCR viruria
+T4	HMM 863 866	CMV
+T5	HMM 1052 1063	PCR viremia

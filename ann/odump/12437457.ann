@@ -1,0 +1,13 @@
+T1	HMM 103 130	multiple actinic keratoses.
+T2	HMM 143 166	Actinic keratoses (AKs)
+T3	HMM 516 519	AK.
+T4	HMM 636 646	AK lesions
+T5	HMM 1376 1408	number and appearance of lesions
+T6	HMM 1465 1480	adverse effects
+T7	HMM 1549 1567	clinically cleared
+T8	HMM 1599 1616	partially cleared
+T9	HMM 1628 1637	Clearance
+T10	HMM 1881 1926	reduction in the size or number of AK lesions
+T11	HMM 2038 2124	erythema, edema, induration, vesicles, erosion, ulceration, excoriation, and scabbing.
+T12	HMM 2153 2162	tolerated
+T13	HMM 2393 2396	AK.

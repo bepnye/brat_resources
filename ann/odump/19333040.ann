@@ -1,0 +1,5 @@
+T1	HMM 0 15	Diverting stoma
+T2	HMM 325 344	diverting ileostomy
+T3	HMM 587 600	similar risks
+T4	HMM 926 966	The symptomatic anastomotic leakage rate
+T5	HMM 1118 1130	reoperations

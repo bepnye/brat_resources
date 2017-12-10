@@ -1,0 +1,12 @@
+T1	HMM 0 21	Fecal butyrate levels
+T2	HMM 242 263	human colonic health.
+T3	HMM 288 303	fecal variables
+T4	HMM 316 324	butyrate
+T5	HMM 580 597	Fecal SCFA levels
+T6	HMM 927 975	acetate, butyrate, and total SCFA concentrations
+T7	HMM 1086 1149	Individual and total fecal SCFA excretion, weight, and moisture
+T8	HMM 1229 1281	SCFA concentrations (except butyrate) and excretions
+T9	HMM 1322 1337	Butyrate levels
+T10	HMM 1435 1472	Fecal butyrate and ammonia excretions
+T11	HMM 1540 1561	fecal butyrate levels
+T12	HMM 1671 1689	colorectal health.

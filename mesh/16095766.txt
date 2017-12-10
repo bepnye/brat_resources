@@ -1,0 +1,24 @@
+Administration, Oral
+Adolescent
+Adult
+Animals
+Antibodies, Bacterial
+Antigens, Bacterial
+Disease Models, Animal
+Dysentery, Bacillary
+Enzyme-Linked Immunosorbent Assay
+Feces
+Fixatives
+Formaldehyde
+Guinea Pigs
+Humans
+Immunoglobulin A
+Immunoglobulin G
+Keratoconjunctivitis
+Lipopolysaccharides
+Male
+Middle Aged
+Placebos
+Shigella Vaccines
+Shigella sonnei
+Vaccines, Inactivated

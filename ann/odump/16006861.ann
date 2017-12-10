@@ -1,0 +1,13 @@
+T1	HMM 922 939	adrenal mass size
+T2	HMM 1078 1092	operative time
+T3	HMM 1127 1147	estimated blood loss
+T4	HMM 1160 1175	specimen weight
+T5	HMM 1188 1210	analgesic requirements
+T6	HMM 1223 1236	hospital stay
+T7	HMM 1256 1273	complication rate
+T8	HMM 1333 1346	open surgery.
+T9	HMM 1438 1451	convalescence
+T10	HMM 1594 1631	late complication (port site hernia).
+T11	HMM 1632 1641	Mortality
+T12	HMM 1837 1843	safely
+T13	HMM 1848 1859	effectively

@@ -1,0 +1,5 @@
+T1	HMM 437 448	natriuretic
+T2	HMM 498 506	diuretic
+T3	HMM 574 590	Body weight loss
+T4	HMM 694 704	Kaliuresis
+T5	HMM 877 946	serum electrolyte or creatinine concentrations, or in ammonia levels.

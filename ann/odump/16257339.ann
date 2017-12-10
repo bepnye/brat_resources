@@ -1,0 +1,10 @@
+T1	HMM 299 317	effect on survival
+T2	HMM 685 693	survival
+T3	HMM 806 814	survival
+T4	HMM 1032 1047	median survival
+T5	HMM 1381 1389	survival
+T6	HMM 1489 1504	median survival
+T7	HMM 1587 1602	median survival
+T8	HMM 1642 1651	tolerated
+T9	HMM 1768 1776	survival
+T10	HMM 1847 1855	survival

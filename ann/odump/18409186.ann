@@ -1,0 +1,12 @@
+T1	HMM 664 715	Descriptive statistics of DRE-outcome per PSA-range
+T2	HMM 855 939	suspicious DRE (PSA-level, biopsy indication, TRUS-outcome, prostate volume and age)
+T3	HMM 1113 1123	PSA levels
+T4	HMM 1128 1153	percentage suspicious DRE
+T5	HMM 1198 1211	percentage PC
+T6	HMM 1349 1352	DRE
+T7	HMM 1469 1471	PC
+T8	HMM 1524 1538	suspicious DRE
+T9	HMM 1596 1598	PC
+T10	HMM 1687 1690	DRE
+T11	HMM 1792 1795	DRE
+T12	HMM 1862 1864	PC

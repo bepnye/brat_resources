@@ -1,0 +1,8 @@
+T1	Intervention 14 54	intrathecal bupivacaine, levobupivacaine
+T2	Intervention 300 334	intrathecal hyperbaric bupivacaine
+T3	Intervention 346 369	intrathecal bupivacaine
+T4	Intervention 380 407	intrathecal levobupivacaine
+T5	Intervention 437 446	fentanyl,
+T6	Intervention 689 725	hyperbaric bupivacaine plus fentanyl
+T7	Intervention 763 788	bupivacaine plus fentanyl
+T8	Intervention 830 859	levobupivacaine plus fentanyl

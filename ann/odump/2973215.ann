@@ -1,0 +1,4 @@
+T1	HMM 878 887	mortality
+T2	HMM 895 976	hospitalization, progression to Q waves, reinfarction by CK-MB criteria or angina
+T3	HMM 1167 1179	reinfarction
+T4	HMM 1339 1369	risk of death and reinfarction

@@ -1,0 +1,7 @@
+T1	HMM 1042 1065	local relapse-free rate
+T2	HMM 1078 1104	regional relapse-free rate
+T3	HMM 1129 1145	overall survival
+T4	HMM 1193 1243	surgical resection following radiotherapy failure.
+T5	HMM 1283 1303	overall survival was
+T6	HMM 1350 1377	surgical complication rate.
+T7	HMM 1378 1409	Serious late radiation toxicity

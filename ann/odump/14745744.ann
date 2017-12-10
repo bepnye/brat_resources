@@ -1,0 +1,5 @@
+T1	HMM 551 595	general distress or cancer-specific distress
+T2	HMM 815 842	positive reappraisal coping
+T3	HMM 861 875	denial coping.
+T4	HMM 960 982	psychological distress
+T5	HMM 1000 1054	adaptive coping and indicators of psychological growth

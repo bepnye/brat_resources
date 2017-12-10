@@ -1,0 +1,14 @@
+T1	HMM 122 140	outcome and safety
+T2	HMM 572 623	Postoperative visual analog pain scale (VAS) scores
+T3	HMM 669 790	in-hospital analgesic use, length of hospital stay, success rate, blood transfusion rate, and postoperative complications
+T4	HMM 837 856	mean hospital stays
+T5	HMM 928 943	mean VAS scores
+T6	HMM 1042 1077	postoperative analgesic requirement
+T7	HMM 1183 1208	rate of blood transfusion
+T8	HMM 1295 1305	VAS scores
+T9	HMM 1335 1365	number of supracostal accesses
+T10	HMM 1434 1478	stone-free rates and the numbers of patients
+T11	HMM 1484 1516	insignificant residual fragments
+T12	HMM 1559 1599	no urine leakage or formation of urinoma
+T13	HMM 1739 1757	postoperative pain
+T14	HMM 1762 1786	a shorter hospital stay.

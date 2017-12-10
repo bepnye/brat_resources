@@ -1,0 +1,4 @@
+T1	HMM 768 821	Linguistic age, cognitive level and autistic symptoms
+T2	HMM 860 996	Peabody Picture Vocabulary Test (PPVT), the Wechsler Intelligence Scale (WISC-R or WAIS-III), and the Autistic Behavior Checklist (ABC).
+T3	HMM 997 1020	Communicative abilities
+T4	HMM 1359 1389	complexity of emitted messages

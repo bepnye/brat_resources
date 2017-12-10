@@ -1,0 +1,7 @@
+T1	HMM 1142 1163	Saccade metrics (e.g.
+T2	HMM 1165 1195	velocity, amplitude, accuracy)
+T3	HMM 1322 1347	saccade endpoint accuracy
+T4	HMM 1428 1452	initial saccade endpoint
+T5	HMM 1486 1505	corrective saccades
+T6	HMM 1572 1580	accuracy
+T7	HMM 1719 1746	response inhibition errors.

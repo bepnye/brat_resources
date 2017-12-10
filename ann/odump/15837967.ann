@@ -1,0 +1,5 @@
+T1	HMM 1189 1204	Median survival
+T2	HMM 1273 1289	Overall response
+T3	HMM 1349 1373	Two- and 3-year survival
+T4	HMM 1440 1465	Grade > or = 3 toxicities
+T5	HMM 1680 1729	slow accrual, logistics of HART, mucosal toxicity

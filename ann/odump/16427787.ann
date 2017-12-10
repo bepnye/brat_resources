@@ -1,0 +1,6 @@
+T1	HMM 0 26	Sleep-anticipating effects
+T2	HMM 420 441	task-related activity
+T3	HMM 600 635	subjective measurements of fatigue.
+T4	HMM 672 710	activation in the left parahippocampus
+T5	HMM 780 804	modulates brain activity
+T6	HMM 893 900	fatigue

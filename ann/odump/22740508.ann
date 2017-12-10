@@ -1,0 +1,7 @@
+T1	HMM 941 959	PTX3 concentration
+T2	HMM 1144 1171	risk of all-cause mortality
+T3	HMM 1280 1304	cardiovascular mortality
+T4	HMM 1361 1393	hospitalization for worsening HF
+T5	HMM 1536 1548	fatal events
+T6	HMM 1611 1623	hsCRP levels
+T7	HMM 1649 1654	PTX3.

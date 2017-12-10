@@ -1,0 +1,10 @@
+T1	HMM 0 27	[Efficacy and immune memory
+T2	HMM 131 149	long-term efficacy
+T3	HMM 390 416	efficacy and immune memory
+T4	HMM 469 514	Immunogenicity and protective rate of vaccine
+T5	HMM 571 586	protective rate
+T6	HMM 599 608	infection
+T7	HMM 663 682	HBV infection rates
+T8	HMM 823 836	immune memory
+T9	HMM 969 977	efficacy
+T10	HMM 985 992	vaccine

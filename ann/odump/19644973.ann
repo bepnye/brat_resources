@@ -1,0 +1,9 @@
+T1	HMM 747 757	Blood loss
+T2	HMM 817 831	operating time
+T3	HMM 919 932	hospital stay
+T4	HMM 963 1036	Complication rates, and involvement of circumferential and radial margins
+T5	HMM 1215 1266	local recurrence, disease-free or overall survival.
+T6	HMM 1376 1386	blood loss
+T7	HMM 1394 1413	intestinal recovery
+T8	HMM 1423 1436	hospital stay
+T9	HMM 1459 1480	oncological outcomes.

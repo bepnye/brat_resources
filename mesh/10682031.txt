@@ -1,0 +1,22 @@
+Adult
+Aerosols
+Aged
+Anti-Bacterial Agents
+Creatinine
+Cross Infection
+Data Interpretation, Statistical
+Double-Blind Method
+Drug Tolerance
+Female
+Humans
+Intubation, Intratracheal
+Kidney
+Male
+Middle Aged
+Placebos
+Pneumonia, Bacterial
+Respiration
+Respiration, Artificial
+Time Factors
+Tobramycin
+Treatment Outcome

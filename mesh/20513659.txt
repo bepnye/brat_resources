@@ -1,0 +1,12 @@
+Adult
+Autistic Disorder
+Child
+Child Development Disorders, Pervasive
+Evoked Potentials, Visual
+Humans
+Motion Perception
+Photic Stimulation
+Psychomotor Performance
+Reaction Time
+Visual Cortex
+Visual Perception

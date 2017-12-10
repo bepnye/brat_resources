@@ -1,0 +1,8 @@
+T1	Treatment 48 69	proton pump inhibitor
+T2	Treatment 199 236	antiplatelet or anticoagulant therapy
+T3	Treatment 312 347	proton pump inhibitor (PPI) therapy
+T4	Treatment 411 415	PPIs
+T5	Treatment 585 588	PPI
+T6	Treatment 840 934	receive oral PPIs alone (group 1) or intravenous PPI followed by oral administration (group 2)
+T7	Treatment 1320 1324	PPIs
+T8	Treatment 1414 1418	PPIs

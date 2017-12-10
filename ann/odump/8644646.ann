@@ -1,0 +1,7 @@
+T1	HMM 908 952	pacing-induced termination of atrial flutter
+T2	HMM 1143 1156	sinus rhythm.
+T3	HMM 1238 1286	incidence of pacing-induced atrial fibrillation.
+T4	HMM 1287 1318	The atrial flutter cycle length
+T5	HMM 1372 1415	atrial monophasic action potential duration
+T6	HMM 1638 1692	tachycardia cycle length nor action potential duration
+T7	HMM 1893 1950	termination of atrial flutter by atrial overdrive pacing.

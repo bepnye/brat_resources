@@ -1,0 +1,9 @@
+T1	HMM 126 137	pain relief
+T2	HMM 448 473	Maternal vital parameters
+T3	HMM 489 498	Analgesia
+T4	HMM 550 558	sedation
+T5	HMM 625 690	maternal vital parameters, fetal heart rate (FHR) or Apgar scores
+T6	HMM 711 720	Analgesia
+T7	HMM 865 897	Additional analgesic requirement
+T8	HMM 1163 1185	satisfactory analgesia
+T9	HMM 1224 1232	duration

@@ -1,0 +1,6 @@
+T1	HMM 453 515	patient and graft survival, incidence of acute graft rejection
+T2	HMM 520 549	postoperative liver function.
+T3	HMM 562 591	2-year patient/graft survival
+T4	HMM 690 705	acute rejection
+T5	HMM 746 769	abnormal liver function
+T6	HMM 958 971	ALT/AST level

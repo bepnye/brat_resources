@@ -1,0 +1,11 @@
+T1	HMM 74 93	overall survival--a
+T2	HMM 435 481	event-free survival (EFS) and overall survival
+T3	HMM 1058 1083	EFS and overall survival.
+T4	HMM 1259 1284	EFS and overall survival.
+T5	HMM 1317 1320	EFS
+T6	HMM 1402 1425	6-year overall survival
+T7	HMM 1457 1490	hazard ratio for overall survival
+T8	HMM 1647 1650	EFS
+T9	HMM 1654 1670	overall survival
+T10	HMM 1794 1810	overall survival
+T11	HMM 1837 1841	EFS.

@@ -1,0 +1,10 @@
+T1	HMM 956 964	Efficacy
+T2	HMM 1176 1409	hemorrhoidal symptoms based on a visual analogue scale (VAS): pain, discharge, bleeding, inflammation, and pruritus; analgesic intake, if any; time to restore a physiological defecation; edema evaluation (based on a four-point scale:
+T3	HMM 1459 1493	camera pictures taken at T1 and T4
+T4	HMM 1522 1546	blood coagulation tests.
+T5	HMM 1599 1621	significant difference
+T6	HMM 1643 1658	total VAS score
+T7	HMM 1806 1827	bleeding and pruritus
+T8	HMM 1872 1894	inflammation and edema
+T9	HMM 1955 1972	No adverse events
+T10	HMM 2040 2057	blood coagulation

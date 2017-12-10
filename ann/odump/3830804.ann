@@ -1,0 +1,7 @@
+T1	HMM 997 1023	overall complete remission
+T2	HMM 1081 1088	relapse
+T3	HMM 1112 1128	Overall survival
+T4	HMM 1155 1163	Survival
+T5	HMM 1181 1311	abdominal extension, histologic grade according to the new working formulation used for lymph-node lymphomas, initial localization
+T6	HMM 1374 1393	complete remission.
+T7	HMM 1423 1432	treatment

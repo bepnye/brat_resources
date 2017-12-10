@@ -1,0 +1,8 @@
+T1	HMM 262 300	Forced expiratory volume in 1 s (FEV1)
+T2	HMM 305 332	forced vital capacity (FVC)
+T3	HMM 573 585	FEV1 and FVC
+T4	HMM 625 637	FEV1 and FVC
+T5	HMM 729 741	FEV1 and FVC
+T6	HMM 915 944	ratio of the FEV1 and the FVC
+T7	HMM 1146 1174	static ventilatory function.
+T8	HMM 1175 1187	Bronchospasm

@@ -1,0 +1,5 @@
+T1	HMM 875 898	complete remission rate
+T2	HMM 984 1007	8-year overall survival
+T3	HMM 1217 1276	FLT3/internal tandem duplications, NPM1, or CEBPA mutation.
+T4	HMM 1318 1325	relapse
+T5	HMM 1390 1407	overall survival.

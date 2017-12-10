@@ -1,0 +1,9 @@
+T1	HMM 20 31	weight loss
+T2	HMM 36 80	improvement of ventricular systolic function
+T3	HMM 816 857	left ventricular ejection fraction (LVEF)
+T4	HMM 954 989	right ventricular systolic function
+T5	HMM 1062 1129	Weight loss during index admission and cardiac index/cardiac output
+T6	HMM 1300 1360	ischemic or nonischemic, systolic function of the ventricles
+T7	HMM 1463 1474	Weight loss
+T8	HMM 1491 1511	cardiac index/output
+T9	HMM 1570 1575	LVEF.

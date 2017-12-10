@@ -1,0 +1,12 @@
+T1	HMM 0 25	Efficacy and tolerability
+T2	HMM 348 367	efficacy and safety
+T3	HMM 980 1004	improvement in cognition
+T4	HMM 1027 1082	Alzheimer's Disease Assessment Scale-cognitive subscale
+T5	HMM 1227 1252	patients' global function
+T6	HMM 1314 1375	Clinician's Interview-Based Impression of Change-Plus version
+T7	HMM 1436 1484	Sum of the Boxes of the Clinical Dementia Rating
+T8	HMM 1583 1609	activities of daily living
+T9	HMM 1630 1688	Alzheimer's Disease Functional Assessment and Change Scale
+T10	HMM 1828 1843	well tolerated.
+T11	HMM 1844 1882	Withdrawal rates due to adverse events
+T12	HMM 2036 2098	donepezil is an effective and well-tolerated treatment for VaD

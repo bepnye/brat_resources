@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Bandages
+Burns
+Child
+Female
+Humans
+Male
+Middle Aged
+Phytotherapy
+Plant Extracts
+Time Factors
+Trees
+Vietnam
+Wound Healing
+Wound Infection

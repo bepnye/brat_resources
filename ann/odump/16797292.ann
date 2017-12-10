@@ -1,0 +1,9 @@
+T1	HMM 37 64	posttransplant hypertension
+T2	HMM 111 138	Posttransplant hypertension
+T3	HMM 337 356	blood pressure (BP)
+T4	HMM 702 767	24-hour urine for sodium measurement, BP, and allograft functions
+T5	HMM 944 1050	sex, serum creatinine, systolic and diastolic BP, antihypertensive drugs, or 24-hour urinary sodium levels
+T6	HMM 1087 1117	daily urinary sodium excretion
+T7	HMM 1162 1173	systolic BP
+T8	HMM 1213 1225	diastolic BP
+T9	HMM 1451 1461	control BP

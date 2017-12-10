@@ -1,0 +1,12 @@
+T1	HMM 11 19	nicotine
+T2	HMM 23 59	regional cerebral glucose metabolism
+T3	HMM 228 264	positron emission tomographic images
+T4	HMM 277 307	cerebral metabolism of glucose
+T5	HMM 313 336	[18F]fluorodeoxyglucose
+T6	HMM 911 938	Peak plasma nicotine levels
+T7	HMM 1090 1127	global cerebral metabolism of glucose
+T8	HMM 1202 1224	increases in activity.
+T9	HMM 1543 1582	regional cerebral metabolism of glucose
+T10	HMM 1622 1681	decrease in regional cerebral metabolism of glucose (pepper
+T11	HMM 1688 1697	nicotine)
+T12	HMM 2089 2119	cognitive effects of nicotine.

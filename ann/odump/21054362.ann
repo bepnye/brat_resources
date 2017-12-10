@@ -1,0 +1,7 @@
+T1	HMM 0 21	Antimigraine efficacy
+T2	HMM 147 166	respond to triptans
+T3	HMM 281 302	antimigraine efficacy
+T4	HMM 692 740	self-reported historical triptan response (HTR):
+T5	HMM 1235 1259	2-hour pain relief rates
+T6	HMM 1395 1423	The 2-hour pain relief rates
+T7	HMM 1621 1643	had 2-hour pain relief

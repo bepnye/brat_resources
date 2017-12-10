@@ -1,0 +1,8 @@
+T1	HMM 69 82	ulcer healing
+T2	HMM 414 438	endoscopic healing rates
+T3	HMM 869 881	healing rate
+T4	HMM 1353 1376	cumulative relapse rate
+T5	HMM 1545 1568	cumulative relapse rate
+T6	HMM 1687 1695	relapsed
+T7	HMM 1967 1986	duration of illness
+T8	HMM 1994 2070	remission period, long symptomatic spell, and reluctance to give up smoking.

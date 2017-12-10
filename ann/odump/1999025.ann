@@ -1,0 +1,9 @@
+T1	HMM 860 894	overall cumulative infarction rate
+T2	HMM 1041 1068	accelerated infarction rate
+T3	HMM 1185 1247	10-year cumulative incidence of death or myocardial infarction
+T4	HMM 1357 1397	estimated risk of death after infarction
+T5	HMM 1475 1484	reduction
+T6	HMM 1488 1512	postinfarction mortality
+T7	HMM 1681 1723	risk of death in the absence of infarction
+T8	HMM 1910 1931	myocardial infarction
+T9	HMM 1968 1977	mortality

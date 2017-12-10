@@ -1,0 +1,10 @@
+T1	HMM 41 56	sexual function
+T2	HMM 205 220	sexual function
+T3	HMM 841 866	erectile dysfunction (ED)
+T4	HMM 884 914	ejaculatory dysfunction (EjD).
+T5	HMM 1039 1085	mean change from baseline in erectile function
+T6	HMM 1207 1256	mean change from baseline in ejaculatory function
+T7	HMM 1328 1345	erectile function
+T8	HMM 1477 1497	ejaculatory function
+T9	HMM 1550 1559	Dizziness
+T10	HMM 1802 1819	erectile function

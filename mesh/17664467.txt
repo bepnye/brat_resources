@@ -1,0 +1,19 @@
+Adenocarcinoma
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Chi-Square Distribution
+Cisplatin
+Drug Administration Schedule
+Esophageal Neoplasms
+Fluorouracil
+Humans
+Middle Aged
+Neoplasm Metastasis
+Proportional Hazards Models
+Prospective Studies
+Quality of Life
+Stomach Neoplasms
+Survival Rate
+Taxoids
+Treatment Outcome

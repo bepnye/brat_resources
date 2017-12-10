@@ -1,0 +1,12 @@
+T1	HMM 0 17	Clinical efficacy
+T2	HMM 35 91	rapid cardioversion of paroxysmal atrial fibrillation--a
+T3	HMM 203 263	Rapid conversion of atrial fibrillation (AF) to sinus rhythm
+T4	HMM 651 679	strong antiarrhythmic effect
+T5	HMM 683 710	supraventricular arrhythmia
+T6	HMM 726 728	AF
+T7	HMM 743 776	rapid conversion to sinus rhythm.
+T8	HMM 1130 1147	clinical efficacy
+T9	HMM 1734 1806	conversion of AF to sinus rhythm confirmed in an electrocardiogram (ECG)
+T10	HMM 1867 1915	comprised of time to conversion and return of AF
+T11	HMM 2009 2024	adverse events.
+T12	HMM 2162 2170	efficacy

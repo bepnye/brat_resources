@@ -1,0 +1,5 @@
+T1	HMM 1223 1262	clinical efficacy and adverse reactions
+T2	HMM 1398 1417	total effectiverate
+T3	HMM 1623 1651	con-stipation symptom scores
+T4	HMM 2295 2310	recurrence rate
+T5	HMM 2597 2624	constipation symptom scores

@@ -1,0 +1,5 @@
+T1	HMM 610 626	headache relief;
+T2	HMM 707 729	free of headache pain.
+T3	HMM 730 744	Adverse events
+T4	HMM 791 801	chest pain
+T5	HMM 821 837	QTc prolongation

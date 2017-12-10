@@ -1,0 +1,6 @@
+T1	HMM 256 303	"hypnosis" (loss of response to verbal command)
+T2	HMM 308 381	"anaesthesia" (loss of response to a 5-s transcutaneous tetanic stimulus)
+T3	HMM 475 508	hypnosis, synergistic interaction
+T4	HMM 648 659	anaesthesia
+T5	HMM 705 736	required to produce anaesthesia
+T6	HMM 822 852	arterial pressure at induction

@@ -1,0 +1,6 @@
+T1	HMM 0 21	Antibacterial effects
+T2	HMM 675 790	Mutans streptococci (MS) and lactobacilli (LB) levels, visible plaque index (VPI) and gingival bleeding index (GBI)
+T3	HMM 982 1021	Kruskal-Wallis and Mann-Whitney U-tests
+T4	HMM 1064 1090	significantly lower scores
+T5	HMM 1137 1176	No statistically significant difference
+T6	HMM 1379 1522	success of restorations by improving oral hygiene, reduce the need for future restorative treatments and thus the need for general anaesthesia.

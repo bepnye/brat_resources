@@ -1,0 +1,13 @@
+T1	Intervention 0 40	Pemetrexed in combination with cisplatin
+T2	Intervention 537 557	pemetrexed-cisplatin
+T3	Intervention 726 736	pemetrexed
+T4	Intervention 757 766	cisplatin
+T5	Intervention 793 815	placebo plus cisplatin
+T6	Intervention 936 956	pemetrexed-cisplatin
+T7	Intervention 983 1000	placebo-cisplatin
+T8	Intervention 1166 1187	pemetrexed-cisplatin,
+T9	Intervention 1193 1211	placebo-cisplatin,
+T10	Intervention 1304 1324	pemetrexed-cisplatin
+T11	Intervention 1365 1382	placebo-cisplatin
+T12	Intervention 1529 1549	pemetrexed-cisplatin
+T13	Intervention 1594 1611	placebo-cisplatin

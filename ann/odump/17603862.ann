@@ -1,0 +1,13 @@
+T1	HMM 1040 1145	Pain at rest, at palpation on the lateral epicondyle, during resisted wrist extension, middle finger test
+T2	HMM 1151 1167	strength testing
+T3	HMM 1188 1211	Visual Analogue Scales.
+T4	HMM 1238 1251	grip strength
+T5	HMM 1257 1272	range of motion
+T6	HMM 1277 1289	weight test.
+T7	HMM 1514 1538	decrease of pain at rest
+T8	HMM 1658 1717	decrease in pain at palpation and pain on isometric testing
+T9	HMM 1822 1852	pain during middle finger test
+T10	HMM 1969 2014	decrease of pain during grip strength testing
+T11	HMM 2107 2144	increase in the wrist range of motion
+T12	HMM 2185 2210	increase in grip strength
+T13	HMM 2305 2328	increase in weight-test

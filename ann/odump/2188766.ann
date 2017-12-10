@@ -1,0 +1,8 @@
+T1	HMM 117 133	long-term effect
+T2	HMM 462 498	symptomatology, exercise performance
+T3	HMM 504 529	left ventricular function
+T4	HMM 650 664	symptom scores
+T5	HMM 669 694	functional classification
+T6	HMM 790 816	maximal exercise capacity.
+T7	HMM 900 918	resting heart rate
+T8	HMM 963 998	left ventricular systolic function.

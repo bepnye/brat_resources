@@ -1,0 +1,16 @@
+T1	Intervention 36 45	ibutilide
+T2	Intervention 53 65	procainamide
+T3	Intervention 188 198	ibutilide,
+T4	Intervention 238 251	procainamide,
+T5	Intervention 481 516	ibutilide, procainamide, or placebo
+T6	Intervention 967 975	placebo.
+T7	Intervention 1029 1037	placebo,
+T8	Intervention 1075 1085	ibutilide,
+T9	Intervention 1127 1139	procainamide
+T10	Intervention 1157 1166	Ibutilide
+T11	Intervention 1171 1183	procainamide
+T12	Intervention 1198 1205	placebo
+T13	Intervention 1463 1472	ibutilide
+T14	Intervention 1481 1494	procainamide.
+T15	Intervention 1854 1863	ibutilide
+T16	Intervention 1867 1879	procainamide

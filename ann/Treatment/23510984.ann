@@ -1,0 +1,10 @@
+T1	Treatment 14 32	placebo-controlled
+T2	Treatment 50 74	ganitumab or conatumumab
+T3	Treatment 278 289	bevacizumab
+T4	Treatment 294 306	aflibercept.
+T5	Treatment 347 358	conatumumab
+T6	Treatment 429 438	ganitumab
+T7	Treatment 734 786	fluoropyrimidine- and oxaliplatin-based chemotherapy
+T8	Treatment 824 917	intravenous FOLFIRI plus conatumumab 10 mg/kg (Arm A), ganitumab 12 mg/kg (Arm B), or placebo
+T9	Treatment 1453 1476	CONCLUSIONS Conatumumab
+T10	Treatment 1482 1509	not ganitumab, plus FOLFIRI

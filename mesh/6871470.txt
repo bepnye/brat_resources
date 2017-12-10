@@ -1,0 +1,17 @@
+Acute Disease
+Adolescent
+Adult
+Aged
+Antibody Specificity
+Antibody-Dependent Cell Cytotoxicity
+Blood Donors
+Blood Platelets
+Blood Transfusion
+Female
+Humans
+Immunization
+Isoantigens
+Leukemia
+Male
+Middle Aged
+Thrombocytopenia

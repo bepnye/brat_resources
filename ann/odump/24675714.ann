@@ -1,0 +1,9 @@
+T1	HMM 0 23	Weight loss maintenance
+T2	HMM 393 399	effect
+T3	HMM 415 438	weight loss maintenance
+T4	HMM 1035 1056	change in body weight
+T5	HMM 1201 1222	Average weight regain
+T6	HMM 1315 1335	regained less weight
+T7	HMM 1371 1398	difference in weight regain
+T8	HMM 1566 1585	GI on weight regain
+T9	HMM 1763 1783	improves weight loss

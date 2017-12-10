@@ -1,0 +1,8 @@
+T1	HMM 0 25	Efficacy and tolerability
+T2	HMM 1176 1193	eradication rates
+T3	HMM 1325 1350	incidence of side effects
+T4	HMM 1514 1524	eradicated
+T5	HMM 1589 1599	eradicated
+T6	HMM 1711 1751	prevalence and intensity of side effects
+T7	HMM 1924 1943	effective and safe.
+T8	HMM 1957 1969	side effects

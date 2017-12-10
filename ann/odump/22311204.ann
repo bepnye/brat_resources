@@ -1,0 +1,16 @@
+T1	HMM 205 266	response error monitoring and post-error response correction.
+T2	HMM 328 344	error processing
+T3	HMM 359 380	behavioral correction
+T4	HMM 465 495	event-related potentials (ERP)
+T5	HMM 537 622	fronto-central error-related negativity (ERN), and the error-related positivity (Pe).
+T6	HMM 672 737	reaction time (RT), error rate, post-error RT change, ERN, and Pe
+T7	HMM 1035 1063	behavioral and ERP measures.
+T8	HMM 1159 1191	Baseline and post-TMS/or WTL EEG
+T9	HMM 1375 1378	ERN
+T10	HMM 1452 1467	omission errors
+T11	HMM 1492 1494	RT
+T12	HMM 1515 1528	post-error RT
+T13	HMM 1569 1630	RT, error rate, post-error RT slowing, nor in ERN/Pe measures
+T14	HMM 1712 1731	response-locked ERP
+T15	HMM 1740 1743	ERN
+T16	HMM 1865 1875	ERN and Pe

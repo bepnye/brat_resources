@@ -1,0 +1,8 @@
+T1	Treatment 14 53	resistance training during radiotherapy
+T2	Treatment 156 175	resistance training
+T3	Treatment 183 207	passive physical therapy
+T4	Treatment 254 276	radiation therapy (RT)
+T5	Treatment 550 569	resistance training
+T6	Treatment 583 607	passive physical therapy
+T7	Treatment 1009 1016	control
+T8	Treatment 1566 1603	resistance training concomitant to RT

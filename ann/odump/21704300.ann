@@ -1,0 +1,7 @@
+T1	HMM 916 943	only deep sternal infection
+T2	HMM 983 1002	p=0.032), pneumonia
+T3	HMM 1042 1076	p=0.039), and intraoperative blood
+T4	HMM 1215 1247	difference between adverse event
+T5	HMM 1338 1376	requiring intraoperative blood product
+T6	HMM 1784 1808	differences in mortality
+T7	HMM 1881 1895	useful quality

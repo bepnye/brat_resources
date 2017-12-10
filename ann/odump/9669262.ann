@@ -1,0 +1,9 @@
+T1	HMM 25 46	cardiovascular events
+T2	HMM 200 231	recurrent cardiovascular events
+T3	HMM 889 1118	combined coronary events (coronary death, nonfatal MI, percutaneous transluminal coronary angioplasty [PTCA] or coronary artery bypass graft surgery [CABG]), the primary trial end point (coronary death or nonfatal MI) and stroke.
+T4	HMM 1164 1178	risk reduction
+T5	HMM 1411 1415	risk
+T6	HMM 1475 1488	plasma lipids
+T7	HMM 1546 1569	risk of coronary events
+T8	HMM 1786 1790	CABG
+T9	HMM 1883 1904	cardiovascular events

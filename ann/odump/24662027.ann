@@ -1,0 +1,11 @@
+T1	HMM 360 375	adverse effects
+T2	HMM 387 399	neutropenia.
+T3	HMM 570 578	efficacy
+T4	HMM 759 787	higher neutrophil production
+T5	HMM 867 910	PegFeG-CSF induced higher neutrophil counts
+T6	HMM 915 948	showed greater sustained activity
+T7	HMM 1024 1057	sustainable neutrophil production
+T8	HMM 1138 1164	of neutralizing antibodies
+T9	HMM 1203 1236	developed neutralizing antibodies
+T10	HMM 1404 1431	HuG-CSF-induced neutropenia
+T11	HMM 1444 1469	normal neutrophil numbers

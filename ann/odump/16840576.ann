@@ -1,0 +1,7 @@
+T1	HMM 327 351	basal femoral blood flow
+T2	HMM 782 910	blood pressure, cardiac output, basal femoral blood flow (via Doppler ultrasound), vascular conductance, and vascular resistance
+T3	HMM 973 989	maximal strength
+T4	HMM 1040 1065	Whole body lean body mass
+T5	HMM 1115 1132	leg fat-free mass
+T6	HMM 1142 1191	Basal femoral blood flow and vascular conductance
+T7	HMM 1358 1518	brachial blood pressure, plasma endothelin-1 and angiotensin II concentrations, femoral artery wall thickness, cardiac output, and systemic vascular resistance.

@@ -1,0 +1,12 @@
+T1	HMM 890 1018	Heart rate (HR), mean arterial pressure, oxygen saturation, respiratory rate, the Ramsay sedation score (RSS), and recovery time
+T2	HMM 1131 1165	blood pressure and HR measurements
+T3	HMM 1254 1325	respiratory depression, bradycardia, hypotension, nausea, and vomiting.
+T4	HMM 1354 1384	pain on the site of injection.
+T5	HMM 1385 1394	Myoclonus
+T6	HMM 1423 1436	Recovery time
+T7	HMM 1540 1543	RSS
+T8	HMM 1637 1652	operation time.
+T9	HMM 1653 1675	Physician satisfaction
+T10	HMM 1745 1766	hemodynamic responses
+T11	HMM 1787 1802	adverse effects
+T12	HMM 1835 1852	anesthetic effect

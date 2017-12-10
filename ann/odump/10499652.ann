@@ -1,0 +1,5 @@
+T1	HMM 358 395	circulating antithrombin III (AT-III)
+T2	HMM 875 909	preservation of circulating AT-III
+T3	HMM 985 1005	total heparin dosage
+T4	HMM 1194 1213	heparin requirement
+T5	HMM 1232 1252	AT-III preservation.

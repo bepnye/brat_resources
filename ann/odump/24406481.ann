@@ -1,0 +1,21 @@
+T1	HMM 11 42	body weight and blood pressure:
+T2	HMM 259 289	nonfatal cardiovascular events
+T3	HMM 299 308	mortality
+T4	HMM 494 505	body weight
+T5	HMM 510 524	blood pressure
+T6	HMM 572 602	cardiovascular outcome events.
+T7	HMM 1060 1085	analyses of weight change
+T8	HMM 1099 1117	and blood pressure
+T9	HMM 1242 1393	The primary outcome event (POE) was a composite of nonfatal myocardial infarction, nonfatal stroke, resuscitated cardiac arrest or cardiovascular death
+T10	HMM 1584 1615	period, systolic blood pressure
+T11	HMM 1645 1667	increasing weight loss
+T12	HMM 1780 1793	weight loss).
+T13	HMM 1794 1805	The highest
+T14	HMM 1846 1875	with increases in both weight
+T15	HMM 1932 1959	treatment, a markedly lower
+T16	HMM 1966 1981	pressure tended
+T17	HMM 1994 1999	POEs.
+T18	HMM 2000 2010	CONCLUSION
+T19	HMM 2025 2046	loss and modest lower
+T20	HMM 2141 2161	combination of early
+T21	HMM 2169 2196	weight loss and rapid blood

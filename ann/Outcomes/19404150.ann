@@ -1,0 +1,20 @@
+T1	Outcomes 0 13	Perioperative
+T2	Outcomes 575 580	Fever
+T3	Outcomes 608 703	other complications (including infections) occurring between admission and discharge (or death)
+T4	Outcomes 719 759	Functional and neuropsychologic outcomes
+T5	Outcomes 847 915	dichotomized Glasgow Outcome Scale (good outcome versus all others).
+T6	Outcomes 924 929	Fever
+T7	Outcomes 980 985	fever
+T8	Outcomes 1028 1067	median time from surgery to first fever
+T9	Outcomes 1170 1180	infections
+T10	Outcomes 1417 1422	fever
+T11	Outcomes 1502 1511	infection
+T12	Outcomes 1598 1611	fever-related
+T13	Outcomes 1853 1858	fever
+T14	Outcomes 1931 1969	delayed ischemic neurological deficits
+T15	Outcomes 1998 2115	National Institutes of Health Stroke Scale score, Barthel Activities of Daily Living index, and discharge destination
+T16	Outcomes 2221 2226	fever
+T17	Outcomes 2351 2356	fever
+T18	Outcomes 2490 2529	delayed ischemic neurological deficits)
+T19	Outcomes 2571 2576	fever
+T20	Outcomes 2630 2635	fever

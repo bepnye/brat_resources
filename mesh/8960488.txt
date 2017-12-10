@@ -1,0 +1,12 @@
+Adolescent
+Anesthesia, Dental
+Antibiotic Prophylaxis
+Bacteremia
+Child
+Child, Preschool
+Dental Care for Children
+Endocarditis, Bacterial
+Female
+Humans
+Male
+Tooth Extraction

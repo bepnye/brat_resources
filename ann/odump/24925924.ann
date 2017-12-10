@@ -1,0 +1,10 @@
+T1	HMM 40 73	patient management and prognosis.
+T2	HMM 212 244	patient management and prognosis
+T3	HMM 281 304	short-term consequences
+T4	HMM 376 437	pulmonary drug use, hospitalisations and all-cause mortality.
+T5	HMM 857 895	changes in pulmonary drug prescription
+T6	HMM 1037 1049	hospitalised
+T7	HMM 1232 1240	dyspnoea
+T8	HMM 1260 1278	patient management
+T9	HMM 1372 1383	true impact
+T10	HMM 1428 1459	patient management and outcome.

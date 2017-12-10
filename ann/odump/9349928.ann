@@ -1,0 +1,7 @@
+T1	HMM 1071 1092	platelet aggregation.
+T2	HMM 1138 1170	bioavailability of cyclosporin A
+T3	HMM 1297 1328	fall in cyclosporin blood level
+T4	HMM 1357 1400	Urinary excretion of 6-beta-hydroxycortisol
+T5	HMM 1616 1643	cyclosporin bioavailability
+T6	HMM 1785 1809	cyclosporin blood levels
+T7	HMM 1900 1927	Cyclosporin bioavailability

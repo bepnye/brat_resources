@@ -1,0 +1,10 @@
+T1	HMM 16 25	insomnia:
+T2	HMM 52 68	nocturnal sleep.
+T3	HMM 156 172	primary insomnia
+T4	HMM 193 210	total sleep time.
+T5	HMM 936 996	Mean daily sleep latency on the screening MSLT of insomniacs
+T6	HMM 1192 1207	screening MSLTs
+T7	HMM 1225 1252	screening total sleep times
+T8	HMM 1390 1405	mean MSLT score
+T9	HMM 1633 1645	hyperarousal
+T10	HMM 1661 1671	wake drive

@@ -1,0 +1,10 @@
+T1	HMM 22 59	automatic overt gaze and arrow cueing
+T2	HMM 178 186	interest
+T3	HMM 195 228	social aspects of the environment
+T4	HMM 242 250	tendency
+T5	HMM 254 280	follow other people's gaze
+T6	HMM 646 666	overt cueing effects
+T7	HMM 685 718	increased saccadic reaction times
+T8	HMM 727 806	proportions of saccades executed to the cued direction instead of to the target
+T9	HMM 925 964	automatic orienting of overt attention.
+T10	HMM 1063 1090	overt attentional orienting

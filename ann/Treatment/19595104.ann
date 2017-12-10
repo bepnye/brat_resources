@@ -1,0 +1,14 @@
+T1	Treatment 20 60	transcatheter arterial chemoembolization
+T2	Treatment 75 117	high intensity focused ultrasound ablation
+T3	Treatment 216 263	transcatheter arterial chemoembolization (TACE)
+T4	Treatment 278 318	high intensity focused ultrasound (HIFU)
+T5	Treatment 454 619	2 age, tumor size, TNM stages, and liver function grade-matched groups: TACE group (n=30) undergoing TACE and TACE+HIFU group (n=38) undergoing 2-3 weeks after TACE.
+T6	Treatment 1003 1012	TACE+HIFU
+T7	Treatment 1105 1114	TACE+HIFU
+T8	Treatment 1119 1123	TACE
+T9	Treatment 1206 1210	TACE
+T10	Treatment 1301 1310	TACE+HIFU
+T11	Treatment 1373 1377	TACE
+T12	Treatment 1437 1446	TACE+HIFU
+T13	Treatment 1506 1510	TACE
+T14	Treatment 1567 1571	TACE

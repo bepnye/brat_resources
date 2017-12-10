@@ -1,0 +1,8 @@
+T1	HMM 263 278	non-inferiority
+T2	HMM 422 437	non-inferiority
+T3	HMM 799 819	Eradication of GABHS
+T4	HMM 938 987	bacteriological treatment failures (and relapses)
+T5	HMM 1011 1026	Non-inferiority
+T6	HMM 1460 1499	Treatment failures (including relapses)
+T7	HMM 1672 1694	resolution of symptoms
+T8	HMM 1760 1781	acute rheumatic fever

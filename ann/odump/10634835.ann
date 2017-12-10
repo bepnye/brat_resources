@@ -1,0 +1,4 @@
+T1	HMM 250 283	incidence of chronic lung disease
+T2	HMM 647 680	incidence of chronic lung disease
+T3	HMM 715 823	death, pneumothorax, intraventricular haemorrhage, number of ventilator days, or length of oxygen dependency
+T4	HMM 1044 1083	medium and longer term outcome measures

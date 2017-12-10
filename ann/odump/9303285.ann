@@ -1,0 +1,12 @@
+T1	HMM 0 40	Dose-response and concentration-response
+T2	HMM 146 199	The dose-response and concentration-response relation
+T3	HMM 474 495	steady-state infusion
+T4	HMM 562 575	concentration
+T5	HMM 646 673	corresponding infusion rate
+T6	HMM 712 725	concentration
+T7	HMM 798 814	rate of infusion
+T8	HMM 842 855	concentration
+T9	HMM 898 916	mean infusion rate
+T10	HMM 925 952	concentration of rocuronium
+T11	HMM 990 1015	mean rocuronium clearance
+T12	HMM 1236 1271	infusion requirements of rocuronium

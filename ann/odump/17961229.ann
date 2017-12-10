@@ -1,0 +1,14 @@
+T1	HMM 12 39	blood folate concentrations
+T2	HMM 962 1008	blood folate concentrations and folate intakes
+T3	HMM 1158 1185	blood folate concentrations
+T4	HMM 1190 1212	dietary folate intakes
+T5	HMM 1403 1430	blood folate concentrations
+T6	HMM 1698 1718	total folate intakes
+T7	HMM 1723 1729	plasma
+T8	HMM 1781 1802	folate concentrations
+T9	HMM 1824 1852	Plasma and RBC folate values
+T10	HMM 2002 2026	RBC folate concentration
+T11	HMM 2201 2215	Folate intakes
+T12	HMM 2259 2286	blood folate concentrations
+T13	HMM 2374 2381	folate.
+T14	HMM 2565 2591	blood folate concentration

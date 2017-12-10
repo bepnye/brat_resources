@@ -1,0 +1,11 @@
+T1	Treatment 72 112	neutral-pH bicarbonate dialysis solution
+T2	Treatment 139 169	automated peritoneal dialysis.
+T3	Treatment 281 306	peritoneal dialysis (PD).
+T4	Treatment 516 581	novel PD fluid buffered with 34 mM pure bicarbonate at neutral pH
+T5	Treatment 636 680	conventional, acidic, 35 mM lactate PD fluid
+T6	Treatment 778 797	automated PD (APD).
+T7	Treatment 879 893	bicarbonate PD
+T8	Treatment 959 969	lactate PD
+T9	Treatment 1929 1998	neutral-pH PD fluid with reduced glucose degradation product content.
+T10	Treatment 2025 2071	APD, neutral-pH, bicarbonate-buffered PD fluid
+T11	Treatment 2185 2228	conventional, acidic, lactate-based fluids.

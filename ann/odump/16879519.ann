@@ -1,0 +1,8 @@
+T1	HMM 1207 1231	rocuronium PK parameters
+T2	HMM 1268 1277	Clearance
+T3	HMM 1397 1468	Effect compartment concentrations corresponding to 50% inhibition of T1
+T4	HMM 1545 1623	rate constants for equilibration between plasma and effect compartment (k(e0))
+T5	HMM 1750 1775	Disposition of rocuronium
+T6	HMM 1866 1889	rocuronium requirements
+T7	HMM 1911 1944	EC50 relevant to inhibition of T1
+T8	HMM 1949 1991	rocuronium transfer to effect compartment.

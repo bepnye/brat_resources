@@ -1,0 +1,11 @@
+T1	HMM 15 28	complications
+T2	HMM 175 202	postoperative complications
+T3	HMM 962 989	postoperative complications
+T4	HMM 1041 1059	retinal detachment
+T5	HMM 1075 1098	corneal decompensation.
+T6	HMM 1099 1120	Cystoid macular edema
+T7	HMM 1131 1187	postoperative vitreous prolaps into the anterior chamber
+T8	HMM 1201 1231	spontaneous complaints of pain
+T9	HMM 1385 1402	capsular fibrosis
+T10	HMM 1692 1705	visual acuity
+T11	HMM 1971 1998	frequent capsular fibrosis.

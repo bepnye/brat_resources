@@ -1,0 +1,12 @@
+T1	HMM 15 20	costs
+T2	HMM 260 265	costs
+T3	HMM 280 296	cost predictors.
+T4	HMM 693 715	Multivariable analysis
+T5	HMM 750 828	costs and patient's pretransplant status and transplant-related complications.
+T6	HMM 915 924	cost data
+T7	HMM 963 974	Total costs
+T8	HMM 1184 1210	costs and baseline status.
+T9	HMM 1308 1341	transplant-related complications:
+T10	HMM 1372 1391	repeated infections
+T11	HMM 1586 1599	actual costs.
+T12	HMM 1604 1615	actual cost

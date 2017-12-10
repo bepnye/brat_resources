@@ -1,0 +1,14 @@
+T1	HMM 46 54	efficacy
+T2	HMM 123 139	thyroid nodules.
+T3	HMM 199 218	efficacy and safety
+T4	HMM 346 368	benign thyroid nodules
+T5	HMM 564 581	volume of nodules
+T6	HMM 678 698	median nodule volume
+T7	HMM 807 814	Nodules
+T8	HMM 1008 1030	thyroid nodule volume.
+T9	HMM 1058 1067	treatment
+T10	HMM 1086 1092	relief
+T11	HMM 1098 1133	compressive and cosmetic complaints
+T12	HMM 1265 1294	sub clinical hyperthyroidism.
+T13	HMM 1295 1326	PLP normalized thyroid function
+T14	HMM 1396 1414	safe and effective

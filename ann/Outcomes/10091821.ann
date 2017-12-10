@@ -1,0 +1,14 @@
+T1	Outcomes 80 94	pulse pressure
+T2	Outcomes 104 121	arterial pressure
+T3	Outcomes 612 621	mortality
+T4	Outcomes 827 859	Pulse and mean arterial pressure
+T5	Outcomes 1051 1072	Higher pulse pressure
+T6	Outcomes 1262 1291	Higher mean arterial pressure
+T7	Outcomes 1464 1470	deaths
+T8	Outcomes 1599 1613	pulse pressure
+T9	Outcomes 1651 1685	total and cardiovascular mortality
+T10	Outcomes 1797 1819	Mean arterial pressure
+T11	Outcomes 1845 1879	total and cardiovascular mortality
+T12	Outcomes 2072 2081	survival.
+T13	Outcomes 2082 2116	Increased conduit vessel stiffness
+T14	Outcomes 2177 2186	mortality

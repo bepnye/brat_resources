@@ -1,0 +1,9 @@
+T1	HMM 0 36	Perioperative myocardial infarctions
+T2	HMM 775 786	rise in TnT
+T3	HMM 800 821	myocardial infarction
+T4	HMM 880 893	TnT elevation
+T5	HMM 939 952	TnT elevation
+T6	HMM 1036 1070	ST elevation myocardial infarction
+T7	HMM 1094 1112	new ST depressions
+T8	HMM 1632 1666	Majority of myocardial infarctions
+T9	HMM 1702 1728	Evidence-based medications

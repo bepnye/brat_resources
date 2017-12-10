@@ -1,0 +1,13 @@
+Cardiac Pacing, Artificial
+Cause of Death
+Defibrillators, Implantable
+Electrocardiography
+Female
+Humans
+Male
+Prognosis
+Risk Assessment
+Severity of Illness Index
+Survival Analysis
+Tachycardia, Ventricular
+Ventricular Dysfunction, Right

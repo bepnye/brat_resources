@@ -1,0 +1,6 @@
+T1	HMM 56 87	residual periodontal pathogens.
+T2	HMM 338 382	residual retention of periodontal pathogens.
+T3	HMM 1108 1119	mean counts
+T4	HMM 1177 1190	Aa, Pg, or NS
+T5	HMM 1206 1225	experimental counts
+T6	HMM 1400 1416	microbial counts

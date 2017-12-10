@@ -1,0 +1,16 @@
+T1	Treatment 0 25	Rapid-sequence intubation
+T2	Treatment 85 96	pancuronium
+T3	Treatment 104 129	minidose succinylcholine.
+T4	Treatment 348 379	succinylcholine administration.
+T5	Treatment 537 552	succinylcholine
+T6	Treatment 853 868	succinylcholine
+T7	Treatment 872 884	pancuronium.
+T8	Treatment 1009 1044	rapid-sequence intubation maneuvers
+T9	Treatment 1049 1058	lidocaine
+T10	Treatment 1116 1167	minidose succinylcholine (0.1 mg/kg) or pancuronium
+T11	Treatment 1208 1246	full paralytic dose of succinylcholine
+T12	Treatment 1370 1381	pancuronium
+T13	Treatment 1415 1430	succinylcholine
+T14	Treatment 1783 1798	succinylcholine
+T15	Treatment 1850 1861	pancuronium
+T16	Treatment 1938 1953	succinylcholine

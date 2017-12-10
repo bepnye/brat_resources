@@ -1,0 +1,6 @@
+T1	HMM 159 172	profitability
+T2	HMM 1003 1121	feed intake, live weight, eggs per gram (EPG) of faeces, packed-cell volume (PCV), wool weight, and adult-worm burden.
+T3	HMM 1129 1159	market input and output prices
+T4	HMM 1219 1239	marginal profit (MP)
+T5	HMM 1331 1340	performed
+T6	HMM 1453 1464	profitable.

@@ -1,0 +1,11 @@
+T1	HMM 50 82	serum matrix metalloproteinase-9
+T2	HMM 87 126	tissue inhibitor of metalloproteinase-1
+T3	HMM 277 317	serum matrix metalloproteinase-9 (MMP-9)
+T4	HMM 322 368	tissue inhibitor of metalloproteinase (TIMP-1)
+T5	HMM 783 828	forced expiratory volume in one second (FEV1)
+T6	HMM 833 860	forced vital capacity (FVC)
+T7	HMM 942 974	levels of serum MMP-9 and TIMP-1
+T8	HMM 1095 1129	FEV1, FVC, FEV1/FVC (%), and FEV1%
+T9	HMM 1360 1410	serum MMP-9, TIMP-1, and the ratio of MMP-9/TIMP-1
+T10	HMM 1583 1622	serum MMP-9 and TIMP-1 and FEV1/FVC (%)
+T11	HMM 1714 1746	serum MMP-9 and TIMP-1 and FEV1%

@@ -1,0 +1,14 @@
+T1	HMM 472 625	primary (combined death or unplanned first hospitalization and quality-of-life changes) and secondary end points (hospitalization, death, and adherence).
+T2	HMM 1040 1087	composite of death or unplanned hospitalization
+T3	HMM 1189 1205	hospitalization.
+T4	HMM 1210 1245	quality-of-life questionnaire score
+T5	HMM 1297 1306	Mortality
+T6	HMM 1335 1361	Number of hospitalizations
+T7	HMM 1402 1442	total hospital days during the follow-up
+T8	HMM 1496 1521	need for emergency visits
+T9	HMM 1600 1618	Beneficial effects
+T10	HMM 1920 1945	unplanned hospitalization
+T11	HMM 1962 1981	total hospital days
+T12	HMM 1997 2020	need for emergency care
+T13	HMM 2033 2057	improved quality of life
+T14	HMM 2074 2091	program adherence

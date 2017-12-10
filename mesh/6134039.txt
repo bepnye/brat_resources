@@ -1,0 +1,20 @@
+Adolescent
+Ampicillin
+Cefotaxime
+Ceftriaxone
+Cerebrospinal Fluid
+Child
+Child, Preschool
+Chloramphenicol
+Clinical Trials as Topic
+Drug Therapy, Combination
+Female
+Humans
+Infant
+Male
+Meningitis
+Meningitis, Haemophilus
+Meningitis, Meningococcal
+Meningitis, Pneumococcal
+Prospective Studies
+Random Allocation

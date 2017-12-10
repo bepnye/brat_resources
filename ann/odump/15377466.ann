@@ -1,0 +1,19 @@
+T1	HMM 437 445	outcome.
+T2	HMM 455 521	failure to respond, delayed responses, partial responses, relapses
+T3	HMM 526 538	early deaths
+T4	HMM 666 693	reduce these complications.
+T5	HMM 1102 1110	response
+T6	HMM 1150 1176	early deaths, blood counts
+T7	HMM 1194 1203	survival.
+T8	HMM 1224 1233	responses
+T9	HMM 1253 1268	absent, partial
+T10	HMM 1274 1282	complete
+T11	HMM 1513 1517	died
+T12	HMM 1549 1572	peripheral blood counts
+T13	HMM 1680 1697	Neutrophil counts
+T14	HMM 1752 1767	platelet counts
+T15	HMM 1818 1836	actuarial survival
+T16	HMM 1973 1992	reduce early deaths
+T17	HMM 2011 2034	peripheral blood counts
+T18	HMM 2039 2047	survival
+T19	HMM 2068 2081	response rate

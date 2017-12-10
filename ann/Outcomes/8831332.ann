@@ -1,0 +1,12 @@
+T1	Outcomes 24 42	sweating threshold
+T2	Outcomes 68 85	gain of sweating.
+T3	Outcomes 153 187	increase in the sweating threshold
+T4	Outcomes 201 229	reduce the gain of sweating.
+T5	Outcomes 553 569	Core temperature
+T6	Outcomes 612 633	mean skin temperature
+T7	Outcomes 668 687	chest sweating rate
+T8	Outcomes 764 772	sweating
+T9	Outcomes 915 931	core temperature
+T10	Outcomes 1009 1040	Plasma clonidine concentrations
+T11	Outcomes 1276 1292	gain of sweating
+T12	Outcomes 1380 1404	thermoregulatory effects

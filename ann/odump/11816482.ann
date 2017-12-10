@@ -1,0 +1,6 @@
+T1	HMM 554 570	first recurrence
+T2	HMM 602 624	Endoscopic examination
+T3	HMM 636 652	urinary cytology
+T4	HMM 727 742	recurrence rate
+T5	HMM 836 844	Toxicity
+T6	HMM 870 888	bladder irritation

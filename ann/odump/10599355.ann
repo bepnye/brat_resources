@@ -1,0 +1,6 @@
+T1	HMM 382 490	heart diameters, systolic and diastolic left ventricle function and mean values of pulmonary artery pressure
+T2	HMM 715 778	heart diameters and left ventricle systolic function parameters
+T3	HMM 847 880	left ventricle diastolic function
+T4	HMM 910 913	MVA
+T5	HMM 973 978	signs
+T6	HMM 982 1004	pulmonary hypertension

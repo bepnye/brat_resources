@@ -1,0 +1,8 @@
+T1	HMM 50 58	melasma.
+T2	HMM 169 177	melasma.
+T3	HMM 198 215	clinical efficacy
+T4	HMM 692 752	Melasma Area and Severity Index (MASI) score and photography
+T5	HMM 846 856	MASI score
+T6	HMM 940 950	MASI score
+T7	HMM 1217 1227	MASI score
+T8	HMM 1714 1735	treatment of melasma.

@@ -1,0 +1,13 @@
+T1	Treatment 46 123	single-incision laparoscopic vs conventional 3-port laparoscopic appendectomy
+T2	Treatment 187 230	single-incision laparoscopic surgery (SILS)
+T3	Treatment 343 365	multiport laparoscopy.
+T4	Treatment 480 484	SILS
+T5	Treatment 488 521	3-port laparoscopic appendectomy.
+T6	Treatment 610 651	SILS or 3-port laparoscopic appendectomy.
+T7	Treatment 1133 1137	SILS
+T8	Treatment 1360 1368	for SILS
+T9	Treatment 1439 1445	Only 1
+T10	Treatment 1460 1479	converted to 3-port
+T11	Treatment 1738 1753	However, 3-port
+T12	Treatment 1834 1843	0.04) and
+T13	Treatment 1962 2023	CONCLUSIONS Single-incision laparoscopic surgery appendectomy

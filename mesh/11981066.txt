@@ -1,0 +1,16 @@
+Adult
+Cholesterol, HDL
+Cholesterol, LDL
+Chronic Disease
+Female
+Glomerulonephritis
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypercholesterolemia
+Male
+Middle Aged
+Proteinuria
+Pyridines
+Sialoglycoproteins
+Triglycerides
+Urine

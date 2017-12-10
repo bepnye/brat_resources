@@ -1,0 +1,6 @@
+T1	HMM 0 24	Delayed alloimmunization
+T2	HMM 425 470	formation of alloantibodies (mostly anti-HLA)
+T3	HMM 787 816	higher number of transfusions
+T4	HMM 857 867	increments
+T5	HMM 878 908	first and the last transfusion
+T6	HMM 1020 1030	increments

@@ -1,0 +1,13 @@
+T1	HMM 0 24	Antiinflammatory effects
+T2	HMM 207 220	lung function
+T3	HMM 292 316	antiinflammatory effects
+T4	HMM 424 463	Induced sputum differential cell counts
+T5	HMM 518 555	Interleukin-8 and neutrophil elastase
+T6	HMM 683 754	neutrophils, CD8+ and CD4+ T-lymphocyte subsets, and CD68+ macrophages.
+T7	HMM 776 831	genes for interleukin-8 and tumor necrosis factor-alpha
+T8	HMM 1010 1034	sputum endpoint or FEV1.
+T9	HMM 1122 1140	reductions in CD8+
+T10	HMM 1164 1175	CD68+ cells
+T11	HMM 1309 1327	reductions of CD8+
+T12	HMM 1347 1352	CD68+
+T13	HMM 1437 1469	airway tissue inflammatory cells

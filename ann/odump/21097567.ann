@@ -1,0 +1,5 @@
+T1	HMM 507 530	mean time to intubation
+T2	HMM 564 576	success rate
+T3	HMM 645 668	oesophageal intubations
+T4	HMM 781 833	mechanical or technical errors such as disconnection
+T5	HMM 891 902	feasibility

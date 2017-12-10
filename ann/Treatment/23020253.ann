@@ -1,0 +1,8 @@
+T1	Treatment 11 22	saxagliptin
+T2	Treatment 53 62	metformin
+T3	Treatment 92 101	metformin
+T4	Treatment 255 266	saxagliptin
+T5	Treatment 282 303	metformin monotherapy
+T6	Treatment 515 524	metformin
+T7	Treatment 564 731	fixed-dose metformin 1500 mg/day, plus either add-on saxagliptin 5 mg/day (SAXA-MET) or a two-step metformin uptitration (MET-UP) to a maximum dose (2500 mg/day)
+T8	Treatment 2113 2125	monotherapy)

@@ -1,0 +1,14 @@
+T1	HMM 161 178	clinical efficacy
+T2	HMM 733 747	pregnancy rate
+T3	HMM 833 941	Chinese medicine syndrome integrals, serum endometrium antibody (EMAb) and cancer antigen 125 (CA125) levels
+T4	HMM 1033 1047	pregnancy rate
+T5	HMM 1227 1261	Chinese medicine syndrome integral
+T6	HMM 1462 1496	Chinese medicine syndrome integral
+T7	HMM 1829 1864	serum EMAb negative conversion rate
+T8	HMM 1995 2012	serum CA125 level
+T9	HMM 2538 2550	blood stasis
+T10	HMM 2555 2582	toxin accumulation syndrome
+T11	HMM 2592 2619	negative conversion of EMAb
+T12	HMM 2627 2645	serum CA125 levels
+T13	HMM 2663 2687	clinical pregnancy rate.
+T14	HMM 2734 2758	EMs-related infertility.

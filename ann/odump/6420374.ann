@@ -1,0 +1,11 @@
+T1	HMM 45 72	whole-body protein turnover
+T2	HMM 554 605	rates of whole-body protein synthesis and breakdown
+T3	HMM 816 920	blood glucose, plasma insulin and glucagon, urinary ammonia, nitrogen, creatinine and 3-methylhistidine.
+T4	HMM 921 981	Blood glucose and plasma insulin and glucagon concentrations
+T5	HMM 1059 1080	insulin concentration
+T6	HMM 1131 1156	Apparent nitrogen balance
+T7	HMM 1296 1358	urinary excretion of ammonia, creatinine and 3-methylhistidine
+T8	HMM 1400 1416	Protein turnover
+T9	HMM 1438 1457	ammonia end-product
+T10	HMM 1661 1688	whole-body protein turnover
+T11	HMM 1786 1793	insulin

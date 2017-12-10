@@ -1,0 +1,4 @@
+T1	HMM 912 921	histology
+T2	HMM 1276 1295	Diagnostic accuracy
+T3	HMM 1358 1410	no added complications, no increase in hospital stay
+T4	HMM 1460 1486	reduction in hospital stay

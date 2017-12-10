@@ -1,0 +1,17 @@
+T1	HMM 58 73	quality of life
+T2	HMM 78 86	clinical
+T3	HMM 91 106	gait parameters
+T4	HMM 299 386	range of ankle motion (ROAM), gait, pain, perimeter of lower limbs, and quality of life
+T5	HMM 1130 1216	MEASURES ROAM, gait, pain, perimeter of right and left lower limb, and quality of life
+T6	HMM 1271 1294	RESULTS Quality of life
+T7	HMM 1483 1525	both lower limbs in gait dorsiflexion ROAM
+T8	HMM 1535 1554	1.02-2.49), cadence
+T9	HMM 1564 1589	3.45-1.47), stride length
+T10	HMM 1599 1624	21.48-10.83), step length
+T11	HMM 1634 1658	1.68-6.61), stance phase
+T12	HMM 1677 1685	and foot
+T13	HMM 1704 1717	and malleolus
+T14	HMM 1727 1751	1.15-1.63) circumference
+T15	HMM 1872 1879	in pain
+T16	HMM 1881 1911	CONCLUSIONS Ankle dorsiflexion
+T17	HMM 1919 1995	gait, walking parameters, peripheral edema, venous pain, and quality of life

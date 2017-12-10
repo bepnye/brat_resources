@@ -1,0 +1,7 @@
+T1	HMM 712 730	Postoperative pain
+T2	HMM 985 1021	statistically significant difference
+T3	HMM 1025 1064	pain scores on the numeric analog scale
+T4	HMM 1176 1228	time interval from anesthesia start to surgery start
+T5	HMM 1306 1328	significant difference
+T6	HMM 1338 1351	analgesic use
+T7	HMM 1526 1544	postoperative pain

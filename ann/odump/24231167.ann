@@ -1,0 +1,5 @@
+T1	HMM 0 11	Examination
+T2	HMM 15 25	aggression
+T3	HMM 404 501	hot aggression only, cold aggression only, self-injurious behavior (SIB) only, aggression and SIB
+T4	HMM 507 521	nonaggressive.
+T5	HMM 555 572	positive response

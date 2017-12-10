@@ -1,0 +1,10 @@
+T1	HMM 154 169	inguinal hernia
+T2	HMM 312 321	effective
+T3	HMM 443 514	complications, recurrences, recovery time and return to usual activity.
+T4	HMM 969 986	Complication rate
+T5	HMM 1061 1074	complications
+T6	HMM 1101 1112	recurrences
+T7	HMM 1169 1220	Post-operative hospital stay and return to activity
+T8	HMM 1265 1290	Median post-hospital stay
+T9	HMM 1403 1428	duration of convalescence
+T10	HMM 1714 1734	period of discomfort

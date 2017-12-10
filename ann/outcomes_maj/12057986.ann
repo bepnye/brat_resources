@@ -1,0 +1,7 @@
+T1	Outcomes 837 845	ischemic
+T2	Outcomes 886 923	target vessel revascularization (TVR)
+T3	Outcomes 993 1009	1-year mortality
+T4	Outcomes 1113 1161	death, myocardial infarction (MI), or urgent TVR
+T5	Outcomes 1308 1329	death, MI, or any TVR
+T6	Outcomes 1435 1438	TVR
+T7	Outcomes 1512 1521	mortality

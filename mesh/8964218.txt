@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Agents, Hormonal
+Antineoplastic Combined Chemotherapy Protocols
+Gastrointestinal Neoplasms
+Humans
+Interferon-alpha
+Middle Aged
+Neoplasms, Hormone-Dependent
+Octreotide
+Pancreatic Neoplasms
+Recombinant Proteins

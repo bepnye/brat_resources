@@ -1,0 +1,11 @@
+T1	HMM 0 14	Therapy effect
+T2	HMM 337 348	TP53 status
+T3	HMM 516 527	TP53 status
+T4	HMM 695 711	Therapy response
+T5	HMM 802 824	positive response rate
+T6	HMM 974 995	relapse-free survival
+T7	HMM 1116 1154	sequence alterations in the TP53 gene.
+T8	HMM 1160 1181	relapse-free survival
+T9	HMM 1218 1234	TP53 alterations
+T10	HMM 1463 1481	TP53 tumour status
+T11	HMM 1486 1495	prognosis

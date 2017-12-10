@@ -1,0 +1,11 @@
+T1	Treatment 18 30	chemotherapy
+T2	Treatment 35 52	radiation therapy
+T3	Treatment 245 297	breast-conserving therapy and adjuvant chemotherapy.
+T4	Treatment 333 367	chemotherapy and radiation therapy
+T5	Treatment 543 615	12-week course of chemotherapy either before or after radiation therapy.
+T6	Treatment 846 864	radiotherapy-first
+T7	Treatment 879 897	chemotherapy-first
+T8	Treatment 1146 1187	radiotherapy-first and chemotherapy-first
+T9	Treatment 1575 1587	chemotherapy
+T10	Treatment 1600 1617	radiation therapy
+T11	Treatment 1631 1674	radiation therapy followed by chemotherapy.

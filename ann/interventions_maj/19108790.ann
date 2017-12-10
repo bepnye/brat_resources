@@ -1,0 +1,25 @@
+T1	Intervention 14 35	propofol, droperidol,
+T2	Intervention 40 54	metoclopramide
+T3	Intervention 178 185	placebo
+T4	Intervention 796 806	droperidol
+T5	Intervention 811 825	metoclopramide
+T6	Intervention 959 966	placebo
+T7	Intervention 1065 1073	propofol
+T8	Intervention 1085 1095	droperidol
+T9	Intervention 1110 1124	metoclopramide
+T10	Intervention 1139 1146	placebo
+T11	Intervention 2010 2018	propofol
+T12	Intervention 2041 2051	droperidol
+T13	Intervention 2078 2092	metoclopramide
+T14	Intervention 2117 2124	placebo
+T15	Intervention 2221 2229	propofol
+T16	Intervention 2250 2261	droperidol,
+T17	Intervention 2266 2274	propofol
+T18	Intervention 2279 2289	droperidol
+T19	Intervention 2365 2379	metoclopramide
+T20	Intervention 2562 2570	propofol
+T21	Intervention 2585 2595	droperidol
+T22	Intervention 2777 2785	propofol
+T23	Intervention 2790 2800	droperidol
+T24	Intervention 2815 2829	metoclopramide
+T25	Intervention 2844 2851	placebo

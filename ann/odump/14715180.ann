@@ -1,0 +1,8 @@
+T1	HMM 20 58	recurrent ventricular tachyarrhythmias
+T2	HMM 199 228	anti-tachycardia pacing (ATP)
+T3	HMM 233 256	shock-terminated events
+T4	HMM 1030 1069	frequency of appropriate shocks and ATP
+T5	HMM 1161 1204	incidence of ICD therapies per patient-year
+T6	HMM 1394 1408	well tolerated
+T7	HMM 1421 1523	affect left ventricular ejection fraction or minimal energy requirements for defibrillation or pacing.
+T8	HMM 1612 1656	frequency of VT and ventricular fibrillation

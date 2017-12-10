@@ -1,0 +1,17 @@
+T1	HMM 155 174	efficacy and safety
+T2	HMM 862 895	biopsy-confirmed acute rejections
+T3	HMM 984 1031	incidence of steroid-sensitive acute rejections
+T4	HMM 1088 1122	Steroid-resistant acute rejections
+T5	HMM 1220 1225	died.
+T6	HMM 1226 1261	Patient survival and graft survival
+T7	HMM 1409 1436	incidence of adverse events
+T8	HMM 1452 1483	cytomegalovirus (CMV) infection
+T9	HMM 1537 1547	leukopenia
+T10	HMM 1575 1580	fever
+T11	HMM 1609 1623	herpes simplex
+T12	HMM 1655 1671	thrombocytopenia
+T13	HMM 1723 1737	serum sickness
+T14	HMM 1790 1817	new onset diabetes mellitus
+T15	HMM 1893 1908	acute rejection
+T16	HMM 2063 2077	adverse events
+T17	HMM 2092 2106	CMV infection.

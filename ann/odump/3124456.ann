@@ -1,0 +1,20 @@
+T1	HMM 56 62	anemia
+T2	HMM 116 156	Ferrokinetic and RBC mass determinations
+T3	HMM 308 316	RBC mass
+T4	HMM 366 388	Erythron iron turnover
+T5	HMM 610 618	RBC mass
+T6	HMM 711 719	RBC mass
+T7	HMM 832 864	dialysis-associated blood losses
+T8	HMM 945 953	RBC mass
+T9	HMM 984 1007	erythron iron turnover.
+T10	HMM 1057 1080	erythron iron turnovers
+T11	HMM 1125 1158	dialysis-associated blood losses.
+T12	HMM 1170 1178	RBC mass
+T13	HMM 1271 1279	RBC mass
+T14	HMM 1405 1413	RBC mass
+T15	HMM 1418 1441	erythron iron turnover)
+T16	HMM 1456 1468	RBC survival
+T17	HMM 1503 1511	RBC mass
+T18	HMM 1533 1556	erythron iron turnover)
+T19	HMM 1592 1600	RBC mass
+T20	HMM 1638 1670	dialysis-associated blood losses

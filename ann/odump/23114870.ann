@@ -1,0 +1,22 @@
+T1	HMM 65 75	blood loss
+T2	HMM 80 104	early clinical outcomes.
+T3	HMM 349 359	blood loss
+T4	HMM 373 388	early outcomes.
+T5	HMM 413 423	blood loss
+T6	HMM 428 451	early clinical outcomes
+T7	HMM 958 965	Hb loss
+T8	HMM 1045 1069	Transfusion requirements
+T9	HMM 1074 1087	surgical time
+T10	HMM 1125 1189	Knee Society Scores (KSS), knee flexion, knee swelling and pain.
+T11	HMM 1214 1236	mean drainage of blood
+T12	HMM 1331 1341	loss of Hb
+T13	HMM 1379 1403	transfusion requirements
+T14	HMM 1428 1441	Surgical time
+T15	HMM 1504 1507	KSS
+T16	HMM 1586 1598	Knee flexion
+T17	HMM 1644 1666	knee swelling and pain
+T18	HMM 1808 1822	blood drainage
+T19	HMM 1846 1853	Hb loss
+T20	HMM 1900 1917	transfusion rate.
+T21	HMM 1918 1931	Surgical time
+T22	HMM 1970 1994	early clinical outcomes.

@@ -1,0 +1,16 @@
+T1	HMM 44 52	migraine
+T2	HMM 153 178	tolerability and efficacy
+T3	HMM 437 569	Headache severity, presence or absence of associated symptoms, and functional disability were assessed over a 4-hour postdose period
+T4	HMM 579 593	adverse events
+T5	HMM 642 679	pain-free status at 2 hours postdose.
+T6	HMM 752 766	adverse events
+T7	HMM 844 907	dry mouth, dizziness, asthenia/fatigue, nausea, and somnolence.
+T8	HMM 935 944	pain-free
+T9	HMM 1022 1061	percentage of patients with pain relief
+T10	HMM 1076 1098	predose pain intensity
+T11	HMM 1184 1206	Placebo response rates
+T12	HMM 1353 1374	functional disability
+T13	HMM 1399 1405	nausea
+T14	HMM 1541 1552	pain relief
+T15	HMM 1704 1717	response rate
+T16	HMM 1792 1815	tolerated and effective

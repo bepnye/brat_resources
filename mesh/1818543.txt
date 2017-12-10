@@ -1,0 +1,15 @@
+Adult
+Aged
+Arthritis, Rheumatoid
+Azathioprine
+Blood Pressure
+Creatinine
+Cyclosporine
+Double-Blind Method
+Female
+Humans
+Hypertension
+Male
+Middle Aged
+Nausea
+Treatment Outcome

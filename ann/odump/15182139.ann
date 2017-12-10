@@ -1,0 +1,5 @@
+T1	HMM 892 905	complete care
+T2	HMM 1025 1051	medication taking behavior
+T3	HMM 1080 1104	living with both parents
+T4	HMM 1133 1151	sexual intercourse
+T5	HMM 1183 1227	speaking mostly or only English with parents

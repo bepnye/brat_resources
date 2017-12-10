@@ -1,0 +1,14 @@
+T1	HMM 81 100	high blood pressure
+T2	HMM 747 766	no current HBP care
+T3	HMM 774 792	risk of alcoholism
+T4	HMM 800 820	use of illicit drugs
+T5	HMM 828 844	social isolation
+T6	HMM 852 864	unemployment
+T7	HMM 876 900	lack of health insurance
+T8	HMM 908 931	Having health insurance
+T9	HMM 967 993	negative urine drug screen
+T10	HMM 1072 1106	Low alcoholism risk and employment
+T11	HMM 1214 1233	using illicit drugs
+T12	HMM 1270 1283	controlled BP
+T13	HMM 1366 1387	taking HBP medication
+T14	HMM 1419 1432	controlled BP

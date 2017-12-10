@@ -1,0 +1,5 @@
+T1	HMM 4 10	effect
+T2	HMM 504 526	quantity of milk taken
+T3	HMM 653 695	mean haemoglobin and median serum ferritin
+T4	HMM 762 785	iron deficiency anaemia
+T5	HMM 831 852	serum ferritin levels

@@ -1,0 +1,13 @@
+T1	Treatment 0 37	Granulocyte-colony stimulating factor
+T2	Treatment 100 109	stem cell
+T3	Treatment 208 253	Granulocyte-colony stimulating factor (G-CSF)
+T4	Treatment 394 399	G-CSF
+T5	Treatment 484 512	G-CSF (10 μg/kg) or placebo
+T6	Treatment 529 537	given SC
+T7	Treatment 1170 1183	events: G-CSF
+T8	Treatment 1201 1215	versus placebo
+T9	Treatment 1288 1300	1.3, placebo
+T10	Treatment 1353 1362	received.
+T11	Treatment 1363 1368	G-CSF
+T12	Treatment 1544 1569	baseline in G-CSF-treated
+T13	Treatment 1769 1779	that G-CSF

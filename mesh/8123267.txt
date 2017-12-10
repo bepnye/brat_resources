@@ -1,0 +1,20 @@
+Adult
+Ambulatory Surgical Procedures
+Anesthesia Recovery Period
+Anesthesia, Inhalation
+Anesthesia, Intravenous
+Awareness
+Blood Pressure
+Enflurane
+Female
+Heart Rate
+Humans
+Laparoscopy
+Monitoring, Intraoperative
+Nausea
+Nitrous Oxide
+Patient Discharge
+Propofol
+Single-Blind Method
+Thiopental
+Vomiting

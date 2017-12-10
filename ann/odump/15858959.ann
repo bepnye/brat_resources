@@ -1,0 +1,7 @@
+T1	HMM 631 669	medians of the average stool frequency
+T2	HMM 802 823	duration of diarrhoea
+T3	HMM 960 976	watery diarrhoea
+T4	HMM 1036 1061	duration of hospital stay
+T5	HMM 1244 1265	persisting diarrhoea.
+T6	HMM 1360 1387	duration of acute diarrhoea
+T7	HMM 1396 1422	duration of hospital stay.

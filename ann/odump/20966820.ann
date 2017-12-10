@@ -1,0 +1,7 @@
+T1	HMM 43 62	migraine headaches.
+T2	HMM 160 177	migraine headache
+T3	HMM 379 397	migraine headache.
+T4	HMM 434 575	Medical Outcomes Study 36-Item Short Form Health Survey, Migraine-Specific Quality of Life, and Migraine Disability Assessment questionnaires
+T5	HMM 1351 1368	positive response
+T6	HMM 1428 1469	complete elimination of migraine headache
+T7	HMM 1844 1923	eliminate or reduce the frequency, duration, and intensity of migraine headache

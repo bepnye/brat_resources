@@ -1,0 +1,10 @@
+T1	HMM 874 891	active heart rate
+T2	HMM 972 990	active HR in women
+T3	HMM 1004 1007	men
+T4	HMM 1118 1155	systolic and diastolic blood pressure
+T5	HMM 1241 1252	above]o2max
+T6	HMM 1316 1326	resting HR
+T7	HMM 1379 1404	systolic and diastolic BP
+T8	HMM 1486 1497	above]o2max
+T9	HMM 1543 1553	resting HR
+T10	HMM 2011 2073	strength, muscle endurance, body composition, and flexibility.

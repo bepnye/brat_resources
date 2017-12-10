@@ -1,0 +1,10 @@
+T1	HMM 209 263	endoscopic retrograde cholangiopancreatography (ERCP).
+T2	HMM 294 331	basal blood sugar and amylase levels.
+T3	HMM 404 446	basal pulse and duodenal peristaltic rates
+T4	HMM 638 647	variables
+T5	HMM 695 708	hyperglycemia
+T6	HMM 756 779	anticholinergic effect.
+T7	HMM 848 875	necessary interval for ERCP
+T8	HMM 932 973	success rate for cholangiopancreatography
+T9	HMM 1008 1040	hyperamylasemia nor pancreatitis
+T10	HMM 1148 1168	performance of ERCP.

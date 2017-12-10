@@ -1,0 +1,6 @@
+T1	HMM 914 956	lymphocyte cell-surface antigen expression
+T2	HMM 1009 1073	mitogen-stimulated interferon-gamma and interleukin-2 production
+T3	HMM 1234 1250	CD4+ lymphocytes
+T4	HMM 1303 1319	CD8+ lymphocytes
+T5	HMM 1353 1399	mitogen-stimulated interferon-gamma production
+T6	HMM 1562 1623	interleukin-2 production or circulating B-cell concentrations

@@ -1,0 +1,11 @@
+T1	HMM 1000 1019	Safety and efficacy
+T2	HMM 1181 1204	Bronchodilator efficacy
+T3	HMM 1222 1239	serial spirometry
+T4	HMM 1316 1322	Safety
+T5	HMM 1349 1425	changes in pulse rate, blood pressure, and electrocardiogram (ECG) intervals
+T6	HMM 1456 1481	monitoring adverse events
+T7	HMM 1521 1566	laboratory testing and physical examinations.
+T8	HMM 1597 1620	bronchodilator efficacy
+T9	HMM 1825 1871	pulse rate, blood pressure, and ECG intervals.
+T10	HMM 1872 1894	Adverse event profiles
+T11	HMM 2120 2127	changes

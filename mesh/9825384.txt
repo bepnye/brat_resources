@@ -1,0 +1,8 @@
+Adult
+Asthma
+Exercise Therapy
+Female
+Humans
+Male
+Respiratory Function Tests
+Spirometry

@@ -1,0 +1,5 @@
+T1	HMM 729 753	(weight gain and oedema)
+T2	HMM 768 815	(hypertension, hypokalaemia and hypernatraemia)
+T3	HMM 879 905	serum carbenoxolone levels
+T4	HMM 1048 1061	ulcer-healing
+T5	HMM 1070 1092	metabolic side-effects

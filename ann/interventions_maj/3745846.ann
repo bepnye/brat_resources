@@ -1,0 +1,11 @@
+T1	Intervention 0 28	Domperidone, metoclopramide,
+T2	Intervention 33 41	placebo.
+T3	Intervention 164 174	prokinetic
+T4	Intervention 533 547	metoclopramide
+T5	Intervention 562 573	domperidone
+T6	Intervention 591 598	placebo
+T7	Intervention 939 953	metoclopramide
+T8	Intervention 1062 1074	domperidone,
+T9	Intervention 1156 1163	placebo
+T10	Intervention 1387 1408	placebo, domperidone,
+T11	Intervention 1413 1427	metoclopramide

@@ -1,0 +1,7 @@
+T1	HMM 0 14	Blood pressure
+T2	HMM 118 137	blood pressure (BP)
+T3	HMM 497 499	BP
+T4	HMM 553 612	BPs of white-coat hypertensives and essential hypertensives
+T5	HMM 771 798	pulse and respiratory rates
+T6	HMM 830 884	elevation of diastolic BP due to mental stress testing
+T7	HMM 1063 1069	stress

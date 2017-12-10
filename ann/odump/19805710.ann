@@ -1,0 +1,9 @@
+T1	HMM 320 334	caloric intake
+T2	HMM 339 350	weight gain
+T3	HMM 957 988	caloric intake and weight gain.
+T4	HMM 1059 1134	percentage of the estimated energy requirement and body mass index z score.
+T5	HMM 1418 1432	caloric intake
+T6	HMM 1473 1519	percentage of the estimated energy requirement
+T7	HMM 1556 1567	weight gain
+T8	HMM 1611 1634	body mass index z score
+T9	HMM 1744 1762	energy requirement

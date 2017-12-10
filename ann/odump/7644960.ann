@@ -1,0 +1,11 @@
+T1	HMM 89 106	sickness absence.
+T2	HMM 418 444	sickness absence from work
+T3	HMM 592 608	sickness absence
+T4	HMM 742 775	Sickness absence (number of days)
+T5	HMM 835 845	compliance
+T6	HMM 1017 1033	sickness absence
+T7	HMM 1053 1072	duration of absence
+T8	HMM 1191 1198	absence
+T9	HMM 1406 1423	sickness absences
+T10	HMM 1506 1516	compliance
+T11	HMM 1628 1645	sickness absence.

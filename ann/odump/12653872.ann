@@ -1,0 +1,9 @@
+T1	HMM 545 567	plaque characteristics
+T2	HMM 674 696	plaque characteristics
+T3	HMM 713 734	cardiovascular events
+T4	HMM 850 882	characterize plaque echogenicity
+T5	HMM 1060 1078	echolucent plaques
+T6	HMM 1131 1190	death or nonfatal myocardial infarction or nonfatal stroke)
+T7	HMM 1292 1313	corresponding numbers
+T8	HMM 1331 1348	echogenic plaques
+T9	HMM 1618 1635	beneficial effect

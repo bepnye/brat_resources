@@ -1,0 +1,9 @@
+T1	Outcomes 28 40	patency time
+T2	Outcomes 44 64	long-term indwelling
+T3	Outcomes 407 425	catheter blockage.
+T4	Outcomes 983 1024	checks for catheter patency and urine pH.
+T5	Outcomes 1228 1269	symptomatic urinary tract infection (UTI)
+T6	Outcomes 1865 1876	termination
+T7	Outcomes 1882 1956	hematuria, latex sensitivity, deceased/severe illness, or personal choice.
+T8	Outcomes 2167 2197	time to first catheter change.
+T9	Outcomes 2397 2408	risk of UTI

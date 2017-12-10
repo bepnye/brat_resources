@@ -1,0 +1,7 @@
+T1	Treatment 18 56	adaptive low-pass filtered speech test
+T2	Treatment 210 239	low-pass filtered speech test
+T3	Treatment 729 734	LPFST
+T4	Treatment 1252 1540	The University of Canterbury Adaptive Speech Test (UCAST) platform was used to administer a four-alternative forced-choice adaptive test that altered a low-pass filter (LPF) to track the corner frequency at which participants correctly identified a certain percentage of the word stimuli.
+T5	Treatment 1739 1747	UCAST-FW
+T6	Treatment 1793 1801	UCAST-FW
+T7	Treatment 1917 1925	UCAST-FW

@@ -1,0 +1,11 @@
+Adult
+Female
+Growth Hormone
+Growth Hormone-Releasing Hormone
+Humans
+Injections, Intravenous
+Kidney Failure, Chronic
+Male
+Prolactin
+Thyrotropin-Releasing Hormone
+Uremia

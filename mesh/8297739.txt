@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aged
+Anemia
+Antineoplastic Combined Chemotherapy Protocols
+Breast Neoplasms
+Cyclophosphamide
+Doxorubicin
+Female
+Fluorouracil
+Granulocyte-Macrophage Colony-Stimulating Factor
+Humans
+Leukopenia
+Middle Aged
+Neoplasm Staging
+Thrombocytopenia

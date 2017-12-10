@@ -1,0 +1,16 @@
+T1	HMM 0 48	Angiographic and electrocardiographic parameters
+T2	HMM 341 359	microvascular flow
+T3	HMM 658 733	angiographic and electrocardiographic parameters of myocardial reperfusion.
+T4	HMM 763 842	angiographic corrected TIMI Frame count (cTFC) and myocardial blush grade (MBG)
+T5	HMM 880 901	ST segment resolution
+T6	HMM 958 973	cTFC after PCI.
+T7	HMM 999 1075	cTFC prior to PCI, TIMI flow grade, MBG and the percentage of ST resolution.
+T8	HMM 1209 1227	mean ischemic time
+T9	HMM 1288 1338	the time between loading dose and stent deployment
+T10	HMM 1400 1408	p=0.36).
+T11	HMM 1409 1413	cTFC
+T12	HMM 1615 1629	clopidogrel in
+T13	HMM 1682 1690	p=0.62);
+T14	HMM 1759 1768	(p=0.41).
+T15	HMM 1769 1800	The percentage of ST resolution
+T16	HMM 2028 2091	improvement of angiographic and electrocardiographic parameters

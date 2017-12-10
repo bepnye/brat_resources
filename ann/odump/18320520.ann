@@ -1,0 +1,5 @@
+T1	HMM 1113 1132	complete regression
+T2	HMM 1188 1191	PDR
+T3	HMM 1258 1282	complete regression rate
+T4	HMM 1495 1540	proliferative diabetic retinopathy recurrence
+T5	HMM 1801 1818	rapid recurrence.

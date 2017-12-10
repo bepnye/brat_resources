@@ -1,0 +1,5 @@
+T1	HMM 1107 1112	death
+T2	HMM 1150 1174	grade 3 and 4 toxicities
+T3	HMM 1239 1338	incidences of any Common Terminology Criteria for Adverse Events grade 3 and 4 adverse events (AEs)
+T4	HMM 1409 1426	Grade 3 and 4 AEs
+T5	HMM 1492 1635	rash/acneiform dermatitis, diarrhea, dehydration, primarily resulting from diarrhea, hypokalemia, stomatitis/mucositis, and pulmonary embolism.

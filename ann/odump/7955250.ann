@@ -1,0 +1,6 @@
+T1	HMM 657 705	lower ejection fractions and stroke work indexes
+T2	HMM 843 858	cardiac indexes
+T3	HMM 882 902	heart rate increased
+T4	HMM 947 964	ejection fraction
+T5	HMM 988 1016	end-diastolic volume indexes
+T6	HMM 1046 1085	preload recruitable stroke work indexes

@@ -1,0 +1,5 @@
+T1	HMM 957 1017	renal function and urinary output: serum blood urea nitrogen
+T2	HMM 1067 1083	serum creatinine
+T3	HMM 1133 1153	creatinine clearance
+T4	HMM 1208 1230	indexed urinary output
+T5	HMM 1332 1397	urinary output but nonsignificant renal functional deterioration.

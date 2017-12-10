@@ -1,0 +1,10 @@
+T1	HMM 113 120	effects
+T2	HMM 537 600	16S rRNA oligodeoxynucleotide probes and dot-blot hybridization
+T3	HMM 755 769	AP cell counts
+T4	HMM 943 958	CP cell counts.
+T5	HMM 1073 1100	SRP plus antibiotic therapy
+T6	HMM 1161 1170	AP and CP
+T7	HMM 1236 1252	Clinical healing
+T8	HMM 1427 1438	single taxa
+T9	HMM 1558 1580	periodontal microflora
+T10	HMM 1613 1643	elimination of target isolates

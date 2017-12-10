@@ -1,0 +1,19 @@
+Adult
+Blood Volume
+Body Weight
+Electrolytes
+Exercise Therapy
+Female
+Hemodynamics
+Humans
+Hypertension
+Lactates
+Lactic Acid
+Male
+Norepinephrine
+Oxygen Consumption
+Physical Fitness
+Potassium
+Renin
+Sex Factors
+Sodium

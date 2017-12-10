@@ -1,0 +1,6 @@
+T1	HMM 1002 1191	plasma concentrations of tumor necrosis factor alpha (TNF-alpha), interleukin (IL)-1beta, IL-1beta receptor antagonist, IL-6, IL-10, and N-terminal probrain natriuretic peptide (NT-proBNP).
+T2	HMM 1252 1270	TNF-alpha response
+T3	HMM 1317 1326	NT-proBNP
+T4	HMM 1395 1423	IL-1beta receptor antagonist
+T5	HMM 1469 1504	pro- and antiinflammatory mediators
+T6	HMM 1602 1650	perioperative release of inflammatory cytokines.

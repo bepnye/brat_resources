@@ -1,0 +1,10 @@
+T1	HMM 510 535	length of hospitalization
+T2	HMM 850 896	pain, need to stop feeding, post-refeeding LOH
+T3	HMM 960 979	re-admission rates.
+T4	HMM 1046 1121	number of patients requiring cessation of feeding because of pain or nausea
+T5	HMM 1190 1216	median LOH after refeeding
+T6	HMM 1342 1367	calories and grams of fat
+T7	HMM 1469 1494	28-day re-admission rates
+T8	HMM 1559 1582	mild acute pancreatitis
+T9	HMM 1591 1595	LFSD
+T10	HMM 1681 1685	LOH.

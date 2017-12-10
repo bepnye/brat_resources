@@ -1,0 +1,11 @@
+T1	HMM 61 114	OPG, sRANKL, and von Willebrand factor concentrations
+T2	HMM 180 207	von Willebrand factor (vWF)
+T3	HMM 811 841	The OPG, RANKL, and vWF levels
+T4	HMM 932 957	The baseline sRANKL level
+T5	HMM 990 1007	Its over-HD level
+T6	HMM 1082 1083	.
+T7	HMM 1084 1101	Plasma OPG levels
+T8	HMM 1371 1391	of OPG concentration
+T9	HMM 1396 1423	the total cholesterol level
+T10	HMM 1440 1446	.025).
+T11	HMM 1447 1482	von Willebrand factor concentration

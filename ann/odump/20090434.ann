@@ -1,0 +1,9 @@
+T1	HMM 35 43	efficacy
+T2	HMM 200 213	effectiveness
+T3	HMM 816 1003	Parents completed a medication log, and recorded the presence and severity of opioid-related adverse effects and children's reports of pain intensity using a 0 to 10 numeric rating scale.
+T4	HMM 1069 1090	pain intensity scores
+T5	HMM 1222 1231	analgesic
+T6	HMM 1309 1330	pain intensity scores
+T7	HMM 1424 1445	Pain intensity scores
+T8	HMM 1549 1561	constipation
+T9	HMM 1611 1667	frequency or severity of opioid-related adverse effects.

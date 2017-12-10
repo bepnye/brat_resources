@@ -1,0 +1,12 @@
+T1	Treatment 39 72	brushings before and after biopsy
+T2	Treatment 184 204	endoscopic brushings
+T3	Treatment 253 262	brushings
+T4	Treatment 547 602	undergo brushing either before or after forceps biopsy.
+T5	Treatment 619 636	brushing cytology
+T6	Treatment 698 706	brushing
+T7	Treatment 987 1019	brushings obtained before biopsy
+T8	Treatment 1196 1227	(brushing cytology plus biopsy)
+T9	Treatment 1303 1315	biopsy alone
+T10	Treatment 1327 1341	cytology alone
+T11	Treatment 1394 1437	combined application of brushing and biopsy
+T12	Treatment 1512 1520	brushing

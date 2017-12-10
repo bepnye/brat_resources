@@ -1,0 +1,9 @@
+T1	HMM 181 213	sensorimotor control of the hand
+T2	HMM 226 243	outcome indicator
+T3	HMM 591 631	MTT, precision pinch performance in PHUA
+T4	HMM 636 679	traditional sensibility (2PD and SWM) tests
+T5	HMM 722 736	sensory status
+T6	HMM 895 911	sensory function
+T7	HMM 963 984	sensorimotor function
+T8	HMM 1236 1250	pinch strength
+T9	HMM 1593 1615	sensorimotor functions

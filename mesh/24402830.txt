@@ -1,0 +1,15 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Breast Neoplasms
+Deoxycytidine
+Disease-Free Survival
+Female
+Fluorouracil
+Gene Expression Regulation, Neoplastic
+Humans
+Middle Aged
+Neoplasm Metastasis
+Quinazolines
+Receptor, ErbB-2
+Vinblastine

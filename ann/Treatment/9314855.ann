@@ -1,0 +1,9 @@
+T1	Treatment 80 117	percutaneous transluminal angioplasty
+T2	Treatment 239 282	percutaneous transluminal angioplasty (PTA)
+T3	Treatment 379 417	vasodilator, glyceryl trinitrate (GTN)
+T4	Treatment 489 492	PTA
+T5	Treatment 645 781	balloon dilatation an intra-arterial bolus of either 150 micrograms GTN, with or without a 10 mg GTN patch for 24 h, or a saline placebo
+T6	Treatment 1044 1050	saline
+T7	Treatment 1084 1087	GTN
+T8	Treatment 1185 1188	GTN
+T9	Treatment 1501 1504	GTN

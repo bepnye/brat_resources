@@ -1,0 +1,8 @@
+T1	HMM 68 119	hormone receptor-positive metastatic breast cancer:
+T2	HMM 665 690	progression-free survival
+T3	HMM 712 733	clinical benefit rate
+T4	HMM 969 975	PFS HR
+T5	HMM 1025 1035	median PFS
+T6	HMM 1120 1126	the HR
+T7	HMM 1247 1251	CBRs
+T8	HMM 1325 1329	CBRs

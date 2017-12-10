@@ -1,0 +1,5 @@
+T1	Intervention 64 81	implantable pumps
+T2	Intervention 89 121	multiple subcutaneous injections
+T3	Intervention 185 257	intraperitoneal (IP) insulin infusion via programmable implantable pumps
+T4	Intervention 288 337	subcutaneous (SC) insulin via multiple injections
+T5	Intervention 1198 1214	implantable pump

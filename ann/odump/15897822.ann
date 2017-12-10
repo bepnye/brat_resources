@@ -1,0 +1,6 @@
+T1	HMM 1225 1376	pain (visual analog scale (VAS)), disability (ODI), health-related quality of life (15D Quality of Life Instrument), satisfaction with care, and costs.
+T2	HMM 1442 1460	self-rated outcome
+T3	HMM 1565 1568	VAS
+T4	HMM 1621 1641	patient satisfaction
+T5	HMM 1813 1827	VAS scale cost
+T6	HMM 1884 1898	cost-effective

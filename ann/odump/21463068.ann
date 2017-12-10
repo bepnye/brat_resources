@@ -1,0 +1,7 @@
+T1	HMM 100 111	abstinence.
+T2	HMM 431 450	abstinence outcomes
+T3	HMM 570 643	baseline characteristics and posttreatment and follow-up cocaine outcomes
+T4	HMM 965 996	durations of cocaine abstinence
+T5	HMM 1030 1053	cocaine-negative sample
+T6	HMM 1131 1139	outcomes
+T7	HMM 1326 1344	cocaine abstinence

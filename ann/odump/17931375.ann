@@ -1,0 +1,5 @@
+T1	HMM 855 863	bruising
+T2	HMM 1026 1051	visual analog scale (VAS)
+T3	HMM 1253 1286	percentage of bruising occurrence
+T4	HMM 1400 1420	size of the bruising
+T5	HMM 1461 1491	Pain intensity and pain period

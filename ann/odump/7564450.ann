@@ -1,0 +1,7 @@
+T1	HMM 0 19	Hemostatic function
+T2	HMM 239 258	hemostatic function
+T3	HMM 703 727	Postoperative blood loss
+T4	HMM 824 848	shear-induced hemostasis
+T5	HMM 964 1014	shear-induced pathway of aspirin-treated platelets
+T6	HMM 1247 1314	thromboxane production and on collagen-induced platelet aggregation
+T7	HMM 1384 1404	aggregation capacity

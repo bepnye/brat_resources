@@ -1,0 +1,11 @@
+T1	HMM 659 676	previous fracture
+T2	HMM 702 730	a fall in the last 12 months
+T3	HMM 760 763	age
+T4	HMM 847 864	previous fracture
+T5	HMM 890 905	low body weight
+T6	HMM 940 972	maternal history of hip fracture
+T7	HMM 998 1026	a fall in the last 12 months
+T8	HMM 1056 1059	age
+T9	HMM 1145 1162	previous fracture
+T10	HMM 1192 1220	a fall in the last 12 months
+T11	HMM 1254 1268	current smoker

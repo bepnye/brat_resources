@@ -1,0 +1,12 @@
+T1	HMM 1079 1133	hypotension, nausea, pruritus, shivering, and headache
+T2	HMM 1217 1242	absence of cold sensation
+T3	HMM 1248 1275	level of pinprick analgesia
+T4	HMM 1281 1322	time to achieve sensory block to T4 level
+T5	HMM 1399 1410	motor block
+T6	HMM 1458 1471	visceral pain
+T7	HMM 1548 1559	hypotension
+T8	HMM 1656 1707	nausea, vomiting, pruritus, shivering, and headache
+T9	HMM 1754 1766	satisfaction
+T10	HMM 1845 1959	The level of absence of cold sensation, level of pinprick analgesia, and time to achieve sensory block to T4 level
+T11	HMM 2184 2257	effective surgical anesthesia, postoperative analgesia, and side effects.
+T12	HMM 2295 2306	alternative

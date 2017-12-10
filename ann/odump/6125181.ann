@@ -1,0 +1,5 @@
+T1	HMM 370 386	Cardiac function
+T2	HMM 407 439	M-Mode and 2D-echo-cardiography.
+T3	HMM 499 513	blood pressure
+T4	HMM 563 640	overall left ventricular function in ventricular geometry or in wall dynamics
+T5	HMM 727 782	resting heart rate, cardiac index and ejection velocity

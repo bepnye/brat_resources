@@ -1,0 +1,4 @@
+T1	HMM 1003 1015	GI bleeding.
+T2	HMM 1021 1062	gastritis, esophagitis, and hiatal hernia
+T3	HMM 1114 1133	Mean hospital stays
+T4	HMM 1161 1182	cost of PPI treatment

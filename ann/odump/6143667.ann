@@ -1,0 +1,9 @@
+T1	HMM 923 974	blood pressure, heart rate and S-FFA concentrations
+T2	HMM 1142 1165	clinical beta-blockade.
+T3	HMM 1216 1244	fasting blood glucose level.
+T4	HMM 1270 1331	fasting and glucagon-stimulated serum C-peptide concentration
+T5	HMM 1481 1495	serum insulin.
+T6	HMM 1553 1584	insulin binding to erythrocytes
+T7	HMM 1615 1646	glucose disappearance rate KITT
+T8	HMM 1784 1802	glucose metabolism
+T9	HMM 1842 1871	endogenous insulin secretion.

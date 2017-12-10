@@ -1,0 +1,14 @@
+T1	HMM 66 107	late cardiovascular outcome and survival:
+T2	HMM 182 199	long-term effects
+T3	HMM 281 325	cardiovascular (CV) morbidity and mortality.
+T4	HMM 861 870	CV events
+T5	HMM 993 1120	Composite CV events, that is, ischaemic coronary and cerebrovascular events, components of the composite CV outcome, and death.
+T6	HMM 1121 1181	Relative HRs from Cox proportional-hazards regression models
+T7	HMM 1245 1264	composite CV events
+T8	HMM 1423 1429	deaths
+T9	HMM 1454 1483	age-adjusted relative hazards
+T10	HMM 1512 1562	composite CV event, first coronary event and death
+T11	HMM 1717 1757	risk for the first cerebrovascular event
+T12	HMM 1976 2021	incidence of ischaemic coronary artery events
+T13	HMM 2075 2125	long-term risk of ischaemic cerebrovascular events
+T14	HMM 2190 2206	reduced survival

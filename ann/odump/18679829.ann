@@ -1,0 +1,7 @@
+T1	HMM 743 768	interest in BRCA1 testing
+T2	HMM 841 854	BRCA1 testing
+T3	HMM 1011 1024	BRCA1 testing
+T4	HMM 1091 1109	level of interest.
+T5	HMM 1110 1160	Knowledge about breast cancer susceptibility genes
+T6	HMM 1442 1457	genetic testing
+T7	HMM 1739 1767	interest to undergo testing.

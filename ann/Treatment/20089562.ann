@@ -1,0 +1,10 @@
+T1	Treatment 0 31	Epirubicin and cyclophosphamide
+T2	Treatment 39 63	epirubicin and docetaxel
+T3	Treatment 272 354	epirubicin and cyclophosphamide (EC) with epirubicin and docetaxel (Taxotere) (ED)
+T4	Treatment 493 507	ED (epirubicin
+T5	Treatment 519 532	and docetaxel
+T6	Treatment 548 562	EC (epirubicin
+T7	Treatment 578 594	cyclophosphamide
+T8	Treatment 814 816	EC
+T9	Treatment 821 823	ED
+T10	Treatment 1099 1101	ED

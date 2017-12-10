@@ -1,0 +1,10 @@
+T1	HMM 49 76	microcirculatory blood flow
+T2	HMM 83 116	marker of endothelial cell injury
+T3	HMM 156 175	Abnormal blood flow
+T4	HMM 543 569	abnormal blood flow in SCD
+T5	HMM 817 841	microvascular blood flow
+T6	HMM 1061 1085	microvascular blood flow
+T7	HMM 1230 1254	plasma levels of sVCAM-1
+T8	HMM 1277 1301	microvascular blood flow
+T9	HMM 1424 1506	acute vascular occlusion and chronically impaired microvascular blood flow in SCD.
+T10	HMM 1586 1596	blood flow

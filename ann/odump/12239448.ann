@@ -1,0 +1,5 @@
+T1	HMM 716 724	Roll-off
+T2	HMM 858 896	median time to completion of treatment
+T3	HMM 989 1007	total power output
+T4	HMM 1089 1121	diameters of RFA-induced lesions
+T5	HMM 1361 1385	same therapeutic effects

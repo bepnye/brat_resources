@@ -1,0 +1,6 @@
+T1	HMM 832 848	symptom severity
+T2	HMM 995 1067	ratings of anxiety severity on the Pediatric Anxiety Rating Scale (PARS)
+T3	HMM 1097 1142	Clinical Global Impressions-Improvement scale
+T4	HMM 1288 1346	diagnostic remission or questionnaire measures of anxiety.
+T5	HMM 1356 1374	parent-report data
+T6	HMM 1402 1462	positive treatment effect of CBT on autism symptom severity.

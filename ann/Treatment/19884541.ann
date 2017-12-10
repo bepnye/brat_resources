@@ -1,0 +1,12 @@
+T1	Treatment 85 109	intrathecal methotrexate
+T2	Treatment 124 150	triple intrathecal therapy
+T3	Treatment 326 436	intrathecal (IT) methotrexate or triple IT therapy (ie, methotrexate with both cytarabine and hydrocortisone).
+T4	Treatment 680 695	IT methotrexate
+T5	Treatment 711 728	triple IT therapy
+T6	Treatment 892 907	IT methotrexate
+T7	Treatment 1035 1052	triple IT therapy
+T8	Treatment 1166 1181	IT methotrexate
+T9	Treatment 1276 1299	triple IT therapy group
+T10	Treatment 1895 1910	IT methotrexate
+T11	Treatment 1914 1931	triple IT therapy
+T12	Treatment 1989 2011	IT methotrexate group.

@@ -1,0 +1,4 @@
+T1	HMM 150 169	malignant dysphagia
+T2	HMM 1000 1025	mean therapeutic interval
+T3	HMM 1174 1252	degree of dysphagia relief, number of endoscopic procedures or survival times.
+T4	HMM 1377 1398	therapeutic interval.

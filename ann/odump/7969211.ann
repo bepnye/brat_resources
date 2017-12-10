@@ -1,0 +1,4 @@
+T1	HMM 50 64	motor symptoms
+T2	HMM 351 367	motor impairment
+T3	HMM 601 615	motor function
+T4	HMM 754 770	motor impairment

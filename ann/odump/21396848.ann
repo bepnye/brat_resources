@@ -1,0 +1,11 @@
+T1	HMM 640 659	efficacy and safety
+T2	HMM 763 777	relieving pain
+T3	HMM 1179 1221	0-to-10 points visual analogue scale (VAS)
+T4	HMM 1489 1504	unbearable pain
+T5	HMM 1647 1701	serum PSA, prostate volume, and cancer detection rate.
+T6	HMM 1842 1858	procedural pain.
+T7	HMM 1947 1965	probe-related pain
+T8	HMM 2044 2075	relieving sampling-related pain
+T9	HMM 2245 2265	the two pain sources
+T10	HMM 2372 2385	probe-related
+T11	HMM 2608 2628	improve pain control

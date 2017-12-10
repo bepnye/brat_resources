@@ -1,0 +1,19 @@
+T1	Treatment 53 62	ketorolac
+T2	Treatment 71 78	placebo
+T3	Treatment 201 210	ketorolac
+T4	Treatment 225 232	placebo
+T5	Treatment 251 291	electromotive drug administration (EMDA)
+T6	Treatment 341 345	EMDA
+T7	Treatment 473 477	EMDA
+T8	Treatment 919 939	(30 mg of ketorolac)
+T9	Treatment 943 974	placebo (5 mL of normal saline)
+T10	Treatment 1553 1562	ketorolac
+T11	Treatment 1567 1574	placebo
+T12	Treatment 1637 1641	EMDA
+T13	Treatment 1677 1686	ketorolac
+T14	Treatment 1767 1774	placebo
+T15	Treatment 1935 1950	placebo-treated
+T16	Treatment 2010 2027	ketorolac-treated
+T17	Treatment 2122 2131	ketorolac
+T18	Treatment 2164 2168	EMDA
+T19	Treatment 2217 2225	placebo.

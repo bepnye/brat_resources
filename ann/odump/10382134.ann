@@ -1,0 +1,6 @@
+T1	HMM 0 14	Sleep patterns
+T2	HMM 38 56	Sleep disturbances
+T3	HMM 507 575	earlier morning awakening time and multiple and early night arousals
+T4	HMM 637 665	earlier morning arousal time
+T5	HMM 678 692	sleep patterns
+T6	HMM 783 801	sleep disturbances

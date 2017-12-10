@@ -1,0 +1,11 @@
+T1	HMM 51 76	urinary albumin excretion
+T2	HMM 219 234	kidney function
+T3	HMM 360 374	Renal function
+T4	HMM 410 436	glomerular filtration rate
+T5	HMM 483 533	urinary albumin excretion rate (radioimmunoassay).
+T6	HMM 732 755	arterial blood pressure
+T7	HMM 820 850	urinary albumin excretion rate
+T8	HMM 940 971	fractional clearance of albumin
+T9	HMM 1021 1047	Glomerular filtration rate
+T10	HMM 1131 1158	blood glucose concentration
+T11	HMM 1434 1460	glomerular filtration rate

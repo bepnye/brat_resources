@@ -1,0 +1,4 @@
+T1	HMM 1577 1592	scheduled visit
+T2	HMM 2447 2469	number of symptom days
+T3	HMM 2561 2588	emergency department visits
+T4	HMM 2656 2683	emergency department visits

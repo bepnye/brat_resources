@@ -1,0 +1,14 @@
+T1	HMM 87 129	neurobehavioural performance and sleep EEG
+T2	HMM 219 237	vigilant attention
+T3	HMM 257 289	psychomotor vigilance task (PVT)
+T4	HMM 379 403	slow-wave activity (SWA)
+T5	HMM 411 443	sleep electroencephalogram (EEG)
+T6	HMM 766 769	PVT
+T7	HMM 774 777	SWA
+T8	HMM 1142 1155	and sleep EEG
+T9	HMM 1252 1259	the PVT
+T10	HMM 1382 1400	of PVT performance
+T11	HMM 1417 1423	of SWA
+T12	HMM 1692 1716	of psychomotor vigilance
+T13	HMM 1908 1954	of prolonged wakefulness on vigilant attention
+T14	HMM 1959 1972	the sleep EEG

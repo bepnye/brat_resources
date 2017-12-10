@@ -1,0 +1,12 @@
+T1	HMM 28 54	platelet function profiles
+T2	HMM 304 330	platelet function profiles
+T3	HMM 507 526	platelet inhibition
+T4	HMM 671 697	platelet function profiles
+T5	HMM 1032 1166	vasodilator-stimulated phosphoprotein phosphorylation assay, light transmittance aggregometry, VerifyNow P2Y12 assay (Accumetric, Inc.
+T6	HMM 1168 1227	San Diego, California), and multiple electrode aggregometry
+T7	HMM 1324 1369	high on-treatment platelet reactivity status.
+T8	HMM 1475 1499	P2Y(12) reactivity index
+T9	HMM 1515 1568	vasodilator-stimulated phosphoprotein phosphorylation
+T10	HMM 1705 1747	14-day P2Y(12) reactivity index assessment
+T11	HMM 1873 1885	PD measures.
+T12	HMM 2076 2103	platelet inhibitory effects

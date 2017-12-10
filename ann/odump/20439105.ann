@@ -1,0 +1,7 @@
+T1	HMM 282 290	accuracy
+T2	HMM 441 471	cardiovascular risk assessment
+T3	HMM 856 887	cardiovascular risk assessment.
+T4	HMM 929 957	accuracy of risk assessments
+T5	HMM 978 1088	difference between the 10-year cardiovascular risk percentage calculated by nurses and an independent assessor
+T6	HMM 1098 1244	the agreement between the treatment categories assigned by the nurses (low, moderate or high risk) and those assigned by the independent assessor.
+T7	HMM 1567 1601	cardiovascular risk miscalculated.

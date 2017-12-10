@@ -1,0 +1,13 @@
+T1	HMM 78 128	Streptococcus mutans and approximal dental caries.
+T2	HMM 175 196	Streptococcus mutants
+T3	HMM 201 225	approximal dental caries
+T4	HMM 324 326	S.
+T5	HMM 327 333	mutans
+T6	HMM 1222 1224	S.
+T7	HMM 1225 1241	mutans in saliva
+T8	HMM 1438 1440	S.
+T9	HMM 1441 1447	mutans
+T10	HMM 1502 1520	caries progression
+T11	HMM 1824 1826	S.
+T12	HMM 1827 1841	mutans levels.
+T13	HMM 1903 1928	new or progressive caries

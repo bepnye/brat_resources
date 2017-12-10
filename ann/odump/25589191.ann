@@ -1,0 +1,19 @@
+T1	HMM 133 149	overall survival
+T2	HMM 249 265	overall survival
+T3	HMM 1302 1318	overall survival
+T4	HMM 1497 1513	overall survival
+T5	HMM 1704 1720	overall survival
+T6	HMM 1878 1894	overall survival
+T7	HMM 2343 2359	overall survival
+T8	HMM 2697 2721	grade 3-4 adverse events
+T9	HMM 2727 2739	rash or acne
+T10	HMM 2825 2834	diarrhoea
+T11	HMM 2859 2869	paronychia
+T12	HMM 2905 2928	stomatitis or mucositis
+T13	HMM 2974 2985	neutropenia
+T14	HMM 3014 3021	fatigue
+T15	HMM 3037 3047	leucopenia
+T16	HMM 3186 3210	grade 3-4 adverse events
+T17	HMM 3216 3227	neutropenia
+T18	HMM 3256 3264	vomiting
+T19	HMM 3281 3291	leucopenia

@@ -1,0 +1,9 @@
+T1	HMM 45 58	low back pain
+T2	HMM 63 100	improves self-evaluated work ability:
+T3	HMM 384 419	low back pain (LBP) and disability.
+T4	HMM 605 624	LBP and disability.
+T5	HMM 708 751	recurrence of LBP and long-term disability.
+T6	HMM 1037 1140	changes in intensity of LBP, disability, self-evaluated future work ability, and neuromuscular fitness.
+T7	HMM 1153 1169	intensity of LBP
+T8	HMM 1244 1325	proportion of subjects with negative expectations about their future work ability
+T9	HMM 1473 1503	disability indexes and fitness

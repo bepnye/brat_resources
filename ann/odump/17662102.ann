@@ -1,0 +1,13 @@
+T1	HMM 695 729	sustained virologic response (SVR)
+T2	HMM 761 810	hepatitis B virus deoxyribonucleic acid (HBV DNA)
+T3	HMM 840 850	HBV DNA<20
+T4	HMM 898 948	Hepatitis B surface antigen (HBsAg) concentrations
+T5	HMM 990 998	HBV DNA.
+T6	HMM 1007 1010	SVR
+T7	HMM 1060 1067	HBV DNA
+T8	HMM 1184 1209	log reduction in HBV DNA.
+T9	HMM 1256 1275	HBsAg concentration
+T10	HMM 1318 1325	HBV DNA
+T11	HMM 1371 1375	SVR.
+T12	HMM 1481 1484	SVR
+T13	HMM 1731 1750	HBsAg concentration

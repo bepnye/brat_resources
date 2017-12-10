@@ -1,0 +1,8 @@
+T1	HMM 77 97	foot and hand warts:
+T2	HMM 786 828	area of each wart compared with entry area
+T3	HMM 955 969	Pain intensity
+T4	HMM 1221 1259	median relative reduction in wart area
+T5	HMM 1391 1429	median relative reduction in wart area
+T6	HMM 1536 1622	number of vanishing warts and the difference in relative wart area of persisting warts
+T7	HMM 1739 1760	higher pain intensity
+T8	HMM 1866 1900	area and number of vanishing warts

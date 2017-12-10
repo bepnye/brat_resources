@@ -1,0 +1,11 @@
+T1	Treatment 68 82	S-1+paclitaxel
+T2	Treatment 88 101	S-1+cisplatin
+T3	Treatment 203 206	S-1
+T4	Treatment 211 220	cisplatin
+T5	Treatment 586 833	S-1 (40 mg m(-2) twice daily) on days 1-14 plus paclitaxel (60 mg m(-2)) on days 1, 8, and 15 of a 4-week cycle (S-1+paclitaxel) or S-1 (40 mg m(-2) twice daily) on days 1-21 plus cisplatin (60 mg m(-2)) on day 8 of a 5-week cycle (S-1+cisplatin).
+T6	Treatment 1068 1082	S-1+paclitaxel
+T7	Treatment 1087 1100	S-1+cisplatin
+T8	Treatment 1395 1409	S-1+cisplatin.
+T9	Treatment 1518 1532	S-1+cisplatin.
+T10	Treatment 1544 1558	S-1+paclitaxel
+T11	Treatment 1604 1630	non-platinum-based regimen

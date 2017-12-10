@@ -1,0 +1,5 @@
+T1	HMM 657 686	respiratory distress syndrome
+T2	HMM 749 778	respiratory distress syndrome
+T3	HMM 852 881	respiratory distress syndrome
+T4	HMM 992 1004	endometritis
+T5	HMM 1039 1085	neonatal infections and cesarean section rates

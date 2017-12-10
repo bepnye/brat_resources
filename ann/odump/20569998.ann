@@ -1,0 +1,6 @@
+T1	HMM 609 739	Blood pressure (BP), blood urea nitrogen (BUN) levels, creatinine, serum and urinary uric acid, creatinine and uric acid clearance
+T2	HMM 893 910	urinary uric acid
+T3	HMM 1022 1030	azotemia
+T4	HMM 1069 1084	serum uric acid
+T5	HMM 1125 1142	urinary uric acid
+T6	HMM 1247 1258	systolic BP

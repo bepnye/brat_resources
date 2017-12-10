@@ -1,0 +1,18 @@
+T1	HMM 65 100	analgesic efficacy, onset of action
+T2	HMM 106 118	tolerability
+T3	HMM 221 252	pharmacokinetic characteristics
+T4	HMM 309 320	pain relief
+T5	HMM 429 481	analgesic efficacy, speed of onset, and tolerability
+T6	HMM 928 958	Pain intensity and pain relief
+T7	HMM 991 1035	verbal descriptor scales; onset of analgesia
+T8	HMM 1084 1127	time to achievement of specific pain relief
+T9	HMM 1241 1254	Baseline pain
+T10	HMM 1335 1346	pain relief
+T11	HMM 1590 1601	pain relief
+T12	HMM 1971 1982	pain relief
+T13	HMM 2219 2230	pain relief
+T14	HMM 2386 2400	pain reduction
+T15	HMM 2468 2493	Median remedication times
+T16	HMM 2615 2637	Adverse-event profiles
+T17	HMM 2907 2918	pain relief
+T18	HMM 2971 2993	tolerability profiles.

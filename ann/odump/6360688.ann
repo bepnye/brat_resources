@@ -1,0 +1,4 @@
+T1	HMM 737 748	chest pains
+T2	HMM 1000 1006	angina
+T3	HMM 1093 1114	no symptomatic relief
+T4	HMM 1177 1205	number of episodes of angina

@@ -1,0 +1,8 @@
+T1	HMM 563 611	safety, anti-plaque, and anti-gingivitis effects
+T2	HMM 682 688	plaque
+T3	HMM 705 728	reduction in gingivitis
+T4	HMM 877 883	plaque
+T5	HMM 1003 1022	bleeding on probing
+T6	HMM 1081 1095	adverse events
+T7	HMM 1123 1157	shifts in supragingival microflora
+T8	HMM 1248 1288	plaque, gingivitis and gingival bleeding

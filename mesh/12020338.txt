@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Albuminuria
+Diabetes Mellitus, Type 1
+Diabetic Angiopathies
+Diabetic Nephropathies
+Diabetic Neuropathies
+Diabetic Retinopathy
+Female
+Hemoglobin A, Glycosylated
+Humans
+Male
+Randomized Controlled Trials as Topic

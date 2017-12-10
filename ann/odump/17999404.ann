@@ -1,0 +1,12 @@
+T1	HMM 112 133	body mass index (BMI)
+T2	HMM 860 928	BMI and all-cause mortality, PCSM, and nonprostate cancer mortality.
+T3	HMM 1072 1088	5-year PCSM rate
+T4	HMM 1102 1105	BMI
+T5	HMM 1312 1323	higher PCSM
+T6	HMM 1480 1483	BMI
+T7	HMM 1508 1526	nonprostate cancer
+T8	HMM 1530 1550	all-cause mortality.
+T9	HMM 1571 1583	baseline BMI
+T10	HMM 1624 1628	PCSM
+T11	HMM 1748 1773	cancer-specific mortality
+T12	HMM 1796 1807	weight loss

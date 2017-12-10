@@ -1,0 +1,10 @@
+T1	HMM 31 64	urinary excretion of ferulic acid
+T2	HMM 100 134	susceptibility of LDL to oxidation
+T3	HMM 464 515	bioavailability and potential antioxidative effects
+T4	HMM 574 602	urine levels of ferulic acid
+T5	HMM 701 734	urinary excretion of ferulic acid
+T6	HMM 981 1054	low-density lipoprotein (LDL) susceptibility to copper oxidation ex vivo.
+T7	HMM 1172 1205	urinary excretion of ferulic acid
+T8	HMM 1395 1444	lag time or propagation rate of the LDL oxidation
+T9	HMM 1744 1764	antioxidative effect
+T10	HMM 1887 1909	intake of ferulic acid

@@ -1,0 +1,12 @@
+T1	HMM 811 825	Anxiety levels
+T2	HMM 853 879	Dental Anxiety Scale (DAS)
+T3	HMM 888 937	Spielberger State-Trait Anxiety Inventory (STAI).
+T4	HMM 938 942	Pain
+T5	HMM 963 983	visual analog scale.
+T6	HMM 1024 1034	SPSS 16.0.
+T7	HMM 1084 1091	anxious
+T8	HMM 1161 1180	DAS and STAI scores
+T9	HMM 1214 1231	age, surgery time
+T10	HMM 1237 1252	education level
+T11	HMM 1278 1301	anxiety or pain levels;
+T12	HMM 1331 1353	high levels of anxiety

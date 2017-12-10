@@ -1,0 +1,5 @@
+T1	HMM 826 896	resting BP, reducing systolic (SBP) and diastolic (DBP) blood pressure
+T2	HMM 1003 1018	"response" rate
+T3	HMM 1229 1231	BP
+T4	HMM 1331 1333	BP
+T5	HMM 1513 1515	BP

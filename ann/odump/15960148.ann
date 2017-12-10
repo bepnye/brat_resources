@@ -1,0 +1,16 @@
+T1	HMM 31 56	efficacy and tolerability
+T2	HMM 499 507	efficacy
+T3	HMM 512 524	tolerability
+T4	HMM 937 960	serum phosphorus levels
+T5	HMM 1029 1161	the profile of serum phosphorus during titration and parathyroid hormone, calcium, and calcium x phosphorus (Ca x P) product levels.
+T6	HMM 1166 1212	safety and tolerability of lanthanum carbonate
+T7	HMM 1241 1255	adverse events
+T8	HMM 1286 1313	Mean serum phosphorus level
+T9	HMM 1572 1589	phosphorus levels
+T10	HMM 1829 1852	serum phosphorus levels
+T11	HMM 1909 1930	Ca x P product levels
+T12	HMM 2071 2081	tolerated;
+T13	HMM 2091 2112	serious adverse event
+T14	HMM 2212 2221	effective
+T15	HMM 2226 2240	well-tolerated
+T16	HMM 2477 2501	serum phosphorus levels.

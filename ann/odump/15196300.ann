@@ -1,0 +1,22 @@
+T1	HMM 4 23	prophylactic effect
+T2	HMM 40 76	glyceryltrinitrate induced migraine.
+T3	HMM 310 318	Efficacy
+T4	HMM 712 720	Headache
+T5	HMM 768 786	headache intensity
+T6	HMM 878 902	middle cerebral arteries
+T7	HMM 921 941	transcranial Doppler
+T8	HMM 950 1006	diameter of the superficial temporal and radial arteries
+T9	HMM 1026 1052	high frequency ultrasound.
+T10	HMM 1053 1096	GTN evoked migraine fulfilling IHS criteria
+T11	HMM 1277 1292	migraine attack
+T12	HMM 1309 1328	associated symptoms
+T13	HMM 1334 1345	photophobia
+T14	HMM 1349 1360	phonophobia
+T15	HMM 1393 1433	number of patients with induced migraine
+T16	HMM 1472 1502	Median peak headache intensity
+T17	HMM 1655 1663	velocity
+T18	HMM 1672 1696	middle cerebral arteries
+T19	HMM 1781 1824	diameter of the superficial temporal artery
+T20	HMM 1844 1857	radial artery
+T21	HMM 1981 1999	GTN human migraine
+T22	HMM 2021 2040	headache parameters

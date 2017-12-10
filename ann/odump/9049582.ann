@@ -1,0 +1,11 @@
+T1	HMM 104 128	serum cholesterol levels
+T2	HMM 328 410	pharmacokinetic profile, tolerability and effect of the drug on serum cholesterol.
+T3	HMM 650 671	Plasma concentrations
+T4	HMM 797 818	plasma concentrations
+T5	HMM 1171 1192	plasma concentrations
+T6	HMM 1446 1458	AUC and Cmax
+T7	HMM 1926 1947	plasma concentrations
+T8	HMM 2050 2071	plasma concentrations
+T9	HMM 2209 2275	significant signs, symptoms or changes in serum cholesterol levels
+T10	HMM 2542 2559	serum cholesterol
+T11	HMM 2616 2626	diarrhoea.

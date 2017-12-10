@@ -1,0 +1,20 @@
+T1	HMM 22 41	severe hypoglycemia
+T2	HMM 224 248	severe hypoglycemia (SH)
+T3	HMM 264 280	clinical utility
+T4	HMM 284 319	continuous glucose monitoring (CGM)
+T5	HMM 869 904	CGM-derived indices of hypoglycemia
+T6	HMM 979 986	SH rate
+T7	HMM 1031 1035	rate
+T8	HMM 1074 1076	SH
+T9	HMM 1115 1127	SH frequency
+T10	HMM 1160 1170	CGM values
+T11	HMM 1237 1272	the positive predictive value (PPV)
+T12	HMM 1309 1346	for hypoglycemic area under the curve
+T13	HMM 1351 1378	the low blood glucose index
+T14	HMM 1390 1396	by CGM
+T15	HMM 1398 1412	CONCLUSIONS SH
+T16	HMM 1476 1481	of SH
+T17	HMM 1493 1499	study.
+T18	HMM 1500 1525	CGM-measured hypoglycemia
+T19	HMM 1564 1571	with SH
+T20	HMM 1607 1614	the PPV

@@ -1,0 +1,11 @@
+T1	HMM 47 61	blood pressure
+T2	HMM 284 303	blood pressure (BP)
+T3	HMM 408 411	BP.
+T4	HMM 599 613	slow breathing
+T5	HMM 629 658	BP and quality of life (QoL).
+T6	HMM 790 792	BP
+T7	HMM 827 829	BP
+T8	HMM 970 996	target breathing frequency
+T9	HMM 1056 1059	QoL
+T10	HMM 1137 1139	BP
+T11	HMM 1143 1146	QoL

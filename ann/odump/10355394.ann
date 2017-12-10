@@ -1,0 +1,4 @@
+T1	HMM 1219 1270	percentage of patients with major bleeding episodes
+T2	HMM 1390 1408	valve reoperations
+T3	HMM 1416 1446	blood transfusion requirements
+T4	HMM 1628 1652	reoperation for bleeding

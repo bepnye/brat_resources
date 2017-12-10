@@ -1,0 +1,9 @@
+T1	HMM 737 812	Operative data, postoperative stay, pain assessment and persistent symptoms
+T2	HMM 950 969	endoanal ultrasound
+T3	HMM 1067 1111	postoperative stay and in-hospital analgesia
+T4	HMM 1272 1290	higher pain scores
+T5	HMM 1382 1389	no pain
+T6	HMM 1452 1503	persistent symptoms of pain, bleeding and discharge
+T7	HMM 1608 1655	median return to work was significantly shorter
+T8	HMM 1813 1839	internal sphincter damage.
+T9	HMM 1944 1953	less pain

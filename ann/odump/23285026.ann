@@ -1,0 +1,12 @@
+T1	HMM 3 14	pain relief
+T2	HMM 591 601	hand pain.
+T3	HMM 651 655	pain
+T4	HMM 861 900	of stimulus temperature on pain ratings
+T5	HMM 906 933	no main effect of condition
+T6	HMM 946 987	nor a condition x temperature interaction
+T7	HMM 1081 1120	determine heat and cold pain thresholds
+T8	HMM 1203 1278	involved heat and cold detection thresholds and paradoxical heat sensations
+T9	HMM 1297 1347	no main effect of condition on heat pain threshold
+T10	HMM 1364 1386	on cold pain threshold
+T11	HMM 1413 1435	the secondary measures
+T12	HMM 1505 1521	induce analgesia

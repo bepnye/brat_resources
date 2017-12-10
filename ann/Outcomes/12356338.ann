@@ -1,0 +1,8 @@
+T1	Outcomes 777 985	end-systolic wall stress (ESWS), shortening fraction (SF), systemic vascular resistance (SVR), velocity for circumferential fiber shortening corrected for heart rate (Vcfc), stroke volume, and cardiac output.
+T2	Outcomes 986 1009	P wave and QRS duration
+T3	Outcomes 1118 1198	ESWS, mean blood pressure, cardiac output, SVR, heart rate, and P wave duration.
+T4	Outcomes 1235 1331	left ventricular ejection time (LVET), LV dimensions, SF, contractility (Vcfc), or QRS duration.
+T5	Outcomes 1402 1431	afterload and cardiac output.
+T6	Outcomes 1432 1453	Cardiac contractility
+T7	Outcomes 1507 1517	Heart rate
+T8	Outcomes 1522 1537	P wave duration

@@ -1,0 +1,8 @@
+T1	Intervention 294 312	6-thioguanine (TG)
+T2	Intervention 317 338	6-mercaptopurine (MP)
+T3	Intervention 343 375	triple intrathecal therapy (ITT)
+T4	Intervention 380 413	intrathecal methotrexate (IT-MTX)
+T5	Intervention 546 548	MP
+T6	Intervention 563 565	TG
+T7	Intervention 581 587	IT-MTX
+T8	Intervention 602 605	ITT

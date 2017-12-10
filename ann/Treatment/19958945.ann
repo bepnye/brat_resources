@@ -1,0 +1,9 @@
+T1	Treatment 114 127	thyroidectomy
+T2	Treatment 134 176	local/regional anesthesia and IV sedation.
+T3	Treatment 349 376	mini-incision thyroidectomy
+T4	Treatment 383 434	local/regional anesthesia and intravenous sedation.
+T5	Treatment 463 513	mini-incision thyroidectomy under local anesthesia
+T6	Treatment 555 584	nerve monitoring of the EBSLN
+T7	Treatment 595 617	or no nerve monitoring
+T8	Treatment 1371 1398	mini-incision thyroidectomy
+T9	Treatment 1405 1430	local/regional anesthesia

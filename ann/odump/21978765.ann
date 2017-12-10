@@ -1,0 +1,9 @@
+T1	HMM 615 637	complete response (CR)
+T2	HMM 830 885	CR, disease progression (PD), or unacceptable toxicity.
+T3	HMM 886 897	PD or death
+T4	HMM 980 1015	for progression-free survival (PFS)
+T5	HMM 1241 1249	therapy.
+T6	HMM 1250 1253	PFS
+T7	HMM 1363 1387	(>52%), overall survival
+T8	HMM 1688 1699	improve PFS
+T9	HMM 1770 1790	TC, overall survival

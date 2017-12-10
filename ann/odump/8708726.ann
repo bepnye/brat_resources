@@ -1,0 +1,6 @@
+T1	HMM 449 474	progression-free survival
+T2	HMM 847 872	progression-free survival
+T3	HMM 1041 1049	survival
+T4	HMM 1187 1317	account disease extent, maintenance therapy, Karnofsky performance status (PS), and absolute dose-intensity (ADI) of anthracycline
+T5	HMM 1342 1378	limited disease (LD) and maintenance
+T6	HMM 1431 1440	survival.

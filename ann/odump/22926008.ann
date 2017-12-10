@@ -1,0 +1,5 @@
+T1	HMM 50 82	colon cancer screening knowledge
+T2	HMM 318 351	colorectal cancer (CRC) screening
+T3	HMM 622 660	CRC knowledge and health belief scores
+T4	HMM 804 953	CRC knowledge scores (P < 0.001), perceived CRC risk scores (P = 0.005), FOBT barriers scores (P = 0.034) and colonoscopy benefit scores (P < 0.001).
+T5	HMM 1083 1131	knowledge and health beliefs about CRC screening

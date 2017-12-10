@@ -1,0 +1,10 @@
+T1	HMM 42 71	secondary hyperparathyroidism
+T2	HMM 111 130	safety and efficacy
+T3	HMM 220 256	secondary hyperparathyroidism (SHPT)
+T4	HMM 802 822	serum calcium levels
+T5	HMM 892 915	serum phosphorus levels
+T6	HMM 1164 1202	2 consecutive decreases in iPTH levels
+T7	HMM 1225 1234	baseline.
+T8	HMM 1350 1374	decreases in iPTH levels
+T9	HMM 1497 1577	hypercalcemia, hyperphosphatemia, and elevated calcium-phosphorus product levels
+T10	HMM 1668 1744	urinary calcium and phosphorus excretion or deterioration in kidney function

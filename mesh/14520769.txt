@@ -1,0 +1,18 @@
+Acetaminophen
+Adult
+Analgesics, Non-Narcotic
+Analysis of Variance
+Anti-Inflammatory Agents, Non-Steroidal
+Area Under Curve
+Chi-Square Distribution
+Diclofenac
+Double-Blind Method
+Facial Pain
+Female
+Humans
+Male
+Molar, Third
+Odds Ratio
+Pain, Postoperative
+Tooth Extraction
+Tooth, Impacted

@@ -1,0 +1,7 @@
+T1	HMM 45 102	unidimensional, bidimensional and volumetric measurements
+T2	HMM 146 254	magnitude of differences in tumour unidimensional (1D), bidimensional (2D) and volumetric (VOL) measurements
+T3	HMM 708 722	1D, 2D and VOL
+T4	HMM 921 937	Lesion diameters
+T5	HMM 1238 1245	For VOL
+T6	HMM 1285 1334	between measurements on different slice intervals
+T7	HMM 1449 1486	different 1D, 2D and VOL measurements

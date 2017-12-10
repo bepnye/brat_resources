@@ -1,0 +1,13 @@
+T1	HMM 569 597	infarct vessel patency rates
+T2	HMM 628 658	short- and long-term outcomes.
+T3	HMM 1218 1232	blood pressure
+T4	HMM 1278 1308	median time from symptom onset
+T5	HMM 1446 1458	balloon time
+T6	HMM 1517 1528	needle time
+T7	HMM 1565 1582	TIMI grade 3 flow
+T8	HMM 1666 1687	ST-segment resolution
+T9	HMM 1811 1834	presence of TIMI 3 flow
+T10	HMM 1933 2014	in-hospital death, reinfarction, severe heart failure, stroke, and major bleeding
+T11	HMM 2134 2204	composite end point of AMI, postdischarge revascularization, and death
+T12	HMM 2366 2387	ST-segment resolution
+T13	HMM 2396 2409	patency rates

@@ -1,0 +1,10 @@
+T1	Treatment 0 46	Temozolomide and cisplatin versus temozolomide
+T2	Treatment 164 182	Temozolomide (TMZ)
+T3	Treatment 371 387	cisplatin (CDDP)
+T4	Treatment 448 452	CDDP
+T5	Treatment 493 497	TMZ.
+T6	Treatment 601 636	combination versus single-agent TMZ
+T7	Treatment 910 936	TMZ 200 mg/m(2)/day orally
+T8	Treatment 980 990	TMZ + CDDP
+T9	Treatment 1039 1043	CDDP
+T10	Treatment 1802 1813	TMZ + CDDP.

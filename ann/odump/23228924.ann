@@ -1,0 +1,9 @@
+T1	HMM 164 201	myocardial extracellular volume (ECV)
+T2	HMM 218 233	T1 measurements
+T3	HMM 427 430	ECV
+T4	HMM 796 837	a mean left ventricular ejection fraction
+T5	HMM 852 859	The ECV
+T6	HMM 1035 1046	between the
+T7	HMM 1067 1108	volume (ECV vs indexed left atrial volume
+T8	HMM 1178 1204	ECV and diastolic function
+T9	HMM 1255 1269	the myocardial

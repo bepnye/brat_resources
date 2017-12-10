@@ -1,0 +1,5 @@
+T1	HMM 277 306	complete response (CR) rates.
+T2	HMM 497 528	Remission duration and survival
+T3	HMM 748 762	duration of CR
+T4	HMM 864 872	survival
+T5	HMM 1056 1068	Leucocytosis

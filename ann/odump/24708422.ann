@@ -1,0 +1,6 @@
+T1	HMM 174 197	patient-centred outcome
+T2	HMM 529 746	the Dutch version of the McGill Pain Questionnaire (MPQ-DLV), the Health-related quality of life instrument (HRQOL), visual analogue scales (VAS), the duration of the procedure, and the analgesic doses taken each day.
+T3	HMM 887 938	pain response (MPQ-DLV), treatment perception (VAS)
+T4	HMM 942 973	number or kind of pain killers.
+T5	HMM 982 999	HRQOLI-instrument
+T6	HMM 1144 1167	duration of the surgery

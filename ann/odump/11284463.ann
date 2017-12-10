@@ -1,0 +1,7 @@
+T1	HMM 533 554	Headache relief rates
+T2	HMM 784 816	headache relief and pain freedom
+T3	HMM 879 908	time to pain relief through 2
+T4	HMM 1116 1134	pain-free response
+T5	HMM 1148 1182	reduction in functional disability
+T6	HMM 1200 1216	relief of nausea
+T7	HMM 1261 1297	drug-related clinical adverse events

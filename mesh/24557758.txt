@@ -1,0 +1,19 @@
+Adult
+Aged
+Aged, 80 and over
+Blood Pressure
+Diabetic Retinopathy
+Drug Combinations
+Female
+Fluorescein Angiography
+Heart Rate
+Humans
+Male
+Middle Aged
+Mydriatics
+Ophthalmic Solutions
+Phenylephrine
+Prospective Studies
+Pupil
+Treatment Outcome
+Tropicamide

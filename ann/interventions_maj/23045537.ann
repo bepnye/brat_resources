@@ -1,0 +1,5 @@
+T1	Intervention 0 18	Patient navigation
+T2	Intervention 357 375	patient navigators
+T3	Intervention 757 767	navigation
+T4	Intervention 772 795	no-navigation (control)
+T5	Intervention 1126 1144	Patient navigation

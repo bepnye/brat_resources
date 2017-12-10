@@ -1,0 +1,6 @@
+T1	HMM 75 98	finger skin circulation
+T2	HMM 407 422	skin blood flow
+T3	HMM 618 640	finger skin blood flow
+T4	HMM 1153 1182	physiological concentrations.
+T5	HMM 1183 1232	Fingertip skin temperature and laser Doppler flux
+T6	HMM 1293 1305	test results

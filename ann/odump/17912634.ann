@@ -1,0 +1,9 @@
+T1	HMM 120 134	response rates
+T2	HMM 726 753	overall response rate (ORR)
+T3	HMM 855 890	underwent breast-conserving surgery
+T4	HMM 941 944	ORR
+T5	HMM 1082 1099	clinical efficacy
+T6	HMM 1277 1294	Biomarker studies
+T7	HMM 1437 1460	degree of ER positivity
+T8	HMM 1595 1635	expression from estrogen-regulated genes
+T9	HMM 1809 1828	tumor proliferation

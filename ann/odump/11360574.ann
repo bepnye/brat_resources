@@ -1,0 +1,8 @@
+T1	HMM 74 109	neuroendocrino-immunological effect
+T2	HMM 768 800	level of ACTH and CORT in plasma
+T3	HMM 815 848	lymphocyte proliferative reaction
+T4	HMM 904 927	monoaminic transmitters
+T5	HMM 955 994	weight of pituitary, adrenal and thymus
+T6	HMM 1006 1173	number of CRH positive neurons in hypothalamic paraventricular nucleus, CRH positive neurofibrilin median eminence and anterior pituitary ACTH positive secretory cells
+T7	HMM 1185 1295	adrenal fasciculate zone and thymus cortex atrophies; NK cell cytotoxicity and the level of IL-2 and gamma-IFN
+T8	HMM 1549 1584	neuroendocrino-immunological effect

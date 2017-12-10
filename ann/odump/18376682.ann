@@ -1,0 +1,9 @@
+T1	HMM 40 47	effects
+T2	HMM 537 560	visceral abdominal pain
+T3	HMM 1001 1046	visual analogue and verbal rating pain scores
+T4	HMM 1220 1308	Analgesia requirements, vital signs, blood glucose, and incidence of nausea and vomiting
+T5	HMM 1393 1464	visual analogue and verbal rating pain scores and analgesic consumption
+T6	HMM 1505 1520	controlled pain
+T7	HMM 1570 1593	Bowel function recovery
+T8	HMM 1598 1605	similar
+T9	HMM 1784 1807	visceral abdominal pain

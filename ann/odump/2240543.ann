@@ -1,0 +1,7 @@
+T1	HMM 476 481	rates
+T2	HMM 486 518	successful first-time intubation
+T3	HMM 716 751	unsuccessful first-time intubations
+T4	HMM 809 831	successful intubations
+T5	HMM 887 913	presence of a laryngoscope
+T6	HMM 1011 1053	rate of successful first-time intubations.
+T7	HMM 1063 1073	successful

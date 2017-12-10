@@ -1,0 +1,9 @@
+T1	HMM 24 36	bone density
+T2	HMM 625 655	Forearm bone density (BMDprox)
+T3	HMM 862 869	BMDprox
+T4	HMM 908 915	BMDdist
+T5	HMM 957 980	changes in bone density
+T6	HMM 1017 1057	biochemical indices for bone metabolism;
+T7	HMM 1095 1108	bone turnover
+T8	HMM 1144 1168	increased bone formation
+T9	HMM 1297 1309	bone density

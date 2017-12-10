@@ -1,0 +1,18 @@
+Adolescent
+Anemia, Sickle Cell
+Blood Flow Velocity
+Blood Transfusion
+Cerebral Hemorrhage
+Cerebral Infarction
+Cerebrovascular Circulation
+Cerebrovascular Disorders
+Child
+Child, Preschool
+Disease-Free Survival
+Female
+Hemoglobin, Sickle
+Humans
+Incidence
+Male
+Risk
+Ultrasonography, Doppler, Transcranial

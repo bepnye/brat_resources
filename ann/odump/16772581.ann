@@ -1,0 +1,10 @@
+T1	HMM 0 15	Milk production
+T2	HMM 245 325	milk production, dry matter (DM) intake, body condition score (BCS), and health.
+T3	HMM 936 940	feed
+T4	HMM 1055 1070	Milk production
+T5	HMM 1229 1259	DM intake or actual milk yield
+T6	HMM 1435 1460	concentration of milk fat
+T7	HMM 1558 1574	total milk yield
+T8	HMM 1824 1848	DM intake and milk yield
+T9	HMM 1927 1942	milk production
+T10	HMM 1987 2007	Total protein yields

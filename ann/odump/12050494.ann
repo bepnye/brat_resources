@@ -1,0 +1,9 @@
+T1	HMM 35 59	recurrence-free survival
+T2	HMM 783 807	recurrence-free survival
+T3	HMM 900 924	Recurrence-free survival
+T4	HMM 1115 1134	residual tumor rate
+T5	HMM 1391 1415	Recurrence-free survival
+T6	HMM 1629 1719	adjusted hazard ratio of fluorescence diagnosis versus white light transurethral resection
+T7	HMM 1902 1951	residual tumor rate and recurrence-free survival.
+T8	HMM 1971 1995	recurrence-free survival
+T9	HMM 2084 2112	number of tumor recurrences.

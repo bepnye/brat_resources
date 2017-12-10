@@ -1,0 +1,8 @@
+T1	HMM 0 13	Effectiveness
+T2	HMM 257 282	efficacy and tolerability
+T3	HMM 695 742	mean supine diastolic blood pressure reductions
+T4	HMM 1035 1073	reduced supine systolic blood pressure
+T5	HMM 1196 1211	log of the dose
+T6	HMM 1220 1244	blood pressure reduction
+T7	HMM 1265 1311	Automated ambulatory blood pressure recordings
+T8	HMM 1361 1387	blood pressure was lowered

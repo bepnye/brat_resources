@@ -1,0 +1,10 @@
+T1	Treatment 0 27	Excimer laser trabeculotomy
+T2	Treatment 31 74	180 degrees selective laser trabeculoplasty
+T3	Treatment 198 231	excimer laser trabeculotomy (ELT)
+T4	Treatment 246 283	selective laser trabeculoplasty (SLT)
+T5	Treatment 508 511	ELT
+T6	Treatment 515 518	SLT
+T7	Treatment 526 611	ELT was carried out using a XeCl Excimer Laser with an emission wavelength of 308 nm.
+T8	Treatment 612 723	Eight spots were equally distributed at a distance of 500 microm from one another over the anterior trabeculum.
+T9	Treatment 746 850	treated with a frequency-doubled q-switched neodymium:yytrium-aluminum-garnet laser (wavelength 532 nm).
+T10	Treatment 851 1032	Approximately 50 adjacent, but not overlapping, laser spots were distributed over 180 degrees of the trabecular meshwork, using an energy level ranging from 0.7 to 1.0 mJ per pulse.

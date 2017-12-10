@@ -1,0 +1,8 @@
+T1	HMM 182 228	rate of posterior capsule opacification (PCO).
+T2	HMM 539 550	rate of PCO
+T3	HMM 773 786	capsulorhexis
+T4	HMM 831 848	optics of the IOL
+T5	HMM 862 880	totally on the IOL
+T6	HMM 901 904	PCO
+T7	HMM 1031 1034	PCO
+T8	HMM 1323 1326	PCO

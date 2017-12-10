@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Aged
+Female
+Gastroesophageal Reflux
+Humans
+Isoflurane
+Laryngeal Masks
+Male
+Methylene Blue
+Middle Aged
+Pneumonia, Aspiration
+Respiration, Artificial
+Risk Factors

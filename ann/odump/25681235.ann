@@ -1,0 +1,11 @@
+T1	HMM 221 260	paravalvular aortic regurgitation (PAR)
+T2	HMM 816 820	PAR.
+T3	HMM 945 948	PAR
+T4	HMM 1477 1484	for PAR
+T5	HMM 1605 1638	the weighted κ statistic for PAR
+T6	HMM 1717 1750	the weighted κ statistic for PAR
+T7	HMM 1897 1909	moderate PAR
+T8	HMM 1943 1951	mild PAR
+T9	HMM 2014 2056	for central and total aortic regurgitation
+T10	HMM 2194 2200	of PAR
+T11	HMM 2422 2432	severe PAR

@@ -1,0 +1,12 @@
+T1	HMM 171 192	effective ventilation
+T2	HMM 346 450	variations in delivered airway pressure, tidal volume (TV), minute ventilation (MV) and inspiratory time
+T3	HMM 717 752	variation in mechanical ventilation
+T4	HMM 993 1024	peak inspiratory pressure (PIP)
+T5	HMM 1041 1080	positive end-expiratory pressure (PEEP)
+T6	HMM 1267 1270	PIP
+T7	HMM 1275 1279	PEEP
+T8	HMM 1411 1413	TV
+T9	HMM 1418 1420	MV
+T10	HMM 1571 1593	delivered ventilation.
+T11	HMM 1644 1646	TV
+T12	HMM 1651 1653	MV

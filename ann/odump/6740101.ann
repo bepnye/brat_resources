@@ -1,0 +1,5 @@
+T1	HMM 633 657	neutralizing antibodies.
+T2	HMM 662 752	percentage of children with detectable antibodies and the reciprocal geometric mean titers
+T3	HMM 807 848	antibodies to all three poliovirus types.
+T4	HMM 895 905	detectable
+T5	HMM 969 1012	geometric mean titers against types 2 and 3

@@ -1,0 +1,13 @@
+T1	HMM 0 46	Skin manifestations of inhaled corticosteroids
+T2	HMM 146 203	skin bruising (as well as other cutaneous manifestations)
+T3	HMM 358 418	easy skin bruising and other systemic effects of ICS therapy
+T4	HMM 430 489	adrenal suppression and loss of bone mineral density (BMD).
+T5	HMM 1076 1158	bruising and/or skin rashes, slow healing of cuts or sores, or other skin changes.
+T6	HMM 1336 1349	easy bruising
+T7	HMM 1388 1422	slow healing of skin cuts or sores
+T8	HMM 1540 1557	risk of bruising.
+T9	HMM 1673 1686	skin bruising
+T10	HMM 1702 1752	suppression of adrenal function or the loss of BMD
+T11	HMM 1898 1942	easy bruising and impairment in skin healing
+T12	HMM 2021 2034	skin bruising
+T13	HMM 2056 2073	systemic toxicity

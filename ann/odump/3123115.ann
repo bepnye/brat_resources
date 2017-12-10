@@ -1,0 +1,4 @@
+T1	HMM 0 15	Serum C-peptide
+T2	HMM 95 110	Serum C-peptide
+T3	HMM 396 413	Glycaemic control
+T4	HMM 473 482	C-peptide

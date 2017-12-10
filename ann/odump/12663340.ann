@@ -1,0 +1,7 @@
+T1	HMM 470 504	dose-response (DR) characteristics
+T2	HMM 702 751	DR curves of PaO2/FIO2 versus the inhaled NO dose
+T3	HMM 820 829	PaO2/FIO2
+T4	HMM 913 948	DR curve of the NO-treated patients
+T5	HMM 1031 1055	oxygenation deteriorated
+T6	HMM 1221 1279	mechanical ventilation or stay at the intensive care unit.
+T7	HMM 1646 1657	oxygenation

@@ -1,0 +1,11 @@
+T1	HMM 56 96	extravasation rate of albumin and fluid.
+T2	HMM 1145 1261	albumin diffusion space, the colloid oncotic pressure, the plasma albumin concentration and the electrical impedance
+T3	HMM 1349 1354	Urine
+T4	HMM 1407 1425	total blood volume
+T5	HMM 1615 1638	albumin diffusion space
+T6	HMM 1683 1708	body electrical impedance
+T7	HMM 1724 1753	extravasation rate of albumin
+T8	HMM 1851 1884	value of calculated plasma volume
+T9	HMM 2022 2043	loss of plasma volume
+T10	HMM 2057 2069	Urine output
+T11	HMM 2207 2267	colloid oncotic pressure and in plasma albumin concentration

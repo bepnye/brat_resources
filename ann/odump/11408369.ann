@@ -1,0 +1,9 @@
+T1	HMM 447 470	Blood and urine samples
+T2	HMM 596 635	CYP1A2 indices, oral caffeine clearance
+T3	HMM 705 759	6-h paraxanthine to caffeine serum concentration ratio
+T4	HMM 821 830	unchanged
+T5	HMM 876 902	tolbutamide oral clearance
+T6	HMM 975 1010	tolbutamide urinary metabolic ratio
+T7	HMM 1156 1201	dextromethorphan to dextrorphan urinary ratio
+T8	HMM 1210 1233	significantly different
+T9	HMM 1370 1393	vivo catalytic activity

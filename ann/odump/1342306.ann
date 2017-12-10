@@ -1,0 +1,16 @@
+T1	HMM 177 191	increased risk
+T2	HMM 196 212	subsequent death
+T3	HMM 217 239	cardiovascular disease
+T4	HMM 352 429	relationship between coronary thrombus formation and acute Q-wave infarction.
+T5	HMM 483 501	thrombus formation
+T6	HMM 506 535	events related to thrombosis.
+T7	HMM 806 810	risk
+T8	HMM 814 833	death, reinfarction
+T9	HMM 839 864	thromboembolic morbidity.
+T10	HMM 1050 1054	died
+T11	HMM 1097 1111	risk reduction
+T12	HMM 1249 1253	died
+T13	HMM 1311 1325	risk reduction
+T14	HMM 1346 1398	Relapsing myocardial infarction (fatal and nonfatal)
+T15	HMM 1436 1472	incidence of cerebrovascular attacks
+T16	HMM 1609 1625	Serious bleeding

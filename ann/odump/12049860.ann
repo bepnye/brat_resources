@@ -1,0 +1,11 @@
+T1	HMM 77 99	venous thromboembolism
+T2	HMM 246 268	venous thromboembolism
+T3	HMM 817 839	venous thromboembolism
+T4	HMM 881 900	bleeding and death.
+T5	HMM 961 983	venous thromboembolism
+T6	HMM 1037 1060	venous thromboembolisms
+T7	HMM 1190 1194	risk
+T8	HMM 1285 1302	patients who died
+T9	HMM 1328 1357	clinically relevant bleeding.
+T10	HMM 1552 1575	venous thromboembolism.
+T11	HMM 1689 1718	clinically relevant bleeding.

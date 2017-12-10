@@ -1,0 +1,9 @@
+T1	HMM 28 40	patency time
+T2	HMM 44 64	long-term indwelling
+T3	HMM 407 425	catheter blockage.
+T4	HMM 983 1024	checks for catheter patency and urine pH.
+T5	HMM 1228 1269	symptomatic urinary tract infection (UTI)
+T6	HMM 1865 1876	termination
+T7	HMM 1882 1956	hematuria, latex sensitivity, deceased/severe illness, or personal choice.
+T8	HMM 2167 2197	time to first catheter change.
+T9	HMM 2397 2408	risk of UTI

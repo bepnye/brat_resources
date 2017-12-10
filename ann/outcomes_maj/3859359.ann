@@ -1,0 +1,13 @@
+T1	Outcomes 1276 1316	presumed therapy related encephalopathy.
+T2	Outcomes 1388 1403	adverse events:
+T3	Outcomes 1406 1412	deaths
+T4	Outcomes 1431 1449	complete remission
+T5	Outcomes 1463 1471	relapses
+T6	Outcomes 1545 1553	relapses
+T7	Outcomes 1743 1773	first episode of CNS leukemia,
+T8	Outcomes 1813 1825	CNS relapse,
+T9	Outcomes 1830 1896	number of blasts in the spinal fluid at diagnosis of CNS leukemia.
+T10	Outcomes 1968 1986	prolonged survival
+T11	Outcomes 2021 2049	CSpRT is possibly less toxic
+T12	Outcomes 2095 2108	subsequent BM
+T13	Outcomes 2113 2131	testicular relapse

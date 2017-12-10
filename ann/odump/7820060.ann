@@ -1,0 +1,9 @@
+T1	HMM 25 45	hairy cell leukemia.
+T2	HMM 149 174	hairy cell leukemia (HCL)
+T3	HMM 619 623	HCL.
+T4	HMM 1082 1100	second malignancy;
+T5	HMM 1135 1157	hematologic malignancy
+T6	HMM 1280 1300	excellent palliation
+T7	HMM 1368 1378	interferon
+T8	HMM 1382 1395	chemotherapy.
+T9	HMM 1446 1466	second malignancies.

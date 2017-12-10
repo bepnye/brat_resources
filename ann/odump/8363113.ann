@@ -1,0 +1,7 @@
+T1	HMM 827 859	Serum levels of N-acetylcysteine
+T2	HMM 908 933	serum acetaminophen level
+T3	HMM 974 1015	area under the curve for N-acetylcysteine
+T4	HMM 1104 1142	Peak N-acetylcysteine and time to peak
+T5	HMM 1181 1216	four-hour serum acetaminophen level
+T6	HMM 1304 1312	Diarrhea
+T7	HMM 1382 1392	tolerated.

@@ -1,0 +1,5 @@
+T1	HMM 64 86	predicting tumour size
+T2	HMM 189 197	accuracy
+T3	HMM 758 778	residual tumour size
+T4	HMM 1070 1147	median deviation in clinical tumour size as percentage of pathological tumour
+T5	HMM 1526 1584	negative predictive value of pathologic complete remission

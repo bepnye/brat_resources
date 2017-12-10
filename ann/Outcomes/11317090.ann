@@ -1,0 +1,18 @@
+T1	Outcomes 0 19	Economic evaluation
+T2	Outcomes 97 101	cost
+T3	Outcomes 106 114	outcomes
+T4	Outcomes 251 293	Cost per quality-adjusted life year (QALY)
+T5	Outcomes 407 416	cost/QALY
+T6	Outcomes 619 698	Quality of Well-Being Scale (QWB) and Current Health Desirability Rating (CHDR)
+T7	Outcomes 754 913	arthritis-specific Health Assessment Questionnaire (HAQ), Center for Epidemiologic Studies-Depression Scale (CES-D), and Perceived Quality of Life Scale (PQOL)
+T8	Outcomes 1023 1029	QALYs.
+T9	Outcomes 1030 1059	Use of health care facilities
+T10	Outcomes 1105 1133	Medicare reimbursement rates
+T11	Outcomes 1194 1211	costs/QALY ratios
+T12	Outcomes 1299 1363	(QWB) or better (CHDR, HAQ, PQOL) health-related quality of life
+T13	Outcomes 1419 1436	class attendance.
+T14	Outcomes 1437 1447	Costs/QALY
+T15	Outcomes 1496 1499	QWB
+T16	Outcomes 1522 1527	CHRD.
+T17	Outcomes 1577 1581	QALY
+T18	Outcomes 1790 1808	cost effectiveness

@@ -1,0 +1,13 @@
+T1	HMM 18 31	effectiveness
+T2	HMM 71 79	sedation
+T3	HMM 176 189	effectiveness
+T4	HMM 542 551	effective
+T5	HMM 817 834	sleeping behavior
+T6	HMM 862 890	significantly more effective
+T7	HMM 963 992	movement and crying behaviors
+T8	HMM 1022 1050	significantly more effective
+T9	HMM 1145 1167	remainder of treatment
+T10	HMM 1188 1227	no statistically significant difference
+T11	HMM 1325 1335	successful
+T12	HMM 1362 1381	behavior evaluation
+T13	HMM 1457 1466	effective

@@ -1,0 +1,5 @@
+T1	HMM 101 109	insomnia
+T2	HMM 1052 1133	sleep latency, total sleep time, wake after sleep onset and number of awakenings.
+T3	HMM 1348 1365	insomnia symptoms
+T4	HMM 1441 1454	sleep latency
+T5	HMM 1530 1547	initial insomnia.

@@ -1,0 +1,9 @@
+T1	Outcomes 721 763	QT interval corrected for heart rate (QTc)
+T2	Outcomes 865 878	QTcI duration
+T3	Outcomes 1066 1089	cardiac repolarization.
+T4	Outcomes 1130 1171	heart rate, PR, or QRS interval duration.
+T5	Outcomes 1230 1234	QTcI
+T6	Outcomes 1336 1347	QTc at Cmax
+T7	Outcomes 1438 1458	adverse events (AEs)
+T8	Outcomes 1570 1573	AEs
+T9	Outcomes 1708 1790	cardiac repolarization, heart rate, PR or QRS interval duration, or ECG morphology

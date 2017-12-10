@@ -1,0 +1,16 @@
+Adult
+Arteriosclerosis
+California
+Carotid Arteries
+Female
+Humans
+Logistic Models
+Male
+Middle Aged
+Occupational Exposure
+Occupational Health
+Prevalence
+Questionnaires
+Risk Factors
+Stress, Psychological
+Tunica Intima

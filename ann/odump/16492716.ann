@@ -1,0 +1,5 @@
+T1	HMM 0 18	Perceptual wind-up
+T2	HMM 1237 1244	Wind-up
+T3	HMM 1338 1362	pain threshold decreased
+T4	HMM 1443 1468	Wind-up to the 2 Hz train
+T5	HMM 1486 1488	UO

@@ -1,0 +1,13 @@
+T1	HMM 30 46	soleus function.
+T2	HMM 201 251	voluntary and resting motor function of the soleus
+T3	HMM 334 351	torque production
+T4	HMM 356 382	Hoffmann reflex (H-reflex)
+T5	HMM 576 590	motor function
+T6	HMM 622 636	motor function
+T7	HMM 659 667	H-reflex
+T8	HMM 858 866	H-reflex
+T9	HMM 961 989	peak plantar flexion torque.
+T10	HMM 1065 1097	H-reflex and torque measurements
+T11	HMM 1188 1208	Surface temperatures
+T12	HMM 1302 1342	peak H-reflex and plantar flexion torque
+T13	HMM 1574 1609	H-reflex and plantar flexion torque

@@ -1,0 +1,21 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Ambulatory Care
+Child
+Child, Preschool
+Cost of Illness
+Cost-Benefit Analysis
+Dermatology
+Female
+Health Care Costs
+Humans
+Infant
+Male
+Middle Aged
+Northern Ireland
+Remote Consultation
+Rural Health Services
+Technology Assessment, Biomedical
+Urban Health Services

@@ -1,0 +1,13 @@
+T1	HMM 61 72	pain relief
+T2	HMM 238 256	postoperative pain
+T3	HMM 950 968	postoperative pain
+T4	HMM 991 1012	visual analogue scale
+T5	HMM 1019 1039	verbal rating score.
+T6	HMM 1114 1123	metamizol
+T7	HMM 1148 1182	patient-controlled analgesia (PCA)
+T8	HMM 1191 1261	Pain, vital signs, supplemental analgesic consumption and side-effects
+T9	HMM 1372 1383	pain scores
+T10	HMM 1554 1591	Supplemental consumption of metamizol
+T11	HMM 1703 1719	cumulative doses
+T12	HMM 2020 2042	analgesic requirements
+T13	HMM 2231 2235	pain

@@ -1,0 +1,7 @@
+T1	HMM 351 447	Parameters of liver function, taste acuity, dark adaptation and of zinc and vitamin A metabolism
+T2	HMM 519 529	serum zinc
+T3	HMM 597 623	mean serum vitamin A level
+T4	HMM 740 796	Plasma prothrombin and serum alkaline phosphatase levels
+T5	HMM 829 863	serum bilirubin and serum carotene
+T6	HMM 893 908	dark adaptation
+T7	HMM 933 947	taste function

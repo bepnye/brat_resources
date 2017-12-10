@@ -1,0 +1,11 @@
+T1	HMM 146 165	airway inflammation
+T2	HMM 586 651	sputum inflammatory markers, airway responsiveness, lung function
+T3	HMM 657 665	symptoms
+T4	HMM 783 887	changes in neutrophil, eosinophil, macrophage, lymphocyte, and epithelial cell levels in induced sputum.
+T5	HMM 921 1034	change in other sputum markers of airway inflammation, airway responsiveness, symptom control, and lung function.
+T6	HMM 1096 1115	sputum inflammatory
+T7	HMM 1169 1188	sputum eosinophils.
+T8	HMM 1228 1249	airway responsiveness
+T9	HMM 1304 1337	symptom control and lung function
+T10	HMM 1397 1426	sputum cysteinyl leukotrienes
+T11	HMM 1532 1564	eosinophilic airway inflammation

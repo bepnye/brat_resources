@@ -1,0 +1,10 @@
+T1	HMM 520 538	avoidance behavior
+T2	HMM 567 581	panic disorder
+T3	HMM 604 615	agoraphobia
+T4	HMM 688 717	early onset of panic disorder
+T5	HMM 743 755	agoraphobia.
+T6	HMM 760 778	treatment response
+T7	HMM 783 790	similar
+T8	HMM 810 856	early, medium or late onset of panic disorder.
+T9	HMM 888 925	panic disorder and avoidance behavior
+T10	HMM 934 964	age of onset of panic disorder

@@ -1,0 +1,19 @@
+Antigens, CD15
+Antigens, Tumor-Associated, Carbohydrate
+Chemotherapy, Adjuvant
+Colonic Neoplasms
+Female
+Humans
+Immunochemistry
+Lewis Blood-Group System
+Lymph Nodes
+Lymphatic Metastasis
+Male
+Middle Aged
+Multivariate Analysis
+Predictive Value of Tests
+Prognosis
+Proportional Hazards Models
+Prospective Studies
+Survival Rate
+Tumor Markers, Biological

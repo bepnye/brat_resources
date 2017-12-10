@@ -1,0 +1,9 @@
+T1	Intervention 40 50	one-handed
+T2	Intervention 55 65	two-handed
+T3	Intervention 140 171	one- vs two-handed compressions
+T4	Intervention 401 440	one- followed by two-handed compression
+T5	Intervention 444 484	two- followed by one-handed compression.
+T6	Intervention 720 730	one-handed
+T7	Intervention 760 770	two-handed
+T8	Intervention 1076 1080	one-
+T9	Intervention 1084 1094	two-handed

@@ -1,0 +1,8 @@
+T1	HMM 86 91	labor
+T2	HMM 228 234	labor.
+T3	HMM 470 489	induction of labor.
+T4	HMM 672 721	number of patients who delivered in the first day
+T5	HMM 776 816	duration for obtaining good contractions
+T6	HMM 1061 1154	mean interval between the beginning of induction until delivery at the first day of induction
+T7	HMM 1197 1225	amount of necessary oxytocin
+T8	HMM 1331 1359	induction duration and labor

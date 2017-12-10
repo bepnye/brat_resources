@@ -1,0 +1,9 @@
+T1	Outcomes 34 127	estimation of flunarizine area under the curve (AUC) and maximum plasma concentration (Cmax).
+T2	Outcomes 297 377	estimate the area under the curve (AUC) and maximum plasma concentration (Cmax).
+T3	Outcomes 826 858	estimates for both AUC and Cmax.
+T4	Outcomes 863 896	mean predicted AUC of flunarizine
+T5	Outcomes 937 949	observed AUC
+T6	Outcomes 982 1004	bias of the prediction
+T7	Outcomes 1044 1073	predicted Cmax of flunarizine
+T8	Outcomes 1114 1132	observed mean Cmax
+T9	Outcomes 1159 1195	bias and precision of the prediction

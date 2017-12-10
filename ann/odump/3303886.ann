@@ -1,0 +1,17 @@
+T1	HMM 0 23	Prognostic significance
+T2	HMM 28 45	beneficial effect
+T3	HMM 79 103	early recurrent ischemia
+T4	HMM 470 482	Reinfarction
+T5	HMM 522 527	death
+T6	HMM 773 777	ST-T
+T7	HMM 960 972	reinfarction
+T8	HMM 1012 1028	extensive damage
+T9	HMM 1044 1074	peak MB-creatine kinase levels
+T10	HMM 1146 1167	higher mortality rate
+T11	HMM 1196 1202	Angina
+T12	HMM 1219 1241	transient ST-T changes
+T13	HMM 1376 1407	cumulative life-table incidence
+T14	HMM 1560 1590	risk of reinfarction and death
+T15	HMM 1596 1657	angina associated with transient electrocardiographic changes
+T16	HMM 1740 1746	viable
+T17	HMM 1751 1773	jeopardized myocardium

@@ -1,0 +1,5 @@
+T1	HMM 990 1005	emetic episodes
+T2	HMM 1174 1207	time of onset of emesis or rescue
+T3	HMM 1403 1429	rescue antiemetic therapy.
+T4	HMM 1521 1544	additional antiemetics.
+T5	HMM 1584 1708	peak ondansetron concentration (Cmax) or area under the concentration versus time curve (AUC) and number of emetic episodes.

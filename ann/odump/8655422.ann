@@ -1,0 +1,13 @@
+T1	HMM 214 221	effects
+T2	HMM 311 358	feedlot performance and carcass characteristics
+T3	HMM 916 926	dietary CP
+T4	HMM 976 982	Urea-N
+T5	HMM 1128 1156	dietary CP and level of RPLM
+T6	HMM 1198 1222	carcass characteristics.
+T7	HMM 1223 1242	Feedlot performance
+T8	HMM 1401 1420	feedlot performance
+T9	HMM 1481 1495	fat thickness)
+T10	HMM 1610 1623	fat thickness
+T11	HMM 1712 1716	RPLM
+T12	HMM 1808 1833	cubic (P < .10) responses
+T13	HMM 1924 1933	gain:feed

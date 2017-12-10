@@ -1,0 +1,8 @@
+T1	Treatment 22 38	ablation surgery
+T2	Treatment 178 199	ablation surgery (AS)
+T3	Treatment 220 235	cardiac surgery
+T4	Treatment 483 547	randomly assigned to undergo cardiac surgery with or without AS.
+T5	Treatment 605 623	cost-effectiveness
+T6	Treatment 826 828	AS
+T7	Treatment 1280 1291	probability
+T8	Treatment 1395 1406	concomitant

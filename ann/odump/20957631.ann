@@ -1,0 +1,5 @@
+T1	HMM 1177 1203	sensitivity of HPV testing
+T2	HMM 1366 1371	CIN2+
+T3	HMM 1433 1441	Cytology
+T4	HMM 1598 1624	sensitivity of HPV testing
+T5	HMM 1858 1882	post-treatment failures.

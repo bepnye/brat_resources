@@ -1,0 +1,5 @@
+T1	Intervention 15 26	haloperidol
+T2	Intervention 90 101	haloperidol
+T3	Intervention 211 218	placebo
+T4	Intervention 281 312	haloperidol-placebo-haloperidol
+T5	Intervention 316 343	placebo-haloperidol-placebo

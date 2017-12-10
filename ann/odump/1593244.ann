@@ -1,0 +1,6 @@
+T1	HMM 908 927	signs of irritation
+T2	HMM 933 981	subjective complaints such as itching or burning
+T3	HMM 1122 1159	erythema with or without infiltration
+T4	HMM 1240 1267	Nonallergic skin irritation
+T5	HMM 1381 1400	systemic reactions.
+T6	HMM 1519 1528	tolerated

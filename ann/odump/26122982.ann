@@ -1,0 +1,12 @@
+T1	HMM 40 50	depression
+T2	HMM 143 163	perinatal depression
+T3	HMM 193 203	Depression
+T4	HMM 401 421	perinatal depression
+T5	HMM 566 586	perinatal depression
+T6	HMM 1125 1161	Edinburgh Postnatal Depression Scale
+T7	HMM 1182 1218	absent psychosis or bipolar disorder
+T8	HMM 1228 1245	actively suicidal
+T9	HMM 1571 1593	of depressive symptoms
+T10	HMM 2192 2219	is recovery from depression
+T11	HMM 2263 2409	include measures of disability, parenting skills, maternal attitudes, health care utilization as well as infant physical and cognitive development
+T12	HMM 2441 2460	the Bayley's Scales

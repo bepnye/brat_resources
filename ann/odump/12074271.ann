@@ -1,0 +1,15 @@
+T1	HMM 71 117	prevention of symptomatic atrial fibrillation.
+T2	HMM 198 215	preventive effect
+T3	HMM 248 286	recurrence of atrial fibrillation (AF)
+T4	HMM 322 335	effectiveness
+T5	HMM 360 377	prevention of AF.
+T6	HMM 762 774	Kaplan-Meier
+T7	HMM 833 857	recurrent symptomatic AF
+T8	HMM 1010 1033	freedom from recurrence
+T9	HMM 1057 1066	prevalent
+T10	HMM 1145 1167	significant difference
+T11	HMM 1212 1234	rate of adverse events
+T12	HMM 1315 1333	significant effect
+T13	HMM 1337 1374	preventing relapse of symptomatic AF;
+T14	HMM 1384 1400	recurrence of AF
+T15	HMM 1410 1415	later

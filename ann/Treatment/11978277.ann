@@ -1,0 +1,14 @@
+T1	Treatment 0 43	Prolonged GnRH agonist and add-back therapy
+T2	Treatment 190 202	GnRH agonist
+T3	Treatment 224 250	three "add-back" regimens.
+T4	Treatment 335 353	placebo-controlled
+T5	Treatment 403 421	leuprolide acetate
+T6	Treatment 473 481	placebo;
+T7	Treatment 490 511	norethindrone acetate
+T8	Treatment 518 547	C-daily norethindrone acetate
+T9	Treatment 557 584	conjugated equine estrogens
+T10	Treatment 607 628	norethindrone acetate
+T11	Treatment 638 665	conjugated equine estrogens
+T12	Treatment 1456 1468	GnRH agonist
+T13	Treatment 1473 1500	norethindrone acetate alone
+T14	Treatment 1518 1554	low-dose conjugated equine estrogens

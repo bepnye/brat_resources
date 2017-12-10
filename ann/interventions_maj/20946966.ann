@@ -1,0 +1,7 @@
+T1	Intervention 0 11	Clofarabine
+T2	Intervention 14 25	fludarabine
+T3	Intervention 47 55	busulfan
+T4	Intervention 160 194	i.v. busulfan (Bu) and fludarabine
+T5	Intervention 467 478	clofarabine
+T6	Intervention 3081 3090	Clo ± Flu
+T7	Intervention 3096 3103	i.v. Bu

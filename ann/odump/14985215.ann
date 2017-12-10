@@ -1,0 +1,15 @@
+T1	HMM 0 51	Plasma kinetics of zeaxanthin and 3'-dehydro-lutein
+T2	HMM 287 326	plasma kinetics of synthetic zeaxanthin
+T3	HMM 414 447	plasma zeaxanthin concentrations.
+T4	HMM 645 679	Plasma concentration-time profiles
+T5	HMM 852 883	all-E-Zeaxanthin concentrations
+T6	HMM 1033 1084	dose-normalized bioavailability of all-E-zeaxanthin
+T7	HMM 1163 1181	kinetic parameters
+T8	HMM 1270 1284	concentrations
+T9	HMM 1377 1407	terminal elimination half-life
+T10	HMM 1437 1497	time course of plasma all-E-3-'dehydro-lutein concentrations
+T11	HMM 1566 1589	all-E-3-'dehydro-lutein
+T12	HMM 1607 1624	all-E-zeaxanthin.
+T13	HMM 1625 1660	Concentrations of other carotenoids
+T14	HMM 1792 1824	plasma zeaxanthin concentrations
+T15	HMM 1883 1905	all-E-3-dehydro-lutein

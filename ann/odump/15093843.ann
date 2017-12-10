@@ -1,0 +1,10 @@
+T1	HMM 46 80	management of atrial fibrillation.
+T2	HMM 228 240	rate control
+T3	HMM 278 361	diltiazem-induced hypotension [defined by systolic blood pressure (SBP) < 90 mm Hg]
+T4	HMM 382 393	hypotension
+T5	HMM 467 478	hypotension
+T6	HMM 592 600	SBP drop
+T7	HMM 1199 1209	heart rate
+T8	HMM 1237 1251	adverse events
+T9	HMM 1351 1373	tachycardic and apneic
+T10	HMM 1576 1596	blunting of SBP drop

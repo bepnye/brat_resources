@@ -1,0 +1,6 @@
+T1	HMM 18 34	relapse of NSCLC
+T2	HMM 817 835	objective response
+T3	HMM 839 853	stabilisation.
+T4	HMM 970 988	objective response
+T5	HMM 992 1006	stabilisation.
+T6	HMM 1091 1116	progression free survival

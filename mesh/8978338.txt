@@ -1,0 +1,9 @@
+Adenoma
+Colonic Neoplasms
+Colonic Polyps
+Colonoscopy
+Female
+Humans
+Male
+Middle Aged
+Sensitivity and Specificity

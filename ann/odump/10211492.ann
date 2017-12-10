@@ -1,0 +1,10 @@
+T1	HMM 223 284	decrease in pain and in the incidence of associated symptoms.
+T2	HMM 501 505	Pain
+T3	HMM 582 601	associated symptoms
+T4	HMM 684 743	pain, limitation of activities, and analgesic requirements.
+T5	HMM 744 763	Associated symptoms
+T6	HMM 1044 1061	reduction in pain
+T7	HMM 1162 1181	incidence of nausea
+T8	HMM 1380 1396	severity of pain
+T9	HMM 1417 1475	analgesic requirements or limitation of normal activities.
+T10	HMM 1557 1622	nausea, shaking, lightheadedness, urinary retention, or bleeding.

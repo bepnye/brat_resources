@@ -1,0 +1,15 @@
+T1	Outcomes 0 13	Immune status
+T2	Outcomes 192 214	immunization responses
+T3	Outcomes 255 302	cellular aspects of the immunologic development
+T4	Outcomes 446 465	immunologic effects
+T5	Outcomes 548 571	immune cell populations
+T6	Outcomes 970 1004	Thirty-two immune cell populations
+T7	Outcomes 1097 1196	general pediatric immune status, emphasizing maturation and activation of B, T, and NK lymphocytes.
+T8	Outcomes 1391 1422	percentage of CD57 + NK T cells
+T9	Outcomes 1624 1759	populations of lymphocytes, eosinophils, total T, helper T, naive helper, memory/effector helper, CD57 - T, and CD11b + CD8 + NK cells.
+T10	Outcomes 1772 1788	cell populations
+T11	Outcomes 1924 1942	immune cell status
+T12	Outcomes 2009 2035	immune system development.
+T13	Outcomes 2128 2151	immune cell populations
+T14	Outcomes 2175 2209	numbers and percentages of T cells
+T15	Outcomes 2224 2260	numbers and percentages of NK cells.

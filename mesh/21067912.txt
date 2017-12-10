@@ -1,0 +1,21 @@
+Adult
+Aged
+Aged, 80 and over
+Antibodies, Monoclonal
+Antibodies, Monoclonal, Humanized
+Antineoplastic Combined Chemotherapy Protocols
+Calcium
+Colorectal Neoplasms
+Deoxycytidine
+Female
+Fluorouracil
+Humans
+Infusions, Intravenous
+Magnesium
+Male
+Middle Aged
+Neuroprotective Agents
+Neurotoxicity Syndromes
+Organoplatinum Compounds
+Retrospective Studies
+Treatment Outcome

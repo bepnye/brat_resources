@@ -1,0 +1,11 @@
+T1	Outcomes 196 204	efficacy
+T2	Outcomes 209 221	side effects
+T3	Outcomes 599 634	Disease recurrence and side effects
+T4	Outcomes 680 702	interval to recurrence
+T5	Outcomes 796 815	time to recurrence.
+T6	Outcomes 954 969	recurrence rate
+T7	Outcomes 1098 1129	median recurrence-free survival
+T8	Outcomes 1238 1254	recurrence rates
+T9	Outcomes 1348 1362	response rates
+T10	Outcomes 1391 1403	side effects
+T11	Outcomes 1570 1595	efficacy and side effects

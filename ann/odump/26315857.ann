@@ -1,0 +1,10 @@
+T1	HMM 0 45	Recruitment and Reasons for Non-Participation
+T2	HMM 779 792	participation
+T3	HMM 835 855	recruitment strategy
+T4	HMM 860 884	patient reported reasons
+T5	HMM 889 906	non-participation
+T6	HMM 1245 1262	non-participation
+T7	HMM 1531 1545	participation.
+T8	HMM 1580 1593	participation
+T9	HMM 1745 1756	participate
+T10	HMM 1946 2009	willingness to receive a family-coping-orientated care approach

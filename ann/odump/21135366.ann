@@ -1,0 +1,10 @@
+T1	HMM 94 103	mortality
+T2	HMM 606 615	mortality
+T3	HMM 1078 1102	risk of arrhythmic death
+T4	HMM 1122 1151	risk of nonarrhythmic deaths.
+T5	HMM 1237 1261	risk of arrhythmic death
+T6	HMM 1341 1360	nonarrhythmic death
+T7	HMM 1535 1561	yearly hazard of mortality
+T8	HMM 1653 1665	sudden death
+T9	HMM 1717 1737	nonarrhythmic deaths
+T10	HMM 2044 2059	nonsudden death

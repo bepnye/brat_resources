@@ -1,0 +1,12 @@
+T1	HMM 16 43	urinary and sexual outcomes
+T2	HMM 123 154	urinary and sexual consequences
+T3	HMM 548 596	urinary incontinence (UI) and sexual functioning
+T4	HMM 727 729	UI
+T5	HMM 944 955	rates of UI
+T6	HMM 1029 1048	Stress incontinence
+T7	HMM 1191 1193	UI
+T8	HMM 1324 1354	Women's sexual dissatisfaction
+T9	HMM 1476 1498	sexual dissatisfaction
+T10	HMM 1538 1562	frequency of dyspareunia
+T11	HMM 1735 1746	dyspareunia
+T12	HMM 1839 1850	dyspareunia

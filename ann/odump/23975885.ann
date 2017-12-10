@@ -1,0 +1,9 @@
+T1	HMM 445 472	low-level viral replication
+T2	HMM 516 538	2-long terminal repeat
+T3	HMM 903 941	The median duration of ART suppression
+T4	HMM 1009 1035	the level of 2-LTR circles
+T5	HMM 1210 1216	group.
+T6	HMM 1217 1232	Intensification
+T7	HMM 1285 1302	the D-dimer level
+T8	HMM 1412 1434	level of 2-LTR circles
+T9	HMM 1592 1609	the D-dimer level

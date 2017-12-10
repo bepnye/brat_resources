@@ -1,0 +1,19 @@
+Adult
+Aged
+Chemistry, Pharmaceutical
+Cholesterol
+Cholesterol, Dietary
+Cholesterol, HDL
+Cholesterol, LDL
+Delayed-Action Preparations
+Dietary Fats
+Double-Blind Method
+Female
+Humans
+Hypercholesterolemia
+Male
+Middle Aged
+Monitoring, Physiologic
+Niacin
+Patient Compliance
+Questionnaires

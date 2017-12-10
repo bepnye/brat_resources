@@ -1,0 +1,11 @@
+T1	HMM 65 79	fasciculations
+T2	HMM 144 158	Fasciculations
+T3	HMM 240 246	emesis
+T4	HMM 405 419	fasciculations
+T5	HMM 1263 1277	Fasciculations
+T6	HMM 1300 1320	graded visual scale.
+T7	HMM 1449 1464	fasciculations.
+T8	HMM 1508 1522	fasciculations
+T9	HMM 1581 1613	Complete relaxation of the cords
+T10	HMM 1709 1744	emesis or significant dysrhythmias.
+T11	HMM 1830 1844	fasciculations

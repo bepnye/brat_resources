@@ -1,0 +1,5 @@
+T1	HMM 210 262	low-density lipoprotein-cholesterol (LDL-C)-lowering
+T2	HMM 909 914	LDL-C
+T3	HMM 1130 1135	LDL-C
+T4	HMM 1255 1315	triglyceride and high-density lipoprotein cholesterol levels
+T5	HMM 1397 1402	LDL-C

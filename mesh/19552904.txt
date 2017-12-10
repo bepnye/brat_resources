@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Blood Glucose
+Body Mass Index
+Clomiphene
+Double-Blind Method
+Drug Resistance
+Female
+Fertility Agents, Female
+Hormones
+Humans
+Hyperandrogenism
+Hypoglycemic Agents
+Insulin Resistance
+Metformin
+Ovulation Induction
+Polycystic Ovary Syndrome
+Pregnancy
+Pregnancy Rate
+Young Adult

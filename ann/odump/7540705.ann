@@ -1,0 +1,10 @@
+T1	HMM 784 798	Boyarsky score
+T2	HMM 877 954	International Prostate Symptom Score (IPSS), urine flow, and prostate volume.
+T3	HMM 955 978	Modified Boyarsky score
+T4	HMM 1156 1160	IPSS
+T5	HMM 1275 1297	urine flow parameters:
+T6	HMM 1347 1356	peak flow
+T7	HMM 1412 1440	mean residual urinary volume
+T8	HMM 1496 1510	did not change
+T9	HMM 1569 1585	prostatic volume
+T10	HMM 1643 1679	symptoms and urinary flow parameters

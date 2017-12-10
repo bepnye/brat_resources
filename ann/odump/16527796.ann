@@ -1,0 +1,7 @@
+T1	HMM 252 264	success rate
+T2	HMM 940 1133	time required to pass the endotracheal tube through the nasal cavity (nasal passage time), success rate of nasal passage with nasotracheal tube, and the incidence and severity of nasal bleeding
+T3	HMM 1157 1187	Success rate for nasal passage
+T4	HMM 1272 1299	Frequency of nasal bleeding
+T5	HMM 1407 1433	Severity of nasal bleeding
+T6	HMM 1587 1599	success rate
+T7	HMM 1648 1670	incidence and severity

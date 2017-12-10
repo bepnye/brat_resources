@@ -1,0 +1,23 @@
+Adolescent
+Adult
+Aged
+Antacids
+Anti-Bacterial Agents
+Bismuth
+Clarithromycin
+Drug Interactions
+Drug Resistance, Bacterial
+Drug Therapy, Combination
+Dyspepsia
+Female
+Helicobacter Infections
+Helicobacter pylori
+Humans
+Male
+Metronidazole
+Microbial Sensitivity Tests
+Middle Aged
+Multivariate Analysis
+Omeprazole
+Tetracycline
+Treatment Failure

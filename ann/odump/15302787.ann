@@ -1,0 +1,7 @@
+T1	HMM 73 83	restenosis
+T2	HMM 501 523	neointimal hyperplasia
+T3	HMM 1177 1223	Angiographic restenosis at 6-month angiography
+T4	HMM 1264 1274	Restenosis
+T5	HMM 1433 1473	need for target vessel revascularization
+T6	HMM 1592 1625	The sirolimus blood concentration
+T7	HMM 1911 1949	angiographic parameters of restenosis.

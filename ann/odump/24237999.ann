@@ -1,0 +1,17 @@
+T1	HMM 0 33	Remission in rheumatoid arthritis
+T2	HMM 220 252	association of time to remission
+T3	HMM 257 282	baseline disease activity
+T4	HMM 653 669	disease activity
+T5	HMM 797 811	CDAI remission
+T6	HMM 825 848	and sustained remission
+T7	HMM 1047 1075	similar CDAI remission rates
+T8	HMM 1161 1190	methotrexate, remission rates
+T9	HMM 1209 1222	respectively.
+T10	HMM 1223 1232	Remission
+T11	HMM 1292 1385	differences in compliance, patient populations, or sequence of combination therapy initiation
+T12	HMM 1417 1462	lower baseline CDAI scores achieved remission
+T13	HMM 1486 1493	scores.
+T14	HMM 1494 1513	Continued remission
+T15	HMM 1620 1641	CONCLUSIONS Remission
+T16	HMM 1949 1965	reach remission.
+T17	HMM 1966 1985	Continued remission

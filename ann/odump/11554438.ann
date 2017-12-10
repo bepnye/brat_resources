@@ -1,0 +1,9 @@
+T1	HMM 561 576	Total clearance
+T2	HMM 809 836	fractional excretion of DMU
+T3	HMM 956 993	renal clearance of 3-MX, 1-MU and DMU
+T4	HMM 1060 1100	Theophylline metabolic clearance to 3-MX
+T5	HMM 1229 1268	Michaelis-Menten parameters Km and Vmax
+T6	HMM 1345 1404	Km values for theophylline metabolism to 3-MX, 1-MU and DMU
+T7	HMM 1477 1488	Vmax values
+T8	HMM 1556 1613	Km values for the N-demethylation pathways (3MX and 1-MU)
+T9	HMM 1806 1827	serum concenntrations

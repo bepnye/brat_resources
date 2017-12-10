@@ -1,0 +1,14 @@
+Adult
+Aged
+Angina Pectoris
+Angioplasty, Balloon, Coronary
+Coronary Restenosis
+Double-Blind Method
+Drugs, Chinese Herbal
+Female
+Humans
+Incidence
+Male
+Middle Aged
+Prospective Studies
+Stents

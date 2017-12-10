@@ -1,0 +1,7 @@
+T1	HMM 53 64	anesthesia]
+T2	HMM 1056 1082	total propofol consumption
+T3	HMM 1158 1171	infusion rate
+T4	HMM 1225 1256	infusion rate and recovery time
+T5	HMM 1338 1377	propofol consumption and recovery time.
+T6	HMM 1395 1418	arterial blood pressure
+T7	HMM 1494 1511	arterial pressure

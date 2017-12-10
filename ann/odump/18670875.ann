@@ -1,0 +1,9 @@
+T1	HMM 50 61	hot flashes
+T2	HMM 223 247	severe hot flashes (HF).
+T3	HMM 325 388	side effects, efficacy, quality of life and sexual functioning.
+T4	HMM 582 652	HF frequency and severity, side effects, quality of life and sexuality
+T5	HMM 770 778	toxicity
+T6	HMM 879 892	side effects.
+T7	HMM 893 921	Median reduction in HF score
+T8	HMM 1052 1065	HF reduction.
+T9	HMM 1066 1078	Side effects

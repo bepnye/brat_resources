@@ -1,0 +1,5 @@
+T1	HMM 501 506	Serum
+T2	HMM 813 832	time to progression
+T3	HMM 837 846	survival.
+T4	HMM 969 990	Tumour marker changes
+T5	HMM 1284 1306	Baseline tumour marker

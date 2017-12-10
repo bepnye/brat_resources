@@ -1,0 +1,10 @@
+T1	HMM 90 124	plasma interleukin-6 concentration
+T2	HMM 360 385	postoperative pain relief
+T3	HMM 407 448	plasma interleukin-6 (IL-6) concentration
+T4	HMM 867 883	Hemodynamic data
+T5	HMM 945 972	visual analogue scale (VAS)
+T6	HMM 996 1010	pain intensity
+T7	HMM 1055 1080	Plasma IL-6 concentration
+T8	HMM 1239 1251	VAS and IL-6
+T9	HMM 1469 1480	pain relief
+T10	HMM 1511 1525	IL-6 increment

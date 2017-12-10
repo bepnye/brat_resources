@@ -1,0 +1,20 @@
+T1	Outcomes 0 16	Comorbidity, age
+T2	Outcomes 21 37	overall survival
+T3	Outcomes 231 247	comorbidity, age
+T4	Outcomes 252 275	performance status (PS)
+T5	Outcomes 413 421	toxicity
+T6	Outcomes 546 578	Charlson Comorbidity Index (CCI)
+T7	Outcomes 603 614	comorbidity
+T8	Outcomes 708 717	CCI score
+T9	Outcomes 1002 1009	0.008).
+T10	Outcomes 1010 1031	Overall survival (OS)
+T11	Outcomes 1143 1152	better PS
+T12	Outcomes 1173 1182	better OS
+T13	Outcomes 1271 1278	with OS
+T14	Outcomes 1326 1351	less grade ≥ 3 vomiting
+T15	Outcomes 1368 1380	more dyspnea
+T16	Outcomes 1446 1471	less grade ≥ 3 vomiting
+T17	Outcomes 1487 1511	but more non-neutropenic
+T18	Outcomes 1531 1548	CONCLUSION better
+T19	Outcomes 1572 1580	improved
+T20	Outcomes 1598 1602	with

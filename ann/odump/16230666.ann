@@ -1,0 +1,11 @@
+T1	HMM 49 117	reproductive performance, calf performance, and leptin concentration
+T2	HMM 313 389	reproductive performance, calf performance, and serum leptin concentrations.
+T3	HMM 1051 1057	Cow BW
+T4	HMM 1164 1181	Calf birth weight
+T5	HMM 1197 1211	weaning weight
+T6	HMM 1232 1259	age-adjusted weaning weight
+T7	HMM 1389 1412	ovarian luteal activity
+T8	HMM 1502 1510	exposure
+T9	HMM 1654 1675	Leptin concentrations
+T10	HMM 1913 1934	leptin concentrations
+T11	HMM 2524 2551	serum leptin concentration.

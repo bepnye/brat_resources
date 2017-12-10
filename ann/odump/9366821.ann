@@ -1,0 +1,14 @@
+T1	HMM 0 13	Effectiveness
+T2	HMM 238 259	active androgen level
+T3	HMM 471 479	efficacy
+T4	HMM 1166 1174	Efficacy
+T5	HMM 1191 1216	facial acne lesion counts
+T6	HMM 1236 1253	global assessment
+T7	HMM 1257 1282	subject's self-assessment
+T8	HMM 1303 1353	within-cycle variation (cycle 6) in lesion counts.
+T9	HMM 1477 1488	improvement
+T10	HMM 1551 1593	mean decrease in inflammatory lesion count
+T11	HMM 1677 1712	mean decrease in total lesion count
+T12	HMM 1814 1846	investigator's global assessment
+T13	HMM 1995 2147	secondary efficacy measures (total comedones, open comedones, closed comedones, papules, pustules, and the subject's self-assessment of study treatment)
+T14	HMM 2351 2405	safe and effective treatment of moderate acne vulgaris

@@ -1,0 +1,22 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols
+Carcinoma, Small Cell
+Cyclophosphamide
+Doxorubicin
+Etoposide
+Female
+Granulocyte Colony-Stimulating Factor
+Humans
+Lung Neoplasms
+Male
+Middle Aged
+Mouth Mucosa
+Necrosis
+Neutropenia
+Proportional Hazards Models
+Prospective Studies
+Recombinant Proteins
+Stomatitis
+Survival Analysis

@@ -1,0 +1,13 @@
+T1	HMM 109 125	radiation burden
+T2	HMM 140 149	efficacy.
+T3	HMM 263 293	goiter volume reduction (GVR).
+T4	HMM 855 867	relative GVR
+T5	HMM 960 973	131I-activity
+T6	HMM 1134 1149	hospitalization
+T7	HMM 1262 1285	goiter-related symptoms
+T8	HMM 1359 1367	myxedema
+T9	HMM 1488 1507	thyroid 131I uptake
+T10	HMM 1594 1607	131I-activity
+T11	HMM 1629 1638	efficacy.
+T12	HMM 1690 1718	posttherapeutic restrictions
+T13	HMM 1757 1785	radiation-induced malignancy

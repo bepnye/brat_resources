@@ -1,0 +1,10 @@
+Catheterization
+Female
+Humans
+Labor Stage, Third
+Pregnancy
+Pressure
+Sensitivity and Specificity
+Transducers, Pressure
+Uterine Contraction
+Uterus

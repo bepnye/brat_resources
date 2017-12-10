@@ -1,0 +1,22 @@
+T1	HMM 0 23	Stapled hemorrhoidopexy
+T2	HMM 31 64	milligan-morgan hemorrhoidectomy:
+T3	HMM 189 235	compare the outcome of stapled hemorrhoidopexy
+T4	HMM 381 409	efficacy and reproducibility
+T5	HMM 1159 1188	postoperative pain/discomfort
+T6	HMM 1202 1228	pain during bowel movement
+T7	HMM 1242 1291	total analgesic requirement over the first 3 days
+T8	HMM 1496 1516	morphine requirement
+T9	HMM 1560 1573	Hospital stay
+T10	HMM 1698 1709	differences
+T11	HMM 1717 1739	resolution of symptoms
+T12	HMM 1798 1832	overall incidence of complications
+T13	HMM 1860 1868	fecaloma
+T14	HMM 1901 1933	external hemorrhoidal thrombosis
+T15	HMM 1963 1990	Impaired sphincter function
+T16	HMM 2148 2164	second procedure
+T17	HMM 2205 2230	partial residual prolapse
+T18	HMM 2369 2388	postoperative pain.
+T19	HMM 2446 2454	outcomes
+T20	HMM 2583 2604	anorectal dysfunction
+T21	HMM 2667 2680	effectiveness
+T22	HMM 2750 2804	number of hemorrhoidal prolapse recurrences at 2 years

@@ -1,0 +1,8 @@
+T1	HMM 942 956	activated CECs
+T2	HMM 1096 1121	disease progressive cases
+T3	HMM 1222 1249	expression of survivin mRNA
+T4	HMM 1315 1340	disease progressive cases
+T5	HMM 1395 1409	activated CECs
+T6	HMM 1662 1676	activated CECs
+T7	HMM 1695 1720	time to progression (TTP)
+T8	HMM 1790 1843	amount of survivin mRNA in serum post-therapy and TTP

@@ -1,0 +1,7 @@
+T1	Outcomes 1188 1209	disease-free survival
+T2	Outcomes 1237 1253	overall survival
+T3	Outcomes 1282 1294	hazard ratio
+T4	Outcomes 1486 1489	DFS
+T5	Outcomes 1524 1543	Grade 3 neutropenia
+T6	Outcomes 1560 1578	fever or infection
+T7	Outcomes 1659 1682	DFS or overall survival

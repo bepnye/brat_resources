@@ -1,0 +1,21 @@
+T1	HMM 60 107	bone metabolism, bone density, and bone quality
+T2	HMM 169 233	Subnormal bone mineral density (BMD) and increased fracture risk
+T3	HMM 355 370	effects on bone
+T4	HMM 471 509	bone metabolism, BMD, and bone quality
+T5	HMM 969 982	Bone turnover
+T6	HMM 1186 1189	BMD
+T7	HMM 1317 1375	Apparent phalangeal ultrasound transmission velocity (APU)
+T8	HMM 1476 1479	BMD
+T9	HMM 1607 1610	BMD
+T10	HMM 1659 1662	BMD
+T11	HMM 1883 1908	bone turnover, first ICTP
+T12	HMM 1912 1937	marker of bone resorption
+T13	HMM 1982 2006	marker of bone formation
+T14	HMM 2026 2029	APU
+T15	HMM 2203 2206	BMD
+T16	HMM 2274 2287	bone turnover
+T17	HMM 2371 2375	BMD.
+T18	HMM 2416 2420	BMD:
+T19	HMM 2444 2447	BMD
+T20	HMM 2506 2509	BMD
+T21	HMM 2596 2619	normal bone elasticity.

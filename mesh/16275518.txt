@@ -1,0 +1,14 @@
+Adult
+Aged
+Aged, 80 and over
+Female
+Humans
+Hypertension, Pulmonary
+Image Interpretation, Computer-Assisted
+Male
+Middle Aged
+Observer Variation
+Reproducibility of Results
+Sensitivity and Specificity
+Stroke Volume
+Ventricular Dysfunction, Right

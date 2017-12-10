@@ -1,0 +1,3 @@
+T1	HMM 736 755	clinical remission.
+T2	HMM 770 789	five year cure rate
+T3	HMM 925 933	survival

@@ -1,0 +1,6 @@
+T1	HMM 677 696	CS cannulation time
+T2	HMM 882 922	Time to successful catheterization of CS
+T3	HMM 1012 1028	Fluoroscopy time
+T4	HMM 1117 1177	Total contrast dye volume to search and engage the CS ostium
+T5	HMM 1389 1422	procedural time, fluoroscopy time
+T6	HMM 1427 1446	contrast dye volume

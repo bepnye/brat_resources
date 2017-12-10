@@ -1,0 +1,7 @@
+T1	HMM 17 32	senile dementia
+T2	HMM 316 331	senile dementia
+T3	HMM 379 387	Efficacy
+T4	HMM 438 457	psychometric tests.
+T5	HMM 620 624	safe
+T6	HMM 644 662	adverse reactions.
+T7	HMM 779 794	senile dementia

@@ -1,0 +1,6 @@
+T1	HMM 17 45	ineffective airway clearance
+T2	HMM 208 236	ineffective airway clearance
+T3	HMM 747 764	the health status
+T4	HMM 821 831	of choking
+T5	HMM 861 891	and adventitious breath sounds
+T6	HMM 1002 1025	in obstructive symptoms

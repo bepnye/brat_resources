@@ -1,0 +1,10 @@
+T1	HMM 9 18	induction
+T2	HMM 540 560	apoptotic index (AI)
+T3	HMM 609 688	transferase-mediated deoxyuridine triphosphate biotin nick end-labeling (TUNEL)
+T4	HMM 697 716	Expression of Ki-67
+T5	HMM 733 762	immunohistochemical staining.
+T6	HMM 767 853	concentration of 5-fluorouracil (5-FU) in tumor tissue was measured by chemical assay.
+T7	HMM 866 897	AI of lung adenocarcinoma cells
+T8	HMM 1033 1063	AI and the 5-FU concentrations
+T9	HMM 1186 1195	apoptosis
+T10	HMM 1247 1258	AI and 5-FU

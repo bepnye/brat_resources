@@ -1,0 +1,6 @@
+T1	HMM 413 429	gastric emptying
+T2	HMM 837 853	gastric emptying
+T3	HMM 1033 1064	upper gastrointestinal symptoms
+T4	HMM 1124 1146	solid gastric emptying
+T5	HMM 1181 1208	blood glucose concentration
+T6	HMM 1310 1326	gastric emptying

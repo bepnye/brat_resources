@@ -1,0 +1,6 @@
+T1	HMM 516 533	survival benefits
+T2	HMM 1099 1117	Complete resection
+T3	HMM 1362 1432	toxicity, mainly haematological, nausea/vomiting and neutropenic fever
+T4	HMM 1495 1501	death.
+T5	HMM 1575 1602	benefit in overall survival
+T6	HMM 1705 1721	survival benefit

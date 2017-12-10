@@ -1,0 +1,5 @@
+T1	Treatment 20 112	recombinant adenoassociated vector containing a tumour necrosis factor alpha antagonist gene
+T2	Treatment 288 365	rAAV2-TNFR:Fc, an adenoassociated virus serotype 2 vector containing the cDNA
+T3	Treatment 512 530	placebo-controlled
+T4	Treatment 893 906	rAAV2-TNFR:Fc
+T5	Treatment 997 1007	or placebo

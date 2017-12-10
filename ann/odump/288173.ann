@@ -1,0 +1,6 @@
+T1	HMM 58 78	quality of survival.
+T2	HMM 439 477	survival time and quality of survival.
+T3	HMM 482 502	median survival time
+T4	HMM 600 635	median total sum of vitagram points
+T5	HMM 741 770	median sum of vitagram points
+T6	HMM 1015 1024	survival.

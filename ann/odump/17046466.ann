@@ -1,0 +1,11 @@
+T1	HMM 0 21	Toxicity and efficacy
+T2	HMM 435 456	efficacy and toxicity
+T3	HMM 865 896	event-free and overall survival
+T4	HMM 941 949	toxicity
+T5	HMM 1269 1299	event-free or overall survival
+T6	HMM 1406 1417	CNS relapse
+T7	HMM 1533 1546	risk of death
+T8	HMM 1675 1711	veno-occlusive disease of the liver.
+T9	HMM 1891 1924	non-cirrhotic portal hypertension
+T10	HMM 2070 2078	toxicity
+T11	HMM 2090 2106	overall benefit.

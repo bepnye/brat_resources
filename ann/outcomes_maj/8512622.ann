@@ -1,0 +1,8 @@
+T1	Outcomes 31 63	electroencephalographic activity
+T2	Outcomes 189 218	electroencephalographic (EEG)
+T3	Outcomes 387 407	blood-alcohol levels
+T4	Outcomes 438 451	EEG activity,
+T5	Outcomes 723 768	relative areas under the power spectral curve
+T6	Outcomes 805 985	frequency bands: slow alpha (7.5 to 10 Hz); fast alpha (10.5 to 13.0 Hz); slow beta (13.5 to 19.5 Hz); and fast beta (20 to 26 Hz) at electrodes F3, F4, C3, C4, P3, P4, O1, and O2.
+T7	Outcomes 1121 1163	effects on EEG activity at anterior sites:
+T8	Outcomes 1331 1369	cortical region and EEG frequency band

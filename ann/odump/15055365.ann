@@ -1,0 +1,12 @@
+T1	HMM 0 19	Reflexive orienting
+T2	HMM 162 171	attention
+T3	HMM 273 292	reflexive orienting
+T4	HMM 766 783	slower to respond
+T5	HMM 835 852	cognitive ability
+T6	HMM 1033 1042	responded
+T7	HMM 1312 1344	located targets cued by eye gaze
+T8	HMM 1400 1419	reflexive orienting
+T9	HMM 1488 1497	attention
+T10	HMM 1602 1611	attention
+T11	HMM 1810 1821	sensitivity
+T12	HMM 1875 1884	attention

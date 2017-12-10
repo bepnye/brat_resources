@@ -1,0 +1,11 @@
+T1	Intervention 41 52	bevacizumab
+T2	Intervention 73 85	chemotherapy
+T3	Intervention 89 98	erlotinib
+T4	Intervention 113 125	chemotherapy
+T5	Intervention 210 222	Bevacizumab,
+T6	Intervention 300 310	erlotinib,
+T7	Intervention 544 555	bevacizumab
+T8	Intervention 561 570	erlotinib
+T9	Intervention 735 746	bevacizumab
+T10	Intervention 759 810	chemotherapy (docetaxel or pemetrexed) or erlotinib
+T11	Intervention 1288 1300	chemotherapy

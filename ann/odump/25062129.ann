@@ -1,0 +1,13 @@
+T1	HMM 793 805	Lipid uptake
+T2	HMM 843 854	total lipid
+T3	HMM 868 886	cholesterol esters
+T4	HMM 900 911	cholesterol
+T5	HMM 937 964	triglycerides/phospholipids
+T6	HMM 1015 1025	fatty acid
+T7	HMM 1079 1108	ratio of the extracted lipids
+T8	HMM 1151 1178	triglycerides/phospholipids
+T9	HMM 1195 1206	cholesterol
+T10	HMM 1270 1304	fatty acids/di- and monoglycerides
+T11	HMM 1346 1364	Total lipid uptake
+T12	HMM 1433 1449	uptake of lipids
+T13	HMM 1560 1578	Total lipid uptake

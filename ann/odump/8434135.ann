@@ -1,0 +1,4 @@
+T1	HMM 747 782	dietary [(Na+ + K+) - (Cl- + SO4=)]
+T2	HMM 891 950	Plasma calcium concentration and blood acid-base parameters
+T3	HMM 1000 1025	urinary calcium excretion
+T4	HMM 1050 1086	urinary pH and bicarbonate excretion

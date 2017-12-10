@@ -1,0 +1,6 @@
+T1	HMM 38 47	adherence
+T2	HMM 378 387	adherence
+T3	HMM 1390 1399	adherence
+T4	HMM 1501 1516	take medication
+T5	HMM 1621 1666	efficacy or side-effects, resuming treatment.
+T6	HMM 1811 1831	medication adherence

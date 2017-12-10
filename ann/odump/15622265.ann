@@ -1,0 +1,14 @@
+T1	HMM 675 700	"optimal cosmetic result"
+T2	HMM 903 947	Investigator-based and patient-based ratings
+T3	HMM 1018 1026	cosmetic
+T4	HMM 1052 1112	investigator-based Wrinkle Severity Rating Scale assessments
+T5	HMM 1159 1167	superior
+T6	HMM 1248 1256	superior
+T7	HMM 1349 1394	Global Aesthetic Improvement Scale assessment
+T8	HMM 1449 1457	superior
+T9	HMM 1507 1515	superior
+T10	HMM 1558 1583	"Optimal cosmetic result"
+T11	HMM 1604 1618	smaller volume
+T12	HMM 1694 1749	reactions (redness, swelling, pruritus, and induration)
+T13	HMM 1905 1921	long-term safety
+T14	HMM 1950 1971	aesthetic improvement

@@ -1,0 +1,15 @@
+Adult
+Aged
+Axilla
+Breast Neoplasms
+Carcinoma, Ductal, Breast
+Chemotherapy, Adjuvant
+Female
+Guideline Adherence
+Humans
+Hungary
+Lymphatic Metastasis
+Mastectomy
+Middle Aged
+Sentinel Lymph Node Biopsy
+Treatment Outcome

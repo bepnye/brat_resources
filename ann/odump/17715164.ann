@@ -1,0 +1,13 @@
+T1	HMM 0 25	Anti-inflammatory effects
+T2	HMM 413 454	feasibility and anti-inflammatory effects
+T3	HMM 739 762	Effects on inflammation
+T4	HMM 780 805	induced sputum and blood.
+T5	HMM 806 819	CO inhalation
+T6	HMM 824 832	feasible
+T7	HMM 837 858	patients' vital signs
+T8	HMM 964 988	carboxyhaemoglobin level
+T9	HMM 1002 1015	exacerbations
+T10	HMM 1074 1100	reduced sputum eosinophils
+T11	HMM 1136 1175	improved responsiveness to methacholine
+T12	HMM 1453 1499	improvement of responsiveness to methacholine.
+T13	HMM 1536 1555	safety and efficacy

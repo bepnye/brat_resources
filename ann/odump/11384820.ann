@@ -1,0 +1,10 @@
+T1	HMM 0 23	Rehabilitation outcomes
+T2	HMM 290 370	risk factors, psychological well-being, functional capacity, and work resumption
+T3	HMM 992 1016	serum cholesterol levels
+T4	HMM 1038 1060	exercise participation
+T5	HMM 1100 1122	exercise participation
+T6	HMM 1242 1263	body mass index (BMI)
+T7	HMM 1274 1298	psychological well-being
+T8	HMM 1314 1333	functional capacity
+T9	HMM 1405 1421	returned to work
+T10	HMM 1587 1636	risk factor profiles and work resumption patterns

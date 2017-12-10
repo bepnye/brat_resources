@@ -1,0 +1,6 @@
+T1	Outcomes 551 584	number and severity of infections
+T2	Outcomes 728 747	infectious episodes
+T3	Outcomes 940 977	morbidity scores (infection/infusion)
+T4	Outcomes 1070 1092	severity of infections
+T5	Outcomes 1142 1179	duration of infection-free intervals.
+T6	Outcomes 1238 1247	morbidity

@@ -1,0 +1,9 @@
+T1	HMM 54 77	defibrillation efficacy
+T2	HMM 267 297	defibrillation threshold (DFT)
+T3	HMM 388 418	DFT using monophasic waveforms
+T4	HMM 873 881	mean DFT
+T5	HMM 963 971	mean DFT
+T6	HMM 1161 1164	DFT
+T7	HMM 1323 1327	DFT.
+T8	HMM 1340 1363	Defibrillation efficacy
+T9	HMM 1517 1546	effectiveness of ICD therapy.

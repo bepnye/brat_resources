@@ -1,0 +1,5 @@
+T1	Treatment 0 51	Hepatectomy Versus Hepatectomy With Lymphadenectomy
+T2	Treatment 314 366	hepatectomy combined with preventive lymphadenectomy
+T3	Treatment 434 466	(treated with hepatectomy alone)
+T4	Treatment 479 532	(underwent hepatectomy combined with lymphadenectomy)
+T5	Treatment 1572 1622	hepatectomy combined with regional lymphadenectomy

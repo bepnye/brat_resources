@@ -1,0 +1,9 @@
+T1	HMM 727 743	ventricular size
+T2	HMM 1070 1081	Evans Index
+T3	HMM 1368 1396	preshunt damage of the brain
+T4	HMM 1405 1427	hydrocephalic aspects.
+T5	HMM 1454 1472	subdural effusions
+T6	HMM 1581 1594	overdrainage.
+T7	HMM 1637 1640	IVP
+T8	HMM 1756 1795	possible unphysiological IVP variations
+T9	HMM 1846 1921	level of implantation, subcutaneous pressure or CSF flow through the valve.

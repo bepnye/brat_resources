@@ -1,0 +1,8 @@
+T1	Treatment 0 10	Lisinopril
+T2	Treatment 188 195	placebo
+T3	Treatment 222 244	placebo and lisinopril
+T4	Treatment 355 377	placebo and lisinopril
+T5	Treatment 605 619	Lisinopril vs.
+T6	Treatment 620 627	placebo
+T7	Treatment 1052 1062	lisinopril
+T8	Treatment 1220 1230	lisinopril

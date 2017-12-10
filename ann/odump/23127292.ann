@@ -1,0 +1,15 @@
+T1	HMM 31 48	expression of p53
+T2	HMM 324 340	poorer outcomes.
+T3	HMM 341 374	Estrogen receptor (ER) expression
+T4	HMM 430 462	response to endocrine therapies.
+T5	HMM 767 784	Expression of p53
+T6	HMM 957 959	ER
+T7	HMM 1031 1045	p53 expression
+T8	HMM 1225 1239	p53 expression
+T9	HMM 1267 1320	disease-free survival (DFS) and overall survival (OS)
+T10	HMM 1379 1382	DFS
+T11	HMM 1387 1389	OS
+T12	HMM 1676 1690	p53 expression
+T13	HMM 1724 1741	expression of ER.
+T14	HMM 1843 1856	p53 mutations
+T15	HMM 1872 1886	p53 expression

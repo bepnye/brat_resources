@@ -1,0 +1,12 @@
+T1	HMM 0 18	Beneficial effects
+T2	HMM 53 92	insulin sensitivity and free fatty acid
+T3	HMM 341 417	insulin sensitivity, serum C peptide, serum lipids and free fatty acid (FFA)
+T4	HMM 840 891	Plasma glucose, serum insulin, C peptide and lipids
+T5	HMM 1010 1059	postprandial rise in blood glucose concentrations
+T6	HMM 1126 1155	peak height of plasma glucose
+T7	HMM 1188 1217	plasma insulin concentrations
+T8	HMM 1310 1329	plasma insulin peak
+T9	HMM 1403 1422	glucose and insulin
+T10	HMM 1543 1558	C peptide level
+T11	HMM 1872 1889	glycemic control.
+T12	HMM 1910 1939	insulin sensitivity (HOMA-IS)

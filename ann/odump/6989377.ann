@@ -1,0 +1,19 @@
+T1	HMM 15 64	fatty acid composition of the plasma lipid esters
+T2	HMM 166 175	linoleate
+T3	HMM 218 267	fatty acid composition of the plasma lipid esters
+T4	HMM 691 702	serum lipid
+T5	HMM 719 768	fatty acid composition in the plasma lipid esters
+T6	HMM 900 952	content of saturated and monounsaturated fatty acids
+T7	HMM 971 998	polyunsaturated fatty acids
+T8	HMM 1028 1095	ratio between pulyunsaturated and saturated fatty acids (P/S ratio)
+T9	HMM 1177 1191	phospholipids.
+T10	HMM 1314 1337	fatty acid composition.
+T11	HMM 1396 1423	monounsaturated fatty acids
+T12	HMM 1436 1442	oleate
+T13	HMM 1480 1511	triglycerides and phospholipids
+T14	HMM 1559 1592	content of linoleic (18 : 2) acid
+T15	HMM 1738 1747	P/S ratio
+T16	HMM 1819 1840	saturated fatty acids
+T17	HMM 2046 2119	polyunsaturated to monounsaturated fatty acids in the plasma lipid esters
+T18	HMM 2158 2214	ratio between polyunsaturated and saturated fatty acids.
+T19	HMM 2225 2237	acid changes

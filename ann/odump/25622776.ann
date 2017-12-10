@@ -1,0 +1,6 @@
+T1	HMM 450 460	opioid use
+T2	HMM 738 751	opioid source
+T3	HMM 756 791	indices of drug reinforcement value
+T4	HMM 861 886	Weekly urine drug screens
+T5	HMM 1626 1651	disrupted decision-making
+T6	HMM 1656 1673	reward-processing

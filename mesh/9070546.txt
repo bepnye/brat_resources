@@ -1,0 +1,14 @@
+Adult
+Aged
+Cardiotonic Agents
+Catecholamines
+Coronary Angiography
+Echocardiography
+Exercise Test
+Female
+Hemodynamics
+Humans
+Male
+Middle Aged
+Myocardial Ischemia
+Sensitivity and Specificity

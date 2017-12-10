@@ -1,0 +1,10 @@
+T1	HMM 65 117	peripheral blood pressure and central blood pressure
+T2	HMM 206 213	effects
+T3	HMM 308 364	peripheral blood pressure and the central blood pressure
+T4	HMM 1211 1235	parameters of pulse wave
+T5	HMM 1491 1559	central systolic blood pressure, augmentation and augmentation index
+T6	HMM 1672 1731	systolic blood pressure and pulse pressure in central aorta
+T7	HMM 1802 1812	difference
+T8	HMM 1929 1964	peripheral arterial blood pressure.
+T9	HMM 2015 2063	central systolic pressure and augmentation index
+T10	HMM 2132 2147	wave reflection

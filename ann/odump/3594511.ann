@@ -1,0 +1,14 @@
+T1	HMM 37 49	blood lipids
+T2	HMM 282 349	Total cholesterol, triglycerides, HDL and LDL cholesterol fractions
+T3	HMM 659 676	total cholesterol
+T4	HMM 721 734	triglycerides
+T5	HMM 739 742	LDL
+T6	HMM 783 786	HDL
+T7	HMM 886 899	triglycerides
+T8	HMM 949 964	HDL cholesterol
+T9	HMM 1025 1058	total cholesterol or LDL fraction
+T10	HMM 1120 1144	total triglycerides (NS)
+T11	HMM 1156 1159	HDL
+T12	HMM 1215 1250	total cholesterol and LDL fraction.
+T13	HMM 1311 1323	blood lipids
+T14	HMM 1500 1513	blood lipids.

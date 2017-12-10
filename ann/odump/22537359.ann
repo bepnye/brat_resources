@@ -1,0 +1,9 @@
+T1	HMM 64 90	autism spectrum disorders.
+T2	HMM 187 204	autistic symptoms
+T3	HMM 906 921	well tolerated;
+T4	HMM 951 967	was constipation
+T5	HMM 1029 1091	clinically nonsignificant electrocardiographic QT prolongation
+T6	HMM 1224 1266	the Ohio Autism Clinical Impressions Scale
+T7	HMM 1682 1720	reduced hyperactivity and irritability
+T8	HMM 1725 1745	better verbalization
+T9	HMM 1853 1872	effective in autism

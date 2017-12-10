@@ -1,0 +1,9 @@
+T1	HMM 26 33	effects
+T2	HMM 59 99	cardiovascular and respiratory functions
+T3	HMM 201 241	cardiovascular and respiratory functions
+T4	HMM 471 632	Intraocular pressure, blood pressure, heart rate, and respiratory functions, including percent forced expiratory volume in 1 second and peak expiratory flow rate
+T5	HMM 708 756	intraocular pressure and cardiovascular function
+T6	HMM 827 847	respiratory function
+T7	HMM 882 1001	percent forced expiratory volume in 1 second, peak expiratory flow rate, and expiratory flow rate at 75% vital capacity
+T8	HMM 1134 1174	cardiovascular and respiratory functions
+T9	HMM 1215 1236	bronchial sensitivity

@@ -1,0 +1,18 @@
+Adult
+Ampicillin
+Anesthesia, General
+Azlocillin
+Drug Synergism
+Electromyography
+Female
+Humans
+Male
+Mezlocillin
+Neuromuscular Blocking Agents
+Neuromuscular Junction
+Pancuronium
+Penicillins
+Piperacillin
+Premedication
+Synaptic Transmission
+Vecuronium Bromide

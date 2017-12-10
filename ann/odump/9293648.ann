@@ -1,0 +1,8 @@
+T1	HMM 58 78	systemic hypotension
+T2	HMM 148 163	organ perfusion
+T3	HMM 168 184	patient survival
+T4	HMM 975 1013	arterial blood pressure and heart rate
+T5	HMM 1032 1064	serum electrolyte concentrations
+T6	HMM 1092 1116	incidence of hypotension
+T7	HMM 1260 1282	significant difference
+T8	HMM 1321 1389	level of anesthesia or maximal heart rate, and electrolyte imbalance

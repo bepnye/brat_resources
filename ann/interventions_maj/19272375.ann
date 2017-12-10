@@ -1,0 +1,18 @@
+T1	Intervention 51 100	acetaminophen, diclofenac, or naproxen on aspirin
+T2	Intervention 146 190	Nonsteroidal anti-inflammatory drugs (NSAID)
+T3	Intervention 210 217	aspirin
+T4	Intervention 219 240	acetylsalicylic acid)
+T5	Intervention 416 421	NSAID
+T6	Intervention 631 638	aspirin
+T7	Intervention 680 694	acetaminophen,
+T8	Intervention 705 716	diclofenac,
+T9	Intervention 728 737	naproxen,
+T10	Intervention 747 755	placebo.
+T11	Intervention 956 964	Naproxen
+T12	Intervention 1005 1012	aspirin
+T13	Intervention 1148 1158	Diclofenac
+T14	Intervention 1352 1365	Acetaminophen
+T15	Intervention 1535 1540	NSAID
+T16	Intervention 1671 1682	diclofenac.
+T17	Intervention 1770 1775	NSAID
+T18	Intervention 1829 1836	aspirin

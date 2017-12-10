@@ -1,0 +1,11 @@
+T1	HMM 37 63	subclinical brain infarct.
+T2	HMM 76 107	Subclinical brain infarct (SBI)
+T3	HMM 254 258	SBI.
+T4	HMM 303 331	development of brain infarct
+T5	HMM 776 800	number of brain infarcts
+T6	HMM 910 938	number of new brain infarcts
+T7	HMM 1125 1143	new brain infarcts
+T8	HMM 1204 1218	brain infarcts
+T9	HMM 1302 1316	brain infarcts
+T10	HMM 1505 1509	SBIs
+T11	HMM 1794 1808	brain infarct.

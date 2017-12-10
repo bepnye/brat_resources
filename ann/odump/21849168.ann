@@ -1,0 +1,10 @@
+T1	HMM 57 72	chronic stroke:
+T2	HMM 257 301	chronic, stroke-related upper-extremity (UE)
+T3	HMM 934 976	UE Fugl-Meyer Assessment (FMA) mean change
+T4	HMM 1036 1059	modest gains in the FMA
+T5	HMM 1271 1295	greater motor impairment
+T6	HMM 1336 1347	in response
+T7	HMM 1556 1575	CONCLUSIONS Chronic
+T8	HMM 1599 1605	stroke
+T9	HMM 1779 1785	robots
+T10	HMM 1794 1802	superior

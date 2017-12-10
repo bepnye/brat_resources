@@ -1,0 +1,14 @@
+T1	Treatment 0 32	Recombinant human thrombopoietin
+T2	Treatment 181 221	recombinant human thrombopoietin (rhTPO)
+T3	Treatment 638 661	placebo, placebo, rhTPO
+T4	Treatment 863 910	high-dose chemotherapy and PBPC transplantation
+T5	Treatment 1130 1137	placebo
+T6	Treatment 1182 1187	rhTPO
+T7	Treatment 1260 1265	rhTPO
+T8	Treatment 1475 1480	rhTPO
+T9	Treatment 1484 1491	placebo
+T10	Treatment 1677 1690	rhTPO-treated
+T11	Treatment 1793 1798	rhTPO
+T12	Treatment 1919 1924	rhTPO
+T13	Treatment 2087 2099	chemotherapy
+T14	Treatment 2105 2126	PBPC transplantation.

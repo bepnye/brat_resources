@@ -1,0 +1,6 @@
+T1	HMM 767 778	pain levels
+T2	HMM 872 897	Change in pain VAS scores
+T3	HMM 937 999	rates of pregnancy, repeat surgery, and use of hormone therapy
+T4	HMM 1045 1056	pain scores
+T5	HMM 1146 1168	dyspareunia VAS scores
+T6	HMM 1342 1376	medical treatment of endometriosis

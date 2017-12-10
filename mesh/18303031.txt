@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Carcinoma, Hepatocellular
+Female
+France
+Humans
+Liver Cirrhosis, Alcoholic
+Liver Neoplasms
+Male
+Middle Aged
+Neoplasm Staging
+Palliative Care
+Prognosis
+Survival Analysis

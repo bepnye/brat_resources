@@ -1,0 +1,10 @@
+T1	HMM 839 858	airway difficulties
+T2	HMM 1055 1107	time required for capillary oxygen saturation (SaO2)
+T3	HMM 1200 1224	safe apnea period (SAP).
+T4	HMM 1285 1289	SaO2
+T5	HMM 1392 1428	BMI and hip-waist ratios of patients
+T6	HMM 1509 1528	airway difficulties
+T7	HMM 1563 1566	SAP
+T8	HMM 1657 1661	SaO2
+T9	HMM 1703 1711	position
+T10	HMM 1752 1767	time to recover

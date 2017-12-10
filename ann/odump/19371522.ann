@@ -1,0 +1,10 @@
+T1	HMM 76 94	migraine headache.
+T2	HMM 648 681	median visual analog scale scores
+T3	HMM 757 761	pain
+T4	HMM 814 852	Restlessness consistent with akathisia
+T5	HMM 935 952	rescue medication
+T6	HMM 1246 1265	headache recurrence
+T7	HMM 1348 1369	clinical success rate
+T8	HMM 1386 1390	pain
+T9	HMM 1428 1440	restlessness
+T10	HMM 1445 1454	sedation.

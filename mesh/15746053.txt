@@ -1,0 +1,30 @@
+Administration, Oral
+Adult
+Aged
+Anemia
+Antineoplastic Agents, Phytogenic
+Area Under Curve
+Camptothecin
+Capsules
+Cytochrome P-450 CYP3A
+Cytochrome P-450 Enzyme System
+Diarrhea
+Dietary Fats
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Female
+Genotype
+Glucuronosyltransferase
+Humans
+Leukopenia
+Male
+Middle Aged
+Nausea
+Neoplasms
+Neutropenia
+Polymorphism, Genetic
+Promoter Regions, Genetic
+Thrombocytopenia
+Time Factors
+Treatment Outcome
+Vomiting

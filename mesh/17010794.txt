@@ -1,0 +1,14 @@
+Aged
+Angioplasty, Balloon, Coronary
+Coronary Artery Disease
+Echocardiography
+Embolism
+Female
+Filtration
+Humans
+Male
+Middle Aged
+Myocardial Infarction
+Thrombosis
+Treatment Outcome
+Ventricular Remodeling

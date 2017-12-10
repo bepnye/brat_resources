@@ -1,0 +1,17 @@
+T1	HMM 131 146	colonic transit
+T2	HMM 496 528	idiopathic chronic constipation.
+T3	HMM 761 773	constipation
+T4	HMM 1415 1442	total colonic transit time.
+T5	HMM 1690 1735	total, partial colon, and rectum transit time
+T6	HMM 1818 1831	transit times
+T7	HMM 1921 1939	intestinal transit
+T8	HMM 1990 2019	basal intestinal transit time
+T9	HMM 2105 2123	total transit time
+T10	HMM 2275 2298	changes in transit time
+T11	HMM 2337 2349	Mean changes
+T12	HMM 2552 2577	number of bowel movements
+T13	HMM 2718 2756	(hard scybalous or pebble-like stools)
+T14	HMM 2963 2991	reported having hard stools.
+T15	HMM 3085 3118	improvement in stool consistency.
+T16	HMM 3119 3149	No significant adverse effects
+T17	HMM 3299 3330	chronic idiopathic constipation

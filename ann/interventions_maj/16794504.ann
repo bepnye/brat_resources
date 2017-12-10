@@ -1,0 +1,8 @@
+T1	Intervention 39 51	chemotherapy
+T2	Intervention 57 74	chemoradiotherapy
+T3	Intervention 222 234	chemotherapy
+T4	Intervention 300 362	chemotherapy followed by radiation therapy (chemoradiotherapy)
+T5	Intervention 561 695	alternating nitrogen mustard, oncovin, prednisone, and procarbazine/doxorubicin, bleomycin, vinblastine, and dacarbazine (treatment 1)
+T6	Intervention 699 885	4 courses of alternating nitrogen mustard, oncovin, prednisone, and procarbazine/doxorubicin, bleomycin, vinblastine, and dacarbazine +2550 cGy involved-field radiotherapy (treatment 2).
+T7	Intervention 1298 1310	chemotherapy
+T8	Intervention 1315 1332	chemoradiotherapy

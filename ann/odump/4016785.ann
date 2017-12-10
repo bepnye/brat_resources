@@ -1,0 +1,12 @@
+T1	HMM 25 33	toxicity
+T2	HMM 326 334	toxicity
+T3	HMM 753 771	main toxic effects
+T4	HMM 790 819	fever, fatigue, and anorexia.
+T5	HMM 928 1060	significant toxic effects included nausea and vomiting, hypotension, leukopenia, thrombocytopenia, and evidence of hepatic toxicity.
+T6	HMM 1067 1096	changes in serum electrolytes
+T7	HMM 1109 1128	Coagulation studies
+T8	HMM 1160 1172	toxic effect
+T9	HMM 1199 1216	myelosuppression.
+T10	HMM 1224 1246	maximum tolerated dose
+T11	HMM 1393 1419	relatively well-tolerated.
+T12	HMM 1455 1464	tolerance

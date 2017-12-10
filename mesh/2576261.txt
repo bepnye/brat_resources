@@ -1,0 +1,13 @@
+Adult
+Cholesterol
+Cholesterol, HDL
+Cholesterol, LDL
+Contraceptives, Oral, Combined
+Desogestrel
+Ethinyl Estradiol
+Female
+Humans
+Lipoproteins
+Norpregnenes
+Random Allocation
+Triglycerides

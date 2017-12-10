@@ -1,0 +1,5 @@
+T1	HMM 344 377	average duration of the procedure
+T2	HMM 400 436	total duration of sensory anesthesia
+T3	HMM 520 538	Times to discharge
+T4	HMM 608 625	time to discharge
+T5	HMM 738 776	unplanned overnight hospital admission

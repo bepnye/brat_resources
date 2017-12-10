@@ -1,0 +1,7 @@
+T1	HMM 265 331	skin temperature, thermography, plethysmography and blood pressure
+T2	HMM 1854 1878	parasympathetic activity
+T3	HMM 2038 2089	sympathetic activity, blood pressure or heart rate.
+T4	HMM 2165 2209	sympathetic and the parasympathetic activity
+T5	HMM 2354 2374	heart rate frequency
+T6	HMM 2581 2621	sympathetic and parasympathetic activity
+T7	HMM 2866 2912	sympathetic and parasympathetic nervous system

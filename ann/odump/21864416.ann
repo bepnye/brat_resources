@@ -1,0 +1,4 @@
+T1	HMM 982 1017	Immune cell levels in patient serum
+T2	HMM 1211 1231	levels of leucocytes
+T3	HMM 1302 1334	Similarly, levels of neutrophils
+T4	HMM 1476 1559	decrease in levels of T cells, helper T cells, cytotoxic T cells and natural killer

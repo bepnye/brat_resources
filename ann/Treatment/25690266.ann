@@ -1,0 +1,8 @@
+T1	Treatment 53 69	telephone triage
+T2	Treatment 183 240	general practitioner-led and nurse-led management systems
+T3	Treatment 289 305	Telephone triage
+T4	Treatment 585 591	triage
+T5	Treatment 704 719	usual care (UC)
+T6	Treatment 745 829	GP-led telephone triage (GPT) and nurse-led computer-supported telephone triage (NT)
+T7	Treatment 1345 1369	randomised to GPT, NT or
+T8	Treatment 3547 3560	somewhat less

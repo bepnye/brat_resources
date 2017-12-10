@@ -1,0 +1,8 @@
+T1	HMM 384 396	pancreatitis
+T2	HMM 702 724	Post-ERCP pancreatitis
+T3	HMM 798 1005	severity of immediate bleeding, as graded by a 3-point scale from 1 (no bleeding) to 3 (injection or balloon tamponade therapy required to stop bleeding) and evidence of delayed bleeding 24 hours after ERCP.
+T4	HMM 1251 1273	post-ERCP pancreatitis
+T5	HMM 1422 1434	pancreatitis
+T6	HMM 1513 1529	delayed bleeding
+T7	HMM 1613 1636	minor bleeding episodes
+T8	HMM 1683 1711	Delayed episodes of bleeding

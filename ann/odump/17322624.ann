@@ -1,0 +1,7 @@
+T1	HMM 0 20	Dose-response effect
+T2	HMM 505 522	effect and safety
+T3	HMM 747 755	PAF/PAFL
+T4	HMM 895 927	significant linear dose-response
+T5	HMM 1045 1058	dose-response
+T6	HMM 1165 1190	cardioversion or ablation
+T7	HMM 1309 1350	death nor ventricular proarrhythmic event

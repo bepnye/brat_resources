@@ -1,0 +1,7 @@
+T1	HMM 82 101	hospital admissions
+T2	HMM 214 250	hospitalization rates and mortality.
+T3	HMM 935 954	Hospital admissions
+T4	HMM 959 974	other variables
+T5	HMM 1094 1113	hospital admissions
+T6	HMM 1453 1482	subjects admitted to hospital
+T7	HMM 1520 1536	days in hospital

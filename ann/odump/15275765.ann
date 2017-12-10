@@ -1,0 +1,10 @@
+T1	HMM 33 51	postoperative pain
+T2	HMM 119 158	acute nociceptive and inflammatory pain
+T3	HMM 257 276	postoperative pain.
+T4	HMM 328 376	postoperative need for additional pain treatment
+T5	HMM 709 737	postoperative pain treatment
+T6	HMM 864 904	pain scores at rest and worst pain score
+T7	HMM 1074 1139	degree of postoperative nausea and incidence of vomiting/retching
+T8	HMM 1187 1205	postoperative pain
+T9	HMM 1443 1452	effective
+T10	HMM 1466 1486	preoperative anxiety

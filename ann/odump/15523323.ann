@@ -1,0 +1,9 @@
+T1	HMM 61 84	neurohormonal responses
+T2	HMM 515 683	pre-enalapril and post-enalapril neurohormone levels (serum ACE activity (sACE), plasma angiotensin II (A-II), plasma renin activity (PRA), and serum aldosterone (ALDO)
+T3	HMM 839 877	predose/postdose sACE and postdose PRA
+T4	HMM 946 959	postdose sACE
+T5	HMM 1043 1084	predose and postdose ALDO and A-II levels
+T6	HMM 1195 1228	ALDO escape and A-II reactivation
+T7	HMM 1296 1308	Predose sACE
+T8	HMM 1417 1436	suppression of sACE
+T9	HMM 1502 1527	ALDO and A-II suppression

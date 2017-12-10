@@ -1,0 +1,11 @@
+T1	HMM 70 107	Subjective Significance Questionnaire
+T2	HMM 192 199	changes
+T3	HMM 203 241	health-related quality-of-life (HRQOL)
+T4	HMM 249 294	EORTC Quality of Life Questionnaire (QLQ-C30)
+T5	HMM 358 402	Subjective Significance Questionnaire (SSQ).
+T6	HMM 607 747	physical functioning, emotional functioning, social functioning, and overall/global quality of life (QOL) by completing a seven-category SSQ
+T7	HMM 1087 1143	fatigue, pain, appetite, diarrhea, and global QOL scores
+T8	HMM 1213 1223	global QOL
+T9	HMM 1409 1412	SSQ
+T10	HMM 1433 1454	QLQ-C30 change scores
+T11	HMM 1575 1585	QOL scores

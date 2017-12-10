@@ -1,0 +1,9 @@
+T1	HMM 132 170	overall and progression-free survival.
+T2	HMM 837 854	Survival analysis
+T3	HMM 1103 1116	tumor relapse
+T4	HMM 1168 1197	5-year overall survival rates
+T5	HMM 1272 1310	5-year progression-free survival rates
+T6	HMM 1423 1431	toxicity
+T7	HMM 1469 1479	leukopenia
+T8	HMM 1484 1502	emesis, compliance
+T9	HMM 1689 1713	treatment-related deaths

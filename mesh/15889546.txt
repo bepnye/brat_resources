@@ -1,0 +1,15 @@
+Algorithms
+Artificial Intelligence
+Colorimetry
+Computer Graphics
+Diabetic Retinopathy
+Humans
+Image Enhancement
+Image Interpretation, Computer-Assisted
+Numerical Analysis, Computer-Assisted
+Ophthalmoscopy
+Pattern Recognition, Automated
+Photography
+Reproducibility of Results
+Sensitivity and Specificity
+Signal Processing, Computer-Assisted

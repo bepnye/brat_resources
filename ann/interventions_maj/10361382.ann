@@ -1,0 +1,8 @@
+T1	Intervention 951 954	TRH
+T2	Intervention 1011 1018	placebo
+T3	Intervention 1159 1167	placebos
+T4	Intervention 1193 1225	administration of pyridostigmine
+T5	Intervention 1268 1276	naloxone
+T6	Intervention 1346 1388	combination of pyridostigmine and naloxone
+T7	Intervention 1487 1548	TRH plus placebo, TRH plus naloxone, TRH plus pyridostigmine,
+T8	Intervention 1553 1590	TRH plus naloxone plus pyridostigmine

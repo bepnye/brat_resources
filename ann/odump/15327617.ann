@@ -1,0 +1,9 @@
+T1	HMM 146 186	efficacy, side effects and acceptability
+T2	HMM 690 772	The success rate at 48 hours, induction-to-abortion interval and the side effects.
+T3	HMM 820 848	the success rate at 48 hours
+T4	HMM 895 919	success rate at 24 hours
+T5	HMM 1041 1082	the median induction-to-abortion interval
+T6	HMM 1179 1226	preferred the route to which they were assigned
+T7	HMM 1265 1287	The incidence of fever
+T8	HMM 1428 1440	success rate
+T9	HMM 1489 1502	abortion rate

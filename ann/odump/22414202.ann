@@ -1,0 +1,11 @@
+T1	HMM 0 19	Ambulatory activity
+T2	HMM 105 124	ambulatory activity
+T3	HMM 420 433	participated.
+T4	HMM 434 453	Ambulatory activity
+T5	HMM 883 893	variables.
+T6	HMM 894 913	Ambulatory activity
+T7	HMM 1146 1186	lower ambulatory activity on school days
+T8	HMM 1301 1341	lower ambulatory activity in the weekend
+T9	HMM 1360 1368	21-42%).
+T10	HMM 1369 1395	Correcting for body height
+T11	HMM 1477 1505	increasing physical activity

@@ -1,0 +1,9 @@
+T1	HMM 0 33	Airway responses and inflammation
+T2	HMM 716 749	Pulmonary function and exhaled NO
+T3	HMM 780 794	Induced sputum
+T4	HMM 967 988	in pulmonary function
+T5	HMM 1025 1103	the development of a late asthmatic response and bronchial hyperresponsiveness
+T6	HMM 1116 1180	a significant induction of eNO, eosinophils, and Th-2 cytokines.
+T7	HMM 1181 1201	Repeated provocation
+T8	HMM 1257 1282	had severe adverse events
+T9	HMM 1446 1495	marked Th-2-mediated allergic airway inflammation

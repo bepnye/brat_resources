@@ -1,0 +1,16 @@
+T1	HMM 161 190	clinically significant anemia
+T2	HMM 801 819	symptomatic anemia
+T3	HMM 1239 1255	hematocrit level
+T4	HMM 1285 1295	hematocrit
+T5	HMM 1497 1572	changes in hematocrit level, transfusion requirements, and quality of life.
+T6	HMM 1573 1588	Quality-of-life
+T7	HMM 1704 1726	increase in hematocrit
+T8	HMM 1769 1779	hematocrit
+T9	HMM 1946 1956	hematocrit
+T10	HMM 2039 2055	hematocrit level
+T11	HMM 2139 2181	mean units of blood transfused per patient
+T12	HMM 2416 2468	energy level and ability to perform daily activities
+T13	HMM 2561 2574	toxic effects
+T14	HMM 2609 2620	diaphoresis
+T15	HMM 2635 2643	diarrhea
+T16	HMM 2755 2761	anemia

@@ -1,0 +1,11 @@
+T1	Treatment 0 9	Induction
+T2	Treatment 17 29	noninduction
+T3	Treatment 203 232	antithymocyte globulins (ATG)
+T4	Treatment 245 255	tacrolimus
+T5	Treatment 487 513	induction therapy with ATG
+T6	Treatment 548 558	tacrolimus
+T7	Treatment 581 612	tacrolimus-based triple therapy
+T8	Treatment 660 670	tacrolimus
+T9	Treatment 691 706	Steroid boluses
+T10	Treatment 789 801	Azathioprine
+T11	Treatment 1969 1972	ATG

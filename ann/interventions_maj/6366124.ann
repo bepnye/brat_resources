@@ -1,0 +1,4 @@
+T1	Intervention 419 431	irradiation,
+T2	Intervention 456 469	chemotherapy,
+T3	Intervention 482 628	chemotherapy with cyclophosphamide, vincristine and prednisone (CVP) or with cyclophosphamide, vincristine, procarbazine, and prednisone (C-MOPP),
+T4	Intervention 640 685	combinations of chemotherapy and irradiation.

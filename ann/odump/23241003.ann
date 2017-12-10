@@ -1,0 +1,9 @@
+T1	HMM 554 573	mean blood pressure
+T2	HMM 668 685	exercise capacity
+T3	HMM 698 717	6-minute walk test.
+T4	HMM 980 999	mean blood pressure
+T5	HMM 1109 1129	mean blood pressure.
+T6	HMM 1178 1196	6-minute walk test
+T7	HMM 1251 1266	Adverse effects
+T8	HMM 1421 1430	tolerated
+T9	HMM 1484 1499	blood pressure.

@@ -1,0 +1,8 @@
+T1	HMM 895 919	maximal dynamic strength
+T2	HMM 964 988	knee-extension exercises
+T3	HMM 1025 1037	timed-stands
+T4	HMM 1060 1080	timed-up-and-go test
+T5	HMM 1100 1114	Quadriceps CSA
+T6	HMM 1229 1363	Short Form-36 Health Survey, the Health Assessment Questionnaire scores, and the patient- and physician reported Visual Analogue Scale
+T7	HMM 1465 1486	self-reported adverse
+T8	HMM 1505 1557	Laboratory parameters (creatine kinase and aldolase)

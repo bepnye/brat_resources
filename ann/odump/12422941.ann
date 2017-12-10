@@ -1,0 +1,4 @@
+T1	HMM 48 72	methamphetamine craving.
+T2	HMM 306 325	behavioral effects.
+T3	HMM 624 647	methamphetamine craving
+T4	HMM 918 954	methamphetamine abuse and dependence

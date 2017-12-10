@@ -1,0 +1,21 @@
+T1	HMM 227 243	disease activity
+T2	HMM 248 268	remission assessment
+T3	HMM 343 490	Simplified Disease Activity Index (SDAI) scores, Clinical Disease Activity Index (CDAI) scores, and the Disease Activity Score in 28 joints (DAS28)
+T4	HMM 721 765	Disease activity states, including remission
+T5	HMM 881 937	Changes in the DAS28, the SDAI score, and the CDAI score
+T6	HMM 1101 1105	SDAI
+T7	HMM 1114 1119	CDAI.
+T8	HMM 1152 1183	improvement in disease activity
+T9	HMM 1342 1372	However, DAS28 remission rates
+T10	HMM 1428 1461	the SDAI and CDAI remission rates
+T11	HMM 1511 1531	with DAS28 remission
+T12	HMM 1537 1558	had disease remission
+T13	HMM 1621 1661	treatment, SDAI and CDAI remission rates
+T14	HMM 1735 1760	and DAS28 remission rates
+T15	HMM 1802 1822	with DAS28 remission
+T16	HMM 1827 1849	without CDAI remission
+T17	HMM 1868 1895	higher swollen joint counts
+T18	HMM 1900 1944	lower erythrocyte sedimentation rates (ESRs)
+T19	HMM 1997 2024	CONCLUSION Disease activity
+T20	HMM 2139 2148	activity.
+T21	HMM 2149 2164	Remission rates

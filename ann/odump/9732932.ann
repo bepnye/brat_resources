@@ -1,0 +1,8 @@
+T1	HMM 179 199	liver biochemistries
+T2	HMM 204 231	enriches the bile with UDCA
+T3	HMM 620 662	percentage of ursodeoxycholic acid in bile
+T4	HMM 768 799	Measurement of serum bile acids
+T5	HMM 1138 1177	Changes in biliary ursodeoxycholic acid
+T6	HMM 1234 1301	serum alkaline phosphatase, AST, bilirubin, and in Mayo risk score.
+T7	HMM 1334 1406	serum bile acid composition and biochemical measures of disease activity
+T8	HMM 1649 1675	primary biliary cirrhosis.

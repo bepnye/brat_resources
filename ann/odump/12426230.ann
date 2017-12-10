@@ -1,0 +1,11 @@
+T1	HMM 705 757	mean arterial pressure, systemic vascular resistance
+T2	HMM 776 834	heart rate, cardiac index, and norepinephrine requirement.
+T3	HMM 850 872	plasma nitrite/nitrate
+T4	HMM 897 919	nitric oxide formation
+T5	HMM 942 975	reduction of vasopressor support.
+T6	HMM 980 1224	inflammatory response (interleukin-6 and interleukin-8), endothelial (soluble E-selectin) and neutrophil activation (expression of CD11b, CD64), and antiinflammatory response (soluble tumor necrosis factor receptors I and II and interleukin-10)
+T7	HMM 1273 1310	human leukocyte antigen-DR expression
+T8	HMM 1348 1421	in vitro phagocytosis and the monocyte-activating cytokine interleukin-12
+T9	HMM 1467 1511	hemodynamic and immunologic rebound effects.
+T10	HMM 1559 1580	hemodynamic stability
+T11	HMM 1614 1644	immunologic response to stress

@@ -1,0 +1,9 @@
+T1	HMM 543 574	daytime ambulatory diastolic BP
+T2	HMM 587 604	home diastolic BP
+T3	HMM 864 889	systolic and diastolic BP
+T4	HMM 974 1023	systolic/diastolic differences between ambulatory
+T5	HMM 1051 1053	BP
+T6	HMM 1064 1143	home, daytime ambulatory, night-time ambulatory, and 24-h ambulatory BP changes
+T7	HMM 1312 1325	ambulatory BP
+T8	HMM 1510 1542	ambulatory and home diastolic BP
+T9	HMM 1736 1738	BP

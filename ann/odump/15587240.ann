@@ -1,0 +1,7 @@
+T1	HMM 152 177	physiology and mood state
+T2	HMM 575 611	mood, and temperature and heart rate
+T3	HMM 738 789	physiological changes in temperature and heart rate
+T4	HMM 834 846	mood ratings
+T5	HMM 944 986	tension-anxiety and confusion-bewilderment
+T6	HMM 1086 1113	mean vigor-activity ratings
+T7	HMM 1213 1257	mean ratings on the fatigue-inertia subscale

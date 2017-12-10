@@ -1,0 +1,5 @@
+T1	HMM 536 595	intestinal absorption was determined by H2-exhalation tests
+T2	HMM 604 621	clinical symptoms
+T3	HMM 649 670	rate of malabsorption
+T4	HMM 1042 1063	intestinal absorption
+T5	HMM 1186 1212	carbohydrate malabsorption

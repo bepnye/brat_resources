@@ -1,0 +1,13 @@
+Adult
+Aged
+Arrhythmias, Cardiac
+Drug Therapy, Combination
+Humans
+Male
+Middle Aged
+Myocardial Infarction
+Phosphocreatine
+Streptokinase
+Systole
+Thrombolytic Therapy
+Ventricular Dysfunction, Left

@@ -1,0 +1,7 @@
+T1	HMM 651 672	toxicity and survival
+T2	HMM 972 1000	3 cycles of adjuvant therapy
+T3	HMM 1059 1098	renal toxicity, leucopenia, and anaemia
+T4	HMM 1132 1148	thrombocytopenia
+T5	HMM 1177 1211	3 year disease free survival rates
+T6	HMM 1350 1379	3 year overall survival rates
+T7	HMM 1527 1568	tolerability of carboplatin based regimen

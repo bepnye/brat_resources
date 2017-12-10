@@ -1,0 +1,9 @@
+T1	HMM 54 75	blood glucose control
+T2	HMM 141 166	efficacy and tolerability
+T3	HMM 788 837	postprandial glucose area under the curve AUC(0-2
+T4	HMM 1033 1090	Postprandial AUC(0-2 h) of intact glucagon-like peptide-1
+T5	HMM 1347 1359	Mean HbA(1c)
+T6	HMM 1481 1496	DPP4 inhibition
+T7	HMM 1639 1653	adverse events
+T8	HMM 1851 1865	well tolerated
+T9	HMM 1870 1901	improved blood glucose control.

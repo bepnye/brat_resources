@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Anti-Bacterial Agents
+Anti-Infective Agents
+Antibiotics, Antitubercular
+Brucellosis
+Chi-Square Distribution
+Ciprofloxacin
+Doxycycline
+Drug Administration Schedule
+Drug Therapy, Combination
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Rifampin
+Treatment Outcome

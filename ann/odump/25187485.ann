@@ -1,0 +1,9 @@
+T1	HMM 355 379	bupropion plasma levels.
+T2	HMM 1006 1024	mean bupropion AUC
+T3	HMM 1162 1218	higher threohydrobupropion and erythrohydrobupropion AUC
+T4	HMM 1346 1382	the hydroxybupropion/bupropion ratio
+T5	HMM 1502 1528	smoking cessation outcomes
+T6	HMM 1592 1611	by hydroxybupropion
+T7	HMM 1711 1735	reduced CYP2C19 activity
+T8	HMM 1760 1874	the steady-state exposure to bupropion and its reductive metabolites threohydrobupropion and erythrohydrobupropion
+T9	HMM 2025 2054	the side effects and toxicity

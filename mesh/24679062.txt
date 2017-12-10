@@ -1,0 +1,14 @@
+Aged
+Aspirin
+Female
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Myocardial Infarction
+Perioperative Care
+Platelet Aggregation Inhibitors
+Postoperative Complications
+Postoperative Hemorrhage
+Surgical Procedures, Operative
+Treatment Failure

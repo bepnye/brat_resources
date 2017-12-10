@@ -1,0 +1,8 @@
+T1	HMM 861 882	detrusor overactivity
+T2	HMM 910 927	bladder capacity.
+T3	HMM 978 1002	partial or full response
+T4	HMM 1077 1093	partial response
+T5	HMM 1117 1145	average number of wet nights
+T6	HMM 1215 1236	urodynamic parameters
+T7	HMM 1299 1335	wet nights and urodynamic parameters
+T8	HMM 1427 1451	partial or full response

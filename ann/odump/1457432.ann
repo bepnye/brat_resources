@@ -1,0 +1,20 @@
+T1	HMM 204 212	results.
+T2	HMM 293 302	survival.
+T3	HMM 377 391	graft function
+T4	HMM 496 512	cardiac function
+T5	HMM 558 577	efficacy and safety
+T6	HMM 996 1046	mean donor and recipient age and the ischemic time
+T7	HMM 1129 1210	Coronary sinus release of creatinine phosphokinase-MB 5 minutes after reperfusion
+T8	HMM 1304 1326	Thromboxane B2 release
+T9	HMM 1427 1444	hearts functioned
+T10	HMM 1476 1505	duration of inotropic support
+T11	HMM 1601 1677	Postoperative hemodynamics, rejection episodes, and infectious complications
+T12	HMM 1764 1810	Mean ejection fraction 1 month after operation
+T13	HMM 1845 1850	death
+T14	HMM 1904 1910	deaths
+T15	HMM 1988 1992	safe
+T16	HMM 2089 2109	biochemical evidence
+T17	HMM 2172 2188	cardiac function
+T18	HMM 2296 2314	reperfusion injury
+T19	HMM 2327 2361	posttransplantation graft function
+T20	HMM 2367 2381	ischemic times

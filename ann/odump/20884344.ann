@@ -1,0 +1,12 @@
+T1	HMM 34 74	senescent T-lymphocyte subsets in blood.
+T2	HMM 269 329	phenotypic characteristics of T-lymphocyte subsets in blood.
+T3	HMM 806 975	increased the mobilization of CD3, CD4, CD8, or CD8(bright) lymphocytes expressing activated (CD11a) or senescent (KLRG1) molecules into the peripheral blood compartment
+T4	HMM 998 1050	up-regulated co-stimulatory molecule CD28 expression
+T5	HMM 1074 1140	depressed KLRG1 level on CD3, CD4, CD8, or CD8(bright) lymphocytes
+T6	HMM 1206 1272	increased interferon-γ (IFN-γ) level and unchanged interleukin-4
+T7	HMM 1288 1348	as, decreased myeloperoxidase (MPO) and interleukin-6 levels
+T8	HMM 1407 1498	exercise-induced mobilizations of various T-lymphocyte subsets and productions of cytokines
+T9	HMM 1609 1689	intervention reduced senescent T-lymphocyte subsets with increasing IFN-γ level
+T10	HMM 1720 1791	accompanied by depressed oxidative stress and pro-inflammatory cytokine
+T11	HMM 1871 1897	regimen to minimize immune
+T12	HMM 1910 1935	by retarding T-lymphocyte

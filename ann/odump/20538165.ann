@@ -1,0 +1,11 @@
+T1	HMM 69 91	safety and feasibility
+T2	HMM 347 355	feasible
+T3	HMM 365 374	tolerated
+T4	HMM 879 921	intravascular ultrasound (IVUS) evaluation
+T5	HMM 1249 1258	tolerated
+T6	HMM 1285 1324	levels of prebeta-like HDL and alphaHDL
+T7	HMM 1488 1503	atheroma volume
+T8	HMM 1577 1598	total atheroma volume
+T9	HMM 1754 1773	clinically feasible
+T10	HMM 1783 1793	tolerated.
+T11	HMM 1941 1972	clinical cardiovascular events.

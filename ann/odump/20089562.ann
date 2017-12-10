@@ -1,0 +1,9 @@
+T1	HMM 635 665	objective response rate (ORR).
+T2	HMM 692 759	progression-free survival (PFS), overall survival (OS), and safety.
+T3	HMM 768 771	ORR
+T4	HMM 867 877	Median PFS
+T5	HMM 951 953	OS
+T6	HMM 1048 1068	grade 3/4 leucopenia
+T7	HMM 1188 1233	febrile neutropenia and grade 3/4 infections.
+T8	HMM 1234 1269	Grade 3/4 non-haematologic toxicity
+T9	HMM 1299 1323	Congestive heart failure

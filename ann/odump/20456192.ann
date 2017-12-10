@@ -1,0 +1,5 @@
+T1	HMM 24 38	migraine pain.
+T2	HMM 701 718	neuropathic pain.
+T3	HMM 798 846	pain in absence of and during a migraine attack.
+T4	HMM 1169 1182	arterial pain
+T5	HMM 1495 1508	arterial pain

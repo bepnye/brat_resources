@@ -1,0 +1,4 @@
+T1	HMM 398 411	weight change
+T2	HMM 523 584	baseline values both in systolic and diastolic blood pressure
+T3	HMM 630 654	diastolic blood pressure
+T4	HMM 703 721	minor side-effects

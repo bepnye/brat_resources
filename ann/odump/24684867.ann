@@ -1,0 +1,14 @@
+T1	HMM 678 702	early postoperative pain
+T2	HMM 794 917	operative time, complication rate (including conversions), and recovery time (days of oral opiate usage and return to work)
+T3	HMM 935 945	body image
+T4	HMM 950 969	cosmetic appearance
+T5	HMM 1156 1174	postoperative pain
+T6	HMM 1228 1257	higher inpatient opiate usage
+T7	HMM 1332 1344	laparoscopy.
+T8	HMM 1345 1359	Operative time
+T9	HMM 1439 1450	Only 1 SILS
+T10	HMM 1507 1609	differences in length of stay, complications, oral pain medication usage after discharge, or return to
+T11	HMM 1772 1802	better physical attractiveness
+T12	HMM 1858 1873	reported better
+T13	HMM 2024 2035	resulted in
+T14	HMM 2046 2066	and longer operative

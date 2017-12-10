@@ -1,0 +1,10 @@
+T1	HMM 15 52	UVB-induced erythema and pigmentation
+T2	HMM 197 247	degree of ultraviolet B (UVB)-induced inflammation
+T3	HMM 265 292	degree of hyperpigmentation
+T4	HMM 364 387	subsequent pigmentation
+T5	HMM 512 561	degree of induced erythema (delta erythema index)
+T6	HMM 574 608	pigmentation (delta melanin index)
+T7	HMM 883 931	delta melanin index against delta erythema index
+T8	HMM 1144 1174	erythema and hyperpigmentation
+T9	HMM 1348 1383	post-inflammatory hyperpigmentation
+T10	HMM 1598 1627	UVB-induced hyperpigmentation

@@ -1,0 +1,15 @@
+Adult
+Aged
+Blood Pressure
+Coronary Disease
+Diltiazem
+Double-Blind Method
+Electrocardiography, Ambulatory
+Exercise Test
+Female
+Heart Rate
+Humans
+Male
+Middle Aged
+Placebos
+Single-Blind Method

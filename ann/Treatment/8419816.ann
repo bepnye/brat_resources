@@ -1,0 +1,12 @@
+T1	Treatment 10 55	ranitidine and amoxicillin plus metronidazole
+T2	Treatment 652 663	amoxicillin
+T3	Treatment 696 709	metronidazole
+T4	Treatment 740 768	identical-appearing placebos
+T5	Treatment 823 833	ranitidine
+T6	Treatment 1019 1030	antibiotics
+T7	Treatment 1099 1106	placebo
+T8	Treatment 1207 1218	antibiotics
+T9	Treatment 1232 1239	placebo
+T10	Treatment 1356 1368	antibiotics.
+T11	Treatment 1466 1477	antibiotics
+T12	Treatment 1497 1504	placebo

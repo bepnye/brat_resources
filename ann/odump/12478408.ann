@@ -1,0 +1,12 @@
+T1	HMM 106 129	cytomegalovirus disease
+T2	HMM 218 247	cytomegalovirus (CMV) disease
+T3	HMM 321 348	efficacy, costs, and safety
+T4	HMM 930 947	CMV-seropositive.
+T5	HMM 1008 1011	CMV
+T6	HMM 1152 1176	incidence of CMV viremia
+T7	HMM 1307 1383	Treatment failure (death, graft loss, CMV disease, or withdrawal from study)
+T8	HMM 1523 1563	average CMV-associated costs per patient
+T9	HMM 1710 1724	well tolerated
+T10	HMM 1880 1906	equally safe and effective
+T11	HMM 1961 1975	cost-effective
+T12	HMM 1992 2012	CMV-associated costs

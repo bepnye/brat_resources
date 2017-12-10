@@ -1,0 +1,13 @@
+T1	HMM 68 95	alcohol withdrawal syndrome
+T2	HMM 237 280	treating alcohol withdrawal syndrome (AWS).
+T3	HMM 468 472	AWS.
+T4	HMM 602 605	AWS
+T5	HMM 622 638	medical diseases
+T6	HMM 887 940	AWS symptoms (tremor, sweating, nausea, restlessness)
+T7	HMM 980 1001	additional medication
+T8	HMM 1093 1102	AWS score
+T9	HMM 1332 1339	outcome
+T10	HMM 1347 1368	duration of ICU stay.
+T11	HMM 1369 1392	No serious side effects
+T12	HMM 1435 1456	controls AWS symptoms
+T13	HMM 1565 1596	duration of patient withdrawal.

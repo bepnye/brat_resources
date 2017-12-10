@@ -1,0 +1,19 @@
+T1	Outcomes 342 381	left ventricular ejection fraction (EF)
+T2	Outcomes 386 401	cardiac volumes
+T3	Outcomes 505 529	changes in neurohormones
+T4	Outcomes 708 884	Temporal changes in plasma renin, angiotensin-II, aldosterone, epinephrine, norepinephrine, B-type natriuretic peptide (BNP), and N-terminal atrial natriuretic peptide (NT-ANP)
+T5	Outcomes 1054 1125	EF, cardiac volumes, and risk for subsequent adverse clinical outcomes.
+T6	Outcomes 1137 1140	BNP
+T7	Outcomes 1158 1164	NT-ANP
+T8	Outcomes 1231 1233	EF
+T9	Outcomes 1246 1272	end-diastolic volume (EDV)
+T10	Outcomes 1289 1308	end-systolic volume
+T11	Outcomes 1509 1558	died or experienced heart failure hospitalization
+T12	Outcomes 1594 1600	NT-ANP
+T13	Outcomes 1662 1676	norepinephrine
+T14	Outcomes 1722 1728	NT-ANP
+T15	Outcomes 1868 1907	death or heart failure hospitalization.
+T16	Outcomes 2020 2022	EF
+T17	Outcomes 2027 2049	ventricular dilatation
+T18	Outcomes 2124 2148	mortality and morbidity.
+T19	Outcomes 2233 2255	ventricular remodeling

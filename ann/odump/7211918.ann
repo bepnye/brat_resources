@@ -1,0 +1,7 @@
+T1	HMM 237 245	bleeding
+T2	HMM 372 382	hemorrhage
+T3	HMM 465 490	Recurrent thromboembolism
+T4	HMM 1179 1201	bleeding complications
+T5	HMM 1211 1223	recurrences.
+T6	HMM 1395 1421	hemorrhagic complications.
+T7	HMM 1528 1561	rate of hemorrhagic complications

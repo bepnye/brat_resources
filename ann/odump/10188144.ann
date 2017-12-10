@@ -1,0 +1,10 @@
+T1	HMM 0 19	Efficacy and safety
+T2	HMM 323 342	efficacy and safety
+T3	HMM 755 780	relieved symptoms of CIU.
+T4	HMM 811 882	severity of pruritus (visual analogue score (VAS) assessed by patients)
+T5	HMM 1294 1315	episodes of urticaria
+T6	HMM 1471 1481	Angioedema
+T7	HMM 1642 1662	Overall tolerability
+T8	HMM 1744 1777	effects on cardiac repolarisation
+T9	HMM 1873 1901	effective and well tolerated
+T10	HMM 2042 2061	urticarial symptoms

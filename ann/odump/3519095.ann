@@ -1,0 +1,10 @@
+T1	HMM 41 80	antibacterial and antifungal properties
+T2	HMM 226 263	antibacterial and antifungal activity
+T3	HMM 379 393	saliva samples
+T4	HMM 407 437	aerobic and anaerobic bacteria
+T5	HMM 450 467	Candida albicans.
+T6	HMM 794 818	aerobic bacterial counts
+T7	HMM 1058 1084	anaerobic bacterial counts
+T8	HMM 1234 1250	Candida albicans
+T9	HMM 1378 1431	eradicating completely aerobic and anaerobic bacteria
+T10	HMM 1470 1479	reduction

@@ -1,0 +1,6 @@
+T1	HMM 696 721	event-free survival (EFS)
+T2	HMM 833 849	overall survival
+T3	HMM 1009 1046	hepatic veno-occlusive disease (VOD).
+T4	HMM 1093 1096	VOD
+T5	HMM 1100 1133	disproportionate thrombocytopenia
+T6	HMM 1159 1178	portal hypertension

@@ -1,0 +1,6 @@
+T1	HMM 1076 1082	safety
+T2	HMM 1094 1102	recovery
+T3	HMM 1236 1297	number of patients who required a continuous supply of oxygen
+T4	HMM 1459 1483	effectiveness and safety
+T5	HMM 1578 1631	safety parameters (hypotension, hypoxia, bradycardia)
+T6	HMM 1683 1691	recovery

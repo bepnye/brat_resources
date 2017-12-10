@@ -1,0 +1,10 @@
+T1	HMM 122 135	breast cancer
+T2	HMM 405 430	metastatic breast cancer.
+T3	HMM 554 568	breast cancer.
+T4	HMM 1188 1209	disease-free survival
+T5	HMM 1237 1253	overall survival
+T6	HMM 1282 1294	hazard ratio
+T7	HMM 1477 1489	improved DFS
+T8	HMM 1524 1578	Grade 3 neutropenia associated with fever or infection
+T9	HMM 1659 1682	DFS or overall survival
+T10	HMM 1732 1741	toxicity.

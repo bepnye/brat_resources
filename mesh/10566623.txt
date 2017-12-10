@@ -1,0 +1,13 @@
+Adult
+Aged
+Female
+Humans
+Iodine Radioisotopes
+Male
+Middle Aged
+Neoplasm Recurrence, Local
+Recombinant Proteins
+Thyroglobulin
+Thyroid Hormones
+Thyroid Neoplasms
+Thyrotropin

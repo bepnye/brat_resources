@@ -1,0 +1,8 @@
+T1	HMM 20 39	efficacy and safety
+T2	HMM 469 488	safety and efficacy
+T3	HMM 1075 1167	CMV infection, CMV disease, rejection, opportunistic infections, and possible drug toxicity.
+T4	HMM 1210 1242	6-month incidence of CMV disease
+T5	HMM 1443 1467	incidence of CMV disease
+T6	HMM 1675 1686	CMV disease
+T7	HMM 1817 1843	incidence of CMV infection
+T8	HMM 1931 1968	symptomatic herpes-simplex infections

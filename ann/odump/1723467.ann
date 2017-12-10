@@ -1,0 +1,7 @@
+T1	HMM 42 59	insulin secretion
+T2	HMM 128 165	glucose tolerance and insulin release
+T3	HMM 403 458	blood glucose and plasma insulin and C-peptide response
+T4	HMM 611 752	fasting glucose, insulin, and C-peptide, or in the glucose disappearance rate and in any of the parameters for insulin and C-peptide response
+T5	HMM 841 874	early insulin response to glucose
+T6	HMM 988 1014	clinically relevant effect
+T7	HMM 1069 1084	insulin release

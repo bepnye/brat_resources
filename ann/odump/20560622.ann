@@ -1,0 +1,9 @@
+T1	HMM 57 81	calcium bioavailability.
+T2	HMM 201 221	calcium availability
+T3	HMM 528 549	fasting blood samples
+T4	HMM 566 619	Calcium solubility and absorption across Caco-2 cells
+T5	HMM 710 720	solubility
+T6	HMM 808 831	calcium bioavailability
+T7	HMM 920 1004	Serum and urine biochemical parameters related to calcium status and bone metabolism
+T8	HMM 1030 1054	deoxypyridinoline values
+T9	HMM 1191 1219	less efficient bone turnover

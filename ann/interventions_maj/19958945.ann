@@ -1,0 +1,9 @@
+T1	Intervention 149 159	anesthesia
+T2	Intervention 164 175	IV sedation
+T3	Intervention 349 376	mini-incision thyroidectomy
+T4	Intervention 398 408	anesthesia
+T5	Intervention 413 433	intravenous sedation
+T6	Intervention 463 490	mini-incision thyroidectomy
+T7	Intervention 497 513	local anesthesia
+T8	Intervention 555 571	nerve monitoring
+T9	Intervention 598 617	no nerve monitoring

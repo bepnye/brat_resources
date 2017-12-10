@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Ambulatory Care
+Autistic Disorder
+Child
+Clomipramine
+Desipramine
+Double-Blind Method
+Female
+Humans
+Male
+Obsessive-Compulsive Disorder
+Placebos
+Psychiatric Status Rating Scales
+Severity of Illness Index
+Stereotyped Behavior
+Treatment Outcome

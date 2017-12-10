@@ -1,0 +1,4 @@
+T1	HMM 1260 1268	survival
+T2	HMM 1381 1397	12-year survival
+T3	HMM 1442 1463	Disease-free survival
+T4	HMM 1560 1575	Bone metastasis

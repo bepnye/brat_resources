@@ -1,0 +1,12 @@
+T1	HMM 447 469	negative mood symptoms
+T2	HMM 827 851	Pharmacodynamic response
+T3	HMM 1043 1134	saccadic eye velocity (SEV), saccade acceleration, saccade latency and self-rated sedation.
+T4	HMM 1156 1183	daily symptom rating scales
+T5	HMM 1212 1239	daily symptom rating scales
+T6	HMM 1330 1352	negative mood symptoms
+T7	HMM 1418 1440	negative mood symptoms
+T8	HMM 1536 1568	saccadic eye movement parameters
+T9	HMM 1576 1595	self-rated sedation
+T10	HMM 1667 1710	saccade acceleration and sedation responses
+T11	HMM 1779 1801	negative mood symptoms
+T12	HMM 1952 1976	pregnanolone sensitivity

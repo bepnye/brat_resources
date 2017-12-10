@@ -1,0 +1,5 @@
+T1	HMM 252 289	event-related potential (ERP) indices
+T2	HMM 825 845	slowed reaction time
+T3	HMM 850 885	reduced early processing negativity
+T4	HMM 890 907	peak N1 amplitude
+T5	HMM 1084 1136	Wechsler Memory Scale Attention/Concentration index.

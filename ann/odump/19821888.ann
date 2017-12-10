@@ -1,0 +1,8 @@
+T1	HMM 50 66	acute blood loss
+T2	HMM 856 872	acute blood loss
+T3	HMM 884 903	total blood volume.
+T4	HMM 1182 1196	mortality rate
+T5	HMM 1402 1418	acute blood loss
+T6	HMM 1511 1525	mortality rate
+T7	HMM 1603 1617	mortality rate
+T8	HMM 1705 1722	acute blood loss.

@@ -1,0 +1,13 @@
+T1	HMM 615 620	death
+T2	HMM 625 635	dependency
+T3	HMM 749 761	re-treatment
+T4	HMM 1210 1229	assessed dependency
+T5	HMM 1247 1274	modified Rankin scale score
+T6	HMM 1320 1365	for recurrent aneurysms and rebleeding events
+T7	HMM 1934 1950	were independent
+T8	HMM 2071 2111	likely to be alive and independent at 10
+T9	HMM 2198 2247	patients had a recurrent subarachnoid haemorrhage
+T10	HMM 2343 2370	Although rates of increased
+T11	HMM 2411 2446	groups, the probability of death or
+T12	HMM 2523 2542	endovascular group.
+T13	HMM 2663 2693	probability of disability-free

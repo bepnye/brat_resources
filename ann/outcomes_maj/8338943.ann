@@ -1,0 +1,12 @@
+T1	Outcomes 14 40	regimen-related toxicities
+T2	Outcomes 147 186	tumor necrosis factor alpha (TNF-alpha)
+T3	Outcomes 243 275	transplant-related complications
+T4	Outcomes 844 900	incidence of mucositis requiring morphine sulfate (MSO4)
+T5	Outcomes 1067 1099	incidence of renal insufficiency
+T6	Outcomes 1214 1236	serum creatinine value
+T7	Outcomes 1379 1432	incidence of grade > or = 2 graft-versus-host disease
+T8	Outcomes 1568 1655	hematologic toxicity, transfusion requirements, duration of fever, and hepatic toxicity
+T9	Outcomes 1728 1754	prophylactic effect of PTX
+T10	Outcomes 1758 1787	transplant-related toxicities
+T11	Outcomes 1877 1886	mortality
+T12	Outcomes 1891 1900	morbidity

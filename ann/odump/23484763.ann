@@ -1,0 +1,6 @@
+T1	HMM 62 95	seasonal allergic conjunctivitis:
+T2	HMM 1025 1057	reflective ocular itching scores
+T3	HMM 1184 1221	Subject-reported adverse events (AEs)
+T4	HMM 1300 1350	instantaneous and reflective ocular itching scores
+T5	HMM 1475 1493	tolerated, and AEs
+T6	HMM 1569 1614	effectively and safely treated ocular itching

@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Blood Proteins
+Cholesterol
+Cholesterol, HDL
+Cholesterol, LDL
+Contraceptive Agents, Female
+Contraceptive Devices, Female
+Contraceptives, Oral, Combined
+Ethinyl Estradiol
+Female
+Humans
+Levonorgestrel
+Menstrual Cycle
+Norprogesterones
+Sex Hormone-Binding Globulin
+Triglycerides

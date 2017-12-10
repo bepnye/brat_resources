@@ -1,0 +1,5 @@
+T1	HMM 776 934	Psychological well-being was assessed with General Health Questionnaire-12 (GHQ-12), Thyroid Symptom Questionnaire, and Hospital Anxiety and Depression Scale.
+T2	HMM 990 1003	GHQ-12 scores
+T3	HMM 1097 1115	GHQ scores and fT3
+T4	HMM 1399 1428	Thyroid Symptom Questionnaire
+T5	HMM 1452 1497	Hospital Anxiety and Depression Scale scores.

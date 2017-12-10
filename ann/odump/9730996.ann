@@ -1,0 +1,12 @@
+T1	HMM 28 55	sputum inflammatory indices
+T2	HMM 209 243	inflammatory and infective markers
+T3	HMM 619 696	spirometry, 24-h sputum volume, sputum leukocyte density, bacterial densities
+T4	HMM 702 789	concentrations of interleukin (IL)-1beta, IL-8, tumor necrosis factor-alpha (TNF-alpha)
+T5	HMM 795 816	leukotriene B4 (LTB4)
+T6	HMM 881 905	sputum leukocyte density
+T7	HMM 910 924	IL-1beta, IL-8
+T8	HMM 930 934	LTB4
+T9	HMM 1034 1047	exacerbation.
+T10	HMM 1085 1095	spirometry
+T11	HMM 1123 1140	adverse reactions
+T12	HMM 1245 1272	sputum inflammatory indices

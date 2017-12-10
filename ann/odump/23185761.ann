@@ -1,0 +1,11 @@
+T1	HMM 0 21	[Therapeutic efficacy
+T2	HMM 595 615	HR-HPV DNA detection
+T3	HMM 795 860	mRNA expression of human telomerase reverse transcriptase (hTERT)
+T4	HMM 929 949	total effective rate
+T5	HMM 1100 1134	pathological results of the cervix
+T6	HMM 1143 1167	mRNA expression of hTERT
+T7	HMM 1205 1229	mRNA expression of hTERT
+T8	HMM 1366 1372	cervix
+T9	HMM 1381 1405	mRNA expression of hTERT
+T10	HMM 1510 1526	HR-HPV infection
+T11	HMM 1545 1574	cervical precancerous changes

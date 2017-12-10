@@ -1,0 +1,15 @@
+T1	HMM 0 24	Validity and reliability
+T2	HMM 123 131	validity
+T3	HMM 136 147	reliability
+T4	HMM 802 863	scores from 5-items questionnaires and 6-items clinical score
+T5	HMM 993 1017	Median scores (min, max)
+T6	HMM 1157 1189	Internal consistency reliability
+T7	HMM 1312 1333	5-items questionnaire
+T8	HMM 1397 1407	consistent
+T9	HMM 1413 1436	6-items clinical score.
+T10	HMM 1558 1569	sensitivity
+T11	HMM 1580 1591	specificity
+T12	HMM 1602 1614	cutoff point
+T13	HMM 1697 1708	sensitivity
+T14	HMM 1719 1730	specificity
+T15	HMM 1753 1777	validity and reliability

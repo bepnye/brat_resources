@@ -1,0 +1,9 @@
+T1	HMM 46 76	effectiveness and tolerability
+T2	HMM 188 196	efficacy
+T3	HMM 201 213	tolerability
+T4	HMM 737 796	pain intensity and pain relief using a 4 point scale (VRS).
+T5	HMM 854 873	safety and efficacy
+T6	HMM 987 1001	pain intensity
+T7	HMM 1317 1338	rescue analgesic drug
+T8	HMM 1394 1408	adverse events
+T9	HMM 1482 1513	systemic and local tolerability

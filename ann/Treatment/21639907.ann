@@ -1,0 +1,14 @@
+T1	Treatment 0 10	Infliximab
+T2	Treatment 67 79	methotrexate
+T3	Treatment 132 150	Methotrexate (MTX)
+T4	Treatment 176 186	infliximab
+T5	Treatment 259 269	infliximab
+T6	Treatment 398 415	MTX on infliximab
+T7	Treatment 544 560	infliximab alone
+T8	Treatment 612 643	or infliximab combined with MTX
+T9	Treatment 658 668	Infliximab
+T10	Treatment 873 883	infliximab
+T11	Treatment 1194 1210	infliximab + MTX
+T12	Treatment 1283 1293	infliximab
+T13	Treatment 1457 1475	MTX and infliximab
+T14	Treatment 1526 1536	infliximab

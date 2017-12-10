@@ -1,0 +1,18 @@
+Acute Disease
+Adolescent
+Adult
+Aged
+Anti-Infective Agents
+Bronchitis
+Cephalosporins
+Child
+Chronic Disease
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Patient Compliance
+Pharyngitis
+Prospective Studies
+Tonsillitis

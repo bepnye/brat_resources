@@ -1,0 +1,8 @@
+T1	HMM 462 470	survival
+T2	HMM 1006 1031	event-free survival (EFS;
+T3	HMM 1119 1141	overall survival (OS).
+T4	HMM 1405 1418	hazard ratios
+T5	HMM 1560 1582	hematologic toxicities
+T6	HMM 1621 1645	EFS and OS hazard ratios
+T7	HMM 2024 2034	EFS and OS
+T8	HMM 2098 2107	toxicity.

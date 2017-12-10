@@ -1,0 +1,12 @@
+T1	HMM 52 79	sputum inflammatory markers
+T2	HMM 499 527	sputum inflammatory markers.
+T3	HMM 757 776	sputum inflammatory
+T4	HMM 1001 1101	Sputum cells and supernatant levels of ECP, sICAM, IL-5 and IL-10, and plasma levels of IL-5 and ECP
+T5	HMM 1325 1335	sputum ECP
+T6	HMM 1410 1415	sICAM
+T7	HMM 1482 1487	IL-10
+T8	HMM 1569 1580	Sputum IL-5
+T9	HMM 1638 1666	blood and sputum eosinophils
+T10	HMM 1762 1783	Plasma levels of IL-5
+T11	HMM 1942 1952	sputum ECP
+T12	HMM 2096 2117	allergic inflammation

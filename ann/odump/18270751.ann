@@ -1,0 +1,8 @@
+T1	HMM 30 54	diabetes glomerulopathy:
+T2	HMM 155 178	diabetic glomerulopathy
+T3	HMM 733 769	microalbuminuria and/or hypertension
+T4	HMM 843 887	mesangial matrix volume and mesangial volume
+T5	HMM 943 967	morphological parameters
+T6	HMM 997 1018	Office blood pressure
+T7	HMM 1125 1149	morphological parameters
+T8	HMM 1307 1362	morphological parameters and lowering of blood pressure

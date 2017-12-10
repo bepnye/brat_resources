@@ -1,0 +1,6 @@
+T1	HMM 71 88	mortality outcome
+T2	HMM 746 775	significant mortality benefit
+T3	HMM 970 980	mortality;
+T4	HMM 1341 1352	fatal cases
+T5	HMM 1423 1429	deaths
+T6	HMM 1596 1613	mortality benefit

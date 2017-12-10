@@ -1,0 +1,14 @@
+T1	HMM 197 257	efficacy (maintenance of remission), safety and tolerability
+T2	HMM 1071 1108	Relapse-free survival; number of N.S.
+T3	HMM 1109 1282	relapses/patient/year; cumulative dose of prednisone/patient; laboratory investigations (kidney and liver functions, haematological parameters); incidence of adverse events.
+T4	HMM 1347 1365	complete remission
+T5	HMM 1402 1420	partial remission;
+T6	HMM 1472 1490	complete remission
+T7	HMM 1503 1520	partial remission
+T8	HMM 1609 1624	risk of relapse
+T9	HMM 1787 1819	mean number of relapses per year
+T10	HMM 1833 1860	dose of prednisone per year
+T11	HMM 2136 2150	relapse of NS.
+T12	HMM 2151 2160	Tolerance
+T13	HMM 2202 2226	CsA-related side-effects
+T14	HMM 2406 2424	stable remissions.

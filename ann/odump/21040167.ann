@@ -1,0 +1,6 @@
+T1	HMM 45 85	tacrolimus requirements post-transplant.
+T2	HMM 141 178	tacrolimus whole-blood concentrations
+T3	HMM 1002 1066	in the proportion of subjects achieving tacrolimus trough levels
+T4	HMM 1217 1259	achieved tacrolimus trough levels of ≥10
+T5	HMM 1456 1541	increase the high proportion of subjects achieving 10 ng/mL tacrolimus concentrations
+T6	HMM 1680 1720	achieving a whole-blood concentration of

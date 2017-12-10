@@ -1,0 +1,14 @@
+T1	HMM 84 110	approach-avoidance action.
+T2	HMM 154 182	social-motivational behavior
+T3	HMM 204 245	dominance-enhancing and social-anxiolytic
+T4	HMM 356 397	actual social approach-avoidance behavior
+T5	HMM 555 584	social motivational behavior:
+T6	HMM 589 619	social Approach-Avoidance Task
+T7	HMM 668 749	approach or avoid visually presented emotional (happy, angry, and neutral) faces.
+T8	HMM 795 815	avoidance tendencies
+T9	HMM 819 830	angry faces
+T10	HMM 894 960	approach-avoidance tendencies to social affiliation (happy) faces.
+T11	HMM 1017 1114	automatic avoidance of social threat and promotes relative increase of threat approach tendencies
+T12	HMM 1212 1240	social motivational behavior
+T13	HMM 1288 1302	social anxiety
+T14	HMM 1332 1349	social avoidance.

@@ -1,0 +1,14 @@
+T1	HMM 50 59	adherence
+T2	HMM 120 129	Adherence
+T3	HMM 252 261	adherence
+T4	HMM 314 323	adherence
+T5	HMM 328 366	health-related quality of life (HRQOL)
+T6	HMM 830 911	adherence to medication and HRQOL, the Morisky test and the EuroQoL questionnaire
+T7	HMM 1100 1109	adherence
+T8	HMM 1299 1316	"pain/discomfort"
+T9	HMM 1452 1457	HRQOL
+T10	HMM 1542 1578	EuroQoL visual analog scale (EQ VAS)
+T11	HMM 1630 1649	adherence and HRQOL
+T12	HMM 1780 1801	adherence to therapy.
+T13	HMM 1802 1807	HRQOL
+T14	HMM 1901 1920	adherence and HRQOL

@@ -1,0 +1,15 @@
+T1	HMM 13 26	effectiveness
+T2	HMM 117 130	Effectiveness
+T3	HMM 176 191	quality of care
+T4	HMM 343 365	clinical effectiveness
+T5	HMM 955 1019	panic, anxiety sensitivity, depression, and disability variables
+T6	HMM 1073 1100	Adequacy of pharmacotherapy
+T7	HMM 1122 1131	algorithm
+T8	HMM 1222 1264	adequate (type, dose, duration) medication
+T9	HMM 1284 1309	adhere to this medication
+T10	HMM 1380 1388	improved
+T11	HMM 1447 1491	anxiety, depression, and disability measures
+T12	HMM 1511 1518	effects
+T13	HMM 1613 1665	quality of care and clinical and functional outcomes
+T14	HMM 1782 1797	quality of care
+T15	HMM 1814 1823	intensity

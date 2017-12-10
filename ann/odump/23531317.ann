@@ -1,0 +1,12 @@
+T1	HMM 827 856	blood count and differential.
+T2	HMM 1148 1174	increase in the hematocrit
+T3	HMM 1297 1324	hemoglobin levels increased
+T4	HMM 1481 1505	platelet count increased
+T5	HMM 1696 1705	DE effect
+T6	HMM 1723 1752	WBC, neutrophils, lymphocytes
+T7	HMM 1756 1769	erythrocytes.
+T8	HMM 1826 1901	increases in matrix metalloproteinase-9, interleukins (IL)-1 beta, 6 and 10
+T9	HMM 1951 1996	E-selectin, intercellular adhesion molecule-1
+T10	HMM 2002 2036	vascular cell adhesion molecule -1
+T11	HMM 2042 2060	myeloperoxidase 22
+T12	HMM 2151 2187	hemoconcentration and thrombocytosis

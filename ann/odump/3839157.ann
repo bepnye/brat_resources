@@ -1,0 +1,6 @@
+T1	HMM 676 691	median duration
+T2	HMM 725 745	median survival time
+T3	HMM 789 861	response rate, time to treatment failure (TTF), and median survival time
+T4	HMM 1036 1039	TTF
+T5	HMM 1051 1059	survival
+T6	HMM 1383 1410	longer median survival time

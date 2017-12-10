@@ -1,0 +1,10 @@
+T1	HMM 196 217	anti-ischaemic effect
+T2	HMM 257 280	rate x pressure product
+T3	HMM 284 304	coronary blood flow.
+T4	HMM 697 718	anti-anginal efficacy
+T5	HMM 890 918	anginal attack rate per week
+T6	HMM 969 986	exercise duration
+T7	HMM 1049 1070	ST segment depression
+T8	HMM 1119 1165	Heart rate and rate x pressure product at rest
+T9	HMM 1351 1369	ischaemic episodes
+T10	HMM 1538 1547	withdrawn

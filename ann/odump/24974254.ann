@@ -1,0 +1,8 @@
+T1	HMM 170 190	reach-to-grasp tasks
+T2	HMM 318 371	Qualisys motion capture system and kinematic measures
+T3	HMM 438 503	longer movement time, larger normalized jerk score, more movement
+T4	HMM 624 652	larger maximal grip aperture
+T5	HMM 657 689	normalized maximal grip aperture
+T6	HMM 764 791	motor coordination problems
+T7	HMM 816 828	visual cuing
+T8	HMM 885 904	compensatory skills

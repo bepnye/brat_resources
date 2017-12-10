@@ -1,0 +1,24 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Cisplatin
+Combined Modality Therapy
+Drug Administration Schedule
+Etoposide
+Female
+Follow-Up Studies
+Humans
+Lung Injury
+Lung Neoplasms
+Male
+Middle Aged
+Neoplasm Staging
+Prospective Studies
+Radiotherapy
+Radiotherapy Dosage
+Small Cell Lung Carcinoma
+Survival Analysis
+Thrombocytopenia
+Time Factors
+Treatment Outcome
+Tumor Burden

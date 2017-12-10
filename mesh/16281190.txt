@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Aged
+Behavior Therapy
+Cost-Benefit Analysis
+Disasters
+Female
+Humans
+Male
+Middle Aged
+Stress Disorders, Post-Traumatic
+Survivors
+Treatment Outcome
+Waiting Lists

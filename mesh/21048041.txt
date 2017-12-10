@@ -1,0 +1,20 @@
+Antibodies, Monoclonal
+Antibodies, Monoclonal, Humanized
+Antineoplastic Combined Chemotherapy Protocols
+Colorectal Neoplasms
+Deoxycytidine
+Disease-Free Survival
+Enhancer Elements, Genetic
+Fluorouracil
+Genetic Association Studies
+Genotype
+Humans
+Kaplan-Meier Estimate
+Multifactor Dimensionality Reduction
+Neoplasm Metastasis
+Organoplatinum Compounds
+Polymorphism, Genetic
+Proportional Hazards Models
+Thymidylate Synthase
+Treatment Outcome
+Vascular Endothelial Growth Factor A

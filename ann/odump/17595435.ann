@@ -1,0 +1,5 @@
+T1	HMM 957 965	Acidosis
+T2	HMM 1111 1119	lower pH
+T3	HMM 1138 1164	blood urea nitrogen levels
+T4	HMM 1210 1229	greater weight loss
+T5	HMM 1307 1365	Gestational age, weight loss, and patent ductus arteriosus

@@ -1,0 +1,8 @@
+T1	HMM 205 243	postoperative morbidity and mortality.
+T2	HMM 244 253	Morbidity
+T3	HMM 320 329	mortality
+T4	HMM 820 946	morbidity and mortality, need for postoperative mechanical ventilation, and length of stay (LOS) on intensive care unit (ICU).
+T5	HMM 968 1002	assisted postoperative ventilation
+T6	HMM 1082 1099	Median LOS on ICU
+T7	HMM 1154 1197	rate of postoperative medical complications
+T8	HMM 1487 1511	postoperative morbidity.

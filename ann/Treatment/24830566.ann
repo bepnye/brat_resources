@@ -1,0 +1,14 @@
+T1	Treatment 0 25	Caudal epidural analgesia
+T2	Treatment 32 47	lidocaine alone
+T3	Treatment 54 79	combination with ketamine
+T4	Treatment 186 239	lidocaine and a combination of lidocaine and ketamine
+T5	Treatment 403 412	lidocaine
+T6	Treatment 480 488	ketamine
+T7	Treatment 506 515	lidocaine
+T8	Treatment 835 853	epidural lidocaine
+T9	Treatment 879 901	lidocaine and ketamine
+T10	Treatment 993 1019	lidocaine-ketamine mixture
+T11	Treatment 1092 1110	epidural lidocaine
+T12	Treatment 1256 1283	lidocaine-ketamine mixture.
+T13	Treatment 1333 1356	lidocaine plus ketamine
+T14	Treatment 1474 1483	lidocaine

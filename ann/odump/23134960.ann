@@ -1,0 +1,6 @@
+T1	HMM 1433 1840	the visual analogue scale (VAS) score of rest pain, uterine contration pain and dynamic pain at the time of postoperation for 6, 12, 24 and 48 hours (T(1)-T(4)); the total number and effective compressions number of patient-controlled epidural analgesia(PCEA);the dose of analgesia mixture; the anal exhaust time; the volume of postoperative bleeding for 6 hours of postoperation and the other side effects.
+T2	HMM 1888 1948	incidence of PONV, the rate of metoclopramide, the VAS score
+T3	HMM 1976 2130	total number and effective compressions number of PCEA, the ratio of the total number with effective compressions number and the dose of analgesia mixture
+T4	HMM 2233 2291	anal exhaust time and the volume of postoperative bleeding
+T5	HMM 2381 2393	side effects
+T6	HMM 2500 2593	incidence of PONV and improves analgesia effect of PCEA in postoperation of cesarean section.

@@ -1,0 +1,15 @@
+T1	HMM 190 202	satisfaction
+T2	HMM 346 358	satisfaction
+T3	HMM 448 464	implant survival
+T4	HMM 746 776	Satisfaction was self-assessed
+T5	HMM 798 817	visual analog scale
+T6	HMM 921 967	implant survival and prosthodontic maintenance
+T7	HMM 973 1006	assessed by clinical examination.
+T8	HMM 1105 1111	death.
+T9	HMM 1112 1124	Satisfaction
+T10	HMM 1316 1322	failed
+T11	HMM 1419 1430	maintenance
+T12	HMM 1447 1466	denture replacement
+T13	HMM 1589 1607	fractured dentures
+T14	HMM 1720 1756	satisfaction or survival of implants
+T15	HMM 1886 1899	effectiveness

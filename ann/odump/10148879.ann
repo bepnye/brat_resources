@@ -1,0 +1,10 @@
+T1	HMM 0 10	Comparison
+T2	HMM 607 634	Pain intensity measurements
+T3	HMM 676 695	degree of analgesia
+T4	HMM 740 770	setting up the infusion system
+T5	HMM 785 839	time between requesting analgesia and vaginal delivery
+T6	HMM 883 917	Maternal oversedation and vomiting
+T7	HMM 933 958	Neonatal naloxone therapy
+T8	HMM 982 1016	umbilical serum levels of fentanyl
+T9	HMM 1051 1082	postnatal neuroadaptive testing
+T10	HMM 1284 1340	drug use, improving pain relief, or avoiding drowsiness.

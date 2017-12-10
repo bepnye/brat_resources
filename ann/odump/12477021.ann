@@ -1,0 +1,5 @@
+T1	HMM 0 20	Clinical performance
+T2	HMM 121 155	level of accuracy for measurements
+T3	HMM 856 874	level of agreement
+T4	HMM 898 959	lowest mean difference and the narrowest confidence interval)
+T5	HMM 1039 1054	readings of IOP

@@ -1,0 +1,9 @@
+T1	HMM 95 161	nausea and vomiting induced by moderately emetogenic chemotherapy:
+T2	HMM 960 977	nausea and emesis
+T3	HMM 1310 1330	total emetic control
+T4	HMM 1381 1427	proportion of nausea- and emesis-free patients
+T5	HMM 1535 1572	headache, asthenia, and constipation.
+T6	HMM 1638 1647	dizziness
+T7	HMM 1690 1705	abnormal vision
+T8	HMM 1830 1851	antiemetic protection
+T9	HMM 1928 1957	dizziness and abnormal vision

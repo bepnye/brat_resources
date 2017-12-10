@@ -1,0 +1,13 @@
+T1	Treatment 0 5	NSAID
+T2	Treatment 53 97	Femtosecond Laser-Assisted Cataract Surgery.
+T3	Treatment 141 184	nonsteroidal anti-inflammatory drug (NSAID)
+T4	Treatment 314 341	femtosecond laser treatment
+T5	Treatment 446 526	image-guided femtosecond laser cataract surgery or conventional cataract surgery
+T6	Treatment 573 596	topical NSAID treatment
+T7	Treatment 755 789	Femtosecond laser cataract surgery
+T8	Treatment 830 859	conventional cataract surgery
+T9	Treatment 888 906	NSAID pretreatment
+T10	Treatment 986 1008	pretreated with NSAIDs
+T11	Treatment 1080 1115	patients not pretreated with NSAIDs
+T12	Treatment 1167 1193	short-term NSAID treatment
+T13	Treatment 1246 1281	with image-guided femtosecond laser

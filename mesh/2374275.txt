@@ -1,0 +1,15 @@
+Aged
+Analysis of Variance
+Blood Glucose
+Cholesterol
+Cholesterol, HDL
+Cholesterol, LDL
+Clinical Protocols
+Diabetes Mellitus, Type 2
+Humans
+Lipids
+Lipoproteins
+Male
+Middle Aged
+Niacin
+Triglycerides

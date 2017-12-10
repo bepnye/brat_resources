@@ -1,0 +1,5 @@
+T1	HMM 52 75	itraconazole absorption
+T2	HMM 1041 1063	serum versus time data
+T3	HMM 1110 1151	Peak serum concentration and time to peak
+T4	HMM 1244 1293	mean +/- SD peak serum itraconazole concentration
+T5	HMM 1552 1579	absorption of itraconazole.

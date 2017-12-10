@@ -1,0 +1,8 @@
+T1	HMM 0 19	Clonidine clearance
+T2	HMM 172 200	pharmacokinetic (PK) profile
+T3	HMM 356 391	Plasma clonidine concentration data
+T4	HMM 588 609	PK model of clonidine
+T5	HMM 822 856	plasma concentrations of clonidine
+T6	HMM 862 881	body weight and PNA
+T7	HMM 914 932	apparent clearance
+T8	HMM 1057 1087	Furthermore, CL/F of clonidine

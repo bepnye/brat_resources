@@ -1,0 +1,10 @@
+T1	HMM 337 401	pulmonary gas exchange, hemodynamics, and respiratory parameters
+T2	HMM 1068 1088	mean airway pressure
+T3	HMM 1169 1246	blood gas analyses and measurements of respiratory and hemodynamic variables.
+T4	HMM 1291 1302	normocapnia
+T5	HMM 1340 1357	Pao2 attributable
+T6	HMM 1389 1422	Mean airway pressure augmentation
+T7	HMM 1461 1465	Pao2
+T8	HMM 1481 1506	Peak inspiratory pressure
+T9	HMM 1616 1627	normocapnia
+T10	HMM 1643 1647	Pao2

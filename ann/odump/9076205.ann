@@ -1,0 +1,9 @@
+T1	HMM 1601 1688	Changes in visual acuity, recurrent retinal detachment, and incidence of complications.
+T2	HMM 1791 1820	complete retinal reattachment
+T3	HMM 2010 2034	attachment of the macula
+T4	HMM 2094 2177	rates of complete retinal attachment, visual acuity of 5/200 or better, or glaucoma
+T5	HMM 2254 2262	hypotony
+T6	HMM 2316 2334	subsequent surgery
+T7	HMM 2449 2571	rates of complete posterior attachment (P = .01) and of a visual acuity of 5/200 or better (P < .001) and less keratopathy
+T8	HMM 2644 2665	visual acuity outcome
+T9	HMM 2685 2693	hypotony

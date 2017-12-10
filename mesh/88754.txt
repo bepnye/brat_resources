@@ -1,0 +1,14 @@
+Antigens, Bacterial
+Bleomycin
+Carcinoma, Squamous Cell
+Drug Therapy, Combination
+Humans
+Leucovorin
+Methotrexate
+Mouth Floor
+Mouth Neoplasms
+Neoplasm Metastasis
+Neoplasm Recurrence, Local
+Propionibacterium acnes
+Random Allocation
+Tongue Neoplasms

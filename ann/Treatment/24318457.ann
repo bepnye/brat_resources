@@ -1,0 +1,6 @@
+T1	Treatment 81 94	sigmoidectomy
+T2	Treatment 181 201	colon cancer surgery
+T3	Treatment 296 310	sigmoidectomy.
+T4	Treatment 361 374	sigmoidectomy
+T5	Treatment 447 702	the "ligatures group", in which bowel ligatures were placed, 3, 5, 10 cm from the tumor proximally and distally before dissection; and the "no ligatures group", in which the corresponding sites were ligated only immediately before taking the specimen out.
+T6	Treatment 736 757	irrigated with saline

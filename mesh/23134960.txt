@@ -1,0 +1,14 @@
+Acupuncture, Ear
+Adult
+Analgesia, Epidural
+Analgesia, Obstetrical
+Cesarean Section
+Female
+Humans
+Pain Measurement
+Pain, Postoperative
+Postoperative Nausea and Vomiting
+Pregnancy
+Single-Blind Method
+Transcutaneous Electric Nerve Stimulation
+Young Adult

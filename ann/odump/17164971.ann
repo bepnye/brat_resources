@@ -1,0 +1,10 @@
+T1	HMM 842 878	Biochemical markers of bone turnover
+T2	HMM 926 939	Bone strength
+T3	HMM 1002 1028	tibial bone speed of sound
+T4	HMM 1036 1044	Bone SOS
+T5	HMM 1229 1263	main beneficial effect of exercise
+T6	HMM 1360 1388	bone turnover marker changes
+T7	HMM 1432 1462	postnatal decrease in bone SOS
+T8	HMM 1552 1560	decrease
+T9	HMM 1564 1577	bone strength
+T10	HMM 1599 1617	risk of osteopenia

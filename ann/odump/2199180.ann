@@ -1,0 +1,8 @@
+T1	HMM 558 562	pain
+T2	HMM 634 655	analgesic consumption
+T3	HMM 720 724	pain
+T4	HMM 793 797	pain
+T5	HMM 825 841	analgesic intake
+T6	HMM 878 890	bone density
+T7	HMM 978 991	distal radius
+T8	HMM 1180 1189	bone mass

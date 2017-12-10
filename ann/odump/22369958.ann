@@ -1,0 +1,11 @@
+T1	HMM 38 56	chocolate craving.
+T2	HMM 170 178	craving:
+T3	HMM 452 460	craving.
+T4	HMM 576 597	craving for chocolate
+T5	HMM 778 785	craving
+T6	HMM 828 835	craving
+T7	HMM 921 945	overall craving strength
+T8	HMM 950 977	strength of craving imagery
+T9	HMM 995 1033	frequency of thoughts about chocolate.
+T10	HMM 1090 1097	craving
+T11	HMM 1269 1276	craving

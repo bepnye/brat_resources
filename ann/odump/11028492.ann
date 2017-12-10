@@ -1,0 +1,6 @@
+T1	HMM 1026 1046	closed vein segments
+T2	HMM 1168 1188	closed vein segments
+T3	HMM 1281 1304	Postthrombotic syndrome
+T4	HMM 1447 1470	complete recanalization
+T5	HMM 1599 1628	major bleeding complications;
+T6	HMM 1672 1689	pulmonary emboli.

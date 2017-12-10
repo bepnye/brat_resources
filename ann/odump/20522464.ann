@@ -1,0 +1,6 @@
+T1	HMM 617 654	Modified Pulmonary Index Score (MPIS)
+T2	HMM 817 871	MPIS and forced expiratory volume in 1 second (FEV(1))
+T3	HMM 1006 1022	decrease in MPIS
+T4	HMM 1188 1204	decrease in MPIS
+T5	HMM 1337 1367	improvement in MPIS and FEV(1)
+T6	HMM 1446 1484	side effects and hospitalisation rates

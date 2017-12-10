@@ -1,0 +1,10 @@
+T1	HMM 89 108	control of bleeding
+T2	HMM 193 201	bleeding
+T3	HMM 670 685	Total mortality
+T4	HMM 743 765	relative risk of death
+T5	HMM 877 886	Mortality
+T6	HMM 1012 1030	Complication rates
+T7	HMM 1067 1105	interval of five days without bleeding
+T8	HMM 1387 1406	bleeding controlled
+T9	HMM 1500 1524	as safe as sclerotherapy
+T10	HMM 1533 1564	emergency treatment of bleeding

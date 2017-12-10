@@ -1,0 +1,15 @@
+T1	Treatment 0 22	Oral ciprofloxacin vs.
+T2	Treatment 23 48	intramuscular ceftriaxone
+T3	Treatment 274 312	antibiotics, intramuscular ceftriaxone
+T4	Treatment 655 668	ciprofloxacin
+T5	Treatment 980 1004	ciprofloxacin suspension
+T6	Treatment 1032 1040	placebo;
+T7	Treatment 1052 1066	im ceftriaxone
+T8	Treatment 1083 1102	placebo suspension;
+T9	Treatment 1740 1753	ciprofloxacin
+T10	Treatment 1758 1769	ceftriaxone
+T11	Treatment 1798 1811	ciprofloxacin
+T12	Treatment 2041 2055	[ciprofloxacin
+T13	Treatment 2065 2076	ceftriaxone
+T14	Treatment 2213 2231	Oral ciprofloxacin
+T15	Treatment 2261 2286	intramuscular ceftriaxone

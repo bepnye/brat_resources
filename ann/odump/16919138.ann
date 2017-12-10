@@ -1,0 +1,4 @@
+T1	HMM 440 453	Sleep latency
+T2	HMM 601 618	Wakings per night
+T3	HMM 739 759	Total sleep duration
+T4	HMM 991 1004	effectiveness

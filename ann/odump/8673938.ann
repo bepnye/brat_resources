@@ -1,0 +1,6 @@
+T1	HMM 42 57	gingival status
+T2	HMM 804 819	gingival status
+T3	HMM 1193 1252	percentage of sites per subject with scores of two or three
+T4	HMM 1426 1473	percentage of sites with scores of two or three
+T5	HMM 1659 1674	gingival health
+T6	HMM 1746 1761	gingival health

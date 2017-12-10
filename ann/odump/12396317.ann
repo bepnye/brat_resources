@@ -1,0 +1,14 @@
+T1	HMM 97 105	kinetics
+T2	HMM 692 736	complete resolution of their enlarged livers
+T3	HMM 1153 1194	Complete resolution of the enlarged liver
+T4	HMM 1294 1324	complete or partial resolution
+T5	HMM 1355 1404	area produced by plotting liver size against time
+T6	HMM 1481 1510	half-life of the hepatomegaly
+T7	HMM 1599 1673	volume of blood completely cleared of the 'hepatic pathological processes'
+T8	HMM 1722 1753	fractional reduction of AUC(hp)
+T9	HMM 2011 2018	AUC(hp)
+T10	HMM 2060 2072	AUC(hpFr196)
+T11	HMM 2086 2093	CL(Bhl)
+T12	HMM 2215 2258	partial resolution of their enlarged livers
+T13	HMM 2264 2327	indices of resolution and the kinetic parameters of disposition
+T14	HMM 2498 2533	resolution of the liver enlargement

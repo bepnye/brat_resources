@@ -1,0 +1,17 @@
+T1	HMM 776 807	Central nervous system function
+T2	HMM 835 929	Auditory Steady State Response (ASSR) and Bispectral Index (BIS) analysis of electrooculogram.
+T3	HMM 976 1003	reversal of unconsciousness
+T4	HMM 1052 1074	block of this reversal
+T5	HMM 1151 1166	unconsciousness
+T6	HMM 1172 1192	plasma concentration
+T7	HMM 1240 1255	Unconsciousness
+T8	HMM 1276 1286	reductions
+T9	HMM 1290 1294	ASSR
+T10	HMM 1371 1374	BIS
+T11	HMM 1446 1468	restored consciousness
+T12	HMM 1507 1516	increases
+T13	HMM 1520 1524	ASSR
+T14	HMM 1562 1565	BIS
+T15	HMM 1641 1690	physostigmine-induced reversal of unconsciousness
+T16	HMM 1699 1741	increase of the ASSR and BIS (ASSR and BIS
+T17	HMM 1836 1848	ASSR and BIS

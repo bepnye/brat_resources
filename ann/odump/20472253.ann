@@ -1,0 +1,12 @@
+T1	HMM 125 152	cardiovascular risk factors
+T2	HMM 501 521	red blood cell (RBC)
+T3	HMM 533 591	eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA)
+T4	HMM 748 777	Systolic blood pressure (SBP)
+T5	HMM 931 973	Plasma triacylglycerol (TAG) concentration
+T6	HMM 978 997	insulin sensitivity
+T7	HMM 1043 1104	Plasma high-density lipoprotein (HDL) and non-HDL cholesterol
+T8	HMM 1220 1246	changes in RBC EPA content
+T9	HMM 1282 1304	changes in SBP and DBP
+T10	HMM 1351 1406	HDL cholesterol and non-HDL cholesterol concentrations.
+T11	HMM 1439 1499	RBC EPA and plasma TAG concentration or insulin sensitivity.
+T12	HMM 1529 1531	BP

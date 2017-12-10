@@ -1,0 +1,7 @@
+T1	HMM 23 57	recalcitrant diabetic foot ulcers:
+T2	HMM 187 197	foot ulcer
+T3	HMM 457 490	recalcitrant diabetic foot ulcers
+T4	HMM 1189 1216	proportion of wounds healed
+T5	HMM 1521 1535	adverse events
+T6	HMM 1726 1735	bioburden
+T7	HMM 1903 1915	healing rate

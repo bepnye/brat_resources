@@ -1,0 +1,6 @@
+T1	HMM 34 56	EEG seizure morphology
+T2	HMM 134 163	heart rate and blood pressure
+T3	HMM 504 523	seizure morphology.
+T4	HMM 723 871	duration of motor convulsion, duration of electroencephalogram (EEG) seizure, degree of seizure regularity, and degree of postictal EEG suppression.
+T5	HMM 944 976	quality of the ictal regularity.
+T6	HMM 1058 1075	ictal regularity.

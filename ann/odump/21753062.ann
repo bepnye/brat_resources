@@ -1,0 +1,10 @@
+T1	HMM 56 100	markers of inflammation and oxidative stress
+T2	HMM 452 497	markers of inflammation and oxidative stress.
+T3	HMM 709 928	plasma inflammatory markers IL-6, C-reactive protein, tumor necrosis factor receptors I and II (TNF-RI and -RII), monocyte chemotactic protein-1 and E-selectin, and urinary 8-iso-PGF(2α), a marker of lipid peroxidation
+T4	HMM 960 987	lower TNF-RI concentrations
+T5	HMM 995 1027	higher E-selectin concentrations
+T6	HMM 1096 1122	other inflammatory markers
+T7	HMM 1150 1177	affect inflammatory markers
+T8	HMM 1179 1220	The urine concentration of 8-iso-PGF(2α)
+T9	HMM 1526 1578	affect plasma concentrations of inflammatory markers
+T10	HMM 1599 1637	the urine 8-iso-PGF(2α) concentration

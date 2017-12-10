@@ -1,0 +1,5 @@
+T1	HMM 815 973	operative time, blood loss, blood transfusion, intraoperative complications, postoperative complications, duration of hospital stay, and number of lymph nodes
+T2	HMM 1047 1051	safe
+T3	HMM 1204 1214	blood loss
+T4	HMM 1227 1243	hospitalization;
+T5	HMM 1296 1311	operating time.

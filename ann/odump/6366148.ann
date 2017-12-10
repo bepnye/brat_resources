@@ -1,0 +1,7 @@
+T1	HMM 607 644	three-year relapse-free survival rate
+T2	HMM 773 787	adverse events
+T3	HMM 794 802	relapsed
+T4	HMM 812 829	died of toxicity.
+T5	HMM 941 950	relapsed.
+T6	HMM 993 1002	relapsed.
+T7	HMM 1017 1048	localized lymphoblastic disease

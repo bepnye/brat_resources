@@ -1,0 +1,6 @@
+T1	HMM 0 8	Efficacy
+T2	HMM 400 408	efficacy
+T3	HMM 632 640	efficacy
+T4	HMM 822 895	similar, rapid resolution of clinical signs and negative isolation scores
+T5	HMM 1062 1096	ineffective in clearing infection.
+T6	HMM 1161 1228	unsuccessful in eliminating the carriage of this strain of C felis.

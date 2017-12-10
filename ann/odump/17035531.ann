@@ -1,0 +1,6 @@
+T1	HMM 1186 1207	Theta power in waking
+T2	HMM 1355 1365	Sleep loss
+T3	HMM 1424 1452	non-rapid eye movement sleep
+T4	HMM 1583 1600	sleep deprivation
+T5	HMM 1663 1679	waking and sleep
+T6	HMM 1797 1929	waking-induced impairment of neurobehavioral performance and functional aspects of EEG topography associated with sleep deprivation.

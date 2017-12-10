@@ -1,0 +1,8 @@
+T1	HMM 74 120	children's memory for educational information.
+T2	HMM 162 182	academic achievement
+T3	HMM 635 681	children's self-reported emotional processing.
+T4	HMM 703 733	memory for educational details
+T5	HMM 805 811	memory
+T6	HMM 841 856	Memory benefits
+T7	HMM 888 898	pronounced
+T8	HMM 917 948	poorer emotion regulation skill

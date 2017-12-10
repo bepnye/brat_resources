@@ -1,0 +1,8 @@
+T1	HMM 983 1077	allergic diseases (eczema, food allergy, allergic rhinitis, and asthma) and IgE sensitization.
+T2	HMM 1160 1219	Frequencies of allergic and IgE-associated allergic disease
+T3	HMM 1224 1237	sensitization
+T4	HMM 1402 1423	frequencies of eczema
+T5	HMM 1442 1455	atopic eczema
+T6	HMM 1474 1491	allergic rhinitis
+T7	HMM 1513 1519	asthma
+T8	HMM 1567 1598	IgE-associated allergic disease

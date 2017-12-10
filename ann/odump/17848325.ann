@@ -1,0 +1,10 @@
+T1	HMM 975 1054	(operative time, fluid absorption, complications, need for second intervention)
+T2	HMM 1091 1180	(pregnancy, abortion, term and preterm delivery, modality of delivery, cervical cerclage)
+T3	HMM 1196 1231	Operative time and fluid absorption
+T4	HMM 1386 1414	cumulative complication rate
+T5	HMM 1495 1518	reproductive parameters
+T6	HMM 1554 1582	pregnancy and delivery rates
+T7	HMM 1717 1739	spontaneous abortions.
+T8	HMM 1775 1811	cesarean section without differences
+T9	HMM 2202 2216	operating time
+T10	HMM 2227 2245	complication rate.

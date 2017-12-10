@@ -1,0 +1,6 @@
+T1	HMM 305 319	Blood pressure
+T2	HMM 695 705	heart rate
+T3	HMM 886 896	heart rate
+T4	HMM 919 934	Adverse effects
+T5	HMM 1211 1263	blood pressure control and suspected angina pectoris
+T6	HMM 1337 1384	blood chemistry, including lipoprotein classes.

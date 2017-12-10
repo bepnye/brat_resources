@@ -1,0 +1,6 @@
+T1	Intervention 0 60	Recombinant human thyrotropin-stimulated radioiodine therapy
+T2	Intervention 227 238	radioiodine
+T3	Intervention 321 326	rhTSH
+T4	Intervention 737 742	rhTSH
+T5	Intervention 780 796	50 Gy or placebo
+T6	Intervention 875 882	placebo

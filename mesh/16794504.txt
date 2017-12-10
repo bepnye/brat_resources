@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Antineoplastic Agents
+Antineoplastic Combined Chemotherapy Protocols
+Bleomycin
+Child
+Child, Preschool
+Combined Modality Therapy
+Disease-Free Survival
+Female
+Hodgkin Disease
+Humans
+Male
+Mechlorethamine
+Neoplasm Staging
+Prednisone
+Procarbazine
+Remission Induction
+Vinblastine
+Vincristine

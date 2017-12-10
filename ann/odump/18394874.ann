@@ -1,0 +1,6 @@
+T1	HMM 73 97	fiberoptic bronchoscopy.
+T2	HMM 454 484	cardiovascular effects of FOB.
+T3	HMM 633 696	heart rate (HR) and systolic/diastolic blood pressure (SBP/DBP)
+T4	HMM 880 899	HR, SBP, DBP or RPP
+T5	HMM 971 1005	Adverse events during bronchoscopy
+T6	HMM 1133 1136	SBP

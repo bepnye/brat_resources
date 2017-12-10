@@ -1,0 +1,5 @@
+T1	HMM 826 926	subject's global assessment of therapy (SGAT; 0-10 scale; 0 = no response, 10 = excellent response).
+T2	HMM 966 1082	clinician-assessed healing time and subject assessment of lesion protection, noticeability and social embarrassment.
+T3	HMM 1244 1274	healing times between products
+T4	HMM 1390 1400	tolerated.
+T5	HMM 1458 1478	efficacious and safe

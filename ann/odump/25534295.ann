@@ -1,0 +1,12 @@
+T1	HMM 961 971	Median PFS
+T2	HMM 1084 1093	median OS
+T3	HMM 1195 1209	response rates
+T4	HMM 1251 1261	Toxicities
+T5	HMM 1308 1329	grade 3/4 neutropenia
+T6	HMM 1361 1367	nausea
+T7	HMM 1396 1413	allergic reaction
+T8	HMM 1440 1458	sensory neuropathy
+T9	HMM 1490 1506	grade 2 alopecia
+T10	HMM 1535 1561	Grade 3/4 thrombocytopenia
+T11	HMM 1595 1604	mucositis
+T12	HMM 1657 1685	Grade 3/4 hand-foot syndrome

@@ -1,0 +1,19 @@
+T1	Treatment 14 29	weight training
+T2	Treatment 220 245	weight training exercises
+T3	Treatment 276 296	risedronate, calcium
+T4	Treatment 302 311	vitamin D
+T5	Treatment 454 462	exercise
+T6	Treatment 648 683	risedronate, calcium, and vitamin D
+T7	Treatment 866 905	strength/weight training (ST) exercises
+T8	Treatment 1001 1010	exercised
+T9	Treatment 1124 1148	exercise plus medication
+T10	Treatment 1152 1167	medication only
+T11	Treatment 1222 1229	calcium
+T12	Treatment 1244 1253	vitamin D
+T13	Treatment 1273 1284	risedronate
+T14	Treatment 1301 1309	exercise
+T15	Treatment 1333 1345	ST exercises
+T16	Treatment 1400 1430	medications without exercising
+T17	Treatment 1599 1608	exercised
+T18	Treatment 1920 1928	exercise
+T19	Treatment 2072 2106	Strength/weight training exercises

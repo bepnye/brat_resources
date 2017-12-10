@@ -1,0 +1,6 @@
+T1	HMM 28 52	outpatient hysteroscopy.
+T2	HMM 276 288	hysteroscopy
+T3	HMM 341 353	hysteroscopy
+T4	HMM 586 608	mean +/- SD pain score
+T5	HMM 628 640	hysteroscopy
+T6	HMM 887 910	outpatient hysteroscopy

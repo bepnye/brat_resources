@@ -1,0 +1,12 @@
+T1	HMM 25 33	efficacy
+T2	HMM 73 87	field efficacy
+T3	HMM 165 173	efficacy
+T4	HMM 299 313	field efficacy
+T5	HMM 863 946	Response to treatment was assessed by periodic mite count, and skin lesions scored.
+T6	HMM 1130 1142	mite counts.
+T7	HMM 1146 1180	localised or systemic side effects
+T8	HMM 1262 1273	mite counts
+T9	HMM 1341 1352	mite counts
+T10	HMM 1526 1537	mite counts
+T11	HMM 1556 1567	mite counts
+T12	HMM 1808 1830	Chorioptes mite burden

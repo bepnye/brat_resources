@@ -1,0 +1,11 @@
+T1	HMM 13 18	HDL-C
+T2	HMM 212 248	carotid intima-media thickness (IMT)
+T3	HMM 830 840	IMT change
+T4	HMM 978 983	LDL-C
+T5	HMM 1185 1193	The mean
+T6	HMM 1372 1389	in the IMT change
+T7	HMM 1469 1480	in the mean
+T8	HMM 1503 1531	associated with HDL-C change
+T9	HMM 1601 1610	change in
+T10	HMM 1833 1847	of the carotid
+T11	HMM 1866 1879	of the plasma

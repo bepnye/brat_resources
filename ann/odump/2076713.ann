@@ -1,0 +1,13 @@
+T1	HMM 4 10	effect
+T2	HMM 160 183	pharmacodynamic effects
+T3	HMM 188 201	acceptability
+T4	HMM 393 409	pharmacokinetics
+T5	HMM 473 528	time course of angiotensin converting enzyme inhibition
+T6	HMM 640 654	blood pressure
+T7	HMM 833 857	diastolic blood pressure
+T8	HMM 877 900	systolic blood pressure
+T9	HMM 996 1017	plasma renin activity
+T10	HMM 1134 1147	perindoprilat
+T11	HMM 1257 1271	ACE inhibition
+T12	HMM 1368 1382	well tolerated
+T13	HMM 1399 1474	clinically significant change in routine haematology or serum biochemistry.

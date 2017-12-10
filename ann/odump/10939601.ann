@@ -1,0 +1,11 @@
+T1	HMM 63 90	advanced colorectal cancer:
+T2	HMM 176 190	5-fluorouracil
+T3	HMM 859 875	partial response
+T4	HMM 937 945	complete
+T5	HMM 954 970	partial response
+T6	HMM 996 1011	Time to failure
+T7	HMM 1157 1177	median survival time
+T8	HMM 1269 1302	Diarrhea, stomatitis and vomiting
+T9	HMM 1324 1349	nonhematologic toxicities
+T10	HMM 1381 1417	hematologic toxicity was leukopenia;
+T11	HMM 1578 1604	advanced colorectal cancer

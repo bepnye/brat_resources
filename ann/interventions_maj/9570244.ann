@@ -1,0 +1,12 @@
+T1	Intervention 34 45	amoxycillin
+T2	Intervention 50 60	omeprazole
+T3	Intervention 78 91	metronidazole
+T4	Intervention 163 174	amoxycillin
+T5	Intervention 179 189	omeprazole
+T6	Intervention 276 317	metronidazole, amoxycillin and omeprazole
+T7	Intervention 679 690	amoxycillin
+T8	Intervention 734 744	omeprazole
+T9	Intervention 802 815	metronidazole
+T10	Intervention 854 881	amoxycillin and omeprazole,
+T11	Intervention 1875 1917	metronidazole, amoxycillin, and omeprazole
+T12	Intervention 2007 2033	amoxycillin and omeprazole

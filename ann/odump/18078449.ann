@@ -1,0 +1,16 @@
+T1	HMM 242 250	efficacy
+T2	HMM 693 714	Sleep characteristics
+T3	HMM 788 804	Clinician rating
+T4	HMM 881 898	caregiver ratings
+T5	HMM 1164 1186	total night-time sleep
+T6	HMM 1191 1204	sleep latency
+T7	HMM 1272 1295	significant improvement
+T8	HMM 1312 1341	clinician and parent ratings.
+T9	HMM 1363 1374	improvement
+T10	HMM 1382 1410	open-label somnolog measures
+T11	HMM 1414 1430	sleep efficiency
+T12	HMM 1435 1460	the longest sleep episode
+T13	HMM 1507 1525	improved the sleep
+T14	HMM 1549 1585	effective in reducing family stress.
+T15	HMM 1641 1697	treatment resistant chronic delayed sleep phase syndrome
+T16	HMM 1702 1728	impaired sleep maintenance

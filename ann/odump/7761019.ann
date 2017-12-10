@@ -1,0 +1,8 @@
+T1	HMM 29 51	neuromuscular blockade
+T2	HMM 353 463	Mechanomyographic and clinical evaluation by single twitch and TOF stimulation of the ulnar nerve at the wrist
+T3	HMM 487 523	concomitant abductor pollicis muscle
+T4	HMM 541 551	onset time
+T5	HMM 607 625	duration of action
+T6	HMM 633 655	single twitch recovery
+T7	HMM 747 769	single twitch recovery
+T8	HMM 882 909	recovery rate of vecuronium

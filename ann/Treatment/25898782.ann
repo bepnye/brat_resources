@@ -1,0 +1,27 @@
+T1	Treatment 0 8	Sedation
+T2	Treatment 97 133	patient-controlled propofol sedation
+T3	Treatment 154 172	nurse anesthetist.
+T4	Treatment 216 224	sedation
+T5	Treatment 387 479	patient-controlled sedation (PCS) with propofol, nurse anesthetist-controlled sedation (ACS)
+T6	Treatment 488 556	department's standard of care, midazolam given by the procedure team
+T7	Treatment 648 651	PCS
+T8	Treatment 701 709	propofol
+T9	Treatment 752 755	ACS
+T10	Treatment 791 799	propofol
+T11	Treatment 956 965	midazolam
+T12	Treatment 1021 1024	PCS
+T13	Treatment 1029 1032	ACS
+T14	Treatment 1125 1148	midazolam sedation (ACS
+T15	Treatment 1156 1159	PCS
+T16	Treatment 1167 1176	midazolam
+T17	Treatment 1190 1193	ACS
+T18	Treatment 1296 1299	PCS
+T19	Treatment 1304 1313	midazolam
+T20	Treatment 1378 1392	following PCS.
+T21	Treatment 1393 1396	PCS
+T22	Treatment 1478 1493	for PCS and ACS
+T23	Treatment 1508 1536	CONCLUSION PCS with propofol
+T24	Treatment 1549 1561	to midazolam
+T25	Treatment 1577 1584	to ACS.
+T26	Treatment 1585 1588	PCS
+T27	Treatment 1673 1679	as ACS

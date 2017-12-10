@@ -1,0 +1,7 @@
+T1	HMM 628 694	Blood loss during parenchymal transection and speed of transection
+T2	HMM 735 785	degree of postoperative liver injury and morbidity
+T3	HMM 812 854	Median blood loss during liver transection
+T4	HMM 975 992	liver transection
+T5	HMM 1127 1137	fewer ties
+T6	HMM 1270 1285	morbidity rates
+T7	HMM 1407 1473	blood loss and speed of transection with no increase in morbidity.

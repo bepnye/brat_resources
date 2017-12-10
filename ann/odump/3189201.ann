@@ -1,0 +1,9 @@
+T1	HMM 84 92	diarrhea
+T2	HMM 235 243	diarrhea
+T3	HMM 258 287	childhood nutritional status.
+T4	HMM 422 438	rate of diarrhea
+T5	HMM 719 731	weight gain;
+T6	HMM 763 782	mean weight for age
+T7	HMM 932 989	major deterioration or improvement of nutritional status.
+T8	HMM 1045 1063	childhood diarrhea
+T9	HMM 1097 1116	nutritional status.

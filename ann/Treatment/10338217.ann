@@ -1,0 +1,12 @@
+T1	Treatment 20 29	glutamine
+T2	Treatment 108 174	Total parenteral nutrition (TPN) supplemented with glutamine (GLN)
+T3	Treatment 510 518	oral GLN
+T4	Treatment 531 546	glycine-control
+T5	Treatment 592 595	TPN
+T6	Treatment 636 639	GLN
+T7	Treatment 658 670	TPN with GLN
+T8	Treatment 725 728	TPN
+T9	Treatment 809 889	high-dose chemotherapy, total body irradiation, and either allogeneic (ALLO) BMT
+T10	Treatment 902 945	autologous (AUTO) stem cell transplantation
+T11	Treatment 1007 1012	AUTO.
+T12	Treatment 1703 1706	GLN

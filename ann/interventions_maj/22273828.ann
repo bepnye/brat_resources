@@ -1,0 +1,11 @@
+T1	Intervention 39 49	ramosetron
+T2	Intervention 54 87	combined ramosetron and midazolam
+T3	Intervention 305 314	midazolam
+T4	Intervention 318 328	ramosetron
+T5	Intervention 776 815	ramosetron or ramosetron with midazolam
+T6	Intervention 855 865	ramosetron
+T7	Intervention 874 887	or ramosetron
+T8	Intervention 896 909	and midazolam
+T9	Intervention 1354 1364	ramosetron
+T10	Intervention 1370 1379	midazolam
+T11	Intervention 1405 1414	midazolam

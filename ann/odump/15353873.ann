@@ -1,0 +1,12 @@
+T1	HMM 86 137	blood pressure, platelets, and endothelium function
+T2	HMM 525 558	platelet and endothelial function
+T3	HMM 917 1188	platelet factor 4 (PF-4), beta-thromboglobulin (beta-TG), the ratio of platelet factor 4 to beta-thromboglobulin, and endothelial function by measuring total plasma nitrate levels, von Willebrand factor (vWF) levels, and blood flow using venous occlusive plethysmography.
+T4	HMM 1249 1271	sitting blood pressure
+T5	HMM 1478 1508	diastolic blood pressure (DPB)
+T6	HMM 1582 1585	DBP
+T7	HMM 1743 1790	platelet activation and endothelial dysfunction
+T8	HMM 1965 1979	blood pressure
+T9	HMM 2013 2022	effective
+T10	HMM 2027 2041	well-tolerated
+T11	HMM 2100 2103	DBP
+T12	HMM 2257 2276	platelet activation

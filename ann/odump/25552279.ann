@@ -1,0 +1,7 @@
+T1	HMM 48 85	central venous catheter complications
+T2	HMM 452 470	Line complications
+T3	HMM 481 498	late onset sepsis
+T4	HMM 679 757	Central venous catheter (CVC), blood culture (BC) and inflammatory marker data
+T5	HMM 852 864	birth weight
+T6	HMM 985 1084	CVC use/type or duration or in positive/negative BC with/without associated C reactive protein rise
+T7	HMM 1224 1247	CVC complication rates.

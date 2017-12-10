@@ -1,0 +1,13 @@
+T1	Treatment 0 40	Multicyclic, dose-intensive chemotherapy
+T2	Treatment 79 104	hematopoietic progenitors
+T3	Treatment 154 181	dose-intensive chemotherapy
+T4	Treatment 210 246	reinfusing hematopoietic progenitors
+T5	Treatment 421 516	ifosfamide, carboplatin, and etoposide (ICE) with granulocyte colony-stimulating factor (G-CSF)
+T6	Treatment 717 730	leukapheresis
+T7	Treatment 749 795	cryopreservation of the leukapheresis product.
+T8	Treatment 796 808	Chemotherapy
+T9	Treatment 949 962	leukapheresis
+T10	Treatment 1009 1030	leukapheresis product
+T11	Treatment 1215 1227	chemotherapy
+T12	Treatment 1403 1419	ICE chemotherapy
+T13	Treatment 1823 1839	ICE chemotherapy

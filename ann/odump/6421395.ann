@@ -1,0 +1,15 @@
+T1	HMM 37 55	serum lipoproteins
+T2	HMM 60 92	metabolites of arachidonic acid:
+T3	HMM 189 241	biochemical risk factors for ischaemic heart disease
+T4	HMM 404 436	serum cholesterol concentrations
+T5	HMM 463 510	high density lipoprotein subfraction two (HDL2)
+T6	HMM 541 565	subfraction three (HDL3)
+T7	HMM 585 617	low density lipoprotein fraction
+T8	HMM 674 724	plasma 6-keto-prostaglandin F1 alpha concentration
+T9	HMM 739 773	serum thromboxane B2 concentration
+T10	HMM 827 858	prostaglandin E2 concentrations
+T11	HMM 895 945	plasma 6-keto-prostaglandin F1 alpha concentration
+T12	HMM 981 1017	serum HDL2 cholesterol concentration
+T13	HMM 1131 1155	cholesterol distribution
+T14	HMM 1159 1177	serum lipoproteins
+T15	HMM 1240 1284	circulating metabolites of arachidonic acid.

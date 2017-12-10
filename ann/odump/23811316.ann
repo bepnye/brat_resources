@@ -1,0 +1,14 @@
+T1	HMM 30 46	oxidative damage
+T2	HMM 177 193	oxidative damage
+T3	HMM 940 984	Plasmatic levels of total antioxidant status
+T4	HMM 996 1039	erythrocyte glutathione peroxidase activity
+T5	HMM 1055 1082	Lipid and protein oxidation
+T6	HMM 1102 1143	malondialdehyde and carbonyl group levels
+T7	HMM 1172 1209	physical fitness and body composition
+T8	HMM 1270 1296	maximum oxygen consumption
+T9	HMM 1364 1380	physical fitness
+T10	HMM 1473 1497	total antioxidant status
+T11	HMM 1511 1554	erythrocyte glutathione peroxidase activity
+T12	HMM 1647 1682	plasmatic levels of malondialdehyde
+T13	HMM 1813 1839	antioxidant defense system
+T14	HMM 1901 1928	lipid and protein oxidation

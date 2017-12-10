@@ -1,0 +1,16 @@
+Adult
+Aged
+Angioplasty, Balloon
+Coronary Disease
+Female
+Heart
+Humans
+Male
+Middle Aged
+Myocardial Infarction
+Physical Exertion
+Radioisotopes
+Streptokinase
+Thallium
+Time Factors
+Tomography, Emission-Computed

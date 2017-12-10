@@ -1,0 +1,14 @@
+T1	HMM 56 60	Mood
+T2	HMM 139 153	chronic stress
+T3	HMM 158 176	cognitive decline.
+T4	HMM 233 239	stress
+T5	HMM 251 268	cognitive decline
+T6	HMM 398 427	feasibility and acceptability
+T7	HMM 731 735	mood
+T8	HMM 740 759	cognitive function.
+T9	HMM 1349 1378	Feasibility and acceptability
+T10	HMM 1445 1464	client satisfaction
+T11	HMM 1480 1507	Mood and cognitive outcomes
+T12	HMM 1753 1766	Acceptability
+T13	HMM 2443 2477	for the mood or cognitive outcomes
+T14	HMM 2632 2681	regard to perceived credibility and acceptability

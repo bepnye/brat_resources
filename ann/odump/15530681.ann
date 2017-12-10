@@ -1,0 +1,6 @@
+T1	HMM 454 497	CRP and prothrombin fragment 1 and 2 (F1+2)
+T2	HMM 590 593	CRP
+T3	HMM 673 676	CRP
+T4	HMM 691 695	F1+2
+T5	HMM 765 802	response to the influenza vaccination
+T6	HMM 968 978	CRP-levels

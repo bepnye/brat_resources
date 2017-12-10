@@ -1,0 +1,7 @@
+T1	HMM 166 182	analgesic effect
+T2	HMM 613 683	Onset time and duration of caudal analgesia, sedation level and ataxia
+T3	HMM 911 961	complete analgesia in the tail, anus and perineum.
+T4	HMM 1032 1057	mild to moderate sedation
+T5	HMM 1122 1139	alert and nervous
+T6	HMM 1158 1164	Ataxia
+T7	HMM 1383 1392	analgesia

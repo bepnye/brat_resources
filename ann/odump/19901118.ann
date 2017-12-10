@@ -1,0 +1,8 @@
+T1	HMM 40 60	mammographic density
+T2	HMM 169 189	mammographic density
+T3	HMM 391 411	mammographic density
+T4	HMM 509 529	mammographic density
+T5	HMM 736 764	mammographic percent density
+T6	HMM 956 984	mammographic percent density
+T7	HMM 1559 1579	mammographic density
+T8	HMM 1676 1696	mammographic density

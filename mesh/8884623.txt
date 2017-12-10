@@ -1,0 +1,25 @@
+Adult
+Aged
+Anti-Inflammatory Agents, Non-Steroidal
+Brain
+Brain Ischemia
+Cerebrovascular Circulation
+Craniotomy
+Dura Mater
+Female
+Humans
+Hypocapnia
+Indomethacin
+Injections, Intravenous
+Intracranial Pressure
+Intraoperative Care
+Lactates
+Male
+Mannitol
+Middle Aged
+Oxygen
+Oxygen Consumption
+Placebos
+Pseudotumor Cerebri
+Supratentorial Neoplasms
+Transducers, Pressure

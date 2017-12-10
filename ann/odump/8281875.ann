@@ -1,0 +1,9 @@
+T1	HMM 890 916	severity of mucosal injury
+T2	HMM 1039 1053	gastric injury
+T3	HMM 1214 1252	aspirin-induced gastric mucosal injury
+T4	HMM 1335 1361	extensive gastric erosions
+T5	HMM 1423 1433	ulceration
+T6	HMM 1473 1518	aspirin-induced grades 3 and 4 gastric injury
+T7	HMM 1590 1618	duodenal injury of any grade
+T8	HMM 1655 1663	erosions
+T9	HMM 1676 1681	ulcer

@@ -1,0 +1,10 @@
+T1	Outcomes 790 811	Movement trajectories
+T2	Outcomes 897 945	accurate when binocular information was present.
+T3	Outcomes 994 1063	proportional rate control strategy rather than a constant τ strategy
+T4	Outcomes 1068 1090	the walk-to-reach task
+T5	Outcomes 1097 1161	used monocular and/or binocular τ information to guide the head
+T6	Outcomes 1183 1256	using relative disparity τ to guide the hand to final target acquisition
+T7	Outcomes 1403 1422	perform simulations
+T8	Outcomes 1479 1509	that proportional rate control
+T9	Outcomes 1531 1588	with head centric, then hand-centric τ-based information
+T10	Outcomes 1604 1610	moment

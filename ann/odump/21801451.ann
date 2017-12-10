@@ -1,0 +1,9 @@
+T1	HMM 0 18	Falls and mobility
+T2	HMM 186 206	falls and disability
+T3	HMM 385 420	falls, mobility and quality of life
+T4	HMM 1378 1383	falls
+T5	HMM 1440 1513	the number of fallers, the number of multiple fallers and the falls rate.
+T6	HMM 1541 1546	falls
+T7	HMM 1565 1615	mobility, activity limitations and quality of life
+T8	HMM 1882 1896	reducing falls
+T9	HMM 1901 1936	improving mobility and life quality

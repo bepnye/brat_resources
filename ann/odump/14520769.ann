@@ -1,0 +1,7 @@
+T1	HMM 802 819	rescue medication
+T2	HMM 857 868	Pain relief
+T3	HMM 1084 1101	rescue medication
+T4	HMM 1204 1223	overall pain relief
+T5	HMM 1298 1325	incidence of adverse events
+T6	HMM 1533 1551	postoperative pain
+T7	HMM 1629 1640	pain relief

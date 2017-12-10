@@ -1,0 +1,6 @@
+T1	HMM 1294 1315	median operative time
+T2	HMM 1482 1505	shorter operating time.
+T3	HMM 1509 1520	differences
+T4	HMM 1524 1578	perioperative outcomes and postoperative complications
+T5	HMM 1653 1671	postoperative pain
+T6	HMM 1891 1941	shorter operative time and less postoperative pain

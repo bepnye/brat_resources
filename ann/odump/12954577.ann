@@ -1,0 +1,11 @@
+T1	HMM 413 462	response rate or the clinical benefit rate (CBR).
+T2	HMM 463 494	Pharmacokinetics and toxicities
+T3	HMM 621 635	Tumor response
+T4	HMM 691 701	Toxicities
+T5	HMM 800 820	Pharmacokinetic data
+T6	HMM 907 921	Response rates
+T7	HMM 1088 1091	CBR
+T8	HMM 1277 1297	drug-related deaths.
+T9	HMM 1312 1346	steady-state plasma concentrations
+T10	HMM 1481 1489	efficacy
+T11	HMM 1493 1499	safety

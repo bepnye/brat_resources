@@ -1,0 +1,20 @@
+Adult
+Azathioprine
+Cyclosporine
+Diabetes Mellitus
+Drug Therapy, Combination
+Female
+Glomerular Mesangium
+Glucose
+Graft Rejection
+Graft Survival
+Humans
+Immunosuppressive Agents
+Kidney
+Kidney Transplantation
+Lipids
+Male
+Methylprednisolone
+Middle Aged
+Nephritis, Interstitial
+Time Factors

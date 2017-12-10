@@ -1,0 +1,11 @@
+T1	HMM 0 7	Outcome
+T2	HMM 247 254	outcome
+T3	HMM 489 519	clinical and biologic features
+T4	HMM 1275 1311	progression-free survival (PFS) rate
+T5	HMM 1336 1362	overall survival (OS) rate
+T6	HMM 1395 1403	PFS rate
+T7	HMM 1438 1445	OS rate
+T8	HMM 1526 1536	5-year PFS
+T9	HMM 1702 1705	PFS
+T10	HMM 1728 1730	OS
+T11	HMM 2082 2100	survival advantage

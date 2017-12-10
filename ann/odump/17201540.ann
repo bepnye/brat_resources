@@ -1,0 +1,5 @@
+T1	HMM 681 697	attitude clarity
+T2	HMM 702 722	attitude correctness
+T3	HMM 784 915	attitude clarity and attitude correctness can have distinct antecedents (repeated expression and consensus feedback, respectively).
+T4	HMM 964 1029	play an independent role in persuasion and resistance situations.
+T5	HMM 1033 1098	clarity and correctness increase, attitudes become more resistant

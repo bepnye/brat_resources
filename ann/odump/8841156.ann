@@ -1,0 +1,9 @@
+T1	HMM 762 786	global clinical response
+T2	HMM 791 805	nephrotoxicity
+T3	HMM 822 854	economic costs and effectiveness
+T4	HMM 1016 1078	incidence of nephrotoxicity: the rates of minor nephrotoxicity
+T5	HMM 1175 1198	moderate nephrotoxicity
+T6	HMM 1291 1318	incidence of nephrotoxicity
+T7	HMM 1376 1390	nephrotoxicity
+T8	HMM 1394 1410	incremental cost
+T9	HMM 1527 1564	decreased incidence of nephrotoxicity

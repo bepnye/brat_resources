@@ -1,0 +1,22 @@
+Adolescent
+Adult
+Apolipoproteins
+Body Composition
+Body Weight
+Body Weights and Measures
+Cholesterol, HDL
+Cholesterol, LDL
+Fatty Acids
+Fatty Acids, Nonesterified
+Fatty Acids, Unsaturated
+Heart Rate
+Humans
+Leg
+Lipid Metabolism
+Lipoproteins, LDL
+Male
+Muscle, Skeletal
+Physical Endurance
+Pulmonary Gas Exchange
+Regional Blood Flow
+Triglycerides

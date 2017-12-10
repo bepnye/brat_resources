@@ -1,0 +1,13 @@
+T1	HMM 335 353	antitumor activity
+T2	HMM 858 958	tumor shrinkage before crossover assessed by investigator (IR) and independent central review (ICR).
+T3	HMM 1102 1132	mean tumor shrinkage by IR/ICR
+T4	HMM 1210 1233	Objective response rate
+T5	HMM 1302 1334	Comparable disease control rates
+T6	HMM 1450 1471	≥3 drug-related AEs
+T7	HMM 1480 1494	were rash/acne
+T8	HMM 1507 1522	8.3%), diarrhea
+T9	HMM 1542 1566	and stomatitis/mucositis
+T10	HMM 1637 1684	with DRAEs leading to treatment discontinuation
+T11	HMM 1740 1773	II, disease control rate (IR/ICR)
+T12	HMM 1856 1881	showed antitumor activity
+T13	HMM 2093 2119	sustained clinical benefit

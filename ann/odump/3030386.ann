@@ -1,0 +1,5 @@
+T1	HMM 0 23	Antihypertensive effect
+T2	HMM 470 514	The mean maximal reduction in blood pressure
+T3	HMM 690 701	heart rate.
+T4	HMM 729 753	symptomatic hypotension.
+T5	HMM 778 792	incapacitating

@@ -1,0 +1,8 @@
+T1	Intervention 84 100	cyclophosphamide
+T2	Intervention 115 125	ifosfamide
+T3	Intervention 330 346	cyclophosphamide
+T4	Intervention 373 383	ifosfamide
+T5	Intervention 443 452	etoposide
+T6	Intervention 617 678	vincristine, dactinomycin, ifosfamide, and doxorubicin (VAIA)
+T7	Intervention 730 734	VAIA
+T8	Intervention 738 798	vincristine, dactinomycin, cyclophosphamide, and doxorubicin

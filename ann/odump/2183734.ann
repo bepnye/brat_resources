@@ -1,0 +1,4 @@
+T1	HMM 13 26	renal failure
+T2	HMM 229 255	irreversible renal failure
+T3	HMM 635 662	serum myeloma protein value
+T4	HMM 909 924	renal function.

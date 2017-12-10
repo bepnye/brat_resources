@@ -1,0 +1,17 @@
+Adult
+Aged
+Ascites
+Body Weight
+Canrenoic Acid
+Combined Modality Therapy
+Diet, Sodium-Restricted
+Diuretics
+Female
+Furosemide
+Humans
+Liver Cirrhosis
+Male
+Middle Aged
+Natriuresis
+Potassium
+Sulfonamides

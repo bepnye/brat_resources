@@ -1,0 +1,12 @@
+T1	Treatment 0 31	Pre-operative radiochemotherapy
+T2	Treatment 92 109	pre-operative vs.
+T3	Treatment 110 141	postoperative radiochemotherapy
+T4	Treatment 223 254	pre-operative radiochemotherapy
+T5	Treatment 287 318	postoperative radiochemotherapy
+T6	Treatment 579 598	pre-operative (PRE)
+T7	Treatment 603 641	postoperative (POST) radiochemotherapy
+T8	Treatment 750 763	radiotherapy.
+T9	Treatment 1576 1579	PRE
+T10	Treatment 1607 1611	POST
+T11	Treatment 1727 1753	pre-operative radiotherapy
+T12	Treatment 1782 1809	postoperative radiotherapy.

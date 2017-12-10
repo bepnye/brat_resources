@@ -1,0 +1,13 @@
+T1	HMM 752 857	operating time, blood loss, complications, febrile morbidity, analgesics administration and hospital stay
+T2	HMM 897 918	Median uterine weight
+T3	HMM 957 978	Median operating time
+T4	HMM 1089 1114	analgesics administration
+T5	HMM 1164 1184	median hospital stay
+T6	HMM 1316 1330	operating time
+T7	HMM 1370 1395	analgesics administration
+T8	HMM 1439 1452	hospital stay
+T9	HMM 1629 1639	advantages
+T10	HMM 1697 1711	operating time
+T11	HMM 1718 1737	post-operative pain
+T12	HMM 1750 1759	recovery.
+T13	HMM 1874 1899	conversion to laparotomy.

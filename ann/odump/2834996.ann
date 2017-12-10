@@ -1,0 +1,11 @@
+T1	HMM 42 51	treatment
+T2	HMM 55 88	naturally occurring common colds.
+T3	HMM 501 540	mean durations of pretreatment symptoms
+T4	HMM 559 583	median duration of colds
+T5	HMM 764 779	median duration
+T6	HMM 928 990	respiratory symptom scores or resolution of specific symptoms.
+T7	HMM 1249 1279	respiratory illness occurrence
+T8	HMM 1379 1399	blood in nasal mucus
+T9	HMM 1463 1474	Antibiotics
+T10	HMM 1666 1703	effective treatment for natural colds
+T11	HMM 1729 1738	toxicity.

@@ -1,0 +1,9 @@
+T1	HMM 330 349	disability, anxiety
+T2	HMM 355 365	depression
+T3	HMM 990 1056	levels of disability, anxiety, depression, and average pain levels
+T4	HMM 1186 1196	disability
+T5	HMM 1208 1215	anxiety
+T6	HMM 1227 1237	depression
+T7	HMM 1253 1265	average pain
+T8	HMM 1422 1437	total mean time
+T9	HMM 1671 1736	disability, anxiety, and depression for people with chronic pain.

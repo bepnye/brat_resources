@@ -1,0 +1,13 @@
+T1	Treatment 32 39	placebo
+T2	Treatment 66 76	cetirizine
+T3	Treatment 99 114	pseudoephedrine
+T4	Treatment 250 260	cetirizine
+T5	Treatment 289 304	pseudoephedrine
+T6	Treatment 330 337	placebo
+T7	Treatment 542 556	cetirizine/PSE
+T8	Treatment 1234 1248	cetirizine/PSE
+T9	Treatment 1289 1296	placebo
+T10	Treatment 1434 1448	cetirizine/PSE
+T11	Treatment 1459 1466	placebo
+T12	Treatment 1587 1594	placebo
+T13	Treatment 1786 1800	cetirizine/PSE

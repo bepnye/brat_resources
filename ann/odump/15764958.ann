@@ -1,0 +1,8 @@
+T1	HMM 100 120	antiretroviral-naive
+T2	HMM 460 468	efficacy
+T3	HMM 473 479	safety
+T4	HMM 740 778	baseline median plasma HIV-1 RNA level
+T5	HMM 1053 1075	plasma HIV-1 RNA level
+T6	HMM 1203 1235	infrequency of virologic failure
+T7	HMM 1250 1317	emergence of resistance mutations, CD4 cell increases from baseline
+T8	HMM 1350 1421	safety profile, and incidence of ABC-related hypersensitivity reactions

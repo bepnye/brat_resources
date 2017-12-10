@@ -1,0 +1,12 @@
+T1	Treatment 0 54	Hyperfractionated accelerated radiation therapy (HART)
+T2	Treatment 82 98	5-FU/Mitomycin C
+T3	Treatment 114 118	HART
+T4	Treatment 376 411	mitomycin C/5-fluorouracil (C-HART)
+T5	Treatment 417 477	hyperfractionated accelerated radiation therapy (HART) alone
+T6	Treatment 765 970	30 Gy/2 Gy daily followed by twice-daily 1.4 Gy to a total of 70.6 Gy concurrently with mitomycin C/5-FU (C-HART) or 16 Gy/2 Gy daily followed by twice-daily 1.4 Gy to a total dose of 77.6 Gy alone
+T7	Treatment 1215 1225	were 38.0%
+T8	Treatment 1235 1247	versus 26.0%
+T9	Treatment 1325 1336	39% and 10%
+T10	Treatment 1353 1362	30.0% and
+T11	Treatment 1751 1762	CONCLUSIONS
+T12	Treatment 1778 1786	superior

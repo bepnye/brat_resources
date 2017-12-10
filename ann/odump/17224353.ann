@@ -1,0 +1,12 @@
+T1	HMM 8 43	surface electromyographic responses
+T2	HMM 175 225	dynamic surface electromyographic (EMG) activities
+T3	HMM 381 411	surface EMG dynamic activities
+T4	HMM 610 632	dynamic EMG evaluation
+T5	HMM 755 779	flexion-relaxation ratio
+T6	HMM 808 828	maximal EMG activity
+T7	HMM 890 999	Concentric (maximal EMG activity during extension) and eccentric (maximal EMG activity during flexion) ratios
+T8	HMM 1040 1094	Disability, depression, and visual analog scale scores
+T9	HMM 1146 1162	concentric ratio
+T10	HMM 1309 1324	EMG parameters.
+T11	HMM 1424 1440	muscle symmetry;
+T12	HMM 1486 1515	flexion-relaxation phenomenon

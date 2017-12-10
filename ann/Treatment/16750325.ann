@@ -1,0 +1,13 @@
+T1	Treatment 58 158	hyperfractionated chest wall irradiation versus once-daily chest wall irradiation after chemotherapy
+T2	Treatment 330 365	hyperfractionated radiotherapy (RT)
+T3	Treatment 749 790	mastectomy after neoadjuvant chemotherapy
+T4	Treatment 880 933	hyperfractionated (twice-daily, b.i.d.) chest wall RT
+T5	Treatment 1265 1269	q.d.
+T6	Treatment 1270 1273	arm
+T7	Treatment 1290 1296	b.i.d.
+T8	Treatment 1297 1300	arm
+T9	Treatment 1451 1457	b.i.d.
+T10	Treatment 1458 1461	arm
+T11	Treatment 1503 1507	q.d.
+T12	Treatment 1508 1511	arm
+T13	Treatment 1782 1799	postmastectomy RT

@@ -1,0 +1,15 @@
+T1	HMM 40 51	pain scores
+T2	HMM 112 120	efficacy
+T3	HMM 242 250	efficacy
+T4	HMM 301 337	Premature Infant Pain Profile (PIPP)
+T5	HMM 578 598	Baseline PIPP scores
+T6	HMM 603 631	post-examination PIPP scores
+T7	HMM 851 867	pair pain scores
+T8	HMM 919 925	study.
+T9	HMM 926 951	Mean gestational age (GA)
+T10	HMM 1055 1079	lowered mean PIPP scores
+T11	HMM 1090 1106	and delta scores
+T12	HMM 1246 1268	lower mean PIPP scores
+T13	HMM 1407 1425	significant relief
+T14	HMM 1466 1490	Significantly lower PIPP
+T15	HMM 1691 1705	relief of pain

@@ -1,0 +1,9 @@
+T1	HMM 35 77	incidence of postoperative wound infection
+T2	HMM 379 408	reduction of aerobic bacteria
+T3	HMM 477 486	reduction
+T4	HMM 490 508	anaerobic bacteria
+T5	HMM 578 598	Wound infection rate
+T6	HMM 712 728	wound infections
+T7	HMM 817 855	staphylococci of presumed skin origin.
+T8	HMM 932 947	wound infection
+T9	HMM 1042 1058	wound infection.

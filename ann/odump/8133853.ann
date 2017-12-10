@@ -1,0 +1,9 @@
+T1	HMM 60 81	nosocomial infections
+T2	HMM 212 233	Nosocomial infections
+T3	HMM 1310 1372	Nosocomial infections of the blood, meninges, or urinary tract
+T4	HMM 1586 1596	Septicemia
+T5	HMM 1717 1738	nosocomial infections
+T6	HMM 2041 2058	Adverse reactions
+T7	HMM 2143 2273	respiratory distress syndrome, bronchopulmonary dysplasia, intracranial hemorrhage, the duration of hospitalization, or mortality.
+T8	HMM 2291 2316	necrotizing enterocolitis
+T9	HMM 2495 2523	hospital-acquired infections

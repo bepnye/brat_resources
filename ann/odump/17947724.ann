@@ -1,0 +1,15 @@
+T1	HMM 258 277	menopausal symptoms
+T2	HMM 758 773	hot flash score
+T3	HMM 1065 1081	Baseline symptom
+T4	HMM 1141 1175	(bone/muscle aches and low energy)
+T5	HMM 1218 1267	vaginal bleeding, mood alteration, or low energy.
+T6	HMM 1320 1337	vaginal discharge
+T7	HMM 1385 1402	bone/muscle aches
+T8	HMM 1416 1431	vaginal dryness
+T9	HMM 1449 1468	difficulty sleeping
+T10	HMM 1500 1515	hot flash score
+T11	HMM 1631 1651	mean hot flash score
+T12	HMM 1674 1685	hot flashes
+T13	HMM 1839 1850	hot flashes
+T14	HMM 1860 1877	vaginal discharge
+T15	HMM 1908 1968	vaginal dryness, bone/muscle aches, and difficulty sleeping.

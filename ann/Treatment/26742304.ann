@@ -1,0 +1,33 @@
+T1	Treatment 10 61	direct current pulse stimulating acupoints of JiaJi
+T2	Treatment 95 126	Han's Acupoint Nerve Stimulator
+T3	Treatment 247 316	direct current (DC) pulse produced by Han's Acupoint Nerve Stimulator
+T4	Treatment 474 585	HANS group, patient controlled intravenous analgesia (PCIA) group, patient-controlled epidural analgesia (PCEA)
+T5	Treatment 615 619	HANS
+T6	Treatment 657 675	acupoints of JiaJi
+T7	Treatment 689 695	Ciliao
+T8	Treatment 709 717	DC pulse
+T9	Treatment 755 811	portable battery-powered Han's Acupoint Nerve Stimulator
+T10	Treatment 828 832	PCIA
+T11	Treatment 865 876	Ondansetron
+T12	Treatment 900 918	tramadol injection
+T13	Treatment 998 1006	tramadol
+T14	Treatment 1017 1028	ondansetron
+T15	Treatment 1114 1118	PCEA
+T16	Treatment 1153 1174	injection ropivacaine
+T17	Treatment 1271 1282	Ropivacaine
+T18	Treatment 1294 1304	Sufentanil
+T19	Treatment 1340 1374	Patient controlled analgesia (PCA)
+T20	Treatment 1792 1796	HANS
+T21	Treatment 1807 1814	control
+T22	Treatment 1830 1834	PCEA
+T23	Treatment 1849 1856	control
+T24	Treatment 1872 1876	PCIA
+T25	Treatment 1887 1894	control
+T26	Treatment 1930 1934	PCEA
+T27	Treatment 2030 2034	PCEA
+T28	Treatment 2178 2182	PCIA
+T29	Treatment 2543 2547	PCIA
+T30	Treatment 2722 2726	PCEA
+T31	Treatment 2784 2788	PCIA
+T32	Treatment 2892 2896	HANS
+T33	Treatment 2940 2944	HANS

@@ -1,0 +1,13 @@
+T1	HMM 0 73	[Rapidity of pain relief, medication requirement and patient satisfaction
+T2	HMM 138 176	gastroesophageal reflux disease (GERD)
+T3	HMM 182 204	proton pump inhibitors
+T4	HMM 409 432	rapidity of pain relief
+T5	HMM 449 500	single dose, effectiveness and patient satisfaction
+T6	HMM 631 642	pain relief
+T7	HMM 881 898	drug consumption.
+T8	HMM 915 946	amount of lansoprazole consumed
+T9	HMM 1026 1046	patient satisfaction
+T10	HMM 1157 1168	consumption
+T11	HMM 1240 1257	continuetreatment
+T12	HMM 1353 1373	patient satisfaction
+T13	HMM 1406 1424	faster pain relief

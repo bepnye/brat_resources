@@ -1,0 +1,8 @@
+T1	HMM 26 74	systolic and diastolic left ventricular function
+T2	HMM 224 272	diastolic and systolic left ventricular function
+T3	HMM 570 657	left ventricular dimensions and ejection fraction, and Doppler mitral inflow parameters
+T4	HMM 732 766	left ventricular ejection fraction
+T5	HMM 872 909	time of the early mitral filling wave
+T6	HMM 957 989	time velocity integral of E-wave
+T7	HMM 1041 1081	duration of the late mitral filling wave
+T8	HMM 1301 1332	diastolic and systolic function

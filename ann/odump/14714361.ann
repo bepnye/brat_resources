@@ -1,0 +1,10 @@
+T1	HMM 25 31	effect
+T2	HMM 182 188	effect
+T3	HMM 566 576	cell cycle
+T4	HMM 581 595	apoptosis rate
+T5	HMM 660 679	Level of NF-kappa B
+T6	HMM 795 826	percentage of G0/G1 stage cells
+T7	HMM 868 875	S stage
+T8	HMM 943 957	cell apoptosis
+T9	HMM 994 1008	apoptosis rate
+T10	HMM 1182 1191	apoptosis

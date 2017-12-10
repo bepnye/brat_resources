@@ -1,0 +1,8 @@
+T1	HMM 209 213	pain
+T2	HMM 217 264	medial or lateral epicondylitis (tennis elbow).
+T3	HMM 398 402	pain
+T4	HMM 771 813	100-mm patient visual analog scale ratings
+T5	HMM 1005 1044	investigator's global improvement scale
+T6	HMM 1141 1186	Investigator-rated pain and tenderness scores
+T7	HMM 1392 1401	tolerated
+T8	HMM 1449 1474	symptoms of epicondylitis

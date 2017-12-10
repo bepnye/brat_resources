@@ -1,0 +1,11 @@
+Carcinoma, Squamous Cell
+Cyclophosphamide
+Doxorubicin
+Drug Administration Schedule
+Drug Therapy, Combination
+Female
+Humans
+Neoplasm Metastasis
+Neoplasm Recurrence, Local
+Uterine Cervical Neoplasms
+Vincristine

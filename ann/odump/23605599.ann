@@ -1,0 +1,6 @@
+T1	HMM 47 92	prevention of chemotherapy-induced mucositis.
+T2	HMM 357 370	radiotherapy-
+T3	HMM 375 406	chemotherapy-induced mucositis.
+T4	HMM 489 562	prevention of mucositis, xerostomia and pain as a result of chemotherapy.
+T5	HMM 758 848	effect of chemotherapy on oral mucositis, xerostomia and pain in a variety of malignancies
+T6	HMM 922 945	intensity of mucositis.

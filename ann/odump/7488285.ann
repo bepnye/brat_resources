@@ -1,0 +1,10 @@
+T1	HMM 1343 1350	Relapse
+T2	HMM 1452 1472	mean +/- SD followup
+T3	HMM 1602 1607	cured
+T4	HMM 1860 1878	clinical remission
+T5	HMM 1894 1942	maintenance regimen of low-dose corticosteroids.
+T6	HMM 1959 1963	died
+T7	HMM 2078 2084	deaths
+T8	HMM 2108 2130	treatment side effects
+T9	HMM 2142 2147	death
+T10	HMM 2221 2253	5-year cumulative survival rates

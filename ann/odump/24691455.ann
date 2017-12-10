@@ -1,0 +1,4 @@
+T1	HMM 724 743	Clinical parameters
+T2	HMM 998 1020	treatment failure rate
+T3	HMM 1030 1043	Failure rates
+T4	HMM 1165 1182	clinical outcomes

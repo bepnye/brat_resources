@@ -1,0 +1,11 @@
+T1	HMM 694 893	Western Ontario and McMaster's University Osteoarthritis Index (WOMAC) Pain Subscale (WOMAC-PS); WOMAC Physical Function Subscale (WOMAC-PFS); and Patient Global Assessment of Disease Status (PGADS).
+T2	HMM 1081 1111	least squares (LS) mean change
+T3	HMM 1190 1218	Safety and tolerability data
+T4	HMM 1264 1284	Mean baseline values
+T5	HMM 1418 1426	efficacy
+T6	HMM 1589 1598	WOMAC-PS:
+T7	HMM 1649 1659	WOMAC-PFS:
+T8	HMM 1710 1716	PGADS:
+T9	HMM 1771 1779	efficacy
+T10	HMM 1872 1882	tolerated.
+T11	HMM 1949 1957	efficacy

@@ -1,0 +1,7 @@
+T1	HMM 51 64	rectal cancer
+T2	HMM 385 401	serum CEA levels
+T3	HMM 780 791	CEA values:
+T4	HMM 1100 1123	5-year overall survival
+T5	HMM 1160 1188	5-year disease-free survival
+T6	HMM 1364 1392	5-year overall survival rate
+T7	HMM 1650 1666	of CEA clearance

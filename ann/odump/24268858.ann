@@ -1,0 +1,10 @@
+T1	HMM 162 170	efficacy
+T2	HMM 175 181	safety
+T3	HMM 1026 1076	proportion of eyes with complete resolution of SRF
+T4	HMM 1135 1264	mean changes in logarithm of the minimum angle of resolution best-corrected visual acuity (BCVA), central retinal thickness (CRT)
+T5	HMM 1270 1291	angiographic findings
+T6	HMM 1406 1448	resolution of SRF without rescue treatment
+T7	HMM 1684 1704	mean decrease in CRT
+T8	HMM 1862 1881	improvement in BCVA
+T9	HMM 2202 2229	choroidal hyperpermeability
+T10	HMM 2312 2334	serious adverse events

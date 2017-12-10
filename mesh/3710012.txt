@@ -1,0 +1,11 @@
+Adult
+Albuminuria
+Blood Pressure
+Clonidine
+Diabetes Mellitus, Type 1
+Diabetic Nephropathies
+Female
+Glomerular Filtration Rate
+Humans
+Male
+Middle Aged

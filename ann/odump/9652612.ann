@@ -1,0 +1,14 @@
+T1	HMM 608 702	hospital mortality and morbidity, length of hospital stay, and length of sick leave from work.
+T2	HMM 739 765	Suspected bile-duct stones
+T3	HMM 1115 1134	gangrene or empyema
+T4	HMM 1162 1221	perforation of the gallbladder causing diffuse peritonitis.
+T5	HMM 1301 1320	severe inflammation
+T6	HMM 1378 1405	deaths or bile-duct lesions
+T7	HMM 1431 1457	postoperative complication
+T8	HMM 1576 1595	minor complications
+T9	HMM 1670 1697	postoperative hospital stay
+T10	HMM 1800 1825	Mean length of sick leave
+T11	HMM 2030 2034	safe
+T12	HMM 2039 2049	effective.
+T13	HMM 2075 2089	mortality rate
+T14	HMM 2099 2113	morbidity rate

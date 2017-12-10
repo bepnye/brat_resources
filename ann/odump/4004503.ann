@@ -1,0 +1,8 @@
+T1	HMM 0 17	Therapist success
+T2	HMM 107 130	therapist's performance
+T3	HMM 146 168	outcomes of treatment.
+T4	HMM 490 565	patient factors; therapist factors; patient-therapist relationship factors;
+T5	HMM 570 586	therapy factors.
+T6	HMM 776 806	therapist's personal qualities
+T7	HMM 912 978	patient-therapist relationship, the Helping Alliance Questionnaire
+T8	HMM 1073 1081	"purity"

@@ -1,0 +1,8 @@
+T1	HMM 225 250	cardiovascular morbidity.
+T2	HMM 336 346	myocardial
+T3	HMM 1040 1086	normal left ventricular (LV) systolic function
+T4	HMM 1091 1118	impaired diastolic function
+T5	HMM 1237 1286	subclinical LV systolic and diastolic dysfunction
+T6	HMM 1292 1356	impaired circumferential and longitudinal strain and strain rate
+T7	HMM 1441 1490	improvement in LV systolic and diastolic function
+T8	HMM 1594 1628	systolic and diastolic dysfunction

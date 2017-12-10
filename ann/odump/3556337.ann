@@ -1,0 +1,4 @@
+T1	HMM 25 47	gastric acid secretion
+T2	HMM 52 67	gastrin release
+T3	HMM 635 686	basal or Oxo meal stimulated gastrin concentrations
+T4	HMM 726 789	resting serum gastrin or calcium stimulated increase in gastrin

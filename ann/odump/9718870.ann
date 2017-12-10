@@ -1,0 +1,6 @@
+T1	HMM 188 209	efficacy and toxicity
+T2	HMM 759 784	actuarial survival curves
+T3	HMM 927 948	CR rate and toxicity.
+T4	HMM 970 984	total relapses
+T5	HMM 1083 1092	second CR
+T6	HMM 1258 1309	CR, low risk of relapse and an acceptable toxicity.

@@ -1,0 +1,9 @@
+T1	HMM 8 38	platelet thromboxane formation
+T2	HMM 452 493	Stimulated platelet thromboxane formation
+T3	HMM 597 677	plasma levels of platelet factor 4 and aggregation responses to collagen and ADP
+T4	HMM 718 739	thromboxane formation
+T5	HMM 865 913	Exercise induced change of thromboxane synthesis
+T6	HMM 1028 1045	PF4 plasma levels
+T7	HMM 1085 1135	Whole blood aggregation after collagen stimulation
+T8	HMM 1213 1247	ADP (5 microM) induced aggregation
+T9	HMM 1385 1423	collagen dependent platelet activation

@@ -1,0 +1,8 @@
+T1	HMM 0 26	Pulsatile insulin delivery
+T2	HMM 1062 1098	plasma C-peptide and glucagon levels
+T3	HMM 1225 1267	basal plasma glucagon and C-peptide levels
+T4	HMM 1303 1338	arginine-induced glucagon response.
+T5	HMM 1579 1626	basal or arginine-stimulated glucagon response.
+T6	HMM 1702 1735	arginine-induced glucagon release
+T7	HMM 1826 1882	physiological modulator of islet A- and B-cell function.
+T8	HMM 2044 2087	pulsatile physiological release of insulin.

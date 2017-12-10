@@ -1,0 +1,13 @@
+T1	HMM 1303 1330	overall first response rate
+T2	HMM 1520 1530	myelotoxic
+T3	HMM 1574 1606	non-haematological side-effects.
+T4	HMM 1678 1694	disease control.
+T5	HMM 1695 1717	Progression of disease
+T6	HMM 1860 1886	duration of first response
+T7	HMM 2052 2086	median duration of first response.
+T8	HMM 2091 2119	overall second response rate
+T9	HMM 2194 2209	Median survival
+T10	HMM 2424 2432	survival
+T11	HMM 2680 2694	first response
+T12	HMM 2704 2719	second response
+T13	HMM 2794 2807	side effects.

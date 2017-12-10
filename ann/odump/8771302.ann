@@ -1,0 +1,9 @@
+T1	HMM 520 544	feasibility and accuracy
+T2	HMM 1070 1093	hemodynamic performance
+T3	HMM 1136 1166	proper fluoroscopic evaluation
+T4	HMM 1484 1503	fluoroscopic image.
+T5	HMM 1551 1574	hemodynamic performance
+T6	HMM 1653 1700	rate of success of the fluoroscopic evaluation.
+T7	HMM 1781 1834	postoperative feasibility and accuracy of fluoroscopy
+T8	HMM 1869 1901	valve's hemodynamic performance.
+T9	HMM 1946 1965	fluoroscopic window

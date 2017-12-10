@@ -1,0 +1,7 @@
+T1	HMM 148 176	quality of life and symptoms
+T2	HMM 192 205	schizophrenia
+T3	HMM 468 496	more favorable health states
+T4	HMM 596 635	symptom and side effect characteristics
+T5	HMM 667 692	quality of life measures.
+T6	HMM 1051 1075	depression and akathisia
+T7	HMM 1322 1340	worst health state

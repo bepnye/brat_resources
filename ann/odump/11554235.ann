@@ -1,0 +1,14 @@
+T1	HMM 60 79	nausea and vomiting
+T2	HMM 258 277	nausea and vomiting
+T3	HMM 443 462	vomiting and nausea
+T4	HMM 1245 1279	Complete control of acute vomiting
+T5	HMM 1383 1395	acute nausea
+T6	HMM 1437 1453	Overall response
+T7	HMM 1491 1510	vomiting and nausea
+T8	HMM 1918 1932	more effective
+T9	HMM 2005 2026	The adverse reactions
+T10	HMM 2079 2091	tolerability
+T11	HMM 2103 2133	antiemetic therapy modalities.
+T12	HMM 2224 2243	nausea and vomiting
+T13	HMM 2298 2332	This increased antiemetic efficacy
+T14	HMM 2412 2424	body weight.

@@ -1,0 +1,14 @@
+T1	Intervention 16 67	early enteral nutrition with addition of probiotics
+T2	Intervention 189 264	early enteral nutrition (EN) supplemented with probiotics (bifidobacterium)
+T3	Intervention 412 437	parenteral nutrition (PN)
+T4	Intervention 452 454	EN
+T5	Intervention 472 503	bifidobacterium added EN (P+EN)
+T6	Intervention 521 525	P+EN
+T7	Intervention 602 612	probiotics
+T8	Intervention 614 630	bifidobacterium,
+T9	Intervention 755 791	anti-infection and anti-acid agents,
+T10	Intervention 2154 2156	PN
+T11	Intervention 2296 2300	P+EN
+T12	Intervention 2604 2606	PN
+T13	Intervention 2611 2613	EN
+T14	Intervention 3003 3051	EN with addition of probiotics (bifidobacterium)

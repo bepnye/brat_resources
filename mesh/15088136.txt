@@ -1,0 +1,21 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents
+Bone Neoplasms
+Confidence Intervals
+Diphosphonates
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Female
+Humans
+Imidazoles
+Infusions, Intravenous
+Male
+Middle Aged
+Outpatients
+Patient Satisfaction
+Quality of Life
+Questionnaires
+Time Factors
+Treatment Outcome

@@ -1,0 +1,9 @@
+T1	HMM 26 68	patient preference, safety and clinic use.
+T2	HMM 375 387	renal safety
+T3	HMM 1340 1364	disruption to their day.
+T4	HMM 1510 1526	renal impairment
+T5	HMM 1555 1574	disease progression
+T6	HMM 1639 1702	mean clinic time taken to receive Z and any concomitant therapy
+T7	HMM 1789 1817	bisphosphonate infusions-and
+T8	HMM 1882 1886	safe
+T9	HMM 2021 2042	patient satisfaction.

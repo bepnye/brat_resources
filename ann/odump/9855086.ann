@@ -1,0 +1,5 @@
+T1	HMM 811 826	Intragastric pH
+T2	HMM 902 945	intragastric pH with a mean intragastric pH
+T3	HMM 1035 1042	mean pH
+T4	HMM 1198 1218	intragastric acidity
+T5	HMM 1471 1486	intragastric pH

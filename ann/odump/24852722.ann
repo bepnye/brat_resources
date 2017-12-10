@@ -1,0 +1,6 @@
+T1	HMM 35 44	efficacy:
+T2	HMM 449 460	protection;
+T3	HMM 1057 1092	Protection by first BCG vaccination
+T4	HMM 1212 1239	revaccination at school age
+T5	HMM 1358 1374	Vaccine efficacy
+T6	HMM 1496 1521	Variation in BCG efficacy

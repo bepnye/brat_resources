@@ -1,0 +1,9 @@
+T1	HMM 1147 1189	feasibility, response rates, and toxicity.
+T2	HMM 1216 1281	progression-free survival, overall survival, and quality of life.
+T3	HMM 1328 1338	Compliance
+T4	HMM 1372 1393	overall response rate
+T5	HMM 1441 1459	Grade 3/4 toxicity
+T6	HMM 1516 1548	median progression-free survival
+T7	HMM 1634 1649	median survival
+T8	HMM 1751 1766	quality of life
+T9	HMM 1893 1901	response

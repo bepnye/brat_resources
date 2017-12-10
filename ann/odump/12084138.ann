@@ -1,0 +1,11 @@
+T1	HMM 165 176	alcohol use
+T2	HMM 786 805	days of alcohol use
+T3	HMM 864 879	Study retention
+T4	HMM 944 957	drinking days
+T5	HMM 1017 1030	drinking days
+T6	HMM 1108 1150	baseline drinking day interaction effects.
+T7	HMM 1222 1265	median (>9) baseline drinking day frequency
+T8	HMM 1303 1331	baseline drinking frequency.
+T9	HMM 1400 1419	treatment efficacy;
+T10	HMM 1488 1516	reductions of 7 days or more
+T11	HMM 1614 1625	alcohol use

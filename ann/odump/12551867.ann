@@ -1,0 +1,19 @@
+T1	HMM 48 67	endothelin-1 levels
+T2	HMM 81 101	endothelial function
+T3	HMM 197 221	dimethylarginine levels.
+T4	HMM 264 305	asymmetric dimethylarginine (ADMA) levels
+T5	HMM 338 350	endothelin-1
+T6	HMM 355 386	nitric oxide release and action
+T7	HMM 516 536	endothelial function
+T8	HMM 850 884	Basal ADMA and endothelin-1 levels
+T9	HMM 1030 1107	basal forearm blood flow, nitrite and nitrate (NOx), and forearm cGMP release
+T10	HMM 1122 1135	endothelin-1.
+T11	HMM 1172 1231	insulin-induced NOx, endothelin-1, and forearm cGMP release
+T12	HMM 1317 1338	endothelial variables
+T13	HMM 1473 1484	ADMA levels
+T14	HMM 1523 1542	endothelin-1 levels
+T15	HMM 1574 1641	insulin-induced incremental levels of NOx and forearm cGMP release.
+T16	HMM 1654 1672	Plasma ADMA levels
+T17	HMM 1751 1763	endothelin-1
+T18	HMM 1812 1831	plasma NOx and cGMP
+T19	HMM 1920 1931	ADMA levels

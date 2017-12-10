@@ -1,0 +1,9 @@
+T1	Treatment 0 37	Concurrent doxorubicin plus docetaxel
+T2	Treatment 65 109	concurrent doxorubicin plus cyclophosphamide
+T3	Treatment 255 292	doxorubicin and cyclophosphamide (AC)
+T4	Treatment 325 355	Doxorubicin and docetaxel (AT)
+T5	Treatment 796 807	doxorubicin
+T6	Treatment 821 849	plus either cyclophosphamide
+T7	Treatment 868 880	or docetaxel
+T8	Treatment 1299 1301	AC
+T9	Treatment 1640 1642	AT

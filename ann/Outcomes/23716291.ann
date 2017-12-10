@@ -1,0 +1,8 @@
+T1	Outcomes 240 298	diagnostic accuracy of coronary artery stenosis evaluation
+T2	Outcomes 686 729	degree of stenosis on each coronary segment
+T3	Outcomes 735 751	overall accuracy
+T4	Outcomes 838 876	improved analysis accuracy per segment
+T5	Outcomes 894 905	sensitivity
+T6	Outcomes 967 978	specificity
+T7	Outcomes 1031 1080	Positive and negative predictive values increased
+T8	Outcomes 1156 1178	diagnostic performance

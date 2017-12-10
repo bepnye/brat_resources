@@ -1,0 +1,9 @@
+Bilirubin
+Erythrocytes
+Hematocrit
+Humans
+Infant, Newborn
+Jaundice, Neonatal
+Premedication
+Protein Binding
+Serum Albumin

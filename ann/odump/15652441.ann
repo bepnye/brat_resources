@@ -1,0 +1,10 @@
+T1	HMM 0 51	Efficacy, safety, and steady-state pharmacokinetics
+T2	HMM 130 168	efficacy, safety, and pharmacokinetics
+T3	HMM 652 714	overall pain intensity, analgesic efficacy, or adverse events.
+T4	HMM 732 743	pain scores
+T5	HMM 905 920	pain management
+T6	HMM 936 945	AUC ratio
+T7	HMM 992 1011	Fluctuation indices
+T8	HMM 1145 1154	analgesia
+T9	HMM 1203 1247	fluctuation in plasma morphine concentration
+T10	HMM 1264 1277	pain control.

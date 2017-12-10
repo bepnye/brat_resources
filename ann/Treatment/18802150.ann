@@ -1,0 +1,14 @@
+T1	Treatment 73 100	treatment--cyclophosphamide
+T2	Treatment 115 125	ifosfamide
+T3	Treatment 181 190	etoposide
+T4	Treatment 330 346	cyclophosphamide
+T5	Treatment 373 383	ifosfamide
+T6	Treatment 443 452	etoposide
+T7	Treatment 617 696	vincristine, dactinomycin, ifosfamide, and doxorubicin (VAIA) induction therapy
+T8	Treatment 730 844	VAIA or vincristine, dactinomycin, cyclophosphamide, and doxorubicin (VACA; cyclophosphamide replacing ifosfamide)
+T9	Treatment 947 951	VAIA
+T10	Treatment 955 982	VAIA plus etoposide (EVAIA)
+T11	Treatment 1230 1234	VAIA
+T12	Treatment 1268 1272	VACA
+T13	Treatment 1298 1302	VAIA
+T14	Treatment 1341 1347	EVAIA.

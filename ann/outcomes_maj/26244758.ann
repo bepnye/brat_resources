@@ -1,0 +1,10 @@
+T1	Outcomes 879 964	Overall survival, time to first recurrence, complication rates, and surgical outcomes
+T2	Outcomes 1094 1108	operating time
+T3	Outcomes 1227 1240	hospital stay
+T4	Outcomes 1301 1332	number of harvested lymph nodes
+T5	Outcomes 1420 1467	intraoperative and postoperative adverse events
+T6	Outcomes 1542 1560	rate of conversion
+T7	Outcomes 1564 1574	laparotomy
+T8	Outcomes 1700 1733	hazard ratio for overall survival
+T9	Outcomes 2004 2017	hospital stay
+T10	Outcomes 2032 2050	morbidity profile.

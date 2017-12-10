@@ -1,0 +1,14 @@
+T1	HMM 160 180	carcinogenic effects
+T2	HMM 461 525	gastric cardia cancer (GCC) and gastric noncardia cancer (GNCC).
+T3	HMM 813 847	Total iron-binding capacity (TIBC)
+T4	HMM 1050 1068	Serum iron metrics
+T5	HMM 1094 1097	GCC
+T6	HMM 1176 1180	GNCC
+T7	HMM 1211 1225	serum ferritin
+T8	HMM 1246 1256	serum iron
+T9	HMM 1291 1314	transferrin saturation.
+T10	HMM 1315 1319	TIBC
+T11	HMM 1369 1373	GNCC
+T12	HMM 1394 1416	Dietary iron exposures
+T13	HMM 1638 1658	pathogenesis of GCC.
+T14	HMM 1659 1663	GNCC

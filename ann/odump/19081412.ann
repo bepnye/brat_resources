@@ -1,0 +1,4 @@
+T1	HMM 955 986	target lesion revascularization
+T2	HMM 1062 1086	vessel revascularization
+T3	HMM 1160 1188	Major adverse cardiac events
+T4	HMM 1319 1369	death, myocardial infarction, and stent thrombosis

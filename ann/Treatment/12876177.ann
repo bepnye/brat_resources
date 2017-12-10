@@ -1,0 +1,14 @@
+T1	Treatment 60 67	placebo
+T2	Treatment 87 112	human synthetic secretin.
+T3	Treatment 161 191	human synthetic secretin (HSS)
+T4	Treatment 419 426	placebo
+T5	Treatment 476 506	human synthetic secretin (HSS)
+T6	Treatment 569 589	(saline placebo/HSS)
+T7	Treatment 601 622	(HSS/saline placebo).
+T8	Treatment 1382 1409	placebo, secretin treatment
+T9	Treatment 1599 1602	HSS
+T10	Treatment 1619 1627	placebo.
+T11	Treatment 1697 1700	HSS
+T12	Treatment 1704 1719	saline placebo.
+T13	Treatment 1761 1775	human secretin
+T14	Treatment 1871 1879	placebo.

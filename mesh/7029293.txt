@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Bone Neoplasms
+Child
+Clinical Trials as Topic
+Cyclophosphamide
+Dactinomycin
+Doxorubicin
+Drug Therapy, Combination
+Female
+Humans
+Male
+Neoplasm Metastasis
+Prognosis
+Sarcoma, Ewing
+Time Factors
+Vincristine

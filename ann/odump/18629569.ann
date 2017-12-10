@@ -1,0 +1,11 @@
+T1	HMM 64 103	falls and parameters of muscle function
+T2	HMM 410 425	muscle function
+T3	HMM 520 535	risk of falling
+T4	HMM 715 754	falls and parameters of muscle function
+T5	HMM 1268 1273	Falls
+T6	HMM 1545 1570	subjects with first falls
+T7	HMM 1723 1758	improvements in quadriceps strength
+T8	HMM 1780 1789	body sway
+T9	HMM 1816 1851	time needed to perform the TUG test
+T10	HMM 1967 1982	number of falls
+T11	HMM 1997 2012	muscle function

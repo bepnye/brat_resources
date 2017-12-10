@@ -1,0 +1,12 @@
+T1	HMM 37 43	recall
+T2	HMM 1147 1160	assess recall
+T3	HMM 1208 1256	total number of themes recalled per participant.
+T4	HMM 1289 1312	proportion of responses
+T5	HMM 1336 1362	recalled individual themes
+T6	HMM 1371 1394	proportion of responses
+T7	HMM 1422 1465	falsely recalled or extraneous information.
+T8	HMM 1594 1637	mean of the total number of themes recalled
+T9	HMM 1798 1821	proportion of responses
+T10	HMM 1983 1989	recall
+T11	HMM 2105 2111	recall
+T12	HMM 2189 2231	falsely recalled or extraneous information

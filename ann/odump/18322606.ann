@@ -1,0 +1,5 @@
+T1	HMM 45 79	clinical and pathological features
+T2	HMM 477 551	Serum liver function test results, PCIII, CIV, HA and liver biopsy results
+T3	HMM 685 693	efficacy
+T4	HMM 716 739	liver function recovery
+T5	HMM 753 808	serum PCIII, CIV, HA levels and liver pathologic grades

@@ -1,0 +1,7 @@
+T1	Treatment 0 14	Active warming
+T2	Treatment 714 738	alkalinized lidocaine 2%
+T3	Treatment 767 834	standard general anesthesia by means of low-flow rebreathing system
+T4	Treatment 1111 1135	low-flow anesthesia only
+T5	Treatment 1155 1210	low-flow anesthesia with additional reflective blankets
+T6	Treatment 1233 1283	low-flow anesthesia with active forced-air warming
+T7	Treatment 2399 2468	low-flow anesthesia alone and in combination with reflective blankets

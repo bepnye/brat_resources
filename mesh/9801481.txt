@@ -1,0 +1,10 @@
+Adult
+Ambulatory Surgical Procedures
+Anesthetics, Inhalation
+Female
+Humans
+Isoflurane
+Male
+Patient Discharge
+Time Factors
+Wakefulness

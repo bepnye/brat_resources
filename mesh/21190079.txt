@@ -1,0 +1,23 @@
+Adult
+Antineoplastic Combined Chemotherapy Protocols
+Breast Neoplasms
+Carcinoma, Ductal, Breast
+Carcinoma, Lobular
+Chemotherapy, Adjuvant
+Cyclophosphamide
+Deoxycytidine
+Doxorubicin
+Female
+Fluorouracil
+Humans
+Immunoenzyme Techniques
+Neoadjuvant Therapy
+Prognosis
+Prospective Studies
+RNA, Messenger
+Receptor, ErbB-2
+Reverse Transcriptase Polymerase Chain Reaction
+Survival Rate
+Taxoids
+Tumor Markers, Biological
+Vinblastine

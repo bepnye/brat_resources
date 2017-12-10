@@ -1,0 +1,10 @@
+T1	HMM 57 71	symptom relief
+T2	HMM 101 116	reflux disease.
+T3	HMM 285 293	efficacy
+T4	HMM 816 830	symptom relief
+T5	HMM 891 967	discontinuation due to lack of heartburn control during the on-demand phase.
+T6	HMM 1040 1054	symptom relief
+T7	HMM 1114 1178	rates of discontinuation because of inadequate heartburn control
+T8	HMM 1262 1273	Antacid use
+T9	HMM 1405 1414	effective
+T10	HMM 1418 1438	acute symptom relief

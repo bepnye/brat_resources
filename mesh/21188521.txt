@@ -1,0 +1,12 @@
+Biological Markers
+Carcinoma, Hepatocellular
+Cell Line, Tumor
+Dose-Response Relationship, Drug
+Gene Expression Regulation, Neoplastic
+Humans
+Liver Neoplasms
+Protein Precursors
+Prothrombin
+Tumor Markers, Biological
+Vitamin K 1
+alpha-Fetoproteins

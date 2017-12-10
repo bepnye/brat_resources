@@ -1,0 +1,8 @@
+T1	HMM 517 529	exercise ECG
+T2	HMM 556 576	duration of exercise
+T3	HMM 595 604	ischaemia
+T4	HMM 651 660	reduction
+T5	HMM 727 752	number of anginal attacks
+T6	HMM 786 827	Plasma level of ISDN and the mononitrates
+T7	HMM 968 1012	frequency of angina and ischaemia parameters
+T8	HMM 1056 1075	anti-anginal effect

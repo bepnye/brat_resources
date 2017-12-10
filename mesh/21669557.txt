@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Air Pollutants
+Air Pollution, Indoor
+Arrhythmias, Cardiac
+Cooking
+Electrocardiography, Ambulatory
+Female
+Guatemala
+Heart Rate
+Humans
+Inhalation Exposure
+Middle Aged
+Particulate Matter
+Smoke
+Wood

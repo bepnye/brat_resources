@@ -1,0 +1,7 @@
+T1	HMM 91 126	lower respiratory tract infections.
+T2	HMM 652 673	clinical improvement.
+T3	HMM 858 895	satisfactory bacteriological response
+T4	HMM 1101 1173	mild adverse effects (nausea, vomiting, headache, hypotension and rash).
+T5	HMM 1207 1216	tolerated
+T6	HMM 1242 1248	deaths
+T7	HMM 1360 1378	effective and safe

@@ -1,0 +1,9 @@
+T1	HMM 915 1020	Change in the clinical symptom score (consisting of the subscores redness, swelling, pain, and secretion)
+T2	HMM 1032 1075	visual analogue scale (VAS) rating for pain
+T3	HMM 1123 1155	patient's assessment of efficacy
+T4	HMM 1191 1228	frequency and type of adverse events.
+T5	HMM 1284 1292	swelling
+T6	HMM 1357 1365	efficacy
+T7	HMM 1478 1500	clinical symptom score
+T8	HMM 1586 1606	severe symptom score
+T9	HMM 1843 1865	adverse drug reactions

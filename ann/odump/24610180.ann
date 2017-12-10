@@ -1,0 +1,6 @@
+T1	HMM 1318 1341	"medically cooperative"
+T2	HMM 1421 1427	liking
+T3	HMM 1503 1524	medically cooperative
+T4	HMM 1590 1594	care
+T5	HMM 1768 1798	rate of recommendation for TKR
+T6	HMM 2025 2038	recommend TKR

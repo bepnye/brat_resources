@@ -1,0 +1,21 @@
+T1	HMM 0 8	Efficacy
+T2	HMM 13 19	safety
+T3	HMM 217 225	efficacy
+T4	HMM 230 236	safety
+T5	HMM 271 288	flea infestations
+T6	HMM 332 351	heartworm infection
+T7	HMM 1044 1056	Flea burdens
+T8	HMM 1074 1090	flea comb counts
+T9	HMM 1095 1122	clinical evaluations of FAD
+T10	HMM 1212 1228	mean flea counts
+T11	HMM 1299 1315	mean flea counts
+T12	HMM 1452 1468	mean flea counts
+T13	HMM 1539 1555	mean flea counts
+T14	HMM 1981 2006	heartworm prevention rate
+T15	HMM 2339 2362	serious adverse events.
+T16	HMM 2418 2434	highly effective
+T17	HMM 2442 2470	control of flea infestations
+T18	HMM 2589 2641	beneficial in alleviating signs associated with FAD.
+T19	HMM 2680 2727	preventing the development of canine heartworms
+T20	HMM 2736 2740	safe
+T21	HMM 2745 2756	topical use

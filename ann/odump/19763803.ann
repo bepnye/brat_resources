@@ -1,0 +1,5 @@
+T1	HMM 294 320	cardiovascular (CV) events
+T2	HMM 1083 1124	percent change of coronary plaque volume.
+T3	HMM 1161 1254	inflammatory markers, antioxidant activity, and incidence of composite cardiovascular events.
+T4	HMM 1321 1336	coronary plaque
+T5	HMM 1528 1544	coronary events.

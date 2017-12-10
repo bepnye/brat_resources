@@ -1,0 +1,5 @@
+T1	Intervention 265 480	sham injections plus prompt laser, intravitreal ranibizumab injections plus prompt laser, intravitreal ranibizumab injections plus deferred laser, or intravitreal triamcinolone acetonide injections plus prompt laser
+T2	Intervention 662 684	sham plus prompt laser
+T3	Intervention 1179 1190	ranibizumab
+T4	Intervention 1294 1307	triamcinolone
+T5	Intervention 1320 1325	laser

@@ -1,0 +1,4 @@
+T1	HMM 465 487	deep venous thrombosis
+T2	HMM 644 662	risk of thrombosis
+T3	HMM 757 788	cases of deep venous thrombosis
+T4	HMM 905 945	peroperative and postoperative bleeding.

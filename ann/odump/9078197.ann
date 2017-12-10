@@ -1,0 +1,8 @@
+T1	HMM 44 53	mortality
+T2	HMM 1008 1027	all-cause mortality
+T3	HMM 1051 1089	cardiac mortality and arrhythmic death
+T4	HMM 1398 1417	All-cause mortality
+T5	HMM 1485 1502	cardiac mortality
+T6	HMM 1592 1606	risk reduction
+T7	HMM 1634 1652	arrhythmic deaths.
+T8	HMM 1884 1900	arrhythmic death

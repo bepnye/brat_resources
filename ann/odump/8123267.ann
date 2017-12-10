@@ -1,0 +1,9 @@
+T1	HMM 1122 1146	Recovery from anesthesia
+T2	HMM 1234 1265	mean +/- SD time to eye opening
+T3	HMM 1467 1506	mean time to respond to verbal commands
+T4	HMM 1722 1842	time from arrival in the recovery room to sitting, tolerating oral fluids, walking, or being judged "fit for discharge."
+T5	HMM 1908 1953	postoperative pain or analgesic requirements.
+T6	HMM 2045 2084	higher frequency of nausea and vomiting
+T7	HMM 2192 2228	more rapid emergence from anesthesia
+T8	HMM 2318 2326	recovery
+T9	HMM 2412 2459	frequency of postoperative nausea and vomiting.

@@ -1,0 +1,15 @@
+T1	HMM 38 56	sleep disturbances
+T2	HMM 206 213	bedtime
+T3	HMM 218 237	sleep disturbances.
+T4	HMM 270 282	disturbances
+T5	HMM 443 461	sleep disturbances
+T6	HMM 478 521	feasibility, fidelity, and initial efficacy
+T7	HMM 983 1023	feasibility, fidelity, and efficacy were
+T8	HMM 1093 1098	sleep
+T9	HMM 1346 1357	feasibility
+T10	HMM 1438 1446	fidelity
+T11	HMM 1562 1583	primary sleep outcome
+T12	HMM 1626 1642	changes in sleep
+T13	HMM 1748 1766	sleep disturbances
+T14	HMM 1848 1859	feasibility
+T15	HMM 1877 1893	Initial efficacy

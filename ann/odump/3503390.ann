@@ -1,0 +1,10 @@
+T1	HMM 765 783	length of survival
+T2	HMM 789 844	host immune response and the incidence of side effects.
+T3	HMM 912 921	survival.
+T4	HMM 989 1021	white cell and lymphocyte counts
+T5	HMM 1043 1050	T cells
+T6	HMM 1063 1085	dramatic skin reaction
+T7	HMM 1240 1245	fever
+T8	HMM 1271 1294	local abscess formation
+T9	HMM 1348 1353	fever
+T10	HMM 1358 1375	abscess formation

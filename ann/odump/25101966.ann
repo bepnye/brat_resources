@@ -1,0 +1,5 @@
+T1	HMM 639 656	fixation duration
+T2	HMM 661 750	time taken to fixate on the Eye and Mouth regions of familiar, unfamiliar and Self Faces.
+T3	HMM 952 996	fixation patterns to the Eye and Mouth areas
+T4	HMM 1290 1332	gaze patterns on unfamiliar and Self Faces
+T5	HMM 1392 1413	ability and attention

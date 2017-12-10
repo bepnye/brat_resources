@@ -1,0 +1,12 @@
+T1	Outcomes 647 652	death
+T2	Outcomes 656 666	dependency
+T3	Outcomes 720 756	Early neurologic deterioration (END)
+T4	Outcomes 761 775	infarct volume
+T5	Outcomes 1013 1039	frequency of mRS score > 2
+T6	Outcomes 1131 1153	greater infarct volume
+T7	Outcomes 1327 1355	risk of death or dependency,
+T8	Outcomes 1408 1412	END,
+T9	Outcomes 1432 1451	mean infarct volume
+T10	Outcomes 1604 1621	statin withdrawal
+T11	Outcomes 1688 1699	risk of END
+T12	Outcomes 1707 1738	increase in mean infarct volume

@@ -1,0 +1,12 @@
+T1	HMM 490 519	incidence and severity of HMD
+T2	HMM 682 727	volume-pressure behavior of the excised lungs
+T3	HMM 745 759	distensibility
+T4	HMM 887 906	deflation stability
+T5	HMM 935 992	production of surface active material (SAM) phospholipids
+T6	HMM 1066 1089	total lung phospholipid
+T7	HMM 1159 1193	alveolar lavage fluid phospholipid
+T8	HMM 1268 1327	alveolar lavage fluid disaturated phosphatidylcholine (DPC)
+T9	HMM 1398 1444	Incorporation of 14C-palmitate into lung lipid
+T10	HMM 1641 1683	incidence and severity of experimental HMD
+T11	HMM 1775 1814	maturation of fetal pulmonary functions
+T12	HMM 1847 1888	synthetic metabolism of SAM phospholipid.

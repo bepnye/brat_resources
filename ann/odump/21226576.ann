@@ -1,0 +1,8 @@
+T1	HMM 439 490	symptomatic response and rates of clinical failure.
+T2	HMM 564 594	initial resolution of symptoms
+T3	HMM 992 1011	Mean symptom scores
+T4	HMM 1149 1182	rate of clinical failure--defined
+T5	HMM 1214 1259	acute infection on otoscopic examination--was
+T6	HMM 1496 1507	Mastoiditis
+T7	HMM 1553 1588	Diarrhea and diaper-area dermatitis
+T8	HMM 1725 1752	nasopharyngeal colonization

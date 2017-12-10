@@ -1,0 +1,13 @@
+T1	HMM 915 952	Hemodynamic and hormonal measurements
+T2	HMM 1041 1101	circulating beta-endorphin, norepinephrine, and endothelin-1
+T3	HMM 1218 1232	blood pressure
+T4	HMM 1248 1274	circulating norepinephrine
+T5	HMM 1300 1332	plasma atrial natriuretic factor
+T6	HMM 1417 1445	systemic vascular resistance
+T7	HMM 1460 1474	blood pressure
+T8	HMM 1493 1514	plasma norepinephrine
+T9	HMM 1532 1544	endothelin-1
+T10	HMM 1569 1606	circulating atrial natriuretic factor
+T11	HMM 1621 1623	GH
+T12	HMM 1642 1647	IGF-I
+T13	HMM 1668 1702	hemodynamic and hormonal responses

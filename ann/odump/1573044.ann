@@ -1,0 +1,10 @@
+T1	HMM 630 642	drug effects
+T2	HMM 648 655	greater
+T3	HMM 677 697	prolonged impairment
+T4	HMM 703 756	motor tracking task, standing steadiness, and memory.
+T5	HMM 773 802	significantly impaired memory
+T6	HMM 887 898	unfamiliar.
+T7	HMM 988 998	drug abuse
+T8	HMM 1042 1064	not particularly liked
+T9	HMM 1073 1086	not different
+T10	HMM 1103 1143	most subjective abuse-relevant measures.

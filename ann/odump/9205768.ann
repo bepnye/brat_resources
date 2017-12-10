@@ -1,0 +1,6 @@
+T1	HMM 89 100	eradication
+T2	HMM 591 602	eradication
+T3	HMM 976 1022	demographic parameters and clinical histories.
+T4	HMM 1099 1110	eradication
+T5	HMM 1312 1329	clinical symptoms
+T6	HMM 1402 1414	healing rate

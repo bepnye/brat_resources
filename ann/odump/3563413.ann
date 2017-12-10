@@ -1,0 +1,5 @@
+T1	HMM 692 728	Fasting levels of intact neurotensin
+T2	HMM 774 803	NH2-terminal immunoreactivity
+T3	HMM 950 994	Meal-stimulated levels of intact neurotensin
+T4	HMM 1050 1089	levels of NH2-terminal immunoreactivity
+T5	HMM 1222 1302	postprandial levels of both intact neurotensin and NH2-terminal immunoreactivity

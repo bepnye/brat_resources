@@ -1,0 +1,4 @@
+T1	HMM 307 348	onset times of sensory and motor blockade
+T2	HMM 1154 1170	Sensory blockade
+T3	HMM 1213 1227	motor blockade
+T4	HMM 1486 1512	Spread of sensory blockade

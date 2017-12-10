@@ -1,0 +1,8 @@
+T1	Intervention 122 157	propofol/alfentanil/N2O anaesthesia
+T2	Intervention 163 200	thiopentone/halothane/N2O anaesthesia
+T3	Intervention 470 493	oral midazolam-atropine
+T4	Intervention 581 634	propofol/alfentanil/N2O or thiopentone/halothane/N2O.
+T5	Intervention 880 903	propofol/alfentanil/N2O
+T6	Intervention 950 976	thiopentone/halothane/N2O.
+T7	Intervention 1422 1457	propofol/alfentanil/N2O anaesthesia
+T8	Intervention 1480 1517	thiopentone/halothane/N2O anaesthesia

@@ -1,0 +1,8 @@
+T1	HMM 724 733	mean time
+T2	HMM 830 845	analgesic drugs
+T3	HMM 959 984	recurrence of the disease
+T4	HMM 1013 1021	air leak
+T5	HMM 1076 1088	complication
+T6	HMM 1099 1119	Cost of ICT and VATS
+T7	HMM 1296 1316	hospitalization time
+T8	HMM 1369 1425	recurrence of the disease and the cost of the treatment.

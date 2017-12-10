@@ -1,0 +1,20 @@
+6-Mercaptopurine
+Adolescent
+Adult
+Amsacrine
+Antineoplastic Combined Chemotherapy Protocols
+Cytarabine
+DNA
+DNA Adducts
+Daunorubicin
+Doxorubicin
+Drug Administration Schedule
+Humans
+Leukemia, Myeloid, Acute
+Methotrexate
+Middle Aged
+Prednisolone
+Prednisone
+Survival Analysis
+Thioguanine
+Vincristine

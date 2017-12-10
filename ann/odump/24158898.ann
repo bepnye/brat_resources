@@ -1,0 +1,8 @@
+T1	HMM 1111 1127	eradication rate
+T2	HMM 1235 1264	Per-protocol eradication rate
+T3	HMM 1381 1389	therapy.
+T4	HMM 1390 1426	Intention-to-treat eradication rates
+T5	HMM 1504 1517	respectively.
+T6	HMM 1518 1555	The incidence of major and minor side
+T7	HMM 1988 2014	therapy for eradicating H.
+T8	HMM 2015 2021	pylori

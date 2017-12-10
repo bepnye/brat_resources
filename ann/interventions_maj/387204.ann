@@ -1,0 +1,10 @@
+T1	Intervention 19 30	mitomycin-C
+T2	Intervention 54 65	methyl-CCNU
+T3	Intervention 326 340	5-fluorouracil
+T4	Intervention 388 448	mitomycin-C or oral methyl-CCNU. Mitomycin-C and methyl-CCNU
+T5	Intervention 490 516	5 FU-mitomycin combination
+T6	Intervention 637 666	infusion 5 FU and methyl-CCNU
+T7	Intervention 871 885	5 FU-mitomycin
+T8	Intervention 927 943	5 FU-METHYL-CCNU
+T9	Intervention 1127 1136	mitomycin
+T10	Intervention 1299 1303	5 FU

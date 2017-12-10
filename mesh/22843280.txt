@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aged
+Anticonvulsants
+Child
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Therapy, Combination
+Epilepsies, Partial
+Female
+Humans
+Male
+Middle Aged
+Pyridones
+Seizures
+Young Adult

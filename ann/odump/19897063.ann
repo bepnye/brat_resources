@@ -1,0 +1,13 @@
+T1	HMM 132 141	bone loss
+T2	HMM 323 336	bone turnover
+T3	HMM 341 367	bone mineral density (BMD)
+T4	HMM 632 676	Bone turnover markers and bone density (BMD)
+T5	HMM 761 786	decrease in bone turnover
+T6	HMM 808 829	increase in spine BMD
+T7	HMM 855 862	hip BMD
+T8	HMM 991 1003	bone markers
+T9	HMM 1048 1055	Hip BMD
+T10	HMM 1111 1123	Bone markers
+T11	HMM 1231 1234	BMD
+T12	HMM 1267 1276	Bone loss
+T13	HMM 1429 1442	bone turnover

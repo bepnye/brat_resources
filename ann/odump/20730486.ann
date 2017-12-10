@@ -1,0 +1,7 @@
+T1	HMM 21 28	effects
+T2	HMM 976 995	spine BMD increased
+T3	HMM 1219 1244	BMD changes from baseline
+T4	HMM 1304 1326	inverse changes in BTM
+T5	HMM 1429 1457	number of fractures occurred
+T6	HMM 1491 1505	fracture rates
+T7	HMM 1602 1622	adverse bone effects

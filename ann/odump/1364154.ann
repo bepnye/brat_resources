@@ -1,0 +1,8 @@
+T1	HMM 1176 1191	serum prolactin
+T2	HMM 1205 1234	order x treatment interaction
+T3	HMM 1271 1287	treatment effect
+T4	HMM 1312 1337	increases serum prolactin
+T5	HMM 1346 1369	bromocriptine decreases
+T6	HMM 1405 1418	platelet 5-HT
+T7	HMM 1507 1519	order effect
+T8	HMM 1543 1565	increase platelet 5-HT

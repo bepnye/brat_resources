@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aged
+Allergens
+Analysis of Variance
+Antigens, Plant
+Atmosphere Exposure Chambers
+Desensitization, Immunologic
+Dose-Response Relationship, Immunologic
+Double-Blind Method
+Drug Administration Schedule
+Female
+Humans
+Least-Squares Analysis
+Male
+Middle Aged
+Recombinant Proteins
+Rhinitis, Allergic, Seasonal
+Treatment Outcome
+Young Adult

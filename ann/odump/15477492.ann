@@ -1,0 +1,5 @@
+T1	HMM 0 22	Recurrent tuberculosis
+T2	HMM 81 114	Recurrence of active tuberculosis
+T3	HMM 269 297	recurrent tuberculosis cases
+T4	HMM 308 319	reinfection
+T5	HMM 381 403	recurrent tuberculosis

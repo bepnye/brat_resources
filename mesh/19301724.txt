@@ -1,0 +1,19 @@
+Adult
+Aged
+Analgesia, Epidural
+Anesthetics, Local
+Arthroplasty, Replacement, Knee
+Bupivacaine
+Femur
+Humans
+Injections, Spinal
+Knee Joint
+Length of Stay
+Middle Aged
+Nerve Block
+Pain Measurement
+Pain, Postoperative
+Patient Satisfaction
+Postoperative Nausea and Vomiting
+Prospective Studies
+Treatment Outcome

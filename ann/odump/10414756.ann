@@ -1,0 +1,8 @@
+T1	HMM 995 1065	Peak oxygen uptake, peak workload, percent of predicted power ability.
+T2	HMM 1099 1117	peak oxygen uptake
+T3	HMM 1167 1180	peak workload
+T4	HMM 1227 1261	percent of predicted power ability
+T5	HMM 1353 1360	changes
+T6	HMM 1449 1477	heart rate or blood pressure
+T7	HMM 1572 1590	peak oxygen uptake
+T8	HMM 1595 1609	peak workloads

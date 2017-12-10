@@ -1,0 +1,8 @@
+T1	HMM 165 178	effectiveness
+T2	HMM 187 193	safety
+T3	HMM 750 770	intraocular pressure
+T4	HMM 927 957	intraocular pressure reduction
+T5	HMM 1164 1177	success rates
+T6	HMM 1290 1312	qualified success rate
+T7	HMM 1432 1472	(choroidal detachment, hyphema, leakage)
+T8	HMM 1538 1585	hemorrhagic detachment of the Descemet membrane

@@ -1,0 +1,15 @@
+T1	HMM 16 36	trough-to-peak ratio
+T2	HMM 303 323	trough-to-peak ratio
+T3	HMM 634 662	systolic/diastolic pressures
+T4	HMM 957 978	blood pressure values
+T5	HMM 1028 1053	net trough-to-peak ratios
+T6	HMM 1081 1104	blood pressure profiles
+T7	HMM 1296 1340	systolic/diastolic net trough-to-peak ratios
+T8	HMM 1429 1468	baseline-adjusted trough-to-peak ratios
+T9	HMM 1560 1585	net trough-to-peak ratios
+T10	HMM 1894 1917	blood pressure profiles
+T11	HMM 2031 2052	trough-to-peak ratios
+T12	HMM 2317 2337	trough-to-peak ratio
+T13	HMM 2466 2487	trough-to-peak ratio.
+T14	HMM 2543 2564	trough-to-peak ratio.
+T15	HMM 2606 2627	trough-to-peak ratios

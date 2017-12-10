@@ -1,0 +1,7 @@
+T1	HMM 235 271	esophageal sphincter pressure (LESP)
+T2	HMM 676 703	Acid exposure for each hour
+T3	HMM 801 822	upright acid exposure
+T4	HMM 999 1012	acid exposure
+T5	HMM 1157 1168	upright GER
+T6	HMM 1291 1304	acid exposure
+T7	HMM 1449 1453	LESP

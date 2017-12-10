@@ -1,0 +1,10 @@
+T1	HMM 154 171	efficacy outcomes
+T2	HMM 853 898	Recurrence-free survival and overall survival
+T3	HMM 1034 1048	adverse events
+T4	HMM 1259 1270	recurrence.
+T5	HMM 1309 1333	recurrence-free survival
+T6	HMM 1461 1477	overall survival
+T7	HMM 1566 1572	deaths
+T8	HMM 1678 1694	recurrence-free.
+T9	HMM 1780 1790	recurrence
+T10	HMM 1795 1806	death rates

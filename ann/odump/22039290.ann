@@ -1,0 +1,14 @@
+T1	HMM 103 134	pharmacokinetic/pharmacodynamic
+T2	HMM 285 296	wakefulness
+T3	HMM 314 334	excessive sleepiness
+T4	HMM 351 376	shift work disorder (SWD)
+T5	HMM 443 464	plasma concentrations
+T6	HMM 532 573	Pooled Multiple Sleep Latency Test (MSLT)
+T7	HMM 798 829	pharmacokinetic/pharmacodynamic
+T8	HMM 847 873	plasma drug concentrations
+T9	HMM 928 949	pharmacokinetic model
+T10	HMM 956 989	nonlinear mixed-effects modeling.
+T11	HMM 1020 1040	plasma concentration
+T12	HMM 1150 1161	armodafinil
+T13	HMM 1202 1231	placebo-subtracted MSLT times
+T14	HMM 1357 1391	consistently increased wakefulness

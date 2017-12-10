@@ -1,0 +1,11 @@
+T1	HMM 980 996	femoral neck BMD
+T2	HMM 1093 1096	BMD
+T3	HMM 1218 1247	trabecular thickness in tibia
+T4	HMM 1282 1320	volumetric bone mineral density (vBMD)
+T5	HMM 1328 1333	spine
+T6	HMM 1410 1413	BMD
+T7	HMM 1432 1464	levels of bone turnover markers;
+T8	HMM 1474 1495	24-hr urinary calcium
+T9	HMM 1611 1630	BMD at femoral neck
+T10	HMM 1695 1699	vBMD
+T11	HMM 1707 1713	spine.

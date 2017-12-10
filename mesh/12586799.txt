@@ -1,0 +1,13 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Cisplatin
+Female
+Fluorouracil
+Humans
+Leukopenia
+Male
+Middle Aged
+Nasopharyngeal Neoplasms
+Survival Rate
+Treatment Failure

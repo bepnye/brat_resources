@@ -1,0 +1,5 @@
+T1	HMM 129 168	B-type natriuretic peptide (BNP) levels
+T2	HMM 925 958	CHF as the cause of acute dyspnea
+T3	HMM 1128 1152	median time to discharge
+T4	HMM 1196 1219	total cost of treatment
+T5	HMM 1499 1509	BNP levels

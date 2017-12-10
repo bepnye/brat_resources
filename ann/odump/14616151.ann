@@ -1,0 +1,13 @@
+T1	HMM 22 39	chronic heartburn
+T2	HMM 108 125	chronic heartburn
+T3	HMM 218 235	relieve symptoms.
+T4	HMM 254 273	efficacy and safety
+T5	HMM 307 325	frequent heartburn
+T6	HMM 615 648	complete resolution of heartburn.
+T7	HMM 683 777	percentage of heartburn-free days and the time to first and sustained resolution of heartburn.
+T8	HMM 883 915	complete resolution of heartburn
+T9	HMM 968 1001	percentage of heartburn-free days
+T10	HMM 1269 1292	resolution of heartburn
+T11	HMM 1379 1419	spectrum and frequency of adverse events
+T12	HMM 1537 1555	effective and safe
+T13	HMM 1577 1594	chronic heartburn

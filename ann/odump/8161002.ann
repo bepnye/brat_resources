@@ -1,0 +1,15 @@
+T1	HMM 34 76	oxygen consumption and energy expenditure.
+T2	HMM 122 140	oxygen consumption
+T3	HMM 151 169	energy expenditure
+T4	HMM 751 761	VO2 and EE
+T5	HMM 819 843	Cardiovascular responses
+T6	HMM 897 923	Plasma drug concentrations
+T7	HMM 1033 1058	visual analog scale (VAS)
+T8	HMM 1122 1132	heart rate
+T9	HMM 1165 1193	pressure rate quotient (PRQ)
+T10	HMM 1246 1256	heart rate
+T11	HMM 1277 1293	increase in PRQ.
+T12	HMM 1335 1345	VO2 and EE
+T13	HMM 1380 1384	VO2.
+T14	HMM 1423 1443	metabolic variables.
+T15	HMM 1469 1477	sedation

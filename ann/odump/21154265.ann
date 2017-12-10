@@ -1,0 +1,8 @@
+T1	HMM 61 106	blood pressure and right ventricular function
+T2	HMM 224 269	blood pressure and right ventricular function
+T3	HMM 871 896	pulmonary artery pressure
+T4	HMM 1026 1033	groups.
+T5	HMM 1034 1109	Duration on treadmill and right ventricular ejection fraction post exercise
+T6	HMM 1121 1165	while diastolic and systolic artery pressure
+T7	HMM 1363 1398	improved right ventricular function
+T8	HMM 1463 1508	decreasing systolic pulmonary artery pressure

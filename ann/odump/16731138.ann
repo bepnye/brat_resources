@@ -1,0 +1,8 @@
+T1	HMM 0 23	Neurocognitive outcomes
+T2	HMM 638 654	growth modeling.
+T3	HMM 704 725	cognitive test scores
+T4	HMM 876 907	incidence of cognitive deficits
+T5	HMM 1014 1028	verbal fluency
+T6	HMM 1051 1088	pattern of cognitive change over time
+T7	HMM 1238 1252	verbal fluency
+T8	HMM 1313 1328	cognitive gains

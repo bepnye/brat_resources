@@ -1,0 +1,5 @@
+T1	HMM 156 181	pharmacokinetic variables
+T2	HMM 191 217	area under the curve (AUC)
+T3	HMM 226 254	maximum concentration (CMAX)
+T4	HMM 351 381	bivariate random effects model
+T5	HMM 441 475	natural log scale for AUC and CMAX

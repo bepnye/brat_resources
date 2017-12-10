@@ -1,0 +1,11 @@
+Adult
+Blood Glucose
+Body Weight
+Diabetes Mellitus, Type 1
+Hemoglobin A, Glycosylated
+Humans
+Hyperglycemia
+Hypoglycemia
+Monitoring, Ambulatory
+Motivation
+Time Factors

@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Amphotericin B
+Anti-Bacterial Agents
+Child
+Child, Preschool
+Deoxycholic Acid
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Drug Combinations
+Female
+Humans
+Leishmaniasis, Visceral
+Male
+Middle Aged
+Treatment Outcome

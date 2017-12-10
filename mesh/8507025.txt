@@ -1,0 +1,20 @@
+Adult
+Analysis of Variance
+Anesthesia, Dental
+Anesthesia, Intravenous
+Anesthetics, Local
+Blood Glucose
+Conscious Sedation
+Double-Blind Method
+Drug Combinations
+Epinephrine
+Felypressin
+Humans
+Hyperglycemia
+Hypokalemia
+Lidocaine
+Midazolam
+Potassium
+Prilocaine
+Receptors, Adrenergic
+Time Factors

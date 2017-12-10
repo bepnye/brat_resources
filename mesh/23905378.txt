@@ -1,0 +1,13 @@
+Adult
+Aged
+Arthritis, Rheumatoid
+Drug Therapy, Combination
+Drugs, Chinese Herbal
+Female
+Humans
+Male
+Medicine, Chinese Traditional
+Methotrexate
+Middle Aged
+Prospective Studies
+Treatment Outcome

@@ -1,0 +1,8 @@
+T1	HMM 80 117	spatial orientation and body postures
+T2	HMM 306 325	spatial orientation
+T3	HMM 330 348	spatial management
+T4	HMM 360 376	Positive changes
+T5	HMM 380 399	spatial orientation
+T6	HMM 470 488	changes in posture
+T7	HMM 527 545	spatial management
+T8	HMM 576 592	catching ability

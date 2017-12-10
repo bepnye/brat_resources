@@ -1,0 +1,12 @@
+T1	HMM 727 821	patient and graft survival, acute and chronic rejection, and incidence of steroid side effects
+T2	HMM 863 879	patient survival
+T3	HMM 990 1005	acute rejection
+T4	HMM 1133 1150	chronic rejection
+T5	HMM 1168 1189	rates of side effects
+T6	HMM 1235 1248	CMV infection
+T7	HMM 1277 1301	post-transplant diabetes
+T8	HMM 1330 1342	hypertension
+T9	HMM 1371 1391	hypercholesterolemia
+T10	HMM 1423 1443	hypertriglyceridemia
+T11	HMM 1524 1532	feasible
+T12	HMM 1607 1634	lower rate of side effects.

@@ -1,0 +1,10 @@
+T1	HMM 9 19	blood loss
+T2	HMM 906 1047	Intra-operative blood loss, post-operative blood loss, blood transfusion rates, operative morbidity, uterine blood flow and ovarian function.
+T3	HMM 1080 1095	less blood lost
+T4	HMM 1263 1289	volume in the pelvic drain
+T5	HMM 1432 1446	no differences
+T6	HMM 1450 1491	uterine artery Doppler resistance indices
+T7	HMM 1597 1621	serum FSH concentrations
+T8	HMM 1641 1650	unchanged
+T9	HMM 1750 1781	bleeding and transfusion rates.
+T10	HMM 1825 1863	uterine perfusion or ovarian function.

@@ -1,0 +1,13 @@
+T1	HMM 65 92	postoperative complications
+T2	HMM 1120 1147	postoperative complications
+T3	HMM 1279 1292	anal stenosis
+T4	HMM 1303 1313	hemorrhage
+T5	HMM 1325 1341	anastomosis leak
+T6	HMM 1354 1364	thrombosis
+T7	HMM 1435 1449	complications.
+T8	HMM 1480 1505	severe postoperative pain
+T9	HMM 1519 1537	fecal incontinence
+T10	HMM 1560 1578	overall difference
+T11	HMM 1586 1609	number of complications
+T12	HMM 1824 1833	effective
+T13	HMM 1837 1874	reducing postoperative complications.

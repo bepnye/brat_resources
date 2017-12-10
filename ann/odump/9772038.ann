@@ -1,0 +1,6 @@
+T1	HMM 138 195	Transient lower esophageal sphincter relaxations (TLESRs)
+T2	HMM 674 743	Basal lower esophageal pressure (LESP) and swallow-induced relaxation
+T3	HMM 826 832	TLESRs
+T4	HMM 985 1010	number of common cavities
+T5	HMM 1093 1099	TLESRs
+T6	HMM 1304 1310	TLESRs

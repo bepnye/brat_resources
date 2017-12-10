@@ -1,0 +1,6 @@
+T1	HMM 46 85	clinical and laboratory characteristics
+T2	HMM 358 374	lactoferrin (LF)
+T3	HMM 379 419	tumour necrosis factor-alpha (TNF-alpha)
+T4	HMM 552 581	duration of the main symptoms
+T5	HMM 700 714	ulcer scarring
+T6	HMM 744 786	dynamics of serum LF and TNF-alpha levels.

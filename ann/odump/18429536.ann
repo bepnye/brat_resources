@@ -1,0 +1,3 @@
+T1	HMM 0 10	Evaluation
+T2	HMM 403 531	time required for catheter insertion, increase the likelihood of inserting the catheter on the first attempt (improved accuracy)
+T3	HMM 537 563	reduce patient discomfort.

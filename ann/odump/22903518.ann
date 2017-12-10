@@ -1,0 +1,6 @@
+T1	HMM 955 1046	parent ratings of symptoms of ASD, executive function tasks, and 19-channel EEG recordings.
+T2	HMM 1108 1132	delta and/or theta power
+T3	HMM 1272 1287	symptoms of ASD
+T4	HMM 1346 1367	cognitive flexibility
+T5	HMM 1524 1545	cognitive flexibility
+T6	HMM 1598 1614	symptoms of ASD.

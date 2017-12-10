@@ -1,0 +1,4 @@
+T1	HMM 341 370	rate of secondary hemorrhage.
+T2	HMM 841 905	visual acuity, intraocular pressure [IOP], initial hyphema size)
+T3	HMM 1084 1105	secondary hemorrhage;
+T4	HMM 1110 1122	rebleed rate

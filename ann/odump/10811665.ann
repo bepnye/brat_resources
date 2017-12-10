@@ -1,0 +1,9 @@
+T1	HMM 883 891	Relapses
+T2	HMM 987 1013	3-year event-free survival
+T3	HMM 1112 1141	higher treatment failure rate
+T4	HMM 1259 1286	relative failure rate (RFR)
+T5	HMM 1367 1371	RFRs
+T6	HMM 1478 1489	CNS disease
+T7	HMM 1587 1590	RFR
+T8	HMM 1609 1622	isolated CNPs
+T9	HMM 1834 1857	nominally worse outcome

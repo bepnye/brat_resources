@@ -1,0 +1,5 @@
+T1	HMM 896 917	pain and walking time
+T2	HMM 1014 1095	pain estimation on the visual analogue scale (VAS) for activities of daily living
+T3	HMM 1170 1194	comfortable walking time
+T4	HMM 1261 1299	pain during activities of daily living
+T5	HMM 1369 1393	comfortable walking time

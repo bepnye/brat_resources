@@ -1,0 +1,25 @@
+Adenocarcinoma
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Cisplatin
+Confidence Intervals
+Dose-Response Relationship, Drug
+Doxorubicin
+Drug Administration Schedule
+Epirubicin
+Female
+Fluorouracil
+Humans
+Italy
+Leucovorin
+Male
+Methotrexate
+Middle Aged
+Neoplasm Invasiveness
+Neoplasm Staging
+Probability
+Prognosis
+Stomach Neoplasms
+Survival Analysis
+Treatment Outcome

@@ -1,0 +1,11 @@
+T1	Outcomes 685 708	sodium excretion (UNaV)
+T2	Outcomes 717 738	urinary flow rate (V)
+T3	Outcomes 746 777	and free water clearance (CH2O)
+T4	Outcomes 786 812	creatinine clearance (Ccr)
+T5	Outcomes 858 859	V
+T6	Outcomes 871 875	CH2O
+T7	Outcomes 901 913	UNaV or Ccr.
+T8	Outcomes 942 946	UNaV
+T9	Outcomes 972 980	P + ANF,
+T10	Outcomes 985 986	V
+T11	Outcomes 998 1002	CH2O

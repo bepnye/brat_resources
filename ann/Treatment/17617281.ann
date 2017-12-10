@@ -1,0 +1,15 @@
+T1	Treatment 0 21	Codeine/acetaminophen
+T2	Treatment 26 63	hydrocodone/acetaminophen combination
+T3	Treatment 374 388	acetaminophen.
+T4	Treatment 459 482	codeine and hydrocodone
+T5	Treatment 496 530	in combination with acetaminophen.
+T6	Treatment 818 865	codeine phosphate versus hydrocodone bitartrate
+T7	Treatment 886 899	acetaminophen
+T8	Treatment 1502 1532	of codeine/acetaminophen (C/A)
+T9	Treatment 1543 1577	or hydrocodone/acetaminophen (H/A)
+T10	Treatment 2268 2280	received C/A
+T11	Treatment 2288 2300	received H/A
+T12	Treatment 2490 2502	received C/A
+T13	Treatment 2661 2669	with H/A
+T14	Treatment 2995 3010	the C/A and H/A
+T15	Treatment 3259 3278	between C/A and H/A

@@ -1,0 +1,4 @@
+T1	HMM 379 412	preschool wheeze episodes (PWEs).
+T2	HMM 605 705	number of PWEs, the number of hospitalizations due to PWE, and the severity of respiratory symptoms.
+T3	HMM 876 880	PWEs
+T4	HMM 981 996	PWE recurrence.

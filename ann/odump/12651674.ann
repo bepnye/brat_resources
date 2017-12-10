@@ -1,0 +1,10 @@
+T1	HMM 19 56	cerebral blood flow velocity increase
+T2	HMM 129 147	Cerebral hyperemia
+T3	HMM 629 710	Cerebral blood flow velocity (CBFV), mean arterial blood pressure, and heart rate
+T4	HMM 823 843	Cardiac output (COe)
+T5	HMM 933 958	CBFV, COe, and heart rate
+T6	HMM 1006 1034	Mean arterial blood pressure
+T7	HMM 1103 1115	CBFV and COe
+T8	HMM 1187 1200	CBFV increase
+T9	HMM 1275 1293	cerebral hyperemia
+T10	HMM 1384 1412	cerebral blood flow velocity

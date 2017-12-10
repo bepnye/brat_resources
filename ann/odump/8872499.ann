@@ -1,0 +1,6 @@
+T1	HMM 551 584	number and severity of infections
+T2	HMM 728 747	infectious episodes
+T3	HMM 940 977	morbidity scores (infection/infusion)
+T4	HMM 1070 1092	severity of infections
+T5	HMM 1142 1179	duration of infection-free intervals.
+T6	HMM 1238 1247	morbidity

@@ -1,0 +1,9 @@
+T1	HMM 4 12	efficacy
+T2	HMM 347 376	intramammary infections (IMI)
+T3	HMM 588 603	rate of new IMI
+T4	HMM 653 672	new infection rates
+T5	HMM 814 821	new IMI
+T6	HMM 966 973	new IMI
+T7	HMM 1234 1271	linear score somatic cell count (SCC)
+T8	HMM 1324 1340	risk for new IMI
+T9	HMM 1436 1458	prevention of new IMI;

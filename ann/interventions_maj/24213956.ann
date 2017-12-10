@@ -1,0 +1,18 @@
+T1	Intervention 10 49	afferent stimulation and mirror therapy
+T2	Intervention 158 218	Mirror therapy (MT) and mesh glove (MG) afferent stimulation
+T3	Intervention 304 306	MT
+T4	Intervention 321 333	MG (MT + MG)
+T5	Intervention 429 441	MG + MT, MT,
+T6	Intervention 448 470	control treatment (CT)
+T7	Intervention 710 722	MT + MG, MT,
+T8	Intervention 726 728	CT
+T9	Intervention 1226 1233	MT + MG
+T10	Intervention 1238 1240	MT
+T11	Intervention 1266 1268	CT
+T12	Intervention 1426 1433	MT + MG
+T13	Intervention 1448 1450	MT
+T14	Intervention 1464 1471	MT + MG
+T15	Intervention 1514 1521	MT + MG
+T16	Intervention 1526 1528	MT
+T17	Intervention 1599 1602	CT.
+T18	Intervention 1780 1787	MG + MT

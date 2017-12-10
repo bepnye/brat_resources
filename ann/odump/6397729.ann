@@ -1,0 +1,7 @@
+T1	HMM 14 32	essential headache
+T2	HMM 169 185	primary headache
+T3	HMM 508 522	Migraine Index
+T4	HMM 535 574	general assessment of the attacks, i.e.
+T5	HMM 575 608	severity, duration and frequency.
+T6	HMM 625 642	mean score values
+T7	HMM 720 737	(Wilcoxon's test)

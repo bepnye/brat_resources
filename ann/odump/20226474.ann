@@ -1,0 +1,11 @@
+T1	HMM 1042 1069	safety and diagnostic yield
+T2	HMM 1228 1244	diagnostic yield
+T3	HMM 1249 1259	cryobiopsy
+T4	HMM 1407 1445	size and artifact-free tissue sections
+T5	HMM 1515 1531	diagnostic yield
+T6	HMM 1557 1570	Mild bleeding
+T7	HMM 1600 1617	moderate bleeding
+T8	HMM 1650 1665	severe bleeding
+T9	HMM 1718 1722	safe
+T10	HMM 1741 1757	diagnostic yield
+T11	HMM 1809 1817	feasible

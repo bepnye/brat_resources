@@ -1,0 +1,5 @@
+T1	Intervention 31 48	beam radiotherapy
+T2	Intervention 56 68	cryoablation
+T3	Intervention 202 226	radiation therapy (EBRT)
+T4	Intervention 320 324	EBRT
+T5	Intervention 586 606	cryoablation or EBRT

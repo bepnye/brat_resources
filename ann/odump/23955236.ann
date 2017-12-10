@@ -1,0 +1,7 @@
+T1	HMM 11 21	production
+T2	HMM 766 771	step.
+T3	HMM 772 795	Survival of the embryos
+T4	HMM 1015 1044	The survival rates of embryos
+T5	HMM 1170 1221	the hatching rates of embryos after 48 h incubation
+T6	HMM 1366 1387	and 8 healthy piglets
+T7	HMM 1510 1531	and 9 healthy piglets

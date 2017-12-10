@@ -1,0 +1,6 @@
+T1	HMM 914 930	local recurrence
+T2	HMM 971 981	toxicities
+T3	HMM 987 1012	anorexia and neutropenia.
+T4	HMM 1018 1028	toxicities
+T5	HMM 1085 1093	recovery
+T6	HMM 1225 1255	advanced colorectal carcinoma.

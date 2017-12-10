@@ -1,0 +1,7 @@
+T1	HMM 1241 1250	mortality
+T2	HMM 1290 1315	median long-term survival
+T3	HMM 1404 1425	recurrence of ascites
+T4	HMM 1642 1676	median duration of hospitalization
+T5	HMM 1935 2005	incidence of infections, gastrointestinal bleeding, and encephalopathy
+T6	HMM 2112 2129	disabling ascites
+T7	HMM 2177 2185	survival

@@ -1,0 +1,5 @@
+T1	HMM 640 657	cutaneous lesions
+T2	HMM 688 702	mean durations
+T3	HMM 882 938	resolution of associated local and/or systemic symptoms.
+T4	HMM 943 956	response time
+T5	HMM 1132 1149	Lyme borreliosis;

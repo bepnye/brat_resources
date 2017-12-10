@@ -1,0 +1,12 @@
+T1	HMM 457 458	.
+T2	HMM 459 479	The overall survival
+T3	HMM 558 613	significant increase in the duration of first remission
+T4	HMM 685 707	first relapse to death
+T5	HMM 781 824	the incidence of first or second remissions
+T6	HMM 830 863	the time taken to enter remission
+T7	HMM 1049 1066	longer remissions
+T8	HMM 1097 1157	developed leukaemic central-nervous-system (CSN) involvement
+T9	HMM 1252 1271	in remission length
+T10	HMM 1307 1336	in survival after CNS relapse
+T11	HMM 1466 1516	may protect the CNS against leukaemic infiltration
+T12	HMM 1565 1583	of CNS prophylaxis

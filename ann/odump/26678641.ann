@@ -1,0 +1,8 @@
+T1	HMM 158 183	Pericardial effusion (PE)
+T2	HMM 456 458	PE
+T3	HMM 1076 1084	PE sizes
+T4	HMM 1181 1197	effusion changes
+T5	HMM 1354 1395	posttreatment effusion values and changes
+T6	HMM 1399 1453	isolated coronary artery bypass graft surgery patients
+T7	HMM 1598 1600	PE
+T8	HMM 1754 1784	asymptomatic postoperative PE.

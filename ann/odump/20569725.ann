@@ -1,0 +1,11 @@
+T1	HMM 122 141	efficacy and safety
+T2	HMM 224 248	atrial fibrillation (AF)
+T3	HMM 252 269	sinus rhythm (SR)
+T4	HMM 468 470	SR
+T5	HMM 751 753	AF
+T6	HMM 894 1044	vital signs, telemetry and Holter monitoring, 12-lead electrocardiography, clinical laboratory tests, physical examinations, and adverse events (AEs).
+T7	HMM 1168 1183	recent-onset AF
+T8	HMM 1268 1289	recent-onset AF to SR
+T9	HMM 1402 1439	dysgeusia, sneezing, and paresthesia.
+T10	HMM 1634 1646	hypotension.
+T11	HMM 1673 1757	torsades de pointes, ventricular fibrillation, or sustained ventricular tachycardia.

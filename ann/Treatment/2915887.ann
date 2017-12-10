@@ -1,0 +1,6 @@
+T1	Treatment 0 50	5-Fluorouracil, adriamycin, cyclophosphamide (FAC)
+T2	Treatment 55 105	5-fluorouracil, epirubicin, cyclophosphamide (FEC)
+T3	Treatment 214 326	5-fluorouracil, adriamycin, and cyclophosphamide (FAC) or 5-fluorouracil, epirubicin, and cyclophosphamide (FEC)
+T4	Treatment 395 398	FAC
+T5	Treatment 421 425	FEC.
+T6	Treatment 608 612	FAC.

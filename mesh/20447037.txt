@@ -1,0 +1,21 @@
+Adult
+Aged
+Aged, 80 and over
+Catheter-Related Infections
+Catheterization, Central Venous
+Catheterization, Peripheral
+Catheters, Indwelling
+Colony Count, Microbial
+Critical Illness
+Cross Infection
+Female
+Femoral Vein
+Humans
+Jugular Veins
+Male
+Middle Aged
+Prospective Studies
+Risk Assessment
+Risk Factors
+Subclavian Vein
+Time Factors

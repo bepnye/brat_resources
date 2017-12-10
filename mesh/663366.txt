@@ -1,0 +1,11 @@
+Adult
+Amiodarone
+Atrial Fibrillation
+Benzofurans
+Drug Evaluation
+Electric Countershock
+Female
+Heart Conduction System
+Humans
+Male
+Quinidine

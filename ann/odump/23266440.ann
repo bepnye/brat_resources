@@ -1,0 +1,4 @@
+T1	HMM 9 33	breast cancer recurrence
+T2	HMM 1081 1135	for breast cancer recurrence and disease-free survival
+T3	HMM 1239 1260	had a body mass index
+T4	HMM 1430 1476	initial weight loss and subsequent maintenance

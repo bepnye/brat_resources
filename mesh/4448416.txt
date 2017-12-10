@@ -1,0 +1,18 @@
+Acute Disease
+Adult
+Bilirubin
+Blood Cell Count
+Blood Coagulation Factors
+Blood Coagulation Tests
+Blood Platelets
+Factor IX
+Factor X
+Factor XIII
+Fibrinogen
+Hemorrhagic Disorders
+Heparin
+Humans
+Infusions, Parenteral
+Liver Diseases
+Middle Aged
+Prothrombin

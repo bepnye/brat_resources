@@ -1,0 +1,4 @@
+T1	HMM 1148 1160	median rates
+T2	HMM 1240 1278	greatest maximum rate at which lesions
+T3	HMM 1351 1410	posterior progression rate for lesions closest to the fovea
+T4	HMM 1452 1496	maximum foveal proximity rate for either eye

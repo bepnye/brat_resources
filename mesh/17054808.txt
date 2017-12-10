@@ -1,0 +1,12 @@
+Anesthesia, General
+Anesthesia, Intravenous
+Anesthesia, Local
+Cataract Extraction
+Female
+Humans
+Hydrocortisone
+Middle Aged
+Prolactin
+Propofol
+Thyrotropin
+Time Factors

@@ -1,0 +1,6 @@
+T1	HMM 666 698	progression-free survival (PFS).
+T2	HMM 729 826	overall survival, tumor response rate (Response Evaluation Criteria in Solid Tumors), and safety.
+T3	HMM 996 999	PFS
+T4	HMM 1416 1439	objective response rate
+T5	HMM 1509 1536	median duration of response
+T6	HMM 1597 1672	diarrhea, hypertension, hair color changes, nausea, anorexia, and vomiting.

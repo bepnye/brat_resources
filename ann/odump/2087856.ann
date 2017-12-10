@@ -1,0 +1,7 @@
+T1	HMM 0 43	[Acute cardiovascular and metabolic changes
+T2	HMM 179 234	acute changes of cardiovascular and metabolic reactions
+T3	HMM 482 501	training heart rate
+T4	HMM 847 951	acute response of heart rate, blood pressure, rate-pressure product, glucose, lactate and catecholamines
+T5	HMM 1001 1122	no significant differences in systolic and diastolic pressure, rate-pressure product, in glucose or catecholamine levels.
+T6	HMM 1165 1180	rate of lactate
+T7	HMM 1324 1336	cardiac work

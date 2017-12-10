@@ -1,0 +1,3 @@
+T1	HMM 0 24	Duration of chemotherapy
+T2	HMM 663 709	response rate (complete and partial responses)
+T3	HMM 878 891	response rate

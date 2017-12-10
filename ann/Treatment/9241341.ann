@@ -1,0 +1,19 @@
+T1	Treatment 0 16	2-Chloroprocaine
+T2	Treatment 72 95	2-Chloroprocaine (2-CP)
+T3	Treatment 184 197	morphine (EM)
+T4	Treatment 285 293	morphine
+T5	Treatment 418 420	EM
+T6	Treatment 425 430	2-CP.
+T7	Treatment 540 564	2-CP, 2-CP + epinephrine
+T8	Treatment 593 621	2% lidocaine (Lido) with Epi
+T9	Treatment 658 660	EM
+T10	Treatment 670 682	PCA morphine
+T11	Treatment 733 741	morphine
+T12	Treatment 1012 1026	2-CP, 2-CP+Epi
+T13	Treatment 1031 1039	Lido+Epi
+T14	Treatment 1210 1214	2-CP
+T15	Treatment 1265 1269	2-CP
+T16	Treatment 1299 1307	morphine
+T17	Treatment 1414 1416	EM
+T18	Treatment 1435 1439	2-CP
+T19	Treatment 1473 1483	Lido + Epi

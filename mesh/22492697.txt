@@ -1,0 +1,10 @@
+Adult
+Aged
+Carcinoma, Squamous Cell
+Female
+Humans
+Hypopharyngeal Neoplasms
+Larynx
+Male
+Middle Aged
+Survival Rate

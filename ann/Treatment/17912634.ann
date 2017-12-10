@@ -1,0 +1,17 @@
+T1	Treatment 0 9	Letrozole
+T2	Treatment 55 79	Neoadjuvant chemotherapy
+T3	Treatment 214 244	Preoperative endocrine therapy
+T4	Treatment 347 367	aromatase inhibitors
+T5	Treatment 398 407	tamoxifen
+T6	Treatment 552 554	AI
+T7	Treatment 562 571	tamoxifen
+T8	Treatment 695 721	breast-conserving surgery.
+T9	Treatment 766 775	letrozole
+T10	Treatment 788 797	tamoxifen
+T11	Treatment 865 890	breast-conserving surgery
+T12	Treatment 990 999	tamoxifen
+T13	Treatment 1103 1112	letrozole
+T14	Treatment 1324 1333	letrozole
+T15	Treatment 1493 1502	letrozole
+T16	Treatment 1859 1868	letrozole
+T17	Treatment 1893 1902	tamoxifen

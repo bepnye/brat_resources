@@ -1,0 +1,12 @@
+T1	HMM 0 27	Comparative bioavailability
+T2	HMM 323 350	comparative bioavailability
+T3	HMM 419 433	Plasma samples
+T4	HMM 597 710	Terbinafine levels were determined by high pressure liquid chromatography with tandem mass detection (HPLC-MS/MS)
+T5	HMM 776 802	pharmacokinetic parameters
+T6	HMM 816 868	bioequivalence assessment (AUClast, AUCinf and Cmax)
+T7	HMM 959 1000	Classical 90% confidence intervals (90CI)
+T8	HMM 1176 1190	classical 90CI
+T9	HMM 1239 1246	AUClast
+T10	HMM 1268 1272	Cmax
+T11	HMM 1392 1399	results
+T12	HMM 1458 1472	gender effects

@@ -1,0 +1,22 @@
+Aged
+Antigens, CD57
+Antineoplastic Combined Chemotherapy Protocols
+Chemotherapy, Adjuvant
+Chi-Square Distribution
+Drug Combinations
+Female
+Fungal Proteins
+Gastrectomy
+Humans
+Kaplan-Meier Estimate
+Lymph Node Excision
+Male
+Middle Aged
+Neoplasm Staging
+Polysaccharides
+Stomach Neoplasms
+T-Lymphocyte Subsets
+Tegafur
+Time Factors
+Treatment Outcome
+Uracil

@@ -1,0 +1,10 @@
+T1	Treatment 21 67	high-dose medroxyprogesterone acetate (HD-MPA)
+T2	Treatment 105 117	chemotherapy
+T3	Treatment 320 327	placebo
+T4	Treatment 407 432	Combination therapy, (CT)
+T5	Treatment 518 521	MPA
+T6	Treatment 540 547	placebo
+T7	Treatment 753 756	MPA
+T8	Treatment 1059 1067	CT + MPA
+T9	Treatment 1103 1116	CT + placebo.
+T10	Treatment 1226 1229	MPA

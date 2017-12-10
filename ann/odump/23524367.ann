@@ -1,0 +1,13 @@
+T1	HMM 51 104	passive torque, mobility, and isometric muscle force.
+T2	HMM 719 879	lower-limb function and flexibility: static passive torque (SPT), dynamic passive torque (DPT), stiffness, straight leg raise (SLR), and isometric muscle force.
+T3	HMM 880 901	Static passive torque
+T4	HMM 973 994	Static passive torque
+T5	HMM 1211 1228	DPT and stiffness
+T6	HMM 1320 1323	SLR
+T7	HMM 1391 1409	Straight leg raise
+T8	HMM 1414 1420	higher
+T9	HMM 1573 1619	Isometric muscle force significantly decreased
+T10	HMM 1740 1743	SPT
+T11	HMM 1763 1767	SLR.
+T12	HMM 1824 1841	DPT and stiffness
+T13	HMM 1847 1869	isometric muscle force

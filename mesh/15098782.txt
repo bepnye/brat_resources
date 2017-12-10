@@ -1,0 +1,21 @@
+Adult
+Aged
+Anastomosis, Surgical
+Angiography
+Aortic Aneurysm
+Blood Loss, Surgical
+Blood Vessel Prosthesis
+Female
+Follow-Up Studies
+Hemostasis, Surgical
+Humans
+Male
+Middle Aged
+Polyethylene Glycols
+Polyethylene Terephthalates
+Probability
+Risk Assessment
+Sensitivity and Specificity
+Severity of Illness Index
+Survival Rate
+Treatment Outcome

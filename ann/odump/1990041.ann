@@ -1,0 +1,5 @@
+T1	HMM 309 327	Treatment failures
+T2	HMM 621 662	treatment failures or infection relapses.
+T3	HMM 1181 1233	clinical responses or the bacteriological cure rates
+T4	HMM 1385 1448	prevalence of beta-lactamase-producing organisms in the pharynx
+T5	HMM 1544 1568	treatment with cefaclor.

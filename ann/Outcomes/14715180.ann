@@ -1,0 +1,8 @@
+T1	Outcomes 20 58	recurrent ventricular tachyarrhythmias
+T2	Outcomes 199 228	anti-tachycardia pacing (ATP)
+T3	Outcomes 233 256	shock-terminated events
+T4	Outcomes 1030 1069	frequency of appropriate shocks and ATP
+T5	Outcomes 1161 1204	incidence of ICD therapies per patient-year
+T6	Outcomes 1394 1408	well tolerated
+T7	Outcomes 1421 1523	affect left ventricular ejection fraction or minimal energy requirements for defibrillation or pacing.
+T8	Outcomes 1612 1656	frequency of VT and ventricular fibrillation

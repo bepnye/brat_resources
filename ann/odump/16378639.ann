@@ -1,0 +1,15 @@
+T1	HMM 104 195	efficacy, safety, predictability, stability, and changes in higher-order aberrations (HOAs)
+T2	HMM 200 225	contrast sensitivity (CS)
+T3	HMM 745 802	Efficacy, safety, predictability, stability, HOAs, and CS
+T4	HMM 879 1062	Uncorrected visual acuity (UCVA), best-corrected visual acuity (BCVA), manifest refraction, CS by means of the Functional Acuity Contrast Test, and HOAs by means of Zywave aberrometry
+T5	HMM 1162 1166	UCVA
+T6	HMM 1208 1224	Efficacy indexes
+T7	HMM 1285 1297	No eyes lost
+T8	HMM 1314 1319	BCVA;
+T9	HMM 1345 1351	gained
+T10	HMM 1370 1376	gained
+T11	HMM 1592 1618	HOA root mean square (RMS)
+T12	HMM 1710 1730	reduction in HOA RMS
+T13	HMM 1784 1804	Contrast sensitivity
+T14	HMM 1934 1979	reduction of CS as a function of HOA increase
+T15	HMM 2066 2083	spatial frequency

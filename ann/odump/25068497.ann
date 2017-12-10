@@ -1,0 +1,7 @@
+T1	HMM 0 6	Safety
+T2	HMM 11 37	preliminary immunogenicity
+T3	HMM 491 501	the safety
+T4	HMM 515 533	the immunogenicity
+T5	HMM 655 669	well tolerated
+T6	HMM 674 681	as safe
+T7	HMM 824 867	significant increase of IgG GMC and OPA GMT

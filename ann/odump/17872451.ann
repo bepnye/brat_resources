@@ -1,0 +1,9 @@
+T1	HMM 20 51	carotid intima-media thickening
+T2	HMM 326 365	carotid far wall intima-media thickness
+T3	HMM 756 761	HbA1c
+T4	HMM 835 840	HbA1c
+T5	HMM 882 912	carotid intima-media thickness
+T6	HMM 1137 1202	triglyceride, highly-sensitive C-reactive protein, and E-selectin
+T7	HMM 1244 1249	HbA1c
+T8	HMM 1315 1346	carotid intima-media thickness.
+T9	HMM 1486 1517	carotid intima-media thickness.

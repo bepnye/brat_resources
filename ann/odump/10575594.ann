@@ -1,0 +1,13 @@
+T1	HMM 494 510	Lumbar spine BMD
+T2	HMM 565 596	trabecular bone mineral density
+T3	HMM 619 640	cortical bone density
+T4	HMM 646 670	relative cortical volume
+T5	HMM 800 1064	Markers of bone metabolism--serum total alkaline phosphatase, bone-specific alkaline phosphatase, tartrate-resistant acid phosphatase, osteocalcin, intact osteocalcin, PICP and ICTP, and urinary pyridinoline, deoxypyridinoline, and calcium/creatinine (Ca/Cr)--were
+T6	HMM 1101 1153	Plasma parathyroid hormone (PTH) and calcitonin (CT)
+T7	HMM 1186 1216	Radial trabecular bone density
+T8	HMM 1356 1372	lumbar spine BMD
+T9	HMM 1487 1510	Bone metabolism markers
+T10	HMM 1545 1573	Total and intact osteocalcin
+T11	HMM 1677 1717	Urine pyridinoline and deoxypyridinoline
+T12	HMM 1854 1870	lumbar spine BMD
+T13	HMM 1938 1949	urine Ca/Cr

@@ -1,0 +1,10 @@
+T1	Treatment 48 94	clinician-collected and self-collected samples
+T2	Treatment 529 575	self-collected and clinician-collected samples
+T3	Treatment 587 604	cervical cytology
+T4	Treatment 857 868	cryotherapy
+T5	Treatment 956 973	colposcopy/biopsy
+T6	Treatment 1042 1059	colposcopy/biopsy
+T7	Treatment 1210 1237	clinician-collected samples
+T8	Treatment 1311 1338	clinician-collected samples
+T9	Treatment 1631 1653	self-collected samples
+T10	Treatment 1756 1788	self-collected vaginal specimens

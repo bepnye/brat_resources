@@ -1,0 +1,11 @@
+T1	HMM 11 30	cardiac muscle mass
+T2	HMM 838 872	Left ventricular muscle mass (LVM)
+T3	HMM 877 899	ejection fraction (EF)
+T4	HMM 1077 1102	electrocardiography (ECG)
+T5	HMM 1161 1171	Median LVM
+T6	HMM 1351 1353	EF
+T7	HMM 1403 1406	MWC
+T8	HMM 1487 1500	ST deviations
+T9	HMM 1612 1634	Irregular heart rhythm
+T10	HMM 1844 1869	the left ventricular mass
+T11	HMM 2133 2153	B-Hb, blood pressure

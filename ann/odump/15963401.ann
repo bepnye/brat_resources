@@ -1,0 +1,15 @@
+T1	HMM 223 259	morning systolic blood pressure (BP)
+T2	HMM 304 327	obstructive sleep apnea
+T3	HMM 400 433	sympathetic vasoconstrictor tone.
+T4	HMM 445 493	Daytime muscle sympathetic nerve activity (MSNA)
+T5	HMM 653 698	left ventricular ejection fraction (LVEF) and
+T6	HMM 707 727	morning systolic BP.
+T7	HMM 736 794	Muscle sympathetic nerve activity, BP, and heart rate (HR)
+T8	HMM 846 867	(apnea-hypopnea index
+T9	HMM 1144 1174	OSA, MSNA, systolic BP, or HR.
+T10	HMM 1220 1223	OSA
+T11	HMM 1281 1293	daytime MSNA
+T12	HMM 1452 1463	systolic BP
+T13	HMM 1521 1523	HR
+T14	HMM 1650 1684	daytime MSNA, systolic BP, and HR.
+T15	HMM 1808 1810	BP

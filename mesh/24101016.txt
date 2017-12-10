@@ -1,0 +1,11 @@
+Aged
+Esophageal Neoplasms
+Esophagectomy
+Female
+Humans
+Laparoscopy
+Laparotomy
+Male
+Middle Aged
+Thoracoscopy
+Thoracotomy

@@ -1,0 +1,8 @@
+T1	HMM 612 632	IJV could be located
+T2	HMM 687 704	course of the IJV
+T3	HMM 946 965	number of punctures
+T4	HMM 1000 1027	incidence of complications.
+T5	HMM 1032 1064	time required to locate the site
+T6	HMM 1069 1090	direction of puncture
+T7	HMM 1173 1206	total time for catheter placement
+T8	HMM 1468 1476	hematoma

@@ -1,0 +1,12 @@
+T1	HMM 703 762	Echocardiographic, hemodynamic, and biochemical assessments
+T2	HMM 914 1033	End-systolic wall stress, the left ventricular ejection fraction, pulmonary capillary wedge pressure, and cardiac index
+T3	HMM 1145 1253	Plasma N-terminal-pro-B-type natriuretic peptide, tumor necrosis factor-alpha, and soluble Fas ligand levels
+T4	HMM 1466 1479	interleukin-6
+T5	HMM 1521 1579	Levosimendan-induced reduction in end-systolic wall stress
+T6	HMM 1638 1679	N-terminal-pro-B-type natriuretic peptide
+T7	HMM 1702 1729	tumor necrosis factor-alpha
+T8	HMM 1752 1763	soluble Fas
+T9	HMM 1790 1808	soluble Fas ligand
+T10	HMM 1831 1850	Event-free survival
+T11	HMM 1989 2009	central hemodynamics
+T12	HMM 2014 2042	left ventricular performance

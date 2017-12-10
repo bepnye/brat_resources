@@ -1,0 +1,10 @@
+T1	HMM 357 366	analgesia
+T2	HMM 379 392	side effects.
+T3	HMM 882 1064	Pain scores (rest, cough, and ambulation), side effects (nausea, pruritus, sedation, motor block, hypotension, and orthostasis), and patient-controlled epidural analgesia consumption
+T4	HMM 1148 1159	Motor block
+T5	HMM 1338 1347	severity.
+T6	HMM 1387 1425	ropivacaine-4 microg fentanyl solution
+T7	HMM 1528 1553	ropivacaine and fentanyl.
+T8	HMM 1635 1644	analgesia
+T9	HMM 1655 1666	motor block
+T10	HMM 1827 1853	determinant of motor block

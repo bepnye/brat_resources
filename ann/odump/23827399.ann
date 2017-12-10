@@ -1,0 +1,10 @@
+T1	HMM 525 547	crude 5-year mortality
+T2	HMM 610 634	the excess risk of death
+T3	HMM 739 787	adjusted risk of target lesion revascularization
+T4	HMM 1053 1091	higher adjusted risks of cardiac death
+T5	HMM 1155 1183	0.01), myocardial infarction
+T6	HMM 1247 1285	0.03), target lesion revascularization
+T7	HMM 1346 1384	<0.001), and definite stent thrombosis
+T8	HMM 1564 1598	conclusion, the adjusted mortality
+T9	HMM 1684 1733	different risk of target lesion revascularization
+T10	HMM 1857 1890	stent had worse clinical outcomes

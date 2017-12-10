@@ -1,0 +1,6 @@
+T1	HMM 1267 1313	amount of drainage and duration of drain days.
+T2	HMM 1550 1593	The mean volume of drainage from the axilla
+T3	HMM 1687 1785	The mean volume of drainage from the breast and the total drainage from both the breast and axilla
+T4	HMM 1969 2013	significant reduction in terms of drain days
+T5	HMM 2156 2180	significant complication
+T6	HMM 2248 2299	the amount of drainage and the number of drain days

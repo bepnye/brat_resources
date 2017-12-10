@@ -1,0 +1,6 @@
+T1	HMM 948 1050	total cholesterol (TC, 19%), low-density lipoprotein cholesterol (LDL-C) (26%), and triglycerides (TG)
+T2	HMM 1160 1278	reductions in median and log-CRP levels (38% and 44%, p<0.01 respectively), IL-6 (20%, p<0.01), and ET-1 (47%, p<0.01)
+T3	HMM 1330 1364	time to 1 mm ST-segment depression
+T4	HMM 1466 1501	improvement of subjective feelings.
+T5	HMM 1585 1602	vascular function
+T6	HMM 1619 1665	ET-1, inflammatory markers and LDL cholesterol

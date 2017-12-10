@@ -1,0 +1,10 @@
+T1	Treatment 26 41	tranexamic acid
+T2	Treatment 139 171	antifibrinolytic tranexamic acid
+T3	Treatment 381 396	tranexamic acid
+T4	Treatment 503 514	intravenous
+T5	Treatment 520 526	local;
+T6	Treatment 570 586	tranexamic acid)
+T7	Treatment 597 608	intravenous
+T8	Treatment 647 822	intraoperative dose (IO) given before tourniquet deflation, (2) additional preoperative dose (POIO), (3) additional postoperative dose (IOPO), and (4) all three doses (POIOPO)
+T9	Treatment 855 872	local application
+T10	Treatment 1473 1488	tranexamic acid

@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Aged
+Female
+Hepatitis A
+Hepatitis A Vaccines
+Humans
+Immunization Schedule
+Immunization, Secondary
+Male
+Middle Aged
+Typhoid Fever
+Typhoid-Paratyphoid Vaccines
+Vaccines, Combined

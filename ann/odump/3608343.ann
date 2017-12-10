@@ -1,0 +1,11 @@
+T1	HMM 25 41	pharmacokinetics
+T2	HMM 183 203	therapeutic efficacy
+T3	HMM 217 225	toxicity
+T4	HMM 910 935	peak plasma concentration
+T5	HMM 1158 1190	time to reach peak concentration
+T6	HMM 1385 1393	lag time
+T7	HMM 1478 1493	absorption rate
+T8	HMM 1609 1660	bodyweight-corrected area under the curve (AUC0-12)
+T9	HMM 1838 1859	elimination half-life
+T10	HMM 1974 1989	total clearance
+T11	HMM 2073 2090	circadian rhythms

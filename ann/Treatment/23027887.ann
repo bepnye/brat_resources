@@ -1,0 +1,17 @@
+T1	Treatment 20 29	rituximab
+T2	Treatment 172 205	tumor necrosis factor inhibitors:
+T3	Treatment 409 424	rituximab (RTX)
+T4	Treatment 502 541	tumor necrosis factor (TNF) inhibitors.
+T5	Treatment 599 680	placebo (PBO) + methotrexate (MTX; PBO-randomized) or RTX + MTX (RTX-randomized).
+T6	Treatment 774 777	RTX
+T7	Treatment 810 813	RTX
+T8	Treatment 923 926	RTX
+T9	Treatment 967 981	RTX-randomized
+T10	Treatment 1075 1078	RTX
+T11	Treatment 1201 1215	RTX-randomized
+T12	Treatment 1269 1274	1 RTX
+T13	Treatment 1762 1781	both PBO-randomized
+T14	Treatment 1791 1809	and RTX-randomized
+T15	Treatment 1886 1925	in PBO-randomized versus RTX-randomized
+T16	Treatment 1951 1978	CONCLUSION RTX re-treatment
+T17	Treatment 2147 2171	initiating RTX treatment

@@ -1,0 +1,3 @@
+T1	HMM 136 144	survival
+T2	HMM 779 802	peripheral blood counts
+T3	HMM 1108 1133	median survival durations

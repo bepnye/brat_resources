@@ -1,0 +1,7 @@
+T1	HMM 167 186	efficacy and safety
+T2	HMM 791 931	Balloon insertion to delivery interval, successful ripening rate, cesarean delivery rate, maternal adverse events and maternal satisfaction.
+T3	HMM 940 980	Time from balloon insertion to expulsion
+T4	HMM 990 1019	balloon insertion to delivery
+T5	HMM 1130 1347	time from balloon insertion to active labor, time from balloon expulsion to delivery, cervical ripening, cesarean section, instrumental delivery, pain score, need for analgesia, hospital stay and maternal satisfaction
+T6	HMM 1472 1499	efficacy and safety profile
+T7	HMM 1644 1674	induction to delivery interval

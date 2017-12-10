@@ -1,0 +1,17 @@
+T1	HMM 767 781	well-tolerated
+T2	HMM 829 878	Levels of many vitamins, minerals, and biomarkers
+T3	HMM 911 937	compliance and absorption.
+T4	HMM 1018 1031	total sulfate
+T5	HMM 1051 1071	S-adenosylmethionine
+T6	HMM 1103 1114	glutathione
+T7	HMM 1135 1187	ratio of oxidized glutathione to reduced glutathione
+T8	HMM 1217 1230	nitrotyrosine
+T9	HMM 1250 1253	ATP
+T10	HMM 1276 1280	NADH
+T11	HMM 1305 1310	NADPH
+T12	HMM 1496 1531	Parental Global Impressions-Revised
+T13	HMM 1593 1606	Hyperactivity
+T14	HMM 1620 1631	Tantrumming
+T15	HMM 1645 1652	Overall
+T16	HMM 1669 1687	Receptive Language
+T17	HMM 1895 1922	Average Change of the PGI-R

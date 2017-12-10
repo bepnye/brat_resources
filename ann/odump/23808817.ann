@@ -1,0 +1,5 @@
+T1	HMM 0 20	Patient satisfaction
+T2	HMM 1281 1295	rate = 85%).
+T3	HMM 1296 1331	All components of the questionnaire
+T4	HMM 1526 1535	telephone
+T5	HMM 1550 1564	higher overall

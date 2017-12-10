@@ -1,0 +1,19 @@
+T1	HMM 539 671	Patient Global Assessment of Response to Therapy (PGART) and Western Ontario and McMaster Universities (WOMAC) Osteoarthritis Index.
+T2	HMM 691 738	median time to good or excellent PGART response
+T3	HMM 919 933	WOMAC response
+T4	HMM 1094 1110	greater efficacy
+T5	HMM 1149 1154	PGART
+T6	HMM 1387 1392	PGART
+T7	HMM 1496 1512	WOMAC subscales.
+T8	HMM 1557 1570	greater PGART
+T9	HMM 1648 1703	greater response to all other PGART and WOMAC endpoints
+T10	HMM 1778 1790	tolerability
+T11	HMM 1830 1847	good and similar.
+T12	HMM 1957 1990	clinical adverse experience (AE).
+T13	HMM 2008 2037	discontinuations due to an AE
+T14	HMM 2227 2248	Discontinuation rates
+T15	HMM 2256 2289	edema and hypertension related AE
+T16	HMM 2384 2392	efficacy
+T17	HMM 2446 2454	response
+T18	HMM 2538 2546	efficacy
+T19	HMM 2659 2674	well tolerated.

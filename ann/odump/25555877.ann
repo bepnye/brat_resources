@@ -1,0 +1,12 @@
+T1	HMM 40 84	hemodynamic changes and intrapulmonary shunt
+T2	HMM 229 276	on hemodynamic changes and intrapulmonary shunt
+T3	HMM 632 686	for arterial blood pressure (ABP) monitoring and blood
+T4	HMM 810 811	.
+T5	HMM 812 876	ECG, MAP, HR, CVP, continuous cardiac output (CCO) index and BIS
+T6	HMM 2003 2011	(T8) and
+T7	HMM 2034 2064	RESULTS SVRI, MAP, HR in group
+T8	HMM 2132 2138	0.05).
+T9	HMM 2256 2266	calculated
+T10	HMM 2293 2300	at T5·
+T11	HMM 2443 2466	difference in Qs/Qt and
+T12	HMM 2628 2634	affect

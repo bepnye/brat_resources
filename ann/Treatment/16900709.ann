@@ -1,0 +1,8 @@
+T1	Treatment 16 78	conventional PCNL and two modifications to standard procedure.
+T2	Treatment 117 165	conventional Percutaneous Nephrolithotomy (PCNL)
+T3	Treatment 282 287	PCNL.
+T4	Treatment 555 613	nephrostomy tube (NT) and temporary ureteral catheter (TU)
+T5	Treatment 626 633	only TU
+T6	Treatment 649 687	only indwelling ureteral catheter (IU)
+T7	Treatment 970 974	PCNL
+T8	Treatment 1503 1516	Tubeless PCNL

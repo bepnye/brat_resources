@@ -1,0 +1,10 @@
+T1	HMM 57 79	spinal bone metastases
+T2	HMM 211 246	bone density in the metastatic bone
+T3	HMM 664 724	Bone density in metastatic and non-metastatic vertebral bone
+T4	HMM 784 814	Bone density in all metastases
+T5	HMM 945 957	bone density
+T6	HMM 1127 1144	bone density data
+T7	HMM 1366 1388	pathological fractures
+T8	HMM 1616 1628	bone density
+T9	HMM 1719 1731	side effects
+T10	HMM 1763 1789	pathological fracture rate

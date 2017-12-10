@@ -1,0 +1,7 @@
+T1	HMM 813 829	overall survival
+T2	HMM 875 905	frequency of the G84E mutation
+T3	HMM 1140 1148	mutation
+T4	HMM 1296 1331	with increased prostate cancer risk
+T5	HMM 1462 1486	contribution in CRC risk
+T6	HMM 1635 1656	increased cancer risk
+T7	HMM 1859 1883	the HOXB13 G84E mutation

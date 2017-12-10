@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Apolipoproteins
+Carrier Proteins
+Cholesterol Ester Transfer Proteins
+Cholesterol, HDL
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Enzyme Inhibitors
+Female
+Glycoproteins
+Humans
+Lipids
+Lipoproteins
+Lipoproteins, HDL
+Male
+Middle Aged
+Quinolines

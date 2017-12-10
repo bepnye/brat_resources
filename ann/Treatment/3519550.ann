@@ -1,0 +1,7 @@
+T1	Treatment 14 26	radiotherapy
+T2	Treatment 163 189	postoperative radiotherapy
+T3	Treatment 208 226	radical mastectomy
+T4	Treatment 354 380	conventional roentgen unit
+T5	Treatment 416 425	60Co unit
+T6	Treatment 705 719	60Co radiation
+T7	Treatment 893 907	60Co radiation

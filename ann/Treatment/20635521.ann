@@ -1,0 +1,12 @@
+T1	Treatment 10 68	"developmental speech and language training through music"
+T2	Treatment 168 199	music training, speech training
+T3	Treatment 204 215	no-training
+T4	Treatment 523 537	music training
+T5	Treatment 557 624	music video containing 6 songs and pictures of the 36 target words;
+T6	Treatment 634 649	speech training
+T7	Treatment 669 715	speech video containing 6 stories and pictures
+T8	Treatment 734 751	control condition
+T9	Treatment 770 783	no treatment.
+T10	Treatment 990 995	music
+T11	Treatment 1000 1015	speech training
+T12	Treatment 1311 1325	music training

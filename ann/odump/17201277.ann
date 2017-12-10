@@ -1,0 +1,8 @@
+T1	HMM 27 81	thrombocyte aggregation, blood viscosity, hemodynamics
+T2	HMM 429 464	functional activity of thrombocytes
+T3	HMM 477 506	high blood viscosity syndrome
+T4	HMM 519 561	low density lipoprotein cholesterol level.
+T5	HMM 625 645	myocardial perfusion
+T6	HMM 658 705	strength and frequency of coronary pain attacks
+T7	HMM 715 757	postinfarction left ventricular remodeling
+T8	HMM 777 804	quality of life of patients

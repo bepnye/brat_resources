@@ -1,0 +1,11 @@
+T1	Treatment 23 33	didanosine
+T2	Treatment 52 64	itraconazole
+T3	Treatment 173 189	didanosine (ddI)
+T4	Treatment 228 241	itraconazole.
+T5	Treatment 354 372	itraconazole alone
+T6	Treatment 377 411	itraconazole with simultaneous ddI
+T7	Treatment 646 755	single 200-mg oral dose of itraconazole or itraconazole with concomitant oral ddI 300 mg (two 150-mg tablets)
+T8	Treatment 954 966	itraconazole
+T9	Treatment 1267 1279	itraconazole
+T10	Treatment 1501 1527	oral administration of ddI
+T11	Treatment 1566 1579	itraconazole.

@@ -1,0 +1,11 @@
+T1	HMM 907 973	congestive failure, hypertension, prior CABG, and unstable angina;
+T2	HMM 989 1004	body mass index
+T3	HMM 1015 1032	ejection fraction
+T4	HMM 1093 1122	degree of multivessel disease
+T5	HMM 1217 1231	type C lesions
+T6	HMM 1296 1337	Angiographic and procedural success rates
+T7	HMM 1342 1360	in-hospital events
+T8	HMM 1423 1493	death, myocardial infarction, or target vessel revascularization (TVR)
+T9	HMM 1661 1666	death
+T10	HMM 1772 1775	TVR
+T11	HMM 1856 1887	death/myocardial infarction/TVR

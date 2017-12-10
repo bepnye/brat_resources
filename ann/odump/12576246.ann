@@ -1,0 +1,9 @@
+T1	HMM 114 149	uterine leiomyoma size and symptoms
+T2	HMM 718 744	Mean uterine volume shrank
+T3	HMM 847 873	Leiomyoma-related symptoms
+T4	HMM 914 924	Amenorrhea
+T5	HMM 960 977	Hemoglobin levels
+T6	HMM 1037 1048	hot flashes
+T7	HMM 1133 1163	Simple endometrial hyperplasia
+T8	HMM 1235 1255	atypical hyperplasia
+T9	HMM 1339 1407	leiomyoma regression, improvement in symptoms, and few side effects.

@@ -1,0 +1,17 @@
+Absorptiometry, Photon
+Adult
+Aged
+Bone Density
+Calcitriol
+Female
+Hepatitis, Viral, Human
+Humans
+Liver Cirrhosis
+Male
+Middle Aged
+Osteoporosis
+Proportional Hazards Models
+Regression Analysis
+Sex Factors
+Time Factors
+Treatment Outcome

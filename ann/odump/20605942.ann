@@ -1,0 +1,6 @@
+T1	HMM 486 513	vocabulary difference score
+T2	HMM 806 850	Parent expansions of child verbal utterances
+T3	HMM 861 878	spoken vocabulary
+T4	HMM 1001 1078	the number of parent utterances following into the child's focus of attention
+T5	HMM 1087 1159	the number of parent utterances responding to child verbal communication
+T6	HMM 1224 1241	spoken vocabulary

@@ -1,0 +1,10 @@
+T1	HMM 18 37	efficacy and safety
+T2	HMM 200 219	efficacy and safety
+T3	HMM 643 663	Therapeutic response
+T4	HMM 721 800	heart rate, heart rate less than 100 bpm, or conversion to normal sinus rhythm.
+T5	HMM 801 825	The therapeutic response
+T6	HMM 1070 1089	normal sinus rhythm
+T7	HMM 1150 1170	therapeutic response
+T8	HMM 1334 1348	adverse effect
+T9	HMM 1377 1388	hypotension
+T10	HMM 1429 1464	Hypotension and associated symptoms

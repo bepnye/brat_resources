@@ -1,0 +1,5 @@
+T1	Treatment 31 68	bacillus Calmette-Guérin vaccination
+T2	Treatment 280 331	without bacillus Calmette-Guérin (BCG) vaccination
+T3	Treatment 739 751	received BCG
+T4	Treatment 1047 1056	after BCG
+T5	Treatment 1314 1322	with BCG

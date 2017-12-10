@@ -1,0 +1,19 @@
+T1	HMM 158 180	toxicity and tolerance
+T2	HMM 978 988	dose level
+T3	HMM 1004 1013	tolerable
+T4	HMM 1053 1072	grade 3/4 toxicity.
+T5	HMM 1152 1161	toxicity.
+T6	HMM 1179 1188	tolerated
+T7	HMM 1261 1302	mild-to-moderate constitutional symptoms.
+T8	HMM 1303 1321	Grade 3/4 toxicity
+T9	HMM 1352 1381	Interleukin-2 dose reductions
+T10	HMM 1460 1469	toxicity.
+T11	HMM 1529 1536	relapse
+T12	HMM 1556 1560	died
+T13	HMM 1568 1583	Median survival
+T14	HMM 1607 1640	3-year disease-free survival rate
+T15	HMM 1650 1673	Median overall survival
+T16	HMM 1709 1729	3-year survival rate
+T17	HMM 1839 1879	disease-free survival or 3-year survival
+T18	HMM 2110 2119	tolerated
+T19	HMM 2287 2327	clinical efficacy and favorable toxicity

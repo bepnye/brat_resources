@@ -1,0 +1,7 @@
+T1	HMM 17 25	efficacy
+T2	HMM 779 902	plasma LDL cholesterol (primary), total cholesterol, triglycerides, and high-density lipoprotein cholesterol concentrations
+T3	HMM 1029 1044	LDL cholesterol
+T4	HMM 1204 1219	LDL cholesterol
+T5	HMM 1472 1489	total cholesterol
+T6	HMM 1629 1642	tolerability.
+T7	HMM 1696 1728	serum transaminases or myositis.

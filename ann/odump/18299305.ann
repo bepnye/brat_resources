@@ -1,0 +1,6 @@
+T1	HMM 0 23	Safety and tolerability
+T2	HMM 561 584	safety and tolerability
+T3	HMM 1292 1304	irritability
+T4	HMM 1326 1356	runny nose or nasal congestion
+T5	HMM 1452 1491	reactogenicity events or adverse events
+T6	HMM 1597 1623	mild reactogenicity events

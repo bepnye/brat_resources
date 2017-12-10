@@ -1,0 +1,21 @@
+T1	Outcomes 227 243	disease activity
+T2	Outcomes 248 268	remission assessment
+T3	Outcomes 343 490	Simplified Disease Activity Index (SDAI) scores, Clinical Disease Activity Index (CDAI) scores, and the Disease Activity Score in 28 joints (DAS28)
+T4	Outcomes 721 765	Disease activity states, including remission
+T5	Outcomes 881 937	Changes in the DAS28, the SDAI score, and the CDAI score
+T6	Outcomes 1101 1105	SDAI
+T7	Outcomes 1114 1119	CDAI.
+T8	Outcomes 1152 1183	improvement in disease activity
+T9	Outcomes 1342 1372	However, DAS28 remission rates
+T10	Outcomes 1428 1461	the SDAI and CDAI remission rates
+T11	Outcomes 1511 1531	with DAS28 remission
+T12	Outcomes 1537 1558	had disease remission
+T13	Outcomes 1621 1661	treatment, SDAI and CDAI remission rates
+T14	Outcomes 1735 1760	and DAS28 remission rates
+T15	Outcomes 1802 1822	with DAS28 remission
+T16	Outcomes 1827 1849	without CDAI remission
+T17	Outcomes 1868 1895	higher swollen joint counts
+T18	Outcomes 1900 1944	lower erythrocyte sedimentation rates (ESRs)
+T19	Outcomes 1997 2024	CONCLUSION Disease activity
+T20	Outcomes 2139 2148	activity.
+T21	Outcomes 2149 2164	Remission rates

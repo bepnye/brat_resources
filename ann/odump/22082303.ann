@@ -1,0 +1,6 @@
+T1	HMM 62 66	pain
+T2	HMM 275 311	urinary urgency, frequency, and pain
+T3	HMM 946 1003	percent change in pain score (11-point analog pain scale)
+T4	HMM 1114 1122	symptoms
+T5	HMM 1127 1160	12-hour average urgency reduction
+T6	HMM 1592 1608	urgency and pain

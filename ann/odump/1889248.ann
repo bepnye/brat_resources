@@ -1,0 +1,16 @@
+T1	HMM 83 96	interleukin 1
+T2	HMM 233 256	interleukin 1 (IL = 1).
+T3	HMM 373 402	respiratory tract infections.
+T4	HMM 430 445	IL-1 production
+T5	HMM 544 568	in vitro IL-1 production
+T6	HMM 799 814	IL-1 production
+T7	HMM 1058 1076	AM IL-1 production
+T8	HMM 1095 1110	IL-1 production
+T9	HMM 1301 1317	IL-1 production.
+T10	HMM 1383 1398	IL-1 production
+T11	HMM 1414 1431	LPS concentration
+T12	HMM 1651 1655	IL-1
+T13	HMM 1794 1819	optimal LPS concentration
+T14	HMM 2075 2079	IL-1
+T15	HMM 2090 2111	low LPS concentration
+T16	HMM 2205 2233	respiratory tract infection.

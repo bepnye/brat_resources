@@ -1,0 +1,8 @@
+T1	HMM 436 450	blood pressure
+T2	HMM 455 472	microalbuminuria.
+T3	HMM 839 853	Blood pressure
+T4	HMM 949 986	systolic and diastolic blood pressure
+T5	HMM 1080 1096	microalbuminuria
+T6	HMM 1361 1369	Glycemia
+T7	HMM 1420 1447	blood glucose concentration
+T8	HMM 1637 1651	adverse events

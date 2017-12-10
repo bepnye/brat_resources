@@ -1,0 +1,12 @@
+T1	HMM 60 81	myocardial infarction
+T2	HMM 162 181	efficacy and safety
+T3	HMM 651 742	thrombolysis in myocardial infarction (TIMI) flow, bleeding complications and clinic events
+T4	HMM 835 871	percentage of patient with TIMI flow
+T5	HMM 1007 1043	percentage of patient with TIMI flow
+T6	HMM 1169 1216	decreased the rate of poor myocardial perfusion
+T7	HMM 1274 1316	major adverse cardiovascular events (MACE)
+T8	HMM 1466 1488	bleeding complications
+T9	HMM 1518 1533	mild hemorrhage
+T10	HMM 1560 1577	severe hemorrhage
+T11	HMM 1606 1629	severe thrombocytopenia
+T12	HMM 1710 1732	bleeding complications

@@ -1,0 +1,5 @@
+T1	HMM 783 817	change of the size of the thrombus
+T2	HMM 923 950	incidence of major bleeding
+T3	HMM 1052 1071	clot size evolution
+T4	HMM 1222 1274	incidence of overall recurrent thromboembolic events
+T5	HMM 1426 1456	serious bleeding complications

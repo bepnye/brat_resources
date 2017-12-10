@@ -1,0 +1,9 @@
+T1	HMM 44 52	efficacy
+T2	HMM 206 219	hypertension.
+T3	HMM 846 860	blood pressure
+T4	HMM 902 998	average circadian SBP and DBP monitored with 24-hour ambulatory blood pressure monitoring (ABPM)
+T5	HMM 1083 1108	blood pressure parameters
+T6	HMM 1322 1332	depression
+T7	HMM 1360 1393	Hamilton depression (HAMD) scale.
+T8	HMM 1421 1455	nausea, perspiration and skin rash
+T9	HMM 1792 1823	antidepressants and antianxiety

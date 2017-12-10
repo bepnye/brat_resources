@@ -1,0 +1,12 @@
+T1	HMM 5 30	alliance predict symptoms
+T2	HMM 132 175	therapeutic alliance and symptomatic change
+T3	HMM 237 274	alliance predicts symptomatic change.
+T4	HMM 486 508	symptomatic reduction.
+T5	HMM 889 910	alliance and symptoms
+T6	HMM 956 969	contributions
+T7	HMM 973 1013	predicting subsequent symptomatic levels
+T8	HMM 1050 1058	alliance
+T9	HMM 1068 1076	symptoms
+T10	HMM 1088 1115	subsequent alliance levels.
+T11	HMM 1198 1206	alliance
+T12	HMM 1227 1245	symptomatic levels

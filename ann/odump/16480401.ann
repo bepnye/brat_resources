@@ -1,0 +1,4 @@
+T1	HMM 1121 1291	percentage of patients with steroid sparing, defined as discontinuation of steroid therapy without a disease flare (Crohn's Disease Activity Index score > or =220 points)
+T2	HMM 1312 1327	Steroid sparing
+T3	HMM 1424 1438	Adverse events
+T4	HMM 1536 1552	sparing steroids

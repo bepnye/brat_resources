@@ -1,0 +1,6 @@
+T1	Treatment 50 62	radiotherapy
+T2	Treatment 66 83	chemoradiotherapy
+T3	Treatment 168 198	Preoperative chemoradiotherapy
+T4	Treatment 220 232	radiotherapy
+T5	Treatment 522 544	preoperative CRT or RT
+T6	Treatment 560 586	5-fluorouracil/leucovorin)

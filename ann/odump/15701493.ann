@@ -1,0 +1,10 @@
+T1	HMM 684 788	operative time, pain scores, complications, day of discharge, return to work, and level of satisfaction.
+T2	HMM 914 941	Grade III or IV hemorrhoids
+T3	HMM 1037 1056	mean operative time
+T4	HMM 1184 1237	blood loss, pain scores and requirement of analgesics
+T5	HMM 1283 1301	Mean hospital stay
+T6	HMM 1434 1472	returned to work or routine activities
+T7	HMM 1588 1597	satisfied
+T8	HMM 1809 1827	safe and effective
+T9	HMM 1922 1992	postoperative pain, early discharge, less time off work, complications
+T10	HMM 2046 2063	satisfied patient

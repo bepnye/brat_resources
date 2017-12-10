@@ -1,0 +1,12 @@
+T1	HMM 0 22	Deliberate hypotension
+T2	HMM 639 653	cardiac output
+T3	HMM 729 757	systemic vascular resistance
+T4	HMM 794 812	arterial pressure.
+T5	HMM 813 841	Systemic vascular resistance
+T6	HMM 878 900	plasma renin activity.
+T7	HMM 971 993	mean arterial pressure
+T8	HMM 1027 1055	systemic vascular resistance
+T9	HMM 1096 1111	cardiac output.
+T10	HMM 1112 1140	Plasma renin activity levels
+T11	HMM 1207 1217	Heart rate
+T12	HMM 1406 1434	marked myocardial depression

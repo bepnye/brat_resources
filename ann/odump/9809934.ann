@@ -1,0 +1,7 @@
+T1	HMM 1423 1444	segmental sensitivity
+T2	HMM 1477 1488	specificity
+T3	HMM 1767 1778	sensitivity
+T4	HMM 1892 1945	Time since MI and SPECT defect location and intensity
+T5	HMM 1993 2017	extent of defects on MCE
+T6	HMM 2310 2346	moderate or severe perfusion defects
+T7	HMM 2384 2397	SPECT defects

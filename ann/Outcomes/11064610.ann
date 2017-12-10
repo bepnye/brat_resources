@@ -1,0 +1,16 @@
+T1	Outcomes 174 211	pharmacokinetics and pharmacodynamics
+T2	Outcomes 464 485	Plasma concentrations
+T3	Outcomes 505 558	times for the plasma concentration to decrease by 50%
+T4	Outcomes 628 633	Times
+T5	Outcomes 686 722	Total dose and plasma concentrations
+T6	Outcomes 763 779	Mean total doses
+T7	Outcomes 871 888	Time to awakening
+T8	Outcomes 955 962	trachea
+T9	Outcomes 967 976	extubated
+T10	Outcomes 1098 1101	t80
+T11	Outcomes 1222 1225	t80
+T12	Outcomes 1248 1275	time to tracheal extubation
+T13	Outcomes 1311 1321	t50 values
+T14	Outcomes 1380 1394	recovery time.
+T15	Outcomes 1496 1526	mechanical ventilatory support
+T16	Outcomes 1679 1706	time to tracheal extubation

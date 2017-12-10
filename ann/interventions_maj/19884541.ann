@@ -1,0 +1,13 @@
+T1	Intervention 97 109	methotrexate
+T2	Intervention 131 150	intrathecal therapy
+T3	Intervention 326 376	intrathecal (IT) methotrexate or triple IT therapy
+T4	Intervention 382 434	methotrexate with both cytarabine and hydrocortisone
+T5	Intervention 683 695	methotrexate
+T6	Intervention 711 728	triple IT therapy
+T7	Intervention 895 907	methotrexate
+T8	Intervention 1035 1052	triple IT therapy
+T9	Intervention 1169 1181	methotrexate
+T10	Intervention 1276 1293	triple IT therapy
+T11	Intervention 1898 1910	methotrexate
+T12	Intervention 1914 1931	triple IT therapy
+T13	Intervention 1989 2004	IT methotrexate

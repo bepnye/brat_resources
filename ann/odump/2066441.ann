@@ -1,0 +1,4 @@
+T1	HMM 698 811	plaque index, gingival index, bleeding on probing, probing depth, probing attachment level and microscopic counts
+T2	HMM 889 933	probing depth and density of micro-organisms
+T3	HMM 1035 1069	rate of bleeding on pocket probing
+T4	HMM 1087 1111	probing attachment gain.

@@ -1,0 +1,13 @@
+T1	Treatment 4 29	tension-free hernioplasty
+T2	Treatment 69 94	tension-free hernioplasty
+T3	Treatment 328 412	tension-free hernioplasties with implantation of a prolene mesh in all groin hernias
+T4	Treatment 419 460	Cooper ligament repairs in direct hernias
+T5	Treatment 468 511	abdominal ring repairs in indirect hernias.
+T6	Treatment 526 546	tension-free repairs
+T7	Treatment 592 632	Cooper ligament or abdominal ring repair
+T8	Treatment 716 736	tension-free repair;
+T9	Treatment 754 775	abdominal ring repair
+T10	Treatment 812 832	tension-free repairs
+T11	Treatment 903 925	Cooper ligament repair
+T12	Treatment 1070 1095	tension-free herniotomies
+T13	Treatment 1117 1142	conventionel herniotomies

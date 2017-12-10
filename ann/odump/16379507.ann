@@ -1,0 +1,22 @@
+T1	HMM 0 43	Acute and long-term safety and tolerability
+T2	HMM 104 118	adverse events
+T3	HMM 706 730	safety and tolerability:
+T4	HMM 735 842	laboratory blood assessments (CBC with differential, electrolytes, and liver function tests) and urinalyses
+T5	HMM 848 859	vital signs
+T6	HMM 865 891	Side Effects Review of AEs
+T7	HMM 939 952	sleep records
+T8	HMM 958 1004	Simpson Angus Neurological Rating Scale (SARS)
+T9	HMM 1010 1052	Abnormal Involuntary Movement Scale (AIMS)
+T10	HMM 1062 1080	height and weight.
+T11	HMM 1310 1320	Somnolence
+T12	HMM 1336 1344	enuresis
+T13	HMM 1360 1378	excessive appetite
+T14	HMM 1394 1402	rhinitis
+T15	HMM 1417 1434	difficulty waking
+T16	HMM 1453 1465	constipation
+T17	HMM 1481 1520	"Difficulty falling asleep" and anxiety
+T18	HMM 1610 1613	AEs
+T19	HMM 1761 1793	weight and body mass index (BMI)
+T20	HMM 2053 2076	Extrapyramidal symptoms
+T21	HMM 2285 2293	seizures
+T22	HMM 2520 2547	somnolence and weight gain.

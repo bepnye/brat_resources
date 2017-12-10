@@ -1,0 +1,11 @@
+T1	HMM 829 905	10-point visual analog scales (VAS) for stress, relaxation, and peacefulness
+T2	HMM 938 957	physiologic effects
+T3	HMM 991 1099	cardiorespiratory monitors to assess respiratory rate (RR), heart rate (HR) and heart rate variability (HRV)
+T4	HMM 1789 1799	meditation
+T5	HMM 1889 1892	RR.
+T6	HMM 1921 1931	VAS scores
+T7	HMM 1980 1986	stress
+T8	HMM 2002 2012	relaxation
+T9	HMM 2031 2043	peacefulness
+T10	HMM 2133 2135	RR
+T11	HMM 2153 2165	improved HRV

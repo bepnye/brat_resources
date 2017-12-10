@@ -1,0 +1,5 @@
+T1	HMM 83 115	Helicobacter pylori eradication:
+T2	HMM 500 510	efficacies
+T3	HMM 1042 1059	(13)C urea breath
+T4	HMM 1493 1507	adverse events
+T5	HMM 1687 1703	eradication rate

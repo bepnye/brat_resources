@@ -1,0 +1,10 @@
+T1	HMM 164 172	efficacy
+T2	HMM 391 403	sinus rhythm
+T3	HMM 619 642	lower ventricular rates
+T4	HMM 946 956	converted.
+T5	HMM 1031 1043	sinus rhythm
+T6	HMM 1077 1103	Conversion to sinus rhythm
+T7	HMM 1249 1274	Transient adverse effects
+T8	HMM 1354 1377	effective and safe drug
+T9	HMM 1447 1451	AFI.
+T10	HMM 1490 1513	conversion of AF or AFI

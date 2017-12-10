@@ -1,0 +1,5 @@
+T1	HMM 30 47	pain and bleeding
+T2	HMM 221 239	pain and bleeding.
+T3	HMM 267 276	less pain
+T4	HMM 292 308	vaginal bleeding
+T5	HMM 368 400	fewer daily hospital attendances

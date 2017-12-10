@@ -1,0 +1,9 @@
+T1	HMM 312 326	C-spine motion
+T2	HMM 628 642	C-spine motion
+T3	HMM 821 825	Time
+T4	HMM 857 899	C-spine motion during bag-mask ventilation
+T5	HMM 997 1031	C-spine motion using the Lightwand
+T6	HMM 1183 1199	time to intubate
+T7	HMM 1247 1261	C-spine motion
+T8	HMM 1405 1411	longer
+T9	HMM 1529 1545	C-spine movement

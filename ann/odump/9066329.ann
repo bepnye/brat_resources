@@ -1,0 +1,15 @@
+T1	HMM 754 823	number of intubations required to achieve an appropriately sized tube
+T2	HMM 829 874	need to use more than 21.min-1 fresh gas flow
+T3	HMM 880 932	concentration of nitrous oxide in the operating room
+T4	HMM 942 960	incidence of croup
+T5	HMM 1026 1037	appropriate
+T6	HMM 1106 1117	appropriate
+T7	HMM 1155 1172	lungs of patients
+T8	HMM 1196 1217	adequately ventilated
+T9	HMM 1333 1368	Ambient nitrous oxide concentration
+T10	HMM 1531 1545	croup symptoms
+T11	HMM 1629 1640	appropriate
+T12	HMM 1645 1660	young children.
+T13	HMM 1661 1671	Advantages
+T14	HMM 1709 1770	avoidance of repeated laryngoscopy, use of low fresh gas flow
+T15	HMM 1776 1855	reduction of the concentration of anesthetics detectable in the operating room.

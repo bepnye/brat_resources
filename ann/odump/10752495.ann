@@ -1,0 +1,9 @@
+T1	HMM 14 56	creatinine clearance from serum creatinine
+T2	HMM 160 186	glomerular filtration rate
+T3	HMM 300 338	endogenous creatinine clearance (Clcr)
+T4	HMM 490 536	prediction of Clcr from serum creatinine (Scr)
+T5	HMM 588 599	correlation
+T6	HMM 724 728	Clcr
+T7	HMM 899 913	measured Clcr.
+T8	HMM 945 953	reliably
+T9	HMM 962 987	to predict Clcr from Scr.

@@ -1,0 +1,7 @@
+T1	HMM 249 267	stage III melanoma
+T2	HMM 1136 1157	Median follow-up time
+T3	HMM 1227 1241	Median OS time
+T4	HMM 1306 1323	Five-year OS rate
+T5	HMM 1358 1407	Estimated 5-year relapse-free survival (RFS) rate
+T6	HMM 1503 1538	incidence of serious adverse events
+T7	HMM 1607 1632	neuropsychiatric toxicity

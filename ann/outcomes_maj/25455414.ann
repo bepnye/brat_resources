@@ -1,0 +1,9 @@
+T1	Outcomes 1180 1415	CT number, background noise, signal-to-noise ratio (SNR), effective dose, HCC-to-liver contrast-to-noise ratio (CNR), and figure of merit (FOM). Sensitivity, specificity, and area under the receiver-operating-characteristic curve (AUC)
+T2	Outcomes 1444 1465	detectability of HCCs
+T3	Outcomes 1475 1507	Vascular and hepatic enhancement
+T4	Outcomes 1609 1633	Subjective image quality
+T5	Outcomes 1673 1706	Sensitivity, specificity, and AUC
+T6	Outcomes 1711 1725	detecting HCCs
+T7	Outcomes 1764 1778	effective dose
+T8	Outcomes 1986 2022	contrast enhancement, image quality,
+T9	Outcomes 2027 2044	detection of HCCs

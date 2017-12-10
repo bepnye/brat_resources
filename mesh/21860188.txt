@@ -1,0 +1,12 @@
+Adult
+Amiodarone
+Anti-Arrhythmia Agents
+Atrial Fibrillation
+Cardiopulmonary Bypass
+Electric Countershock
+Female
+Heart Valve Prosthesis Implantation
+Humans
+Male
+Middle Aged
+Rheumatic Heart Disease

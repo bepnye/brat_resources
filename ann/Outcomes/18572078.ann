@@ -1,0 +1,13 @@
+T1	Outcomes 24 54	MRI-monitored disease activity
+T2	Outcomes 378 393	active lesions.
+T3	Outcomes 460 481	MRI-monitored disease
+T4	Outcomes 701 734	gadolinium enhancing (GdE) lesion
+T5	Outcomes 944 984	Brain MRI scans and clinical assessments
+T6	Outcomes 1082 1114	cumulative number of GdE lesions
+T7	Outcomes 1432 1473	cumulative number of GdE lesions per scan
+T8	Outcomes 1741 1755	liver enzymes.
+T9	Outcomes 1766 1789	Budd-Chiari syndrome-ie
+T10	Outcomes 1793 1852	thrombotic venous outflow obstruction of the liver-occurred
+T11	Outcomes 2008 2021	liver enzymes
+T12	Outcomes 2062 2085	hepatic decompensation.
+T13	Outcomes 2206 2235	MRI-measured disease activity

@@ -1,0 +1,6 @@
+T1	HMM 49 78	cerebral hemodynamic response
+T2	HMM 623 673	concentration of oxyhemoglobin and deoxyhemoglobin
+T3	HMM 912 974	concentrations of oxyhemoglobin and total levels of hemoglobin
+T4	HMM 1000 1019	cerebral blood flow
+T5	HMM 1060 1071	hemodynamic
+T6	HMM 1136 1158	cognitive performance.

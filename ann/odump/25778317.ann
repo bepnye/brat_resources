@@ -1,0 +1,8 @@
+T1	HMM 186 194	efficacy
+T2	HMM 732 803	Short-term efficacy, radiotherapy toxicity, shortand long-term survival
+T3	HMM 831 855	short-term response rate
+T4	HMM 969 993	local radiation toxicity
+T5	HMM 1075 1120	hematological and gastrointestinal toxicities
+T6	HMM 1201 1223	overall survival rates
+T7	HMM 1473 1482	prognosis
+T8	HMM 1544 1553	toxicity.

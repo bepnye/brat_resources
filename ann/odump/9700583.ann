@@ -1,0 +1,8 @@
+T1	HMM 712 783	effects of this drug on symptoms control and bone metastases evolution.
+T2	HMM 1153 1257	Karnofsky performance status, pain score (measured by a visual-analogue scale) and analgesic requirement
+T3	HMM 1546 1586	decrease in Karnofsky performance status
+T4	HMM 1647 1663	Mean pain scores
+T5	HMM 1674 1690	increase of pain
+T6	HMM 1842 1864	Analgesics requirement
+T7	HMM 2023 2039	Toxicity was low
+T8	HMM 2046 2081	occasional gastroenteric discomfort

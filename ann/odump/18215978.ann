@@ -1,0 +1,7 @@
+T1	HMM 534 560	Rates of virologic failure
+T2	HMM 611 637	Treatment discontinuations
+T3	HMM 742 824	virologic failure and either baseline ABC resistance or regimen sensitivity score.
+T4	HMM 911 936	reduced virologic failure
+T5	HMM 1323 1349	treatment discontinuations
+T6	HMM 1480 1502	adding ABC to EFV+IDV.
+T7	HMM 1627 1660	effects on nucleoside resistance.

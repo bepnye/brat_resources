@@ -1,0 +1,5 @@
+T1	HMM 702 742	pulmonary arterial wedge pressure (PAWP)
+T2	HMM 827 856	mean arterial pressures (MAP)
+T3	HMM 961 987	mean exercise PAWP and MAP
+T4	HMM 1133 1137	PAWP
+T5	HMM 1272 1284	PAWP and MAP

@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Amoxicillin
+Drug Therapy, Combination
+Duodenal Ulcer
+Female
+Helicobacter Infections
+Helicobacter pylori
+Humans
+Male
+Metronidazole
+Middle Aged
+Omeprazole
+Prospective Studies
+Stomach Ulcer
+Treatment Outcome

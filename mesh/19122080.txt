@@ -1,0 +1,12 @@
+Adult
+Aged
+Arthroscopy
+Female
+Humans
+Injections, Intra-Articular
+Knee Injuries
+Knee Joint
+Male
+Middle Aged
+Sodium Chloride
+Treatment Outcome

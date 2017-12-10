@@ -1,0 +1,6 @@
+T1	HMM 43 74	test of variables of attention.
+T2	HMM 561 575	TOVA variables
+T3	HMM 756 776	basic TOVA variables
+T4	HMM 858 899	amounts of omission and commission errors
+T5	HMM 911 929	response time mean
+T6	HMM 972 1013	variance around their mean response time.

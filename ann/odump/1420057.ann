@@ -1,0 +1,11 @@
+T1	HMM 14 42	acute postoperative pressure
+T2	HMM 159 185	intraocular pressure (IOP)
+T3	HMM 629 633	IOPs
+T4	HMM 694 731	average of the maximum pressure rises
+T5	HMM 990 999	IOP rises
+T6	HMM 1181 1190	IOP rises
+T7	HMM 1340 1364	pressure rise > 20 mm Hg
+T8	HMM 1538 1553	rises > 6 mm Hg
+T9	HMM 1657 1666	rises > 6
+T10	HMM 1718 1738	acute pressure rises
+T11	HMM 1887 1896	acute IOP

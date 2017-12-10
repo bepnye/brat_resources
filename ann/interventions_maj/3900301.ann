@@ -1,0 +1,7 @@
+T1	Intervention 0 129	Chemotherapy with cyclophosphamide, doxorubicin, vincristine, and prednisone alone or with levamisole or with levamisole plus BCG
+T2	Intervention 277 338	cyclophosphamide, doxorubicin, vincristine, prednisone; CHOP)
+T3	Intervention 362 401	CHOP-levamisole or CHOP-levamisole-BCG)
+T4	Intervention 827 837	Levamisole
+T5	Intervention 1008 1018	levamisole
+T6	Intervention 1022 1036	levamisole-BCG
+T7	Intervention 1121 1133	chemotherapy

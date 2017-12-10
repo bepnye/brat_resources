@@ -1,0 +1,15 @@
+T1	HMM 56 72	caregiver burden
+T2	HMM 77 99	caregiver satisfaction
+T3	HMM 420 436	caregiver burden
+T4	HMM 441 453	satisfaction
+T5	HMM 724 758	caregiver burden and satisfaction.
+T6	HMM 759 777	Demand and control
+T7	HMM 803 843	patient- and caregiver-derived measures.
+T8	HMM 910 926	caregiver burden
+T9	HMM 1001 1008	control
+T10	HMM 1029 1043	higher burden.
+T11	HMM 1074 1097	caregiver satisfaction.
+T12	HMM 1143 1159	caregiver burden
+T13	HMM 1169 1181	satisfaction
+T14	HMM 1424 1440	caregiver burden
+T15	HMM 1445 1467	caregiver satisfaction

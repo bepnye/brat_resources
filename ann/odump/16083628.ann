@@ -1,0 +1,5 @@
+T1	HMM 135 141	effect
+T2	HMM 540 660	levels for creatinine, creatinine clearance, average pressure, total cholesterol, triglyceride and fasting homocysteine.
+T3	HMM 661 681	Endothelial function
+T4	HMM 1091 1115	vasodilatation responses
+T5	HMM 1309 1333	vasodilatation responses

@@ -1,0 +1,7 @@
+T1	HMM 0 38	Adherence to lifestyle recommendations
+T2	HMM 137 171	physical activity and sun exposure
+T3	HMM 315 324	adherence
+T4	HMM 565 599	physical activity and sun exposure
+T5	HMM 835 883	physical activity level and time of sun exposure
+T6	HMM 1071 1113	time of sun exposure and physical activity
+T7	HMM 1183 1253	able to follow prescribed lifestyle recommendations in the short-term.

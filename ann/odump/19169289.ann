@@ -1,0 +1,9 @@
+T1	HMM 65 79	solid tumours.
+T2	HMM 85 93	efficacy
+T3	HMM 169 182	solid tumours
+T4	HMM 397 445	Mean peak peripheral CD34+ cell counts increased
+T5	HMM 480 500	significantly higher
+T6	HMM 671 709	significantly higher peak CD34+ counts
+T7	HMM 988 1014	no significant differences
+T8	HMM 1018 1039	mean peak CD34+ count
+T9	HMM 1287 1336	cytokine-only peripheral CD34+ cell mobilization.

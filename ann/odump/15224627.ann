@@ -1,0 +1,14 @@
+T1	HMM 75 94	anxiety visibility.
+T2	HMM 156 171	bodily symptoms
+T3	HMM 218 235	social evaluation
+T4	HMM 395 413	anxiety visibility
+T5	HMM 768 779	heart sound
+T6	HMM 872 879	anxiety
+T7	HMM 914 939	habituation in heart rate
+T8	HMM 1024 1041	higher heart rate
+T9	HMM 1095 1102	anxiety
+T10	HMM 1117 1148	worried about their heart rates
+T11	HMM 1226 1256	actual heart rate differences.
+T12	HMM 1287 1294	worried
+T13	HMM 1320 1342	bodily anxiety symptom
+T14	HMM 1443 1457	anxiety levels

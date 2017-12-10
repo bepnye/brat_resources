@@ -1,0 +1,8 @@
+T1	HMM 272 300	Vascular pedicle width (VPW)
+T2	HMM 728 811	VPW and central venous pressure (CVP) or pulmonary artery occlusion pressure (PAOP)
+T3	HMM 864 966	relationships between VPW, positive end-expiratory pressure (PEEP), cumulative fluid balance, and PAOP
+T4	HMM 1072 1075	VPW
+T5	HMM 1369 1378	with PAOP
+T6	HMM 1486 1493	of PAOP
+T7	HMM 1527 1535	with VPW
+T8	HMM 1712 1718	mm Hg)

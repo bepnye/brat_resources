@@ -1,0 +1,16 @@
+Adult
+Aged
+Antineoplastic Agents
+Biopsy
+Colorectal Neoplasms
+Female
+Fluorouracil
+Humans
+Male
+Middle Aged
+Neoplasm Metastasis
+Pyrimidines
+Quality of Life
+Thymidylate Synthase
+Time Factors
+Treatment Outcome

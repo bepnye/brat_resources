@@ -1,0 +1,7 @@
+T1	HMM 153 212	objective response to chemotherapy using imaging modalities
+T2	HMM 304 387	serum tumor markers (TMs), namely carcinoembryonic antigen, CA19-9, DUPAN-2, SPan-1
+T3	HMM 455 502	Monitoring of serum TMs and computed tomography
+T4	HMM 672 696	fluctuation rates of TMs
+T5	HMM 872 897	time to progression (TTP)
+T6	HMM 1162 1188	follows: fluctuation rates
+T7	HMM 1364 1407	one-month earlier confirmation of treatment

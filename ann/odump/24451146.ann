@@ -1,0 +1,11 @@
+T1	HMM 759 769	Plasma OPN
+T2	HMM 855 879	Mean baseline plasma OPN
+T3	HMM 953 954	.
+T4	HMM 955 996	Mean percentage OPN tumor cell positivity
+T5	HMM 1055 1090	between plasma and tumor OPN values
+T6	HMM 1141 1249	with event-free survival (EFS), relapse-free survival (RFS), overall survival (OS), bone RFS or non-bone RFS
+T7	HMM 1310 1339	higher mean OPN plasma levels
+T8	HMM 1449 1474	that OPN tumor expression
+T9	HMM 1595 1606	population.
+T10	HMM 1607 1624	Plasma OPN levels
+T11	HMM 1835 1865	elevated mean OPN plasma level

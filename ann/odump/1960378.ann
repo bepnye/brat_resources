@@ -1,0 +1,11 @@
+T1	HMM 478 486	response
+T2	HMM 700 749	anti-human immunodeficiency virus antibody status
+T3	HMM 771 811	chronic active hepatitis on liver biopsy
+T4	HMM 838 847	AST level
+T5	HMM 873 900	hepatitis B virus DNA level
+T6	HMM 938 953	acute hepatitis
+T7	HMM 1281 1330	anti-human immunodeficiency virus antibody status
+T8	HMM 1366 1389	acute icteric hepatitis
+T9	HMM 1597 1602	HBsAg
+T10	HMM 1618 1623	HBeAg
+T11	HMM 1628 1649	hepatitis B virus DNA

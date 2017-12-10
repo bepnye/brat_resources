@@ -1,0 +1,14 @@
+T1	Outcomes 739 784	proportion of patients requiring transfusions
+T2	Outcomes 1033 1058	hemoglobin (Hb) increment
+T3	Outcomes 1087 1101	drug dose held
+T4	Outcomes 1113 1120	high Hb
+T5	Outcomes 1137 1165	mean end-of-study Hb levels.
+T6	Outcomes 1166 1176	Toxicities
+T7	Outcomes 1188 1203	thromboembolism
+T8	Outcomes 1209 1225	overall survival
+T9	Outcomes 1277 1305	global quality of life (QOL)
+T10	Outcomes 1386 1408	global QOL improvement
+T11	Outcomes 1430 1446	end-of-study QOL
+T12	Outcomes 1610 1627	transfusion needs
+T13	Outcomes 1643 1647	QOL.
+T14	Outcomes 1652 1664	Hb increment

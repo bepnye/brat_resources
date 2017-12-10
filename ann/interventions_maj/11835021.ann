@@ -1,0 +1,3 @@
+T1	Intervention 417 455	defibrillation threshold testing (DFT)
+T2	Intervention 602 773	initial 2 shocks for ventricular fibrillation conversion programmed at 2 energy steps above DFT++ (typically 4-6 J, maximum 10 J) with subsequent shocks at maximum energy,
+T3	Intervention 797 833	shocks programmed at maximum energy.

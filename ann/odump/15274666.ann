@@ -1,0 +1,6 @@
+T1	HMM 0 31	Helicobacter pylori eradication
+T2	HMM 200 231	Helicobacter pylori eradication
+T3	HMM 341 375	immunosorbent assay and immunoblot
+T4	HMM 780 796	Urea Breath Test
+T5	HMM 976 991	Full compliance
+T6	HMM 1030 1065	intention-to-treat eradication rate

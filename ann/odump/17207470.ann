@@ -1,0 +1,4 @@
+T1	HMM 34 59	gastrointestinal symptoms
+T2	HMM 933 1006	frequency of GI abnormalities, including abnormal stool consistency (e.g.
+T3	HMM 1008 1023	bulky or loose)
+T4	HMM 1211 1236	gastrointestinal symptoms

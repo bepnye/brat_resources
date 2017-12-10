@@ -1,0 +1,5 @@
+T1	HMM 132 138	safety
+T2	HMM 143 157	Immunogenicity
+T3	HMM 500 518	systemic reactions
+T4	HMM 602 641	immune success rates of I, II, III type
+T5	HMM 692 715	GMTs of I, II, III type

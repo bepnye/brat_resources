@@ -1,0 +1,22 @@
+T1	HMM 22 67	water turnover and thermobiological variables
+T2	HMM 257 283	thermoregulative responses
+T3	HMM 456 470	water turnover
+T4	HMM 644 742	water turnover, surface temperature, and rectal temperature, as well as drinking behavior of sheep
+T5	HMM 983 984	.
+T6	HMM 985 1018	Individual feed and water intakes
+T7	HMM 1145 1146	.
+T8	HMM 1147 1159	Water intake
+T9	HMM 1269 1270	.
+T10	HMM 1271 1338	Ambient temperature (T(a)), relative humidity, and respiratory rate
+T11	HMM 1360 1410	whereas BW, rectal and animal surface temperatures
+T12	HMM 1442 1457	and wool length
+T13	HMM 1581 1587	in DMI
+T14	HMM 1609 1643	g·kg(-0.75)·d(-1)), water intake
+T15	HMM 1669 1702	g·kg(-0.75)·d(-1)), respiratory
+T16	HMM 1729 1760	breath/min), rectal temperature
+T17	HMM 1783 1806	± 0.1°C), and surface
+T18	HMM 1952 1964	disappeared.
+T19	HMM 1965 1979	The same trend
+T20	HMM 2086 2164	relationship between T(a) and water intake, respiratory rate, and body surface
+T21	HMM 2236 2293	significantly reduced core body temperature, water intake
+T22	HMM 2343 2365	sheep, thus indicating

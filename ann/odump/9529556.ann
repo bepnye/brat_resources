@@ -1,0 +1,10 @@
+T1	HMM 80 101	immune dysregulation.
+T2	HMM 915 932	subjective relief
+T3	HMM 944 957	side effects.
+T4	HMM 1007 1013	relief
+T5	HMM 1095 1107	side effects
+T6	HMM 1198 1223	incidence of side effects
+T7	HMM 1276 1292	degree of relief
+T8	HMM 1367 1381	greater relief
+T9	HMM 1488 1508	immune dysregulation
+T10	HMM 1538 1548	beneficial

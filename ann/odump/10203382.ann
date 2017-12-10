@@ -1,0 +1,8 @@
+T1	HMM 280 449	medical history, indicators of current disease status, therapeutic drug use, in vitro drug susceptibility, immune status and mycobacterial load on bacteriologic response
+T2	HMM 454 462	survival
+T3	HMM 789 880	survival and bacteriologic response, defined by consecutive negative blood cultures for MAC
+T4	HMM 1149 1157	survival
+T5	HMM 1306 1315	mortality
+T6	HMM 1489 1529	baseline quantitative mycobacterial load
+T7	HMM 1667 1682	Karnofsky score
+T8	HMM 1842 1860	multivariate model

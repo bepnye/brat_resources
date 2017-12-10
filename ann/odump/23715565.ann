@@ -1,0 +1,18 @@
+T1	HMM 46 64	colorectal adenoma
+T2	HMM 70 87	colorectal cancer
+T3	HMM 221 246	risk of colorectal cancer
+T4	HMM 447 507	colorectal adenoma incidence, adenoma recurrence, and cancer
+T5	HMM 710 733	incident distal adenoma
+T6	HMM 749 766	recurrent adenoma
+T7	HMM 784 810	incident colorectal cancer
+T8	HMM 1020 1049	odds ratios (ORs) and 95% CIs
+T9	HMM 1054 1086	adenoma incidence and recurrence
+T10	HMM 1092 1111	hazard ratios (HRs)
+T11	HMM 1116 1123	95% CIs
+T12	HMM 1128 1155	colorectal cancer incidence
+T13	HMM 1303 1334	higher risk of incident adenoma
+T14	HMM 1368 1389	and colorectal cancer
+T15	HMM 1455 1475	of recurrent adenoma
+T16	HMM 1544 1568	either adenoma or cancer
+T17	HMM 1694 1714	of colorectal cancer
+T18	HMM 1733 1754	and colorectal cancer

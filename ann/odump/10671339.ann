@@ -1,0 +1,12 @@
+T1	HMM 226 246	serological response
+T2	HMM 355 371	vaccine response
+T3	HMM 414 478	levels of influenza hemagglutination-inhibition (HAI) antibodies
+T4	HMM 486 500	IgG antibodies
+T5	HMM 583 600	antibody response
+T6	HMM 777 790	response rate
+T7	HMM 798 817	influenza B vaccine
+T8	HMM 875 880	ELISA
+T9	HMM 969 977	response
+T10	HMM 981 992	influenza A
+T11	HMM 1005 1006	B
+T12	HMM 1151 1184	response to influenza vaccination

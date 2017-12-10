@@ -1,0 +1,4 @@
+T1	HMM 1074 1224	risk of an adverse outcome-absence of documentation of discharge planning, elevated temperature, abnormal pulse, and unaddressed abnormal test results
+T2	HMM 1273 1345	examined-abnormal blood pressure, IV fluids or drugs, and wound drainage
+T3	HMM 1491 1528	abnormal pulse, increased temperature
+T4	HMM 1533 1559	unaddressed abnormal tests

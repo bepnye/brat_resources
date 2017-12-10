@@ -1,0 +1,4 @@
+T1	HMM 773 793	median survival time
+T2	HMM 851 859	survival
+T3	HMM 888 962	median time from diagnosis to crossover (Groups 1 and 2) or to progression
+T4	HMM 1108 1124	means or medians

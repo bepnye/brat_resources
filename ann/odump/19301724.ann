@@ -1,0 +1,13 @@
+T1	HMM 96 119	postoperative analgesia
+T2	HMM 124 143	knee rehabilitation
+T3	HMM 671 788	postoperative analgesic efficacy, side effects, postoperative knee rehabilitation, and hospital length of stay (LOS).
+T4	HMM 1300 1310	VAS scores
+T5	HMM 1328 1351	tramadol IV requirement
+T6	HMM 1492 1521	dizziness, pruritus, and PONV
+T7	HMM 1562 1582	Patient satisfaction
+T8	HMM 1624 1657	postoperative knee rehabilitation
+T9	HMM 1666 1678	hospital LOS
+T10	HMM 1759 1771	side effects
+T11	HMM 1784 1806	patient, satisfaction.
+T12	HMM 1811 1833	rehabilitation indices
+T13	HMM 1838 1863	duration of hospital stay

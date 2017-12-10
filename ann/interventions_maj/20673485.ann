@@ -1,0 +1,8 @@
+T1	Intervention 39 51	radiotherapy
+T2	Intervention 211 232	thoracic radiotherapy
+T3	Intervention 589 617	etoposide and cisplatin (EP)
+T4	Intervention 679 682	TRT
+T5	Intervention 858 881	induction chemotherapy,
+T6	Intervention 899 902	TRT
+T7	Intervention 957 959	EP
+T8	Intervention 1040 1078	Prophylactic cranial irradiation (PCI)

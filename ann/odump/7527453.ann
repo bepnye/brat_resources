@@ -1,0 +1,7 @@
+T1	HMM 0 10	Comparison
+T2	HMM 152 171	complete remission:
+T3	HMM 492 499	benefit
+T4	HMM 1030 1048	complete remission
+T5	HMM 1267 1300	3-year disease-free survival rate
+T6	HMM 1498 1518	3-year survival rate
+T7	HMM 1864 1872	superior

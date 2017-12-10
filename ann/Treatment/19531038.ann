@@ -1,0 +1,5 @@
+T1	Treatment 0 31	Quick change versus double pump
+T2	Treatment 109 150	Quick change (QC) and double pumping (DP)
+T3	Treatment 388 390	DP
+T4	Treatment 696 714	inotropic infusion
+T5	Treatment 1943 1945	QC

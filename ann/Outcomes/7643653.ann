@@ -1,0 +1,12 @@
+T1	Outcomes 8 18	assessment
+T2	Outcomes 203 222	Clinical evaluation
+T3	Outcomes 252 364	catheter insertion, complications, accuracy of oxygen sensor data and fibrin deposition on the catheter surface.
+T4	Outcomes 369 404	success rate for catheter insertion
+T5	Outcomes 491 533	catheter failures (blocked or non-reading)
+T6	Outcomes 703 718	sensor accuracy
+T7	Outcomes 823 828	Drift
+T8	Outcomes 883 918	Significant errors of recalibration
+T9	Outcomes 1005 1019	sampling lumen
+T10	Outcomes 1064 1081	fibrin deposition
+T11	Outcomes 1124 1159	success rate for catheter insertion
+T12	Outcomes 1207 1215	accuracy

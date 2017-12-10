@@ -1,0 +1,7 @@
+T1	HMM 180 199	efficacy and safety
+T2	HMM 898 943	disease progression or unacceptable toxicity.
+T3	HMM 982 1014	progression-free survival (PFS).
+T4	HMM 1030 1033	PFS
+T5	HMM 1123 1146	Median overall survival
+T6	HMM 1321 1330	tolerated
+T7	HMM 1336 1365	rash and hematologic toxicity

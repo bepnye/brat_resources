@@ -1,0 +1,8 @@
+T1	HMM 28 46	cognitive function
+T2	HMM 177 209	postprocedure cognitive function
+T3	HMM 678 725	Telephone Interview of Cognitive Status (TICS).
+T4	HMM 765 780	mean TICS score
+T5	HMM 886 901	mean TICS score
+T6	HMM 998 1013	mean TICS score
+T7	HMM 1190 1223	postprocedure cognitive function.
+T8	HMM 1242 1274	number of jaw lift interventions

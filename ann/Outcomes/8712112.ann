@@ -1,0 +1,15 @@
+T1	Outcomes 474 495	in-hospital mortality
+T2	Outcomes 618 623	rates
+T3	Outcomes 627 648	death or reinfarction
+T4	Outcomes 678 707	recurrent myocardial ischemia
+T5	Outcomes 740 746	stroke
+T6	Outcomes 965 986	in-hospital mortality
+T7	Outcomes 1164 1193	recurrent myocardial ischemia
+T8	Outcomes 1229 1289	unscheduled catheterization and revascularization procedures
+T9	Outcomes 1305 1318	hospital stay
+T10	Outcomes 1470 1487	improved survival
+T11	Outcomes 1500 1565	rates of stroke, reinfarction, and recurrent myocardial ischemia.
+T12	Outcomes 1644 1653	mortality
+T13	Outcomes 1746 1764	recurrent ischemia
+T14	Outcomes 1772 1802	subsequent invasive procedures
+T15	Outcomes 1816 1826	discharge.

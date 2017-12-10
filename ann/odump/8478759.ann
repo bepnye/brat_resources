@@ -1,0 +1,6 @@
+T1	HMM 335 350	mask acceptance
+T2	HMM 367 374	anxiety
+T3	HMM 380 388	sedation
+T4	HMM 438 458	anxiety and sedation
+T5	HMM 649 702	systolic and diastolic blood pressure and heart rate.
+T6	HMM 837 858	minor adverse effects

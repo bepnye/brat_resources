@@ -1,0 +1,6 @@
+T1	HMM 0 17	Atrial remodeling
+T2	HMM 1064 1076	sinus rhythm
+T3	HMM 1092 1133	auricular remodeling with size regression
+T4	HMM 1322 1344	new atrial enlargement
+T5	HMM 1671 1684	atrial rhythm
+T6	HMM 1689 1719	postoperative surgical volume.

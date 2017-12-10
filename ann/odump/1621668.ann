@@ -1,0 +1,11 @@
+T1	HMM 0 20	Antipyretic efficacy
+T2	HMM 78 98	antipyretic efficacy
+T3	HMM 613 629	Oral temperature
+T4	HMM 761 776	adverse effects
+T5	HMM 899 910	antipyresis
+T6	HMM 961 982	temperature decrement
+T7	HMM 994 1017	duration of antipyresis
+T8	HMM 1107 1122	adverse effects
+T9	HMM 1194 1205	antipyretic
+T10	HMM 1221 1225	safe
+T11	HMM 1373 1384	antipyresis

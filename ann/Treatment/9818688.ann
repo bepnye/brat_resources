@@ -1,0 +1,15 @@
+T1	Treatment 0 101	Recombinant human granulocyte and granulocyte-macrophage colony-stimulating factor (G-CSF and GM-CSF)
+T2	Treatment 125 147	cytotoxic chemotherapy
+T3	Treatment 442 465	recombinant human G-CSF
+T4	Treatment 470 476	GM-CSF
+T5	Treatment 495 513	post-chemotherapy.
+T6	Treatment 745 767	cytotoxic chemotherapy
+T7	Treatment 851 1005	dexamethasone 24 mg days 1-7, melphalan 30 mg/m2 day 3, BCNU 60 mg/m2 day 3, etoposide 75 mg/m2 days 4-7, Ara-C 100 mg/m2 twice daily days 4-7 (Dexa-BEAM)
+T8	Treatment 1042 1071	receive 5/microg/kg/day G-CSF
+T9	Treatment 1099 1121	5 microg/kg/day GM-CSF
+T10	Treatment 1191 1201	Dexa-BEAM.
+T11	Treatment 1733 1738	G-CSF
+T12	Treatment 1743 1749	GM-CSF
+T13	Treatment 1830 1846	cyclophosphamide
+T14	Treatment 1866 1870	BCNU
+T15	Treatment 1891 1900	etoposide

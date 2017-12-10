@@ -1,0 +1,10 @@
+T1	HMM 71 95	uncomplicated gonorrhea.
+T2	HMM 299 309	gonorrhea.
+T3	HMM 916 934	overall cure rates
+T4	HMM 1303 1313	cure rates
+T5	HMM 1349 1369	pharyngeal infection
+T6	HMM 1535 1543	efficacy
+T7	HMM 1609 1640	Chlamydia trachomatis infection
+T8	HMM 1744 1754	tolerated.
+T9	HMM 1787 1810	uncomplicated gonorrhea
+T10	HMM 1884 1893	effective

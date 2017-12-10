@@ -1,0 +1,9 @@
+T1	HMM 0 51	Depiction of hypervascular hepatocellular carcinoma
+T2	HMM 57 65	64-MDCT:
+T3	HMM 233 284	depiction of hypervascular hepatocellular carcinoma
+T4	HMM 835 915	Enhancement values in the aorta, liver, and portal vein and tumor-liver contrast
+T5	HMM 956 974	Aortic enhancement
+T6	HMM 1128 1153	Portal venous enhancement
+T7	HMM 1332 1352	Tumor-liver contrast
+T8	HMM 1576 1595	hepatic enhancement
+T9	HMM 1866 1903	depiction of hepatocellular carcinoma

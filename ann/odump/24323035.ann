@@ -1,0 +1,14 @@
+T1	HMM 189 228	angiogenesis-targeted sunitinib therapy
+T2	HMM 574 590	overall survival
+T3	HMM 627 658	progression-free survival (PFS)
+T4	HMM 957 966	median OS
+T5	HMM 1127 1130	PFS
+T6	HMM 1277 1341	Toxicity and rates of discontinuations because of adverse events
+T7	HMM 1453 1460	fatigue
+T8	HMM 1472 1480	asthenia
+T9	HMM 1496 1514	hand-foot syndrome
+T10	HMM 1564 1589	hematologic abnormalities
+T11	HMM 1595 1606	lymphopenia
+T12	HMM 1620 1626	anemia
+T13	HMM 1642 1653	neutropenia
+T14	HMM 1734 1736	OS

@@ -1,0 +1,9 @@
+T1	HMM 26 37	EEG effects
+T2	HMM 74 89	Spontaneous EEG
+T3	HMM 557 572	spontaneous EEG
+T4	HMM 913 923	beta power
+T5	HMM 964 980	alpha frequency.
+T6	HMM 1033 1048	alpha frequency
+T7	HMM 1100 1111	Alpha power
+T8	HMM 1196 1217	Self-reported ratings
+T9	HMM 1225 1235	"strength"

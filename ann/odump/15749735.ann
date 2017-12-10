@@ -1,0 +1,16 @@
+T1	HMM 45 64	shivering threshold
+T2	HMM 585 594	shivering
+T3	HMM 615 623	sedation
+T4	HMM 954 983	tympanic membrane temperature
+T5	HMM 1063 1069	oxygen
+T6	HMM 1112 1129	gain of shivering
+T7	HMM 1183 1199	core temperature
+T8	HMM 1212 1220	Sedation
+T9	HMM 1243 1268	verbal rating score (VRS)
+T10	HMM 1286 1320	bispectral index (BIS) of the EEG.
+T11	HMM 1321 1347	Peripheral muscle strength
+T12	HMM 1514 1533	shivering threshold
+T13	HMM 1618 1635	gain of shivering
+T14	HMM 1787 1795	sedation
+T15	HMM 1818 1834	muscle strength.
+T16	HMM 1883 1903	shivering threshold.

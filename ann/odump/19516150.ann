@@ -1,0 +1,13 @@
+T1	HMM 38 47	adiposity
+T2	HMM 225 259	adiposity and metabolic parameters
+T3	HMM 400 409	adiposity
+T4	HMM 427 450	glucose/insulin indices
+T5	HMM 1025 1033	strength
+T6	HMM 1061 1103	physical activity by the 7-d accelerometry
+T7	HMM 1112 1189	3-d physical activity recall, dietary intake by 3-d records, body composition
+T8	HMM 1234 1257	glucose/insulin indices
+T9	HMM 1294 1328	intravenous glucose tolerance test
+T10	HMM 1516 1605	adiposity measures (weight, body mass index [BMI], BMI z-scores, and DEXA total body fat)
+T11	HMM 1758 1773	fasting glucose
+T12	HMM 1974 2021	multiple adiposity outcomes and fasting glucose
+T13	HMM 2148 2177	adiposity and insulin indices

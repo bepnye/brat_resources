@@ -1,0 +1,10 @@
+T1	Treatment 14 24	Cobicistat
+T2	Treatment 39 48	Ritonavir
+T3	Treatment 75 85	Atazanavir
+T4	Treatment 89 150	Combination With Emtricitabine/Tenofovir Disoproxil Fumarate:
+T5	Treatment 181 191	Cobicistat
+T6	Treatment 364 387	COBI vs ritonavir (RTV)
+T7	Treatment 413 487	atazanavir in combination with emtricitabine/tenofovir disoproxil fumarate
+T8	Treatment 610 616	(COBI)
+T9	Treatment 625 630	(RTV)
+T10	Treatment 873 877	COBI

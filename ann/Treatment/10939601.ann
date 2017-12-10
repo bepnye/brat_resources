@@ -1,0 +1,8 @@
+T1	Treatment 0 32	5-fluorouracil plus folinic acid
+T2	Treatment 49 59	ifosfamide
+T3	Treatment 176 253	5-fluorouracil (5-FU) plus folinic acid (FA) with or without ifosfamide (IFO)
+T4	Treatment 379 381	FA
+T5	Treatment 427 431	5-FU
+T6	Treatment 476 478	FA
+T7	Treatment 524 528	5-FU
+T8	Treatment 567 570	IFO

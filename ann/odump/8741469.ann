@@ -1,0 +1,4 @@
+T1	HMM 691 736	Breathing pattern and thoracoabdominal motion
+T2	HMM 875 917	Breathing frequency and minute ventilation
+T3	HMM 1092 1139	inspiratory time and prolongation of duty ratio
+T4	HMM 1199 1248	Contribution of rib cage movement on tidal volume

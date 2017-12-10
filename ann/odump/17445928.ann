@@ -1,0 +1,7 @@
+T1	HMM 256 264	efficacy
+T2	HMM 1155 1179	RTOG grade 3 neutropenia
+T3	HMM 1187 1223	Late morbidity in the form of ulcers
+T4	HMM 1283 1293	strictures
+T5	HMM 1543 1551	survival
+T6	HMM 1798 1828	modest improvement in survival
+T7	HMM 1853 1900	manageable additional acute and late morbidity.

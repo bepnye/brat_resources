@@ -1,0 +1,11 @@
+T1	Treatment 0 11	Paracetamol
+T2	Treatment 129 162	paracetamol (acetaminophen, APAP)
+T3	Treatment 287 319	naloxone, the opioid antagonist.
+T4	Treatment 481 539	intravenous paracetamol (APAP 1 g) or saline (placebo, pl)
+T5	Treatment 565 597	IV naloxone (Nal 8 mg) or saline
+T6	Treatment 996 1003	APAP/pl
+T7	Treatment 1097 1106	APAP/Nal.
+T8	Treatment 1262 1270	APAP/Nal
+T9	Treatment 1448 1456	naloxone
+T10	Treatment 1474 1485	paracetamol
+T11	Treatment 1565 1576	paracetamol

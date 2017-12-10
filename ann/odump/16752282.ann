@@ -1,0 +1,10 @@
+T1	HMM 0 21	Different loss of BMD
+T2	HMM 795 826	Acetabular bone mineral density
+T3	HMM 940 958	periprosthetic BMD
+T4	HMM 1066 1069	BMD
+T5	HMM 1138 1148	difference
+T6	HMM 1235 1245	difference
+T7	HMM 1388 1391	BMD
+T8	HMM 1465 1482	postoperative BMD
+T9	HMM 1641 1659	periprosthetic BMD
+T10	HMM 1709 1712	BMD

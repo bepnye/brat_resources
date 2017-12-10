@@ -1,0 +1,17 @@
+Aged
+Angioplasty, Balloon, Coronary
+Coronary Artery Bypass
+Coronary Disease
+Diabetes Complications
+Diabetes Mellitus
+Disease-Free Survival
+Female
+Humans
+Male
+Middle Aged
+Myocardial Infarction
+Postoperative Complications
+Recurrence
+Reoperation
+Survival Rate
+Treatment Outcome

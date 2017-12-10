@@ -1,0 +1,13 @@
+T1	Treatment 178 209	Time in therapeutic range (TTR)
+T2	Treatment 214 250	international normalized ratio (INR)
+T3	Treatment 879 889	the stroke
+T4	Treatment 920 932	the bleeding
+T5	Treatment 994 1002	mean TTR
+T6	Treatment 1006 1023	both stroke cases
+T7	Treatment 1075 1080	cases
+T8	Treatment 1141 1157	range for stroke
+T9	Treatment 1317 1332	period bleeding
+T10	Treatment 1372 1380	controls
+T11	Treatment 1420 1431	CONCLUSIONS
+T12	Treatment 1540 1558	Maintaining a high
+T13	Treatment 1599 1607	and high

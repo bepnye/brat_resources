@@ -1,0 +1,12 @@
+T1	HMM 245 275	peripheral venous cannulation.
+T2	HMM 1031 1104	success rate for insertion of 18 gauge cannula into vein on back of hand.
+T3	HMM 1116 1157	time required for successful cannulation.
+T4	HMM 1258 1274	insert a cannula
+T5	HMM 1398 1404	failed
+T6	HMM 1558 1572	insertion time
+T7	HMM 1647 1677	failure rates at first attempt
+T8	HMM 1784 1823	insertion of peripheral venous cannulas
+T9	HMM 1839 1876	time and number of attempts required.
+T10	HMM 1899 1903	time
+T11	HMM 1916 1934	inserting cannulas
+T12	HMM 1943 1955	supply costs

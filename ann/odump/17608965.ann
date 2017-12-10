@@ -1,0 +1,9 @@
+T1	HMM 726 824	Ease of insertion, quality of airway seal, fibre-optic view and postoperative pharyngeal morbidity
+T2	HMM 918 958	First-time and second-time success rates
+T3	HMM 1061 1067	airway
+T4	HMM 1159 1200	Time until delivery of first tidal volume
+T5	HMM 1256 1286	Fixation and manipulation time
+T6	HMM 1349 1369	Airway seal pressure
+T7	HMM 1498 1535	postoperative pharyngeal morbidities.
+T8	HMM 1541 1551	hoarseness
+T9	HMM 1701 1712	airway seal

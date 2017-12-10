@@ -1,0 +1,8 @@
+T1	HMM 0 16	Clinical effects
+T2	HMM 541 557	clinical effects
+T3	HMM 1381 1437	bleeding on probing (BOP) and probing pocket depth (PPD)
+T4	HMM 1534 1548	BOP percentage
+T5	HMM 1713 1724	BOP and PPD
+T6	HMM 1797 1811	BOP percentage
+T7	HMM 1876 1885	(mean BOP
+T8	HMM 1901 1909	mean BOP

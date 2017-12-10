@@ -1,0 +1,7 @@
+T1	HMM 50 66	autism phenotype
+T2	HMM 238 255	autism phenotype.
+T3	HMM 603 635	rate of Autism Spectrum Disorder
+T4	HMM 751 780	level of autistic-like traits
+T5	HMM 836 845	frequency
+T6	HMM 850 856	timing
+T7	HMM 894 911	autism phenotype.

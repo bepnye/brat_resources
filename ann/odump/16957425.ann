@@ -1,0 +1,7 @@
+T1	HMM 708 739	Twenty-four-hour blood pressure
+T2	HMM 791 813	Blood pressure control
+T3	HMM 905 935	carotid intima-media thickness
+T4	HMM 966 993	left ventricular mass index
+T5	HMM 1078 1089	cholesterol
+T6	HMM 1110 1128	Diastolic function
+T7	HMM 1213 1227	blood pressure

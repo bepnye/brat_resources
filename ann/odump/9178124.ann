@@ -1,0 +1,7 @@
+T1	HMM 820 875	frequencies of intramammary infections caused by Staph.
+T2	HMM 876 882	aureus
+T3	HMM 1027 1044	protective effect
+T4	HMM 1083 1125	relative risk of mastitis caused by Staph.
+T5	HMM 1126 1132	aureus
+T6	HMM 1274 1337	results of the trial indicated the effectiveness of the vaccine
+T7	HMM 1468 1482	fat production

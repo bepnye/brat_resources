@@ -1,0 +1,7 @@
+T1	Treatment 0 52	Cisplatin plus etoposide with and without ifosfamide
+T2	Treatment 168 206	ifosfamide to cisplatin plus etoposide
+T3	Treatment 676 685	cisplatin
+T4	Treatment 702 711	etoposide
+T5	Treatment 779 788	cisplatin
+T6	Treatment 801 811	ifosfamide
+T7	Treatment 828 837	etoposide

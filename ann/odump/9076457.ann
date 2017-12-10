@@ -1,0 +1,7 @@
+T1	HMM 351 367	recurrent tumors
+T2	HMM 372 383	progression
+T3	HMM 683 706	overall recurrence rate
+T4	HMM 723 747	overall progression rate
+T5	HMM 805 829	overall treatment effect
+T6	HMM 1072 1089	beneficial effect
+T7	HMM 1278 1312	intensive therapeutic instillation

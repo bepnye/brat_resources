@@ -1,0 +1,4 @@
+T1	HMM 983 1001	HAM-D 17 reduction
+T2	HMM 1128 1148	YMR score of > or =8
+T3	HMM 1371 1380	hypomania
+T4	HMM 1434 1467	rapid mood swing into depression.

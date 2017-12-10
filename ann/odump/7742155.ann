@@ -1,0 +1,7 @@
+T1	HMM 25 62	total serum bilirubin concentrations.
+T2	HMM 134 176	total serum bilirubin (TSB) concentrations
+T3	HMM 515 533	TSB concentrations
+T4	HMM 616 634	minimum TSB values
+T5	HMM 683 718	more than doubled TSB concentration
+T6	HMM 808 819	rise in TSB
+T7	HMM 1060 1063	TSB

@@ -1,0 +1,9 @@
+T1	Treatment 54 86	carboplatin/paclitaxel/cetuximab
+T2	Treatment 210 283	cetuximab combined with two different schedules of paclitaxel/carboplatin
+T3	Treatment 442 451	cetuximab
+T4	Treatment 503 523	+ paclitaxel (Taxol)
+T5	Treatment 529 556	mg/m(2))/carboplatin (AUC6)
+T6	Treatment 592 625	cetuximab regimen plus paclitaxel
+T7	Treatment 672 687	and carboplatin
+T8	Treatment 865 874	cetuximab
+T9	Treatment 1503 1540	cetuximab plus paclitaxel/carboplatin

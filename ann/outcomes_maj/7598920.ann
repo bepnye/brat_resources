@@ -1,0 +1,10 @@
+T1	Outcomes 864 878	Blood pressure
+T2	Outcomes 936 951	heart rate (HR)
+T3	Outcomes 978 995	oxygen saturation
+T4	Outcomes 1032 1050	cardiac output (Q)
+T5	Outcomes 1178 1267	arterial systolic (SAP) and diastolic (DAP) blood pressure, Q, and stroke volume (SV). HR
+T6	Outcomes 1279 1313	Systemic vascular resistance (SVR)
+T7	Outcomes 1364 1375	SAP and DAP
+T8	Outcomes 1414 1421	SVR. HR
+T9	Outcomes 1438 1440	SV
+T10	Outcomes 1505 1586	apnea occurring for more than 30 seconds, involuntary movements, limb hypertonus)

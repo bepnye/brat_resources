@@ -1,0 +1,11 @@
+T1	HMM 488 501	dose response
+T2	HMM 1273 1286	response rate
+T3	HMM 1362 1375	response rate
+T4	HMM 1412 1438	Median time to progression
+T5	HMM 1509 1524	median survival
+T6	HMM 1599 1616	one-year survival
+T7	HMM 1700 1717	one-year survival
+T8	HMM 1726 1739	response rate
+T9	HMM 1820 1833	neurotoxicity
+T10	HMM 1850 1860	leucopenia
+T11	HMM 1918 1929	toxic death

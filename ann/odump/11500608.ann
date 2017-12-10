@@ -1,0 +1,5 @@
+T1	HMM 680 713	Reflux, total, and antacid scores
+T2	HMM 943 957	symptom scores
+T3	HMM 1058 1070	reflux score
+T4	HMM 1119 1130	total score
+T5	HMM 1183 1196	antacid score

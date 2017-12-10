@@ -1,0 +1,8 @@
+T1	Outcomes 173 183	CD4 counts
+T2	Outcomes 634 649	total WBC count
+T3	Outcomes 662 683	% change in CD4 count
+T4	Outcomes 700 726	% change in CD4/CD8 ratios
+T5	Outcomes 763 834	absolute CD4 count, absolute CD4/CD8 ratio, and total and B-lymphocytes
+T6	Outcomes 951 959	toxicity
+T7	Outcomes 1027 1051	immunostimulatory effect
+T8	Outcomes 1188 1210	HIV-infected patients.

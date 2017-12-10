@@ -1,0 +1,9 @@
+T1	HMM 540 553	response rate
+T2	HMM 676 685	responses
+T3	HMM 772 794	difference in survival
+T4	HMM 827 842	Median survival
+T5	HMM 952 988	pancreatic carcinoma median survival
+T6	HMM 1076 1086	Leukopenia
+T7	HMM 1181 1199	performance status
+T8	HMM 1266 1274	survival
+T9	HMM 1350 1376	alter the dismal prognosis

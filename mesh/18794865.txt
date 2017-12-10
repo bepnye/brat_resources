@@ -1,0 +1,18 @@
+Adult
+Aged
+Antibodies, Monoclonal
+Antibodies, Monoclonal, Murine-Derived
+Antigens, CD34
+Antineoplastic Combined Chemotherapy Protocols
+Combined Modality Therapy
+Etoposide
+Female
+Granulocyte Colony-Stimulating Factor
+Hematopoietic Stem Cell Mobilization
+Hematopoietic Stem Cell Transplantation
+Humans
+Lymphoma, B-Cell
+Male
+Middle Aged
+Prospective Studies
+Young Adult

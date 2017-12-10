@@ -1,0 +1,13 @@
+T1	HMM 296 355	pain during the procedure, reduction in bleeding per rectum
+T2	HMM 361 396	overall patient satisfaction score.
+T3	HMM 967 1059	Pain during the procedure, reduction in bleeding per rectum and overall patient satisfaction
+T4	HMM 1288 1298	local pain
+T5	HMM 1334 1351	mucous discharge.
+T6	HMM 1352 1372	Chronic constipation
+T7	HMM 1539 1564	pain during the procedure
+T8	HMM 1695 1714	bleeding per rectum
+T9	HMM 1782 1797	fully satisfied
+T10	HMM 1860 1867	painful
+T11	HMM 1874 1878	safe
+T12	HMM 1885 1894	effective
+T13	HMM 1901 1918	highly satisfying

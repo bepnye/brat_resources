@@ -1,0 +1,9 @@
+T1	HMM 714 735	time to stabilization
+T2	HMM 740 778	relapse, change in symptoms and safety
+T3	HMM 784 795	comparisons
+T4	HMM 858 965	Positive and Negative Syndrome Scale (PANSS) scores and Clinical Global Impression-Severity (CGI-S) scores.
+T5	HMM 1121 1160	CGI-S and PANSS negative symptom scores
+T6	HMM 1378 1387	effective
+T7	HMM 1397 1420	similar safety profiles
+T8	HMM 1564 1573	effective
+T9	HMM 1578 1582	safe

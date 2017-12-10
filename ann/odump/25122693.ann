@@ -1,0 +1,14 @@
+T1	HMM 0 32	Pathological response and safety
+T2	HMM 290 307	local recurrences
+T3	HMM 329 346	overall survival.
+T4	HMM 402 420	clinical outcomes.
+T5	HMM 825 842	Primary end point
+T6	HMM 847 889	pathological complete response (pCR) rate.
+T7	HMM 982 993	rate of pCR
+T8	HMM 1135 1146	rate of pCR
+T9	HMM 1221 1226	death
+T10	HMM 1309 1331	Postoperative fistulas
+T11	HMM 1457 1467	toxicities
+T12	HMM 1481 1495	increased risk
+T13	HMM 1528 1551	treatment-related death
+T14	HMM 1588 1596	pCR rate

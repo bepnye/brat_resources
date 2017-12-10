@@ -1,0 +1,10 @@
+T1	Treatment 23 90	allogeneic melanoma lysate vaccine with low-dose interferon Alfa-2b
+T2	Treatment 105 133	high-dose interferon Alfa-2b
+T3	Treatment 288 357	specific immunotherapy and low-dose interferon alfa-2b (IFN-alpha-2b)
+T4	Treatment 385 408	high-dose IFN-alpha-2b.
+T5	Treatment 660 756	active specific immunotherapy with allogeneic melanoma lysates and low-dose IFN-alpha-2b (arm 1)
+T6	Treatment 760 788	high-dose IFN-alpha-2b alone
+T7	Treatment 929 944	IFN-alpha-2b SC
+T8	Treatment 1017 1029	IFN-alpha-2b
+T9	Treatment 1686 1741	active specific immunotherapy and low-dose IFN-alpha-2b
+T10	Treatment 1788 1811	high-dose IFN-alpha-2b.

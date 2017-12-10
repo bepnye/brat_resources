@@ -1,0 +1,7 @@
+T1	HMM 853 868	bleeding events
+T2	HMM 876 890	related deaths
+T3	HMM 943 951	bleeding
+T4	HMM 1097 1103	deaths
+T5	HMM 1372 1392	variceal hemorrhage.
+T6	HMM 1432 1455	bleeding, bleeding risk
+T7	HMM 1671 1677	deaths

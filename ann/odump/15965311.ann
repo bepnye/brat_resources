@@ -1,0 +1,10 @@
+T1	HMM 0 64	Safety, tolerability, and changes in amyloid beta concentrations
+T2	HMM 465 510	Abeta in plasma and cerebrospinal fluid (CSF)
+T3	HMM 625 679	Plasma and CSF concentrations of LY450139, Abeta(1-40)
+T4	HMM 684 711	Abeta(1-X) ("Abeta(total)")
+T5	HMM 982 1009	Plasma Abeta concentrations
+T6	HMM 1197 1217	Abeta concentrations
+T7	HMM 1246 1270	CSF Abeta concentrations
+T8	HMM 1287 1301	Adverse events
+T9	HMM 1638 1650	plasma Abeta
+T10	HMM 1684 1696	plasma Abeta

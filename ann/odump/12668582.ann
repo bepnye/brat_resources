@@ -1,0 +1,11 @@
+T1	HMM 0 30	Pharmacokinetics and tolerance
+T2	HMM 187 196	tolerance
+T3	HMM 543 573	Serial blood and urine samples
+T4	HMM 676 700	pharmacokinetic analyses
+T5	HMM 761 837	Plasma linezolid concentrations and area under the concentration-time curves
+T6	HMM 918 949	Plasma linezolid concentrations
+T7	HMM 1065 1117	Mean clearance, half-life and volume of distribution
+T8	HMM 1213 1222	tolerated
+T9	HMM 1231 1271	frequency of drug-related adverse events
+T10	HMM 1377 1400	linear pharmacokinetics
+T11	HMM 1442 1454	target MIC90

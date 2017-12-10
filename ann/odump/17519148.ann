@@ -1,0 +1,14 @@
+T1	HMM 1269 1282	blood samples
+T2	HMM 1319 1645	plasma concentrations of angiotensinogen, an estrogen-sensitive hepatic protein, and serum concentrations of sex hormone-binding globulin (SHBG), total cholesterol (TC), high-density lipoprotein cholesterol (HDL-C), low-density lipoprotein cholesterol (LDL-C), triglycerides (TG) and estrogen- and androgen-sensitive proteins.
+T3	HMM 1646 1648	BP
+T4	HMM 2064 2079	angiotensinogen
+T5	HMM 2230 2258	systolic BP and diastolic BP
+T6	HMM 2302 2305	DBP
+T7	HMM 2578 2629	angiotensinogen, sensitive only to estrogen, or BP.
+T8	HMM 2697 2738	estrogen- and androgen-sensitive proteins
+T9	HMM 2767 2770	TC.
+T10	HMM 2924 2928	SHBG
+T11	HMM 3000 3005	HDL-C
+T12	HMM 3028 3033	LDL-C
+T13	HMM 3063 3065	TG
+T14	HMM 3184 3244	EE-associated changes in estrogen-sensitive hepatic proteins

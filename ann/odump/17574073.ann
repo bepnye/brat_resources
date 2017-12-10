@@ -1,0 +1,13 @@
+T1	HMM 25 46	histology and outcome
+T2	HMM 230 251	histology and outcome
+T3	HMM 378 502	Age, race, performance status, histologic type (serous=S; clear cell=CC; endometrioid=E), disease stage, and prior radiation
+T4	HMM 628 686	progression-free survival (PFS) and overall survival (OS).
+T5	HMM 980 993	disease stage
+T6	HMM 1059 1082	Histologic distribution
+T7	HMM 1295 1316	Overall response rate
+T8	HMM 1349 1364	Histologic type
+T9	HMM 1450 1508	race, performance status, disease stage, and CC histology.
+T10	HMM 1509 1518	Histology
+T11	HMM 1564 1585	relative hazard ratio
+T12	HMM 1777 1807	not associated with histology.
+T13	HMM 1891 1908	Poorer PFS and OS

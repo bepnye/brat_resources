@@ -1,0 +1,11 @@
+T1	HMM 193 257	maternal and fetal plasma levels of pyridoxal 5'-phosphate (PLP)
+T2	HMM 269 429	degree of coenzyme saturation (activation factor) of aspartate aminotransferase and alanine aminotransferase (alphaEGOT and alphaEGPT) in maternal erythrocytes.
+T3	HMM 527 553	maternal plasma PLP levels
+T4	HMM 641 693	plasma PLP concentrations in maternal and cord blood
+T5	HMM 803 842	Measurements of alphaEGOT and alphaEGPT
+T6	HMM 871 888	plasma PLP assays
+T7	HMM 975 1009	changes in alphaEGOT and alphaEGPT
+T8	HMM 1058 1069	plasma PLP.
+T9	HMM 1209 1218	alphaEGOT
+T10	HMM 1227 1237	plasma PLP
+T11	HMM 1250 1278	alphaEGPT and log plasma PLP

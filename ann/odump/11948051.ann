@@ -1,0 +1,16 @@
+T1	HMM 43 53	myocardial
+T2	HMM 197 207	myocardial
+T3	HMM 891 965	cardiac troponin I (CTnI) and creatine kinase isoenzyme MB (CK-MB) values.
+T4	HMM 992 1038	recovery of the mean stroke volume index (SVI)
+T5	HMM 1089 1097	mean SVI
+T6	HMM 1107 1128	significant reduction
+T7	HMM 1210 1230	mean heart rate (HR)
+T8	HMM 1284 1294	CTnI level
+T9	HMM 1313 1332	significantly lower
+T10	HMM 1403 1416	CK-MB release
+T11	HMM 1454 1508	duration of mechanical ventilation, the length of stay
+T12	HMM 1516 1519	ICU
+T13	HMM 1529 1556	use of inotropic medication
+T14	HMM 1818 1835	myocardial enzyme
+T15	HMM 1889 1891	HR
+T16	HMM 1925 1929	SVI.

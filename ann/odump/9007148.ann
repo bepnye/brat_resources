@@ -1,0 +1,5 @@
+T1	HMM 419 433	Operating time
+T2	HMM 469 489	hospitalization time
+T3	HMM 558 571	complications
+T4	HMM 647 651	safe
+T5	HMM 713 722	effective

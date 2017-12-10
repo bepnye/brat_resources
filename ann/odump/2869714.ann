@@ -1,0 +1,8 @@
+T1	HMM 410 427	Muscle relaxation
+T2	HMM 645 683	prolongation of the duration of action
+T3	HMM 722 735	mean increase
+T4	HMM 854 867	shortest time
+T5	HMM 966 976	depression
+T6	HMM 984 997	EMG-response.
+T7	HMM 1143 1175	clinically relevant interactions
+T8	HMM 1181 1198	muscle relaxants.

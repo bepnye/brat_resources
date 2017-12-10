@@ -1,0 +1,5 @@
+T1	HMM 158 169	pain relief
+T2	HMM 641 651	pain level
+T3	HMM 705 709	Pain
+T4	HMM 821 835	pain intensity
+T5	HMM 1024 1038	pain intensity

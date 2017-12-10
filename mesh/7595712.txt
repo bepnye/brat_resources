@@ -1,0 +1,21 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Brain Neoplasms
+Carcinoma, Small Cell
+Cisplatin
+Combined Modality Therapy
+Cranial Irradiation
+Disease-Free Survival
+Etoposide
+Female
+Follow-Up Studies
+Humans
+Ifosfamide
+Injections, Intravenous
+Lung Neoplasms
+Male
+Middle Aged
+Proportional Hazards Models
+Regression Analysis
+Survival Rate

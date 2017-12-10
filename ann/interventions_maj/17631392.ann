@@ -1,0 +1,21 @@
+T1	Intervention 13 20	placebo
+T2	Intervention 64 74	etoricoxib
+T3	Intervention 85 94	ibuprofen
+T4	Intervention 193 203	etoricoxib
+T5	Intervention 213 220	placebo
+T6	Intervention 225 234	ibuprofen
+T7	Intervention 493 512	placebo, etoricoxib
+T8	Intervention 528 537	ibuprofen
+T9	Intervention 569 581	etoricoxib's
+T10	Intervention 594 601	placebo
+T11	Intervention 636 645	ibuprofen
+T12	Intervention 995 1005	etoricoxib
+T13	Intervention 1009 1019	ibuprofen,
+T14	Intervention 1356 1366	etoricoxib
+T15	Intervention 1371 1380	ibuprofen
+T16	Intervention 1506 1516	etoricoxib
+T17	Intervention 1521 1531	ibuprofen,
+T18	Intervention 1783 1793	etoricoxib
+T19	Intervention 1909 1919	etoricoxib
+T20	Intervention 1961 1968	placebo
+T21	Intervention 2005 2014	ibuprofen

@@ -1,0 +1,16 @@
+Acute Disease
+Adolescent
+Adult
+Aged
+Brain Ischemia
+Chi-Square Distribution
+Female
+Humans
+Infusions, Intra-Arterial
+Infusions, Intravenous
+Male
+Middle Aged
+Plasminogen Activators
+Statistics, Nonparametric
+Treatment Outcome
+Urokinase-Type Plasminogen Activator

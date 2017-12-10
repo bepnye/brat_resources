@@ -1,0 +1,8 @@
+T1	HMM 50 69	pneumonia and death
+T2	HMM 398 408	aspiration
+T3	HMM 761 771	odds ratio
+T4	HMM 776 796	developing pneumonia
+T5	HMM 938 947	pneumonia
+T6	HMM 1129 1140	Dehydration
+T7	HMM 1216 1221	death
+T8	HMM 1521 1538	risk of pneumonia

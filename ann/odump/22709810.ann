@@ -1,0 +1,12 @@
+T1	HMM 223 240	cancer recurrence
+T2	HMM 251 264	comorbidities
+T3	HMM 625 641	dietary patterns
+T4	HMM 647 669	body mass index (BMI).
+T5	HMM 738 767	Reach Out to Enhance Wellness
+T6	HMM 1137 1160	derive dietary patterns
+T7	HMM 1190 1222	between dietary patterns and BMI
+T8	HMM 1287 1317	three primary dietary patterns
+T9	HMM 1690 1699	lower BMI
+T10	HMM 1780 1791	greater BMI
+T11	HMM 1916 1924	with BMI
+T12	HMM 2077 2102	the increasing population

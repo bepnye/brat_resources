@@ -1,0 +1,14 @@
+T1	HMM 28 53	microvascular obstruction
+T2	HMM 258 288	microvascular obstruction (MO)
+T3	HMM 683 700	microembolization
+T4	HMM 1012 1243	Regional wall motion score index (WMSI), contrast score index (CSI), endocardial length of wall motion abnormality (WML) and contrast defect (CDL), end-diastolic and end-systolic left ventricular (LV) volumes, and ejection fraction
+T5	HMM 1351 1374	WMSI, CSI, WML, and CDL
+T6	HMM 1404 1421	ejection fraction
+T7	HMM 1470 1480	LV volumes
+T8	HMM 1594 1606	extent of MO
+T9	HMM 1657 1668	LV volumes.
+T10	HMM 1751 1763	extent of MO
+T11	HMM 1768 1790	myocardial dysfunction
+T12	HMM 1863 1877	LV remodeling.
+T13	HMM 2041 2043	MO
+T14	HMM 2089 2103	LV remodeling.

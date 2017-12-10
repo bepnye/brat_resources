@@ -1,0 +1,10 @@
+T1	HMM 57 82	sputum cell differentials
+T2	HMM 151 170	airway eosinophilia
+T3	HMM 349 367	cell differentials
+T4	HMM 916 931	airway response
+T5	HMM 1182 1224	maximal percent fall in FEV1 from baseline
+T6	HMM 1380 1412	percentage of sputum eosinophils
+T7	HMM 1716 1778	percentage of sputum eosinophils between LTD4 and methacholine
+T8	HMM 1872 1894	eosinophilia in sputum
+T9	HMM 1975 1986	eosinophils
+T10	HMM 2124 2150	vigourous airway narrowing

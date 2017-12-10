@@ -1,0 +1,11 @@
+T1	HMM 38 46	insomnia
+T2	HMM 102 120	Sleep difficulties
+T3	HMM 315 324	insomnia.
+T4	HMM 416 429	sleep latency
+T5	HMM 469 482	sleep latency
+T6	HMM 651 667	sleep parameters
+T7	HMM 709 733	change in sleep latency.
+T8	HMM 1076 1186	age, gender, socioeconomic status, total Children's Sleep Habits Questionnaire score, or actigraphy parameters
+T9	HMM 1244 1278	Mean change in sleep-onset latency
+T10	HMM 1406 1417	information
+T11	HMM 1621 1634	sleep latency

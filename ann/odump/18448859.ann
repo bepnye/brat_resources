@@ -1,0 +1,8 @@
+T1	HMM 32 73	attention deficit hyperactivity disorder:
+T2	HMM 220 268	attention deficit hyperactivity disorder (ADHD).
+T3	HMM 464 546	Investigator-rated ADHD Rating Scale-IV and Clinical Global Impression (CGI) scale
+T4	HMM 685 711	reduction of ADHD symptoms
+T5	HMM 718 736	drop of CGI scores
+T6	HMM 841 845	ADHD
+T7	HMM 964 968	ADHD
+T8	HMM 1118 1145	reduction of ADHD symptoms.

@@ -1,0 +1,10 @@
+T1	HMM 0 33	Plasma AGE-peptides and C-peptide
+T2	HMM 157 187	circulatory AGE-peptide levels
+T3	HMM 628 752	glucose, HbA1c, triglyceride, cholesterol, insulin, C-peptide, thiamine pyrophosphate, pyridoxal phosphate and AGE- peptides
+T4	HMM 776 788	AGE-peptides
+T5	HMM 895 907	AGE-peptides
+T6	HMM 1100 1105	HbA1c
+T7	HMM 1166 1175	C-peptide
+T8	HMM 1238 1257	plasma AGE-peptides
+T9	HMM 1484 1496	AGE-peptides
+T10	HMM 1562 1572	C-peptide.

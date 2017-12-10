@@ -1,0 +1,9 @@
+T1	HMM 80 120	Sternal dehiscence and wound instability
+T2	HMM 329 337	efficacy
+T3	HMM 371 386	sternal closure
+T4	HMM 408 421	complications
+T5	HMM 803 853	bone dehiscence and superficial wound instability.
+T6	HMM 867 916	bone dehiscence and superficial wound instability
+T7	HMM 1031 1066	Cox proportional hazards regression
+T8	HMM 1114 1280	female sex, chronic renal insufficiency, diabetes, advanced age, lower sternal thickness, osteoporosis, corticosteroid therapy, and prolonged CPB or ventilation times
+T9	HMM 1429 1458	aseptic sternal complications

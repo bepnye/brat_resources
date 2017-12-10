@@ -1,0 +1,11 @@
+T1	HMM 4 15	'leaky gut'
+T2	HMM 20 28	behavior
+T3	HMM 181 189	behavior
+T4	HMM 385 427	intestinal permeability (IP) ('leaky gut')
+T5	HMM 433 441	behavior
+T6	HMM 726 774	lactulose:mannitol (L/M) sugar permeability test
+T7	HMM 804 857	Aberrant Behavior Checklist and Conners Parent Rating
+T8	HMM 873 898	Gastrointestinal symptoms
+T9	HMM 955 986	L/M ratio nor behavioral scores
+T10	HMM 1259 1261	IP
+T11	HMM 1267 1285	behavioral changes

@@ -1,0 +1,4 @@
+T1	HMM 1057 1086	IUD expulsion rate at 1 year.
+T2	HMM 1115 1245	pregnancy rate, method continuation rate, complication rates (infection, perforation), and satisfaction with contraceptive method.
+T3	HMM 1918 1932	expulsion rate
+T4	HMM 2030 2068	pregnancy rate and method satisfaction

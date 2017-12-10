@@ -1,0 +1,9 @@
+T1	HMM 980 1000	clinical proteinuria
+T2	HMM 1252 1278	progression of albuminuria
+T3	HMM 1391 1407	microalbuminuria
+T4	HMM 1440 1461	clinical proteinuria.
+T5	HMM 1496 1507	progression
+T6	HMM 1598 1634	high risk for cardiovascular disease
+T7	HMM 1678 1690	albuminuria.
+T8	HMM 1691 1707	Microalbuminuria
+T9	HMM 1816 1843	progression of albuminuria.

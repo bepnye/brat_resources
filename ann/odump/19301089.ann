@@ -1,0 +1,10 @@
+T1	HMM 1025 1094	Bone mineral density (BMD) of lumbar spine (L1-L4) and proximal femur
+T2	HMM 1175 1195	Venous blood samples
+T3	HMM 1231 1397	serum cytokines including interleukin-1beta (IL-1beta), tumor necrosis factor-alpha (TNF-alpha), RANKL, osteoprotegerin, and markers of bone formation and resorption.
+T4	HMM 1398 1423	Levels of serum cytokines
+T5	HMM 1483 1509	Markers of bone metabolism
+T6	HMM 1624 1682	serum levels of RANKL and IL-1beta significantly decreased
+T7	HMM 1691 1739	level of osteoprotegerin significantly increased
+T8	HMM 1773 1825	significant difference was found in TNF-alpha level.
+T9	HMM 1851 1875	level of serum cytokines
+T10	HMM 1929 2013	bone turnover, both markers of bone resorption and formation significantly decreased

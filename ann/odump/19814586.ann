@@ -1,0 +1,12 @@
+T1	HMM 991 1063	sum of pain intensity difference (SPID) over 30 min post-administration.
+T2	HMM 1102 1154	pain intensity difference (PID) and pain relief (PR)
+T3	HMM 1256 1298	long-term safety phase of up to 12 months.
+T4	HMM 1299 1313	Adverse events
+T5	HMM 1574 1578	SPID
+T6	HMM 1773 1783	PID and PR
+T7	HMM 2055 2104	well-tolerated both systemically and sublingually
+T8	HMM 2150 2176	drug-related adverse event
+T9	HMM 2212 2218	nausea
+T10	HMM 2228 2236	vomiting
+T11	HMM 2248 2258	somnolence
+T12	HMM 2271 2304	serious AE (mild affect lability)

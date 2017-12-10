@@ -1,0 +1,10 @@
+T1	HMM 39 59	inflammatory markers
+T2	HMM 377 397	inflammatory markers
+T3	HMM 775 915	plasma levels of 25(OH)D, high-sensitivity C-reactive protein (CRP), interleukin (IL)-6, IL-10, and soluble TNF-α receptor type 2 (sTNF-R2)
+T4	HMM 1003 1035	in CRP, IL-6, IL-10, and sTNF-R2
+T5	HMM 1094 1106	Baseline CRP
+T6	HMM 1151 1177	the baseline 25(OH)D level
+T7	HMM 1248 1294	baseline 25(OH)D and vitamin D supplementation
+T8	HMM 1327 1337	in log CRP
+T9	HMM 1505 1540	in circulating inflammatory markers
+T10	HMM 1597 1616	of CRP with 25(OH)D

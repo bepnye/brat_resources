@@ -1,0 +1,6 @@
+T1	HMM 83 95	brucellosis.
+T2	HMM 146 188	efficacy, safety, and patient tolerability
+T3	HMM 237 249	brucellosis:
+T4	HMM 566 615	average number of days without fever and symptoms
+T5	HMM 861 870	relapses;
+T6	HMM 960 971	brucellosis

@@ -1,0 +1,18 @@
+T1	HMM 155 163	efficacy
+T2	HMM 483 491	Z scores
+T3	HMM 580 635	bone alkaline phosphatase (B-ALP) and osteocalcin (OC).
+T4	HMM 654 682	imbalance in bone remodeling
+T5	HMM 690 711	high bone resorption.
+T6	HMM 712 738	Bone mineral density (BMD)
+T7	HMM 765 779	changes in BMD
+T8	HMM 859 892	lumbar spine and the femoral neck
+T9	HMM 908 969	Biochemical markers except urinary calcium and hydroxyproline
+T10	HMM 1027 1059	BMD changes at the lumbar spine.
+T11	HMM 1123 1149	positive spine BMD changes
+T12	HMM 1198 1222	bone biochemical markers
+T13	HMM 1327 1357	association of B-ALP and D-Pyr
+T14	HMM 1396 1408	BMD variance
+T15	HMM 1417 1457	association of B-ALP, PTH, and estradiol
+T16	HMM 1501 1525	biochemical bone markers
+T17	HMM 1550 1561	bone effect
+T18	HMM 1568 1576	increase

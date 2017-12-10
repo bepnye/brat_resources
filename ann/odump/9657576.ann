@@ -1,0 +1,7 @@
+T1	HMM 59 89	airway responses to salbutamol
+T2	HMM 203 245	dose-response curves to inhaled salbutamol
+T3	HMM 619 660	dose-response curve to inhaled salbutamol
+T4	HMM 963 1008	forced expiratory volume in one second (FEV1)
+T5	HMM 1157 1161	FEV1
+T6	HMM 1504 1550	FEV1 and forced vital capacity (FVC) responses
+T7	HMM 1828 1843	bronchodilation

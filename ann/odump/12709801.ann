@@ -1,0 +1,12 @@
+T1	HMM 18 37	efficacy and safety
+T2	HMM 103 138	acute bacterial maxillary sinusitis
+T3	HMM 767 785	clinical cure rate
+T4	HMM 1165 1193	bacteriological success rate
+T5	HMM 1381 1416	Eradication or presumed eradication
+T6	HMM 1653 1671	drug-related event
+T7	HMM 1844 1853	diarrhoea
+T8	HMM 1874 1889	nausea/vomiting
+T9	HMM 1907 1921	abdominal pain
+T10	HMM 1941 1955	skin reactions
+T11	HMM 2027 2059	clinically and bacteriologically
+T12	HMM 2094 2104	tolerated.

@@ -1,0 +1,7 @@
+T1	HMM 33 61	Effective Cardiac Treatment:
+T2	HMM 399 414	quality of care
+T3	HMM 425 435	myocardial
+T4	HMM 1724 1742	adjusted mortality
+T5	HMM 1779 1931	length of in-hospital stay, physician visits after discharge, waiting times for invasive cardiac procedures, and readmissions for cardiac complications.
+T6	HMM 2069 2088	quality improvement
+T7	HMM 2187 2200	effectiveness

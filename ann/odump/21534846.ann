@@ -1,0 +1,7 @@
+T1	HMM 858 870	Multivariate
+T2	HMM 900 927	end-of-treatment abstinence
+T3	HMM 977 989	quit smoking
+T4	HMM 1159 1179	six-month abstinence
+T5	HMM 1229 1241	quit smoking
+T6	HMM 1508 1537	levels of depression symptoms
+T7	HMM 1563 1593	predictive of smoking relapse.

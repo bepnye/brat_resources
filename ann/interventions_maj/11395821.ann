@@ -1,0 +1,20 @@
+T1	Intervention 0 12	Laparoscopic
+T2	Intervention 16 33	open appendectomy
+T3	Intervention 70 100	Laparoscopic appendectomy (LA)
+T4	Intervention 256 258	LA
+T5	Intervention 493 532	laparoscopic or open appendectomy (OA).
+T6	Intervention 724 727	OA,
+T7	Intervention 875 878	LA,
+T8	Intervention 999 1001	LA
+T9	Intervention 1055 1057	OA
+T10	Intervention 1225 1227	OA
+T11	Intervention 1259 1282	laparoscopic technique.
+T12	Intervention 1369 1371	OA
+T13	Intervention 1728 1730	OA
+T14	Intervention 1882 1884	OA
+T15	Intervention 1983 1995	laparoscopic
+T16	Intervention 2159 2161	OA
+T17	Intervention 2201 2203	LA
+T18	Intervention 2306 2308	LA
+T19	Intervention 2406 2412	OA. LA
+T20	Intervention 2620 2622	LA

@@ -1,0 +1,9 @@
+T1	HMM 102 122	therapeutic efficacy
+T2	HMM 145 154	tonsillar
+T3	HMM 356 385	sites improved and/or cleared
+T4	HMM 424 442	Complete clearance
+T5	HMM 597 604	cleared
+T6	HMM 622 639	Remission periods
+T7	HMM 869 933	Tonsillar focal infection (TFI) and dental focal infection (DFI)
+T8	HMM 1012 1048	focal infection (FI), TFI and/or DFI
+T9	HMM 1141 1187	complete clearance rates and remission periods

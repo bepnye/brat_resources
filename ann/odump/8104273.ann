@@ -1,0 +1,10 @@
+T1	HMM 319 368	selective serotonin reuptake inhibitor citalopram
+T2	HMM 372 391	uncontrolled crying
+T3	HMM 659 673	Crying history
+T4	HMM 759 781	Psychiatric assessment
+T5	HMM 800 825	Hamilton depression scale
+T6	HMM 837 853	unwanted effects
+T7	HMM 877 899	UKU side-effect scale.
+T8	HMM 923 942	frequency of crying
+T9	HMM 966 997	number of daily crying episodes
+T10	HMM 1231 1260	decrease in depression rating

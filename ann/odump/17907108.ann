@@ -1,0 +1,7 @@
+T1	HMM 574 658	triglyceride (TG), high-density lipoprotein cholesterol (HDL-C) and non-HDL-C levels
+T2	HMM 719 762	Low-density lipoprotein cholesterol (LDL-C)
+T3	HMM 920 939	LDL particle number
+T4	HMM 1015 1048	body weight and peripheral oedema
+T5	HMM 1109 1126	serum creatinine.
+T6	HMM 1169 1186	glycaemic control
+T7	HMM 1251 1282	lipid and lipoprotein variables

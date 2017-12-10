@@ -1,0 +1,6 @@
+T1	HMM 59 72	sleep quality
+T2	HMM 357 397	sleep quality and treatment side-effects
+T3	HMM 776 790	sleep quality.
+T4	HMM 881 893	condensation
+T5	HMM 1019 1108	total sleep time, time spent in sleep stages 3 and 4, and rapid eye movement sleep phases
+T6	HMM 1143 1168	overall side-effect score

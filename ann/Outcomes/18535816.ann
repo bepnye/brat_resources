@@ -1,0 +1,17 @@
+T1	Outcomes 153 168	LDL-cholesterol
+T2	Outcomes 224 247	plasma triacylglycerol.
+T3	Outcomes 351 374	triacylglycerol levels.
+T4	Outcomes 1100 1155	plasma LDL-cholesterol, triacylglycerol and total ApoB.
+T5	Outcomes 1186 1247	ApoB pool sizes of larger triacylglycerol-rich VLDL particles
+T6	Outcomes 1268 1290	smaller VLDL particles
+T7	Outcomes 1311 1343	intermediate density lipoprotein
+T8	Outcomes 1447 1492	total fractional catabolic rate of VLDL1-ApoB
+T9	Outcomes 1746 1786	production rates of VLDL2-, IDL- or LDL-
+T10	Outcomes 1803 1829	VLDL1-ApoB production rate
+T11	Outcomes 1894 1906	side effects
+T12	Outcomes 2072 2091	LDL-ApoB catabolism
+T13	Outcomes 2138 2185	catabolism of triacylglycerol-rich lipoproteins
+T14	Outcomes 2222 2246	catabolism of VLDL1-ApoB
+T15	Outcomes 2254 2264	VLDL2-ApoB
+T16	Outcomes 2275 2283	IDL-ApoB
+T17	Outcomes 2333 2343	VLDL1-ApoB

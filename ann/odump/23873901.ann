@@ -1,0 +1,7 @@
+T1	HMM 85 128	exudative age-related macular degeneration.
+T2	HMM 977 1005	best-corrected visual acuity
+T3	HMM 1095 1137	number of ranibizumab injections required.
+T4	HMM 1156 1205	6-month change in central macular thickness (CMT)
+T5	HMM 1449 1467	no adverse effects
+T6	HMM 1540 1563	the efficacy and safety
+T7	HMM 1781 1793	reducing CMT

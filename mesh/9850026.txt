@@ -1,0 +1,25 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Austria
+Bleomycin
+Cyclophosphamide
+Czech Republic
+Dacarbazine
+Disease-Free Survival
+Doxorubicin
+Etoposide
+Female
+Germany
+Hodgkin Disease
+Humans
+Male
+Middle Aged
+Prednisone
+Procarbazine
+Radiotherapy, Adjuvant
+Switzerland
+Treatment Outcome
+Vinblastine
+Vincristine

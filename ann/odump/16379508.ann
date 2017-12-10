@@ -1,0 +1,11 @@
+T1	HMM 20 39	prolactin elevation
+T2	HMM 370 379	prolactin
+T3	HMM 457 476	prolactin elevation
+T4	HMM 546 565	efficacy and safety
+T5	HMM 652 667	serum prolactin
+T6	HMM 767 776	Prolactin
+T7	HMM 938 947	prolactin
+T8	HMM 1102 1111	prolactin
+T9	HMM 1242 1251	Prolactin
+T10	HMM 1336 1350	Mean prolactin
+T11	HMM 1524 1548	mean prolactin elevation

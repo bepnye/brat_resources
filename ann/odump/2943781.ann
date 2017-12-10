@@ -1,0 +1,6 @@
+T1	HMM 25 62	exercise-induced periinfarct ischemia
+T2	HMM 726 746	Periinfarct ischemia
+T3	HMM 842 864	Successful reperfusion
+T4	HMM 1003 1093	Residual stenosis of the infarct-related coronary artery shown at predischarge angiography
+T5	HMM 1245 1282	exercise-induced periinfarct ischemia
+T6	HMM 1454 1529	severe residual coronary stenosis and exercise-induced periinfarct ischemia

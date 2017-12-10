@@ -1,0 +1,16 @@
+T1	HMM 0 20	Deep vein thrombosis
+T2	HMM 182 202	deep vein thrombosis
+T3	HMM 355 375	deep vein thrombosis
+T4	HMM 390 401	prophylaxis
+T5	HMM 593 625	deep vein thrombosis prophylaxis
+T6	HMM 653 673	duplex doppler scans
+T7	HMM 1084 1138	clinical signs and symptoms of thromboembolic disease.
+T8	HMM 1263 1275	asymptomatic
+T9	HMM 1284 1296	duplex scans
+T10	HMM 1353 1361	venogram
+T11	HMM 1430 1451	excessive blood loss.
+T12	HMM 1517 1568	clinically detectable proximal deep vein thrombosis
+T13	HMM 1592 1616	duplex ultra-sonography.
+T14	HMM 1629 1647	clinical incidence
+T15	HMM 1651 1671	deep vein thrombosis
+T16	HMM 1783 1806	thromboembolic disease.

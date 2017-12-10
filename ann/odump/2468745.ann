@@ -1,0 +1,15 @@
+T1	HMM 583 696	response rate, duration of response, time to progression or death, time to treatment failure (TTF), and survival.
+T2	HMM 701 714	response rate
+T3	HMM 778 802	median response duration
+T4	HMM 897 907	median TTF
+T5	HMM 999 1014	median survival
+T6	HMM 1238 1270	The major dose-limiting toxicity
+T7	HMM 1290 1301	leukopenia.
+T8	HMM 1326 1364	less severe and less frequent toxicity
+T9	HMM 1399 1425	Severe nausea and vomiting
+T10	HMM 1539 1570	severe stomatitis and mucositis
+T11	HMM 1659 1667	alopecia
+T12	HMM 1897 1911	cardiotoxicity
+T13	HMM 2032 2057	metastatic breast cancer.
+T14	HMM 2101 2153	marginally less active and significantly less toxic.
+T15	HMM 2314 2327	drug toxicity

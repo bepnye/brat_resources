@@ -1,0 +1,9 @@
+T1	HMM 34 64	survival of high-risk patients
+T2	HMM 146 164	beneficial effects
+T3	HMM 368 394	New Jersey Risk Assessment
+T4	HMM 421 463	preoperative estimated surgical mortality.
+T5	HMM 889 895	deaths
+T6	HMM 953 957	died
+T7	HMM 974 992	observed mortality
+T8	HMM 1061 1088	reducing surgical mortality
+T9	HMM 1163 1182	estimated mortality

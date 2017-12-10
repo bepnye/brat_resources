@@ -1,0 +1,4 @@
+T1	HMM 1287 1302	unstable angina
+T2	HMM 1408 1435	reduction in cardiac deaths
+T3	HMM 1506 1577	combined endpoint of deaths, myocardial infarction, and unstable angina
+T4	HMM 1692 1753	myocardial infarction, unstable angina, and cardiac mortality

@@ -1,0 +1,6 @@
+T1	HMM 171 190	efficacy of devices
+T2	HMM 344 437	time to achieve normoglycemia, period of time in normoglycemia, and episodes of hypoglycemia.
+T3	HMM 1012 1019	system.
+T4	HMM 1020 1036	Student's t-test
+T5	HMM 1074 1087	the X(2) test
+T6	HMM 1177 1218	the mean time for achieving normoglycemia

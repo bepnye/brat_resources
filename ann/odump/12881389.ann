@@ -1,0 +1,5 @@
+T1	HMM 740 768	complete response (CR) rates
+T2	HMM 898 922	objective response rates
+T3	HMM 932 948	partial response
+T4	HMM 1080 1094	survival rates
+T5	HMM 1276 1286	toxicities

@@ -1,0 +1,12 @@
+T1	HMM 0 25	Weight and leptin changes
+T2	HMM 210 224	weight change.
+T3	HMM 232 245	Weight change
+T4	HMM 342 371	Change in serum leptin levels
+T5	HMM 418 435	final weight gain
+T6	HMM 561 577	weight increased
+T7	HMM 706 719	weight gained
+T8	HMM 735 758	Change in leptin levels
+T9	HMM 836 854	final weight gain.
+T10	HMM 927 938	weight gain
+T11	HMM 1048 1067	Serum leptin change
+T12	HMM 1117 1129	weight gain.

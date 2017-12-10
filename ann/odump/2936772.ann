@@ -1,0 +1,11 @@
+T1	HMM 87 101	acne vulgaris.
+T2	HMM 129 137	efficacy
+T3	HMM 141 184	erythromycin base (E-Mycin tablets, 333 mg)
+T4	HMM 193 201	efficacy
+T5	HMM 205 231	tetracycline hydrochloride
+T6	HMM 740 753	acne severity
+T7	HMM 774 815	Pustules, papules, and open comedo counts
+T8	HMM 987 991	acne
+T9	HMM 1106 1132	gastrointestinal symptoms.
+T10	HMM 1199 1216	Candida vaginitis
+T11	HMM 1236 1255	pseudotumor cerebri

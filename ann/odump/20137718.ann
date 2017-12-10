@@ -1,0 +1,3 @@
+T1	HMM 1081 1134	accuracies of preoperative staging of T, N, M and TNM
+T2	HMM 1316 1358	accuracy of preoperative N and TNM staging
+T3	HMM 1472 1518	accuracy of prediction to operative procedures

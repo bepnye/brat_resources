@@ -1,0 +1,14 @@
+T1	Treatment 0 57	Bevacizumab plus irinotecan, fluorouracil, and leucovorin
+T2	Treatment 104 115	Bevacizumab
+T3	Treatment 438 507	irinotecan, bolus fluorouracil, and leucovorin (IFL) plus bevacizumab
+T4	Treatment 578 595	IFL plus placebo.
+T5	Treatment 850 870	IFL plus bevacizumab
+T6	Treatment 920 936	IFL plus placebo
+T7	Treatment 1083 1103	IFL plus bevacizumab
+T8	Treatment 1152 1168	IFL plus placebo
+T9	Treatment 1377 1397	IFL plus bevacizumab
+T10	Treatment 1446 1462	IFL plus placebo
+T11	Treatment 1569 1589	IFL plus bevacizumab
+T12	Treatment 1600 1616	IFL plus placebo
+T13	Treatment 1700 1711	bevacizumab
+T14	Treatment 1715 1758	fluorouracil-based combination chemotherapy

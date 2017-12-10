@@ -1,0 +1,19 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols
+Carboplatin
+Deoxycytidine
+Disease-Free Survival
+Fallopian Tube Neoplasms
+Female
+Humans
+Induction Chemotherapy
+Middle Aged
+Neoplasm Staging
+Neoplasms, Glandular and Epithelial
+Ovarian Neoplasms
+Paclitaxel
+Peritoneal Neoplasms
+Survival Rate
+Young Adult

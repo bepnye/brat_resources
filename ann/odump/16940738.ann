@@ -1,0 +1,6 @@
+T1	HMM 608 624	hemoglobin level
+T2	HMM 851 888	hemoglobin level and mean blood loss.
+T3	HMM 906 915	shivering
+T4	HMM 1088 1126	nausea, headache, diarrhea and pyrexia
+T5	HMM 1270 1280	blood loss
+T6	HMM 1323 1339	hemoglobin level

@@ -1,0 +1,5 @@
+T1	HMM 0 64	Erythrocyte deformability, endothelin levels, and renal function
+T2	HMM 432 457	Erythrocyte deformability
+T3	HMM 622 656	polyunsaturated fatty acid content
+T4	HMM 946 1040	glomerular filtration rate, effective renal plasma flow, filtration fraction or blood pressure
+T5	HMM 1179 1204	erythrocyte deformability

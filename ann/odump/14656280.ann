@@ -1,0 +1,8 @@
+T1	HMM 319 337	prolonged survival
+T2	HMM 684 705	Overall survival (OS)
+T3	HMM 1309 1317	vomiting
+T4	HMM 1341 1365	rise in serum creatinine
+T5	HMM 1389 1403	abdominal pain
+T6	HMM 1427 1440	neurotoxicity
+T7	HMM 1557 1575	pattern of relapse
+T8	HMM 1626 1631	died;

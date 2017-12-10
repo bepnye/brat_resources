@@ -1,0 +1,5 @@
+T1	HMM 399 412	Blood samples
+T2	HMM 591 602	bacteremias
+T3	HMM 833 843	bacteremia
+T4	HMM 906 929	odontogenic bacteremias
+T5	HMM 1108 1119	bacteremia.

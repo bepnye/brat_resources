@@ -1,0 +1,22 @@
+T1	HMM 167 174	compare
+T2	HMM 749 762	Complications
+T3	HMM 808 863	Disabilities of the Arm, Shoulder and Hand (DASH) score
+T4	HMM 868 891	Constant Shoulder Score
+T5	HMM 896 915	outcome measurement
+T6	HMM 921 943	clavicular shortening.
+T7	HMM 952 966	Fracture union
+T8	HMM 1028 1036	nonunion
+T9	HMM 1101 1122	symptomatic malunions
+T10	HMM 1180 1202	Medial nail protrusion
+T11	HMM 1247 1284	Implant failure with revision surgery
+T12	HMM 1350 1361	DASH scores
+T13	HMM 1509 1524	Constant scores
+T14	HMM 1682 1718	posttraumatic clavicular shortening;
+T15	HMM 1739 1748	satisfied
+T16	HMM 1778 1794	overall outcome.
+T17	HMM 1883 1891	nonunion
+T18	HMM 1896 1909	delayed union
+T19	HMM 1920 1946	return to daily activities
+T20	HMM 1961 1980	functional outcome.
+T21	HMM 1981 2002	Clavicular shortening
+T22	HMM 2032 2052	overall satisfaction

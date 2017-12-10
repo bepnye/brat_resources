@@ -1,0 +1,7 @@
+T1	HMM 93 99	safety
+T2	HMM 503 517	adverse events
+T3	HMM 556 584	mild diarrhoea and vomiting.
+T4	HMM 585 598	None excreted
+T5	HMM 619 648	Vibriocidal antibody response
+T6	HMM 755 776	anti-CT antibody rose
+T7	HMM 935 955	safe and immunogenic

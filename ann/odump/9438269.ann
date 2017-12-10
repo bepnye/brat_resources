@@ -1,0 +1,7 @@
+T1	HMM 879 904	P300 latency prolongation
+T2	HMM 933 956	P300 global field power
+T3	HMM 964 994	Maximal LORETA source strength
+T4	HMM 1031 1071	Actovegin parietal P300 scalp amplitudes
+T5	HMM 1089 1120	frontal and temporal amplitudes
+T6	HMM 1172 1181	hilliness
+T7	HMM 1235 1264	parietal P300 source strength

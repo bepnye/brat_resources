@@ -1,0 +1,4 @@
+T1	HMM 340 363	systolic blood pressure
+T2	HMM 380 421	volatile agent concentration in the blood
+T3	HMM 496 507	hypotension
+T4	HMM 662 680	speed of recovery.

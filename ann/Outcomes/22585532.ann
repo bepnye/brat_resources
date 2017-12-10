@@ -1,0 +1,15 @@
+T1	Outcomes 0 20	Immunologic response
+T2	Outcomes 238 365	length of hospital stay, accelerate recovery of intestinal function, and reduce the occurrence of post-operative complications.
+T3	Outcomes 479 518	humoral inflammatory cellular immunity.
+T4	Outcomes 1024 1059	number of lymphocyte subpopulations
+T5	Outcomes 1098 1147	serum interleukin-6 and C-reactive protein levels
+T6	Outcomes 1163 1262	Post-operative hospital stay, post-operative morbidity, readmission rate, and in-hospital mortality
+T7	Outcomes 1382 1417	post-operative inflammatory factors
+T8	Outcomes 1616 1692	Inflammatory reactions, based on interleukin-6 and C-reactive protein levels
+T9	Outcomes 1817 1882	specific immunity (CD3+ and CD4+ counts, and the CD4+/CD8+ ratio)
+T10	Outcomes 1930 1958	Post-operative hospital stay
+T11	Outcomes 2088 2116	Post-operative complications
+T12	Outcomes 2312 2355	readmission rate and in-hospital mortality.
+T13	Outcomes 2466 2554	post-operative inflammatory factors with a reduction in peri-operative trauma and stress
+T14	Outcomes 2705 2746	protective effects via the immune system.
+T15	Outcomes 2869 2906	improvement of post-operative results

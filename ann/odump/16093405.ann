@@ -1,0 +1,8 @@
+T1	HMM 48 60	blood lipids
+T2	HMM 905 936	Blood isoflavone concentrations
+T3	HMM 984 1002	Blood lipid levels
+T4	HMM 1124 1159	blood isoflavones and lipid levels.
+T5	HMM 1172 1181	decreases
+T6	HMM 1185 1202	total cholesterol
+T7	HMM 1219 1234	LDL-cholesterol
+T8	HMM 1474 1487	blood lipids.

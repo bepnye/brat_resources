@@ -1,0 +1,5 @@
+T1	HMM 28 46	long-term sedation
+T2	HMM 163 171	sedation
+T3	HMM 492 544	sedation quality and time to recovery from sedation.
+T4	HMM 641 657	optimal sedation
+T5	HMM 696 710	adverse events

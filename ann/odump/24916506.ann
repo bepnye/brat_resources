@@ -1,0 +1,6 @@
+T1	HMM 175 191	patient outcomes
+T2	HMM 388 410	genome-wide expression
+T3	HMM 940 968	in progression-free survival
+T4	HMM 1047 1070	of PTK2 gene expression
+T5	HMM 1126 1181	PTK2 inhibition blunted R-dependent cell death in vitro
+T6	HMM 1251 1276	increased PTK2 expression

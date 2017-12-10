@@ -1,0 +1,5 @@
+T1	HMM 924 946	response to treatment:
+T2	HMM 956 993	20% improvement from basal conditions
+T3	HMM 997 1062	clinical, laboratory, or specific neurological testing variables.
+T4	HMM 1082 1095	response rate
+T5	HMM 1251 1260	effective

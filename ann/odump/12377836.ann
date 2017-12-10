@@ -1,0 +1,7 @@
+T1	HMM 40 70	sleep apnea/hypopnea syndrome.
+T2	HMM 276 312	sleep apnea/hypopnea syndrome (SAHS)
+T3	HMM 342 348	costs.
+T4	HMM 1981 2005	area under the ROC curve
+T5	HMM 2191 2230	cost per study of home study recordings
+T6	HMM 2482 2491	expensive
+T7	HMM 2585 2603	expensive strategy

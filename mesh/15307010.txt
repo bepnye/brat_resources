@@ -1,0 +1,23 @@
+Adolescent
+Adult
+Aged
+Anti-HIV Agents
+Antiretroviral Therapy, Highly Active
+Benzoxazines
+CD4 Lymphocyte Count
+Disease Progression
+Double-Blind Method
+Drug Administration Schedule
+Drug Resistance, Viral
+Female
+HIV Infections
+HIV-1
+Humans
+Lamivudine
+Male
+Middle Aged
+Oxazines
+RNA, Viral
+Reverse Transcriptase Inhibitors
+Viral Load
+Zidovudine

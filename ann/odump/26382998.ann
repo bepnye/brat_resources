@@ -1,0 +1,10 @@
+T1	HMM 207 224	oxygen saturation
+T2	HMM 1342 1369	time to resolution of cough
+T3	HMM 1696 1701	Cough
+T4	HMM 1835 1860	35 serious adverse events
+T5	HMM 1906 1931	25 serious adverse events
+T6	HMM 2008 2053	infants transferred to a high-dependency unit
+T7	HMM 2058 2073	were readmitted
+T8	HMM 2087 2112	a prolonged hospital stay
+T9	HMM 2173 2195	a high-dependency unit
+T10	HMM 2203 2230	were readmitted to hospital

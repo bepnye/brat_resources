@@ -1,0 +1,9 @@
+T1	HMM 0 25	Acute hemodynamic effects
+T2	HMM 188 235	abnormalities in hemodynamics and fluid balance
+T3	HMM 276 351	V(1A) (vascular and myocardial effects) and V(2) receptors (renal effects).
+T4	HMM 814 848	pulmonary capillary wedge pressure
+T5	HMM 958 979	right atrial pressure
+T6	HMM 1187 1199	urine output
+T7	HMM 1395 1484	cardiac index, systemic and pulmonary vascular resistance, blood pressure, and heart rate
+T8	HMM 1662 1691	hemodynamics and urine output
+T9	HMM 1710 1739	blood pressure or heart rate.

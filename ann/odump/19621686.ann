@@ -1,0 +1,9 @@
+T1	HMM 348 363	quality of life
+T2	HMM 780 1003	(i) severity of pain, (ii) ease of swallowing, (iii) satisfaction of daily activities, (iv) dependence on medications, (v) working ability, (vi) fatigue, (vii) appetite, (viii) sociality, (ix) happiness and (x) self respect
+T3	HMM 1053 1101	demographic data, operative results and survival
+T4	HMM 1281 1295	operation time
+T5	HMM 1330 1342	leakage rate
+T6	HMM 1449 1506	intraoperative blood loss and postoperative hospital stay
+T7	HMM 1568 1596	Kaplan-Meier survival curves
+T8	HMM 1695 1710	quality of life
+T9	HMM 1967 1979	leakage rate

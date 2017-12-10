@@ -1,0 +1,6 @@
+T1	HMM 11 51	efficacy of mitomycin C plus doxorubicin
+T2	HMM 881 895	response rates
+T3	HMM 1121 1140	total response rate
+T4	HMM 1216 1236	disease progression.
+T5	HMM 1241 1258	progression rates
+T6	HMM 1467 1482	efficacy to BCG

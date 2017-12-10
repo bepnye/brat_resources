@@ -1,0 +1,6 @@
+T1	HMM 707 805	Mean +/- SD baseline total cholesterol (TC) and low-density lipoprotein cholesterol (LDL-C) levels
+T2	HMM 910 929	TC and LDL-C levels
+T3	HMM 1033 1093	Triglyceride and high-density lipoprotein cholesterol levels
+T4	HMM 1127 1142	adverse effects
+T5	HMM 1175 1221	Serum vitamin A and 25-hydroxyvitamin D levels
+T6	HMM 1275 1294	TC and LDL-C levels

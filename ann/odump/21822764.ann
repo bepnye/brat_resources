@@ -1,0 +1,5 @@
+T1	HMM 223 278	identify and label basic and complex facial expressions
+T2	HMM 400 419	emotion recognition
+T3	HMM 563 579	social behaviour
+T4	HMM 674 690	social behaviour
+T5	HMM 850 866	social behaviour

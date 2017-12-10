@@ -1,0 +1,8 @@
+T1	HMM 700 719	visual analog scale
+T2	HMM 947 980	mean index score of EQ-5D and VAS
+T3	HMM 1085 1098	VARS of EQ-5D
+T4	HMM 1172 1180	efficacy
+T5	HMM 1361 1377	local tenderness
+T6	HMM 1385 1408	subcutaneous hemorrhage
+T7	HMM 1422 1436	conjunctivitis
+T8	HMM 1449 1470	severe adverse events

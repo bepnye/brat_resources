@@ -1,0 +1,13 @@
+Adult
+Aged
+Antihypertensive Agents
+Drug Therapy, Combination
+Female
+Humans
+Hydrochlorothiazide
+Hypertension
+Male
+Middle Aged
+Tetrazoles
+Treatment Outcome
+Valine

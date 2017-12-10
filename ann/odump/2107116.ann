@@ -1,0 +1,10 @@
+T1	HMM 380 430	complications, mortality, tube function, and cost.
+T2	HMM 544 557	Complications
+T3	HMM 596 601	died.
+T4	HMM 602 615	Complications
+T5	HMM 656 661	died.
+T6	HMM 771 778	OG cost
+T7	HMM 843 865	endoscopic tube change
+T8	HMM 872 895	raised their total cost
+T9	HMM 1000 1039	morbidity, mortality, or tube function.
+T10	HMM 1085 1104	economic advantage.

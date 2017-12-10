@@ -1,0 +1,6 @@
+T1	HMM 632 753	relevant parameters for rate (Cmax ss, Cmin ss, Cav ss, plateau time, peak-trough fluctuation, nocturnal excess, tmax ss)
+T2	HMM 758 786	extent of absorption (AUCss)
+T3	HMM 836 849	plateau times
+T4	HMM 866 896	small peak-trough fluctuations
+T5	HMM 1034 1051	symmetrical peaks
+T6	HMM 1165 1192	concentration/time profiles

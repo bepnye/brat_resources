@@ -1,0 +1,9 @@
+T1	HMM 72 98	effectiveness of treatment
+T2	HMM 333 386	bleeding on probing (BOP), probing pocket depth (PPD)
+T3	HMM 432 441	bone loss
+T4	HMM 780 800	Plaque, BOP, and PPD
+T5	HMM 878 889	Bone levels
+T6	HMM 986 998	Oral hygiene
+T7	HMM 1195 1201	bleed.
+T8	HMM 1312 1332	PPD and bone levels.
+T9	HMM 1390 1414	number of sites with BOP

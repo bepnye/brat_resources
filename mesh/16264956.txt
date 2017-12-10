@@ -1,0 +1,18 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols
+Carboplatin
+Carcinoma, Non-Small-Cell Lung
+Cisplatin
+Deoxycytidine
+Female
+Humans
+Ifosfamide
+Lung Neoplasms
+Male
+Middle Aged
+Mitomycin
+Quality of Life
+Survival Analysis
+Treatment Outcome

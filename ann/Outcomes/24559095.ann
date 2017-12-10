@@ -1,0 +1,17 @@
+T1	Outcomes 10 46	expression of Yes-associated protein
+T2	Outcomes 167 196	Yes-associated protein (YAP1)
+T3	Outcomes 357 361	YAP1
+T4	Outcomes 575 597	YAP1 protein intensity
+T5	Outcomes 712 735	mRNA expression of YAP1
+T6	Outcomes 791 815	Recurrence-free survival
+T7	Outcomes 954 968	cell viability
+T8	Outcomes 975 989	luciferase ERE
+T9	Outcomes 1206 1221	YAP1 expression
+T10	Outcomes 1378 1402	subgroup YAP1 expression
+T11	Outcomes 1464 1477	low YAP1 mRNA
+T12	Outcomes 1512 1546	decreased recurrence-free survival
+T13	Outcomes 1778 1787	that YAP1
+T14	Outcomes 1952 1982	absent YAP1 protein expression
+T15	Outcomes 2003 2030	impaired tamoxifen response
+T16	Outcomes 2124 2172	increased progesterone receptor (PgR) expression
+T17	Outcomes 2253 2278	Decreased YAP1 expression

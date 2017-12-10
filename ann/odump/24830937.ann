@@ -1,0 +1,13 @@
+T1	HMM 44 61	metabolic profile
+T2	HMM 227 235	efficacy
+T3	HMM 296 313	metabolic profile
+T4	HMM 318 332	blood pressure
+T5	HMM 787 809	fasting glucose levels
+T6	HMM 817 863	mg/dL, HOMA-IR index ≥3, triglyceride levels
+T7	HMM 877 921	and/or systolic and diastolic blood pressure
+T8	HMM 1166 1188	changes in the mean of
+T9	HMM 1221 1231	<0.05) and
+T10	HMM 1263 1296	p <0.05) blood pressures, HOMA-IR
+T11	HMM 1323 1340	<0.0001), fasting
+T12	HMM 1375 1398	<0.05) and triglyceride
+T13	HMM 1593 1633	improves the metabolic profile and blood

@@ -1,0 +1,5 @@
+T1	HMM 613 630	Virologic success
+T2	HMM 738 775	Discontinuation due to adverse events
+T3	HMM 796 830	Median changes in serum creatinine
+T4	HMM 901 917	durable efficacy
+T5	HMM 922 938	long-term safety

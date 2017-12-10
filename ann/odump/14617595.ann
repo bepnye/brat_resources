@@ -1,0 +1,10 @@
+T1	HMM 59 80	neurological recovery
+T2	HMM 157 195	recovery profiles, efficacy and safety
+T3	HMM 1031 1054	Systolic blood pressure
+T4	HMM 1231 1265	Median time to tracheal extubation
+T5	HMM 1441 1492	time to achieve the first normal neurological score
+T6	HMM 1650 1673	level of consciousness.
+T7	HMM 1674 1684	Analgesics
+T8	HMM 1875 1917	Time to preoperative neurological recovery
+T9	HMM 1955 1977	transitional analgesia
+T10	HMM 2003 2023	quality of recovery.

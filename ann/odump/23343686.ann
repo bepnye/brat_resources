@@ -1,0 +1,11 @@
+T1	HMM 211 231	myocardial ischaemia
+T2	HMM 256 265	ischaemia
+T3	HMM 673 693	Myocardial ischaemia
+T4	HMM 709 742	intracoronary (i.c.) ECG ST shift
+T5	HMM 790 836	Collateral flow index (CFI) without iCSO, that
+T6	HMM 978 998	ECG ST segment shift
+T7	HMM 1172 1176	i.c.
+T8	HMM 1177 1199	ECG ST shift reduction
+T9	HMM 1267 1279	(r(2)=0.61).
+T10	HMM 1280 1313	Ischaemia reduction with iCSO was
+T11	HMM 1597 1619	of collateral function

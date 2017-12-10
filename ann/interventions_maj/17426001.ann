@@ -1,0 +1,4 @@
+T1	Intervention 213 242	preemptive epidural analgesia
+T2	Intervention 257 290	postoperative epidural analgesia,
+T3	Intervention 334 355	intravenous analgesia
+T4	Intervention 680 852	preemptive epidural analgesia combined with postoperative epidural analgesia, exclusive postoperative epidural analgesia, and exclusive postoperative intravenous analgesia,

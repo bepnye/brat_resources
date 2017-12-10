@@ -1,0 +1,7 @@
+T1	HMM 776 790	gastric ulcers
+T2	HMM 972 1000	incidences of gastric ulcers
+T3	HMM 1145 1172	incidence of gastric ulcers
+T4	HMM 1211 1240	Mean gastric endoscopy scores
+T5	HMM 1351 1396	Mean esophageal and duodenal endoscopy scores
+T6	HMM 1485 1509	gastric endoscopy scores
+T7	HMM 1623 1646	Upper GI adverse events

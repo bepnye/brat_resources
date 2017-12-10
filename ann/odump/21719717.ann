@@ -1,0 +1,6 @@
+T1	HMM 27 84	biochemical markers of bone turnover and pharmacokinetics
+T2	HMM 320 408	pharmacokinetics and the pharmacodynamic effects on biochemical markers of bone turnover
+T3	HMM 880 929	urinary C-terminal telopeptide of type I collagen
+T4	HMM 1093 1216	effects on bone-specific alkaline phosphatase (B-ALP), tartrate-resistant acid phosphatase 5b (TRAP5b), or osteocalcin (OC)
+T5	HMM 1390 1428	suppression of bone resorption markers
+T6	HMM 1449 1524	effects on bone formation markers (B-ALP, OC) or osteoclast number (TRAP5b)

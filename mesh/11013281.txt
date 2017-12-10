@@ -1,0 +1,15 @@
+Adult
+Aged
+Analysis of Variance
+Antineoplastic Agents
+Brain Neoplasms
+Carcinoma, Small Cell
+Combined Modality Therapy
+Cranial Irradiation
+Disease-Free Survival
+Female
+Humans
+Lung Neoplasms
+Male
+Middle Aged
+Teniposide

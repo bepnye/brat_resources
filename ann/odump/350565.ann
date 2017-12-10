@@ -1,0 +1,6 @@
+T1	HMM 610 615	cured
+T2	HMM 743 748	cured
+T3	HMM 757 783	mean duration of treatment
+T4	HMM 827 845	fewer side-effects
+T5	HMM 970 986	overall efficacy
+T6	HMM 1059 1072	side-effects.

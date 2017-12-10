@@ -1,0 +1,7 @@
+T1	HMM 135 155	safety and tolerance
+T2	HMM 942 950	toxicity
+T3	HMM 987 1069	Major grade II-IV toxicities included: neutropenia, nausea, vomiting and alopecia.
+T4	HMM 1087 1111	grade III-IV neutropenia
+T5	HMM 1357 1374	median DFS and OS
+T6	HMM 1397 1432	relapse-free rate and survival rate
+T7	HMM 1531 1574	relapse-free rate of the high-risk patients

@@ -1,0 +1,13 @@
+T1	Intervention 54 84	facemask and endotracheal tube
+T2	Intervention 253 279	impedance threshold device
+T3	Intervention 383 406	endotracheal tube (ETT)
+T4	Intervention 578 593	facemask or ETT
+T5	Intervention 617 625	sham ITD
+T6	Intervention 659 667	facemask
+T7	Intervention 683 686	ETT
+T8	Intervention 1700 1733	active ITD attached to a facemask
+T9	Intervention 1740 1743	ETT
+T10	Intervention 1961 1964	ITD
+T11	Intervention 1977 1985	facemask
+T12	Intervention 1989 1992	ETT
+T13	Intervention 2011 2035	ITD-facemask combination

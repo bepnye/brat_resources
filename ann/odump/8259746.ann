@@ -1,0 +1,8 @@
+T1	HMM 0 10	Comparison
+T2	HMM 579 644	cesarean section rate or in the indication for operative delivery
+T3	HMM 660 675	Gestational age
+T4	HMM 807 819	Birth weight
+T5	HMM 921 939	lower Apgar scores
+T6	HMM 982 1028	Time spent in the neonatal intensive care unit
+T7	HMM 1176 1181	died.
+T8	HMM 1194 1351	number of infants requiring intermittent positive pressure ventilation or duration of O2- treatment, nor number of infants with respiratory distress syndrome

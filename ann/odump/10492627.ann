@@ -1,0 +1,5 @@
+T1	HMM 225 252	curative resectability rate
+T2	HMM 1447 1466	curative resections
+T3	HMM 1542 1572	frequency of TNM stages I + II
+T4	HMM 1634 1642	toxicity
+T5	HMM 1829 1851	curative resectability

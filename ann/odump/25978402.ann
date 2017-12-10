@@ -1,0 +1,4 @@
+T1	HMM 574 588	pain intensity
+T2	HMM 621 816	fibromyalgia severity, pain interference, sleep quality, pain coping strategies, depression, health-related quality of life, patient global impression of change (PGIC), and perceived pain relief.
+T3	HMM 1151 1195	pain levels, functioning and quality of life
+T4	HMM 1476 1495	≥ 50% pain relief

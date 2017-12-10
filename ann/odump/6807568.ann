@@ -1,0 +1,8 @@
+T1	HMM 340 357	anginal frequency
+T2	HMM 431 456	nitroglycerin consumption
+T3	HMM 548 562	Treadmill time
+T4	HMM 783 804	rate-pressure product
+T5	HMM 934 973	ST-segment depressions at peak exercise
+T6	HMM 1070 1089	coronary blood flow
+T7	HMM 1175 1187	constipation
+T8	HMM 1230 1248	safe and effective

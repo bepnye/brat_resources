@@ -1,0 +1,9 @@
+T1	HMM 307 381	incidence of ventricular fibrillation or sustained ventricular tachycardia
+T2	HMM 553 586	sustained ventricular tachycardia
+T3	HMM 638 681	number of patients with warning arrhythmias
+T4	HMM 770 800	average plasma lidocaine level
+T5	HMM 804 817	minutes after
+T6	HMM 956 983	mean plasma lidocaine level
+T7	HMM 1124 1172	incidence of central nervous system side effects
+T8	HMM 1223 1234	hypotension
+T9	HMM 1315 1319	died

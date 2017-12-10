@@ -1,0 +1,14 @@
+Aged
+Anti-Arrhythmia Agents
+Death, Sudden, Cardiac
+Defibrillators, Implantable
+Female
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Myocardial Infarction
+Risk Factors
+Time Factors
+Treatment Outcome
+Ventricular Dysfunction, Left

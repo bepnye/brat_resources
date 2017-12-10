@@ -1,0 +1,14 @@
+T1	HMM 94 121	nasal allergen provocation]
+T2	HMM 276 293	nasal resistance.
+T3	HMM 559 586	nasal allergic provocation.
+T4	HMM 782 792	resistance
+T5	HMM 876 895	complete resistance
+T6	HMM 1264 1289	measurement of aR and IOS
+T7	HMM 1338 1349	correlation
+T8	HMM 1495 1503	reaction
+T9	HMM 1533 1541	reaction
+T10	HMM 1560 1593	unspecific nasal hyperreactivity.
+T11	HMM 1658 1666	reaction
+T12	HMM 1728 1736	reaction
+T13	HMM 1840 1852	symptomscore
+T14	HMM 2200 2224	false positive reaction.

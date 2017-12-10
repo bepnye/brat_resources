@@ -1,0 +1,12 @@
+T1	HMM 331 352	disease-free survival
+T2	HMM 975 1030	DFS; recurrence-free survival and overall survival (OS)
+T3	HMM 1123 1179	relative risks of disease progression [hazard ratio (HR)
+T4	HMM 1192 1211	confidence interval
+T5	HMM 1246 1251	death
+T6	HMM 1400 1410	DFS events
+T7	HMM 1418 1424	deaths
+T8	HMM 1440 1464	Absolute risk reductions
+T9	HMM 1522 1536	DFS difference
+T10	HMM 1614 1634	higher risk of death
+T11	HMM 1741 1750	tolerated
+T12	HMM 1757 1813	no reports of renal failure or osteonecrosis of the jaw.

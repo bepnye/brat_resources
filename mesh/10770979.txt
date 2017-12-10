@@ -1,0 +1,13 @@
+Adenoma
+Adenomatous Polyps
+Adult
+Colorectal Neoplasms
+Diet, Fat-Restricted
+Dietary Fiber
+Female
+Humans
+Logistic Models
+Male
+Middle Aged
+Neoplasm Recurrence, Local
+Treatment Failure

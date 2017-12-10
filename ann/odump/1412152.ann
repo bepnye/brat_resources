@@ -1,0 +1,10 @@
+T1	HMM 51 73	postoperative bleeding
+T2	HMM 233 256	perioperative bleeding.
+T3	HMM 575 585	blood loss
+T4	HMM 947 961	bleeding time.
+T5	HMM 976 1004	vWF and factor VIII:C levels
+T6	HMM 1025 1038	bleeding time
+T7	HMM 1111 1139	vWF and factor VIII:C levels
+T8	HMM 1241 1346	Thrombin-antithrombin III complex, fibrinogen degradation product and tissue plasminogen activator levels
+T9	HMM 1359 1413	activation of the coagulation and fibrinolytic systems
+T10	HMM 1521 1561	blood loss or blood product requirements

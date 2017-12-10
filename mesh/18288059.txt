@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Agents
+Antineoplastic Combined Chemotherapy Protocols
+Carcinoma, Non-Small-Cell Lung
+Cisplatin
+Humans
+Lung Neoplasms
+Middle Aged
+Neoplasm Recurrence, Local
+Taxoids

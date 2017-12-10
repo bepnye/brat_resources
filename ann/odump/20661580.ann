@@ -1,0 +1,7 @@
+T1	HMM 127 173	pregnancy rate and symptom and sign recurrence
+T2	HMM 349 400	pregnancy rate and recurrence of symptoms and signs
+T3	HMM 968 982	Pregnancy rate
+T4	HMM 1057 1093	did not show significant differences
+T5	HMM 1114 1146	Recurrence rate of endometriosis
+T6	HMM 1210 1251	not statistically significantly different
+T7	HMM 1272 1320	Pregnancy rate and endometriosis recurrence rate

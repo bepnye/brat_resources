@@ -1,0 +1,5 @@
+T1	HMM 483 491	duration
+T2	HMM 615 630	task difficulty
+T3	HMM 706 762	presence or absence of feedback on performance accuracy.
+T4	HMM 822 867	proportion of identifications of the standard
+T5	HMM 1121 1183	individual presentations of the standard were stored and used.

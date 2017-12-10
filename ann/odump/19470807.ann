@@ -1,0 +1,11 @@
+T1	HMM 73 89	upright mobility
+T2	HMM 196 212	upright mobility
+T3	HMM 252 276	parameters for weighting
+T4	HMM 701 717	upright mobility
+T5	HMM 728 842	timed up and go (TUG), sharpened Romberg, 360-degree turns, 25-foot walk, and computerized platform posturography.
+T6	HMM 1050 1063	balance loss.
+T7	HMM 1280 1292	25-foot walk
+T8	HMM 1338 1341	TUG
+T9	HMM 1440 1442	kg
+T10	HMM 1572 1585	gait velocity
+T11	HMM 1635 1654	functional activity

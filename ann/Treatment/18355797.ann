@@ -1,0 +1,17 @@
+T1	Treatment 79 110	vacuum-assisted closure therapy
+T2	Treatment 258 296	negative-pressure wound therapy (NPWT)
+T3	Treatment 304 347	the Vacuum-Assisted Closure (V.A.C.) system
+T4	Treatment 361 396	standard moist wound therapy (MWT).
+T5	Treatment 570 576	V.A.C.
+T6	Treatment 595 624	therapy with dressing changes
+T7	Treatment 685 689	MWT.
+T8	Treatment 996 999	MWT
+T9	Treatment 1017 1021	NPWT
+T10	Treatment 1123 1126	MWT
+T11	Treatment 1149 1153	NPWT
+T12	Treatment 1171 1174	MWT
+T13	Treatment 1276 1280	NPWT
+T14	Treatment 1543 1547	NPWT
+T15	Treatment 1587 1590	MWT
+T16	Treatment 1683 1687	NPWT
+T17	Treatment 1837 1841	MWT.

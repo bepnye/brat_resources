@@ -1,0 +1,5 @@
+T1	HMM 819 821	AF
+T2	HMM 896 932	ventricular tachycardia/fibrillation
+T3	HMM 1101 1153	sinus rhythm without cardioversion or defibrillation
+T4	HMM 1201 1233	Defibrillation or cardio version
+T5	HMM 1395 1417	post bypass arrhythmia

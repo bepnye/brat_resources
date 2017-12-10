@@ -1,0 +1,13 @@
+T1	Intervention 12 33	nebulized flunisolide
+T2	Intervention 48 58	salbutamol
+T3	Intervention 63 82	ipratropium bromide
+T4	Intervention 381 402	nebulized flunisolide
+T5	Intervention 410 442	+ salbutamol/ipratropium bromide
+T6	Intervention 488 528	placebo + salbutamol/ipratropium bromide
+T7	Intervention 990 1001	flunisolide
+T8	Intervention 1024 1031	placebo
+T9	Intervention 1264 1275	flunisolide
+T10	Intervention 1296 1303	placebo
+T11	Intervention 1649 1660	flunisolide
+T12	Intervention 1665 1673	placebo,
+T13	Intervention 1926 1937	flunisolide

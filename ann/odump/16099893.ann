@@ -1,0 +1,8 @@
+T1	HMM 928 947	IL-6R mRNA response
+T2	HMM 1024 1041	IL-6R mRNA levels
+T3	HMM 1128 1147	IL-6R mRNA response
+T4	HMM 1234 1253	mRNA level of IL-6R
+T5	HMM 1325 1353	IL-6R gene expression levels
+T6	HMM 1484 1499	training status
+T7	HMM 1504 1533	intramuscular glycogen levels
+T8	HMM 1591 1612	IL-6R mRNA production

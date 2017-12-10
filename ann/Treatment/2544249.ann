@@ -1,0 +1,7 @@
+T1	Treatment 181 193	chemotherapy
+T2	Treatment 581 614	dactinomycin (Actinomycin D [AMD]
+T3	Treatment 657 674	vincristine (VCR)
+T4	Treatment 794 823	AMD + VCR +/- Adriamycin (ADR
+T5	Treatment 1104 1140	postoperative radiation therapy (RT)
+T6	Treatment 1145 1188	AMD + VCR + ADR +/- cyclophosphamide (CPM).
+T7	Treatment 1329 1332	CPM

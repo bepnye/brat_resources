@@ -1,0 +1,19 @@
+Adult
+Blood Glucose
+Blood Glucose Self-Monitoring
+Body Weight
+Diabetes Mellitus, Type 1
+Drug Administration Schedule
+Female
+Health Status
+Hemoglobin A, Glycosylated
+Humans
+Hypoglycemia
+Injections, Subcutaneous
+Insulin
+Insulin Infusion Systems
+Male
+Netherlands
+Random Allocation
+Time Factors
+Treatment Outcome

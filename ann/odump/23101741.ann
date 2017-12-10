@@ -1,0 +1,11 @@
+T1	HMM 60 74	brain activity
+T2	HMM 430 443	EEG activity.
+T3	HMM 655 713	EEG activity (event-related potentials and spectral power)
+T4	HMM 882 946	autism symptoms, IQ, language, and adaptive and social behaviors
+T5	HMM 1031 1127	shorter Nc latency and increased cortical activation (decreased α power and increased θ power)
+T6	HMM 1217 1295	(shorter latency event-related potential [ERP] and greater cortical activation
+T7	HMM 1309 1318	objects).
+T8	HMM 1319 1346	Greater cortical activation
+T9	HMM 1382 1411	with improved social behavior
+T10	HMM 1514 1556	with normalized patterns of brain activity
+T11	HMM 1578 1614	with improvements in social behavior

@@ -1,0 +1,10 @@
+T1	HMM 42 174	premenstrual symptomatology, mood, smoking withdrawal, and smoking behavior during ad libitum smoking, on smoking cessation outcome.
+T2	HMM 241 257	quitting smoking
+T3	HMM 339 425	mood, premenstrual symptomatology, and smoking withdrawal, as well as smoking behavior
+T4	HMM 614 666	likelihood of study adherence and smoking cessation.
+T5	HMM 681 708	premenstrual symptomatology
+T6	HMM 726 765	measures of mood and smoking withdrawal
+T7	HMM 847 861	Cigarettes/day
+T8	HMM 901 926	Phase-related variability
+T9	HMM 989 1002	urge to smoke
+T10	HMM 1121 1147	smoking cessation outcome.

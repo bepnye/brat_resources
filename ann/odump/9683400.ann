@@ -1,0 +1,12 @@
+T1	HMM 4 10	effect
+T2	HMM 55 109	susceptibility of low density lipoprotein to oxidation
+T3	HMM 321 356	susceptibility of LDL to oxidation.
+T4	HMM 688 722	susceptibility of LDL to oxidation
+T5	HMM 793 841	time for the reaction to reach maximum velocity.
+T6	HMM 867 888	lag time to oxidation
+T7	HMM 941 949	lag time
+T8	HMM 1181 1204	mean change in lag time
+T9	HMM 1356 1393	alpha-tocopherol concentration in LDL
+T10	HMM 1489 1507	LDL particle score
+T11	HMM 1699 1733	susceptibility of LDL to oxidation
+T12	HMM 1822 1843	lag time to oxidation

@@ -1,0 +1,6 @@
+T1	HMM 148 178	surgical wound infection (SWI)
+T2	HMM 446 449	SWI
+T3	HMM 632 660	incidence of wound infection
+T4	HMM 891 927	incidence of enterococcal infections
+T5	HMM 1119 1127	SWI rate
+T6	HMM 1185 1223	enterococcal and Bacteroides coverage.

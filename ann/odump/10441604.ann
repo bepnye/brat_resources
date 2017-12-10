@@ -1,0 +1,12 @@
+T1	HMM 244 252	efficacy
+T2	HMM 756 771	Seizure control
+T3	HMM 830 838	Seizures
+T4	HMM 1044 1059	seizure control
+T5	HMM 1227 1251	severity of the seizures
+T6	HMM 1348 1361	mild seizures
+T7	HMM 1370 1378	seizures
+T8	HMM 1403 1411	severity
+T9	HMM 1460 1472	seizures end
+T10	HMM 1596 1611	anticonvulsants
+T11	HMM 1659 1667	seizures
+T12	HMM 1673 1683	controlled

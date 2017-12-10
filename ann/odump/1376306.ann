@@ -1,0 +1,5 @@
+T1	HMM 1076 1133	survival, cause-specific survival, and pattern of relapse
+T2	HMM 1159 1174	median survival
+T3	HMM 1318 1349	Chemotherapy-related toxicities
+T4	HMM 1477 1483	deaths
+T5	HMM 1540 1549	morbidity

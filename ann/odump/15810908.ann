@@ -1,0 +1,8 @@
+T1	HMM 910 923	blood samples
+T2	HMM 1022 1043	Plasma FVIII activity
+T3	HMM 1106 1127	Plasma FVIII activity
+T4	HMM 1132 1143	time curves
+T5	HMM 1237 1316	maximum plasma concentration (Cmax) and the area under plasma concentration vs.
+T6	HMM 1317 1335	time curves (AUCs)
+T7	HMM 1466 1508	ratio of geometric means for Cmax and AUCs
+T8	HMM 1630 1643	bioequivalent

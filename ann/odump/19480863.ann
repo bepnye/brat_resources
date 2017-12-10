@@ -1,0 +1,8 @@
+T1	HMM 63 106	function, walking speed, and position sense
+T2	HMM 252 271	functional capacity
+T3	HMM 693 835	Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) function scale, walking speed, muscle torque, and knee reposition error
+T4	HMM 1000 1016	reposition error
+T5	HMM 1275 1313	WOMAC function scale and knee strength
+T6	HMM 1402 1431	function and muscle strength.
+T7	HMM 1483 1497	position sense
+T8	HMM 1517 1538	complex walking tasks

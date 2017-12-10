@@ -1,0 +1,17 @@
+T1	Treatment 14 41	cefuroxime axetil, cefaclor
+T2	Treatment 47 80	amoxicillin-clavulanate potassium
+T3	Treatment 327 350	cefuroxime axetil (CAE)
+T4	Treatment 366 380	cefaclor (CEC)
+T5	Treatment 399 441	amoxicillin-clavulanate potassium (AMX-CL)
+T6	Treatment 744 747	CAE
+T7	Treatment 795 801	AMX-CL
+T8	Treatment 962 965	CAE
+T9	Treatment 970 973	CEC
+T10	Treatment 1018 1024	AMX-CL
+T11	Treatment 1029 1033	CEC.
+T12	Treatment 1070 1073	CEC
+T13	Treatment 1109 1113	CAE.
+T14	Treatment 1149 1155	AMX-CL
+T15	Treatment 1174 1177	CAE
+T16	Treatment 1181 1184	CEC
+T17	Treatment 1355 1362	AMX-CL.

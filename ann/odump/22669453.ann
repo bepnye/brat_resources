@@ -1,0 +1,5 @@
+T1	HMM 0 13	Tumor budding
+T2	HMM 784 830	Progression-free and cancer-specific survivals
+T3	HMM 1147 1187	tumor grade and lymphovascular invasion.
+T4	HMM 1416 1435	disease progression
+T5	HMM 1505 1529	and cancer-related death

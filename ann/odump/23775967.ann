@@ -1,0 +1,4 @@
+T1	HMM 1091 1124	cumulative HBV reactivation rates
+T2	HMM 1339 1367	HBsAg reverse seroconversion
+T3	HMM 1396 1441	cumulative HBsAg reverse seroconversion rates
+T4	HMM 1697 1747	HBV reactivation and HBsAg reverse seroconversion.

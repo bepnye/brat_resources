@@ -1,0 +1,13 @@
+T1	HMM 1572 1596	ejection fraction values
+T2	HMM 1649 1674	Contrast ventriculography
+T3	HMM 1812 1826	6-month values
+T4	HMM 1931 1951	Coronary angiography
+T5	HMM 2014 2030	Arterial patency
+T6	HMM 2056 2075	coronary restenosis
+T7	HMM 2126 2155	chronic patency or restenosis
+T8	HMM 2318 2333	Hospitalization
+T9	HMM 2403 2409	costly
+T10	HMM 2467 2483	Transfusion rate
+T11	HMM 2748 2768	ventricular function
+T12	HMM 2778 2800	arterial patency rates
+T13	HMM 2811 2827	restenosis rates

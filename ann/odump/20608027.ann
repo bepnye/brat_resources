@@ -1,0 +1,7 @@
+T1	HMM 472 490	clinical condition
+T2	HMM 520 536	oxidative stress
+T3	HMM 581 621	NO metabolites, NADPH--diaphorase (eNOS)
+T4	HMM 635 684	nitrite reductase (iNOS) and peroxinitrite (ONOO)
+T5	HMM 720 762	brain natriuretic peptide in blood plazma.
+T6	HMM 816 832	oxidative stress
+T7	HMM 841 860	level of NT-pro BNP

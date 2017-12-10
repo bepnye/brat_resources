@@ -1,0 +1,10 @@
+T1	HMM 36 49	local control
+T2	HMM 590 603	local failure
+T3	HMM 662 675	local control
+T4	HMM 768 781	local control
+T5	HMM 845 858	local failure
+T6	HMM 1054 1067	local failure
+T7	HMM 1206 1219	local failure
+T8	HMM 1335 1349	local failure.
+T9	HMM 1354 1377	relative risk reduction
+T10	HMM 1500 1513	local failure

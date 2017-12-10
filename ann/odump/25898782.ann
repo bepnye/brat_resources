@@ -1,0 +1,11 @@
+T1	HMM 318 353	safety, ease of treatment, recovery
+T2	HMM 359 380	patients' experiences
+T3	HMM 1047 1068	ease of the procedure
+T4	HMM 1085 1112	number of sedation failures
+T5	HMM 1209 1262	deeply sedated patients (OAA/S level 2), desaturation
+T6	HMM 1268 1286	obstructed airways
+T7	HMM 1322 1364	Time to full recovery (Aldrete score ≥9)
+T8	HMM 1413 1435	least fatigue and pain
+T9	HMM 1446 1456	procedure.
+T10	HMM 1457 1477	Patients' preference
+T11	HMM 1603 1643	rapid recovery, fewer respiratory events

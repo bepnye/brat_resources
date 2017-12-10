@@ -1,0 +1,5 @@
+T1	HMM 153 216	risk of major (above- or below-knee) lower extremity amputation
+T2	HMM 229 269	rate of limb-preserving vascular surgery
+T3	HMM 1014 1053	rates of primary and repeat amputation.
+T4	HMM 1530 1559	primary and repeat amputation
+T5	HMM 1872 1888	amputation rates

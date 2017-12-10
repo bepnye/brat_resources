@@ -1,0 +1,6 @@
+T1	Intervention 25 43	Papanicolaou tests
+T2	Intervention 560 599	HPV test plus a Papanicolaou (Pap) test
+T3	Intervention 626 640	Pap test alone
+T4	Intervention 947 950	Pap
+T5	Intervention 1349 1361	intervention
+T6	Intervention 1554 1561	control

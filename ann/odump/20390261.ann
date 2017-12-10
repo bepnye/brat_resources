@@ -1,0 +1,9 @@
+T1	HMM 788 796	Systolic
+T2	HMM 801 827	diastolic sphericity index
+T3	HMM 1075 1092	worsened outcome.
+T4	HMM 1164 1175	systolic SI
+T5	HMM 1190 1202	diastolic SI
+T6	HMM 1221 1230	TEI index
+T7	HMM 1274 1288	changes in BNP
+T8	HMM 1293 1309	changes in dP/dt
+T9	HMM 1432 1483	systemic ventricular dysfunction and heart failure.

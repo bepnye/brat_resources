@@ -1,0 +1,6 @@
+T1	HMM 38 71	hypoinsulinemia and hyperglycemia
+T2	HMM 196 224	glucose and lipid metabolism
+T3	HMM 356 424	plasma glucose level and a decrease in plasma insulin concentration.
+T4	HMM 473 629	body weight and plasmatic total cholesterol, high-density lipoprotein (HDL)-cholesterol, low-density lipoprotein (LDL)-cholesterol, and triglyceride levels.
+T5	HMM 724 748	glycemia and insulinemia
+T6	HMM 807 824	lipid metabolism.

@@ -1,0 +1,18 @@
+T1	Treatment 16 53	continuous femoral nerve block (CFNB)
+T2	Treatment 58 92	continuous epidural infusion (CEI)
+T3	Treatment 207 230	epidural analgesia (EA)
+T4	Treatment 235 260	femoral nerve block (FNB)
+T5	Treatment 455 458	FNB
+T6	Treatment 467 470	EA.
+T7	Treatment 579 613	continuous epidural infusion (CEI)
+T8	Treatment 619 656	continuous femoral nerve block (CFNB)
+T9	Treatment 1082 1087	(CEI)
+T10	Treatment 1107 1166	continuous infusion of 0.125% levobupivacaine with morphine
+T11	Treatment 1200 1206	(CFNB)
+T12	Treatment 1226 1248	0.125% levobupivacaine
+T13	Treatment 1284 1288	CFNB
+T14	Treatment 1388 1391	CEI
+T15	Treatment 1470 1473	CEI
+T16	Treatment 1536 1540	CFNB
+T17	Treatment 1604 1608	CFNB
+T18	Treatment 1710 1714	CFNB

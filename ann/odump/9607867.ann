@@ -1,0 +1,6 @@
+T1	HMM 0 23	Humoral immune response
+T2	HMM 136 154	Immune suppression
+T3	HMM 544 615	Anti-tetanus and anti-diphtheria antibody levels were measured by ELISA
+T4	HMM 768 811	anti-tetanus and anti-diphtheria IgG levels
+T5	HMM 897 938	Geometric mean anti-tetanus titers (GMTs)
+T6	HMM 1045 1062	Anti-tetanus GMTs

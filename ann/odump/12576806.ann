@@ -1,0 +1,9 @@
+T1	HMM 391 419	optimum duration of stenting
+T2	HMM 979 987	symptoms
+T3	HMM 992 1031	ipsilateral glomerular filtration rate.
+T4	HMM 1226 1243	drainage pattern.
+T5	HMM 1281 1303	Stent related symptoms
+T6	HMM 1414 1451	incidence of urinary tract infections
+T7	HMM 1522 1542	2 weeks of stenting.
+T8	HMM 1590 1598	duration
+T9	HMM 1698 1726	stent related complications.

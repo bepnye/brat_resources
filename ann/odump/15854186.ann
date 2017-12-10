@@ -1,0 +1,7 @@
+T1	HMM 404 469	pain, unpleasantness of taste and overall discomfort experienced.
+T2	HMM 521 540	pain and discomfort
+T3	HMM 596 622	pain or overall discomfort
+T4	HMM 672 694	sensation of bad taste
+T5	HMM 796 818	overall unpleasantness
+T6	HMM 852 868	pain experienced
+T7	HMM 885 909	unpleasantness of taste.

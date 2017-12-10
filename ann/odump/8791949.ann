@@ -1,0 +1,8 @@
+T1	HMM 974 998	cure of their infection.
+T2	HMM 999 1016	Eradication of H.
+T3	HMM 1017 1023	pylori
+T4	HMM 1172 1174	H.
+T5	HMM 1175 1197	pylori infection cured
+T6	HMM 1345 1366	reported side-effects
+T7	HMM 1429 1442	side-effects.
+T8	HMM 1556 1562	cured.

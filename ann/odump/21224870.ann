@@ -1,0 +1,7 @@
+T1	HMM 41 50	vitamin D
+T2	HMM 676 722	median 25-hydroxyvitamin D serum concentration
+T3	HMM 856 907	TT-specific immunoglobulin G (IgG) boost efficiency
+T4	HMM 983 1009	25-hydroxyvitamin D levels
+T5	HMM 1042 1070	TT-IgG serum concentrations.
+T6	HMM 1097 1106	serum IgA
+T7	HMM 1198 1261	TT-specific and polyclonally triggered T-cell cytokine profiles

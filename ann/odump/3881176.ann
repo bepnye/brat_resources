@@ -1,0 +1,10 @@
+T1	HMM 469 478	tolerated
+T2	HMM 495 522	levels of myelosuppression.
+T3	HMM 527 558	objective partial response rate
+T4	HMM 589 612	Objective stabilization
+T5	HMM 721 769	subjective response rate (partial plus complete)
+T6	HMM 893 907	response rates
+T7	HMM 920 929	survival.
+T8	HMM 939 1125	there was no significant difference in survival between the two arms, reflecting the similarity between DC and CF in total objective response rate (partial response plus stable disease).
+T9	HMM 1147 1157	palliation
+T10	HMM 1171 1180	tolerated

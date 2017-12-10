@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Autistic Disorder
+Behavior
+Cerebral Cortex
+Child
+Electroencephalography
+Evoked Potentials
+Female
+Humans
+Hyperkinesis
+Interneurons
+Male
+Mental Processes
+Photic Stimulation
+Psychiatric Status Rating Scales
+Reaction Time
+Social Behavior
+Transcranial Magnetic Stimulation
+Young Adult

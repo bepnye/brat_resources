@@ -1,0 +1,10 @@
+T1	HMM 387 395	survival
+T2	HMM 778 797	all-cause mortality
+T3	HMM 827 942	aneurysm-related mortality, health-related quality of life (HRQL), postoperative complications, and hospital costs.
+T4	HMM 1103 1147	30-day operative mortality in the EVAR group
+T5	HMM 1313 1317	died
+T6	HMM 1351 1368	overall mortality
+T7	HMM 1485 1504	all-cause mortality
+T8	HMM 1579 1606	aneurysm-related mortality.
+T9	HMM 1611 1655	mean hospital costs per patient over 4 years
+T10	HMM 1879 1905	30-day operative mortality

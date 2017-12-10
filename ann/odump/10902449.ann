@@ -1,0 +1,10 @@
+T1	HMM 142 150	duration
+T2	HMM 260 289	assess possible complications
+T3	HMM 630 769	anesthetic technique, levels of extension of motor and sensory blockades, duration of blockades and complications within the first 24 hours
+T4	HMM 944 972	duration of sensory blockade
+T5	HMM 1061 1075	motor blockade
+T6	HMM 1172 1183	hypotension
+T7	HMM 1193 1204	bradycardia
+T8	HMM 1355 1374	surgical conditions
+T9	HMM 1410 1424	complications.
+T10	HMM 1441 1467	sensory and motor blockade

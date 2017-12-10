@@ -1,0 +1,9 @@
+T1	HMM 441 450	mortality
+T2	HMM 1079 1092	co-morbidity.
+T3	HMM 1133 1163	symptoms and poorer well-being
+T4	HMM 1180 1228	ventricular dimensions and systolic dysfunction.
+T5	HMM 1229 1238	NT-proBNP
+T6	HMM 1272 1287	severe symptoms
+T7	HMM 1402 1417	renal function.
+T8	HMM 1547 1569	heart failure symptoms
+T9	HMM 1574 1595	patient 'well-being'.

@@ -1,0 +1,12 @@
+T1	HMM 372 394	overall survival (OS).
+T2	HMM 673 719	OS, disease-free survival (DFS), and toxicity.
+T3	HMM 993 995	OS
+T4	HMM 1056 1059	DFS
+T5	HMM 1157 1160	DFS
+T6	HMM 1206 1216	OS benefit
+T7	HMM 1378 1381	DFS
+T8	HMM 1428 1430	OS
+T9	HMM 1553 1567	Adverse events
+T10	HMM 1612 1634	Serious adverse events
+T11	HMM 1667 1702	except infection, fatigue, and pain
+T12	HMM 1728 1749	had fatal pneumonitis

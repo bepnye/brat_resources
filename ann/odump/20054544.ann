@@ -1,0 +1,7 @@
+T1	HMM 34 66	pain and rescue analgesic demand
+T2	HMM 986 1011	Postoperative pain scores
+T3	HMM 1187 1204	rescue analgesics
+T4	HMM 1273 1287	analgesic time
+T5	HMM 1319 1339	Postoperative nausea
+T6	HMM 1362 1370	vomiting
+T7	HMM 1503 1536	sedation, confusion, and pruritus

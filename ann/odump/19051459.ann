@@ -1,0 +1,7 @@
+T1	HMM 263 281	survival advantage
+T2	HMM 972 1002	rates of disease-free survival
+T3	HMM 1216 1258	One-year and 4-year overall survival rates
+T4	HMM 1414 1428	survival rates
+T5	HMM 1541 1568	disease-free survival rates
+T6	HMM 1641 1663	overall survival rates
+T7	HMM 1757 1781	at least as effective as

@@ -1,0 +1,9 @@
+T1	HMM 38 74	somatic pain and temporal summation.
+T2	HMM 738 786	pain intensity scores (visual analog scale, VAS)
+T3	HMM 919 984	pain intensity (VAS) and pain areas after intramuscular injection
+T4	HMM 1007 1011	Pain
+T5	HMM 1201 1234	temporal summation pain threshold
+T6	HMM 1306 1373	area under the pain intensity curve to hypertonic saline injections
+T7	HMM 1433 1473	area of pain evoked by hypertonic saline
+T8	HMM 1516 1581	temporal summation of skin stimuli at pain threshold intensities;
+T9	HMM 1692 1709	tonic muscle pain

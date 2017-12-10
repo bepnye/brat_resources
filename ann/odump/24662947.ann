@@ -1,0 +1,6 @@
+T1	HMM 235 254	efficacy and safety
+T2	HMM 854 877	objective response rate
+T3	HMM 963 988	progression-free survival
+T4	HMM 1281 1309	overall disease control rate
+T5	HMM 1417 1441	fever, no adverse events
+T6	HMM 1523 1562	safe and effective therapeutic approach

@@ -1,0 +1,12 @@
+T1	HMM 624 686	direct costs of health care utilization and cost-effectiveness
+T2	HMM 817 836	variceal rebleeding
+T3	HMM 856 877	variceal obliteration
+T4	HMM 897 950	hospital days, blood transfusions, shunt requirements
+T5	HMM 956 964	survival
+T6	HMM 1014 1032	treatment failures
+T7	HMM 1037 1052	active bleeding
+T8	HMM 1088 1118	esophageal stricture formation
+T9	HMM 1174 1207	Median total direct cost outcomes
+T10	HMM 1298 1322	cost/variceal rebleeding
+T11	HMM 1359 1372	cost/survival
+T12	HMM 1461 1474	cost/survival

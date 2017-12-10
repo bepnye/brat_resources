@@ -1,0 +1,11 @@
+T1	HMM 277 285	survival
+T2	HMM 678 694	overall survival
+T3	HMM 731 750	disease progression
+T4	HMM 755 771	quality of life.
+T5	HMM 1044 1060	survival benefit
+T6	HMM 1158 1173	median survival
+T7	HMM 1278 1306	significant survival benefit
+T8	HMM 1569 1584	2-year survival
+T9	HMM 1613 1638	Progression-free survival
+T10	HMM 1825 1863	musculoskeletal pain and inflammation.
+T11	HMM 1864 1923	Events of anaemia, abdominal pain, jaundice and weight loss

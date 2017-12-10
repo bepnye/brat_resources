@@ -1,0 +1,14 @@
+T1	HMM 0 19	Safety and efficacy
+T2	HMM 617 634	excretion of lead
+T3	HMM 660 688	excretion of tin and bismuth
+T4	HMM 717 772	excretion of thallium, mercury, antimony, and tungsten.
+T5	HMM 800 839	urinary excretion of essential minerals
+T6	HMM 927 959	normalization of RBC glutathione
+T7	HMM 1002 1026	abnormal platelet counts
+T8	HMM 1065 1078	inflammation.
+T9	HMM 1135 1150	safe, effective
+T10	HMM 1171 1183	toxic metals
+T11	HMM 1229 1256	normalizing RBC glutathione
+T12	HMM 1275 1303	normalizing platelet counts.
+T13	HMM 1352 1378	glutathione and platelets.
+T14	HMM 1407 1433	excretion of toxic metals.

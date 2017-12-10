@@ -1,0 +1,9 @@
+T1	HMM 38 58	method of evaluation
+T2	HMM 92 111	platelet deposition
+T3	HMM 150 214	evaluation of platelet-inhibitory drugs and prosthetic materials
+T4	HMM 267 288	platelet accumulation
+T5	HMM 570 588	ratio of emissions
+T6	HMM 645 666	thrombogenicity index
+T7	HMM 967 982	thrombogenicity
+T8	HMM 1095 1104	emissions
+T9	HMM 1260 1297	rate of in vivo platelet accumulation

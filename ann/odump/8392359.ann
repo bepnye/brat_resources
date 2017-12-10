@@ -1,0 +1,9 @@
+T1	HMM 34 50	stress responses
+T2	HMM 255 275	Venous blood samples
+T3	HMM 337 409	concentrations of adrenaline, noradrenaline, glucose, ACTH and cortisol.
+T4	HMM 540 576	Plasma concentrations of bupivacaine
+T5	HMM 698 753	perioperative increases in adrenaline, glucose and ACTH
+T6	HMM 802 830	Noradrenaline concentrations
+T7	HMM 952 986	perioperative increase in cortisol
+T8	HMM 1121 1154	Plasma bupivacaine concentrations
+T9	HMM 1205 1228	systemic concentrations

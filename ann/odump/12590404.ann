@@ -1,0 +1,16 @@
+T1	HMM 61 79	severe depression:
+T2	HMM 256 264	efficacy
+T3	HMM 427 487	17-item Hamilton depression rating scale [HAMD] total score)
+T4	HMM 503 511	efficacy
+T5	HMM 516 522	safety
+T6	HMM 749 762	improvements;
+T7	HMM 835 859	17-item HAMD total score
+T8	HMM 865 911	clinical global impression severity of illness
+T9	HMM 915 988	global improvement items or the Montgomery-Asberg depression rating scale
+T10	HMM 1130 1155	17-item HAMD total score)
+T11	HMM 1189 1198	tolerated
+T12	HMM 1303 1318	adverse events.
+T13	HMM 1359 1383	discontinued prematurely
+T14	HMM 1391 1405	adverse events
+T15	HMM 1601 1607	safety
+T16	HMM 1612 1624	tolerability

@@ -1,0 +1,13 @@
+T1	HMM 41 63	abomasal emptying rate
+T2	HMM 174 191	gastric emptying.
+T3	HMM 292 310	abomasal emptying.
+T4	HMM 571 588	Abomasal emptying
+T5	HMM 610 647	acetaminophen and glucose absorption.
+T6	HMM 877 911	plasma acetaminophen concentration
+T7	HMM 932 969	time of actual C(max) (actual T(max))
+T8	HMM 1100 1122	abomasal emptying rate
+T9	HMM 1200 1222	Abomasal emptying rate
+T10	HMM 1354 1375	time to actual T(max)
+T11	HMM 1405 1417	model T(max)
+T12	HMM 1502 1524	abomasal emptying rate
+T13	HMM 1602 1627	rate of abomasal emptying

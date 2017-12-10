@@ -1,0 +1,9 @@
+T1	HMM 34 127	estimation of flunarizine area under the curve (AUC) and maximum plasma concentration (Cmax).
+T2	HMM 297 377	estimate the area under the curve (AUC) and maximum plasma concentration (Cmax).
+T3	HMM 826 858	estimates for both AUC and Cmax.
+T4	HMM 863 896	mean predicted AUC of flunarizine
+T5	HMM 937 949	observed AUC
+T6	HMM 982 1004	bias of the prediction
+T7	HMM 1044 1073	predicted Cmax of flunarizine
+T8	HMM 1114 1132	observed mean Cmax
+T9	HMM 1159 1195	bias and precision of the prediction

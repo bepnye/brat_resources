@@ -1,0 +1,18 @@
+T1	HMM 0 19	Economic evaluation
+T2	HMM 97 101	cost
+T3	HMM 106 114	outcomes
+T4	HMM 251 293	Cost per quality-adjusted life year (QALY)
+T5	HMM 407 416	cost/QALY
+T6	HMM 619 698	Quality of Well-Being Scale (QWB) and Current Health Desirability Rating (CHDR)
+T7	HMM 754 913	arthritis-specific Health Assessment Questionnaire (HAQ), Center for Epidemiologic Studies-Depression Scale (CES-D), and Perceived Quality of Life Scale (PQOL)
+T8	HMM 1023 1029	QALYs.
+T9	HMM 1030 1059	Use of health care facilities
+T10	HMM 1105 1133	Medicare reimbursement rates
+T11	HMM 1194 1211	costs/QALY ratios
+T12	HMM 1299 1363	(QWB) or better (CHDR, HAQ, PQOL) health-related quality of life
+T13	HMM 1419 1436	class attendance.
+T14	HMM 1437 1447	Costs/QALY
+T15	HMM 1496 1499	QWB
+T16	HMM 1522 1527	CHRD.
+T17	HMM 1577 1581	QALY
+T18	HMM 1790 1808	cost effectiveness

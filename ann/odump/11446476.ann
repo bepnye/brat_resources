@@ -1,0 +1,4 @@
+T1	HMM 940 1000	development of deep venous thrombosis (DVT) and haemorrhage.
+T2	HMM 1022 1092	clinical significant DVT, wound haematoma or intra-abdominal bleeding.
+T3	HMM 1132 1154	bleeding complications
+T4	HMM 1185 1198	antiFXa level

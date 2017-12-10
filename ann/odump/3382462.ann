@@ -1,0 +1,15 @@
+T1	HMM 26 59	electroencephalographic vigilance
+T2	HMM 573 589	number of epochs
+T3	HMM 744 811	anterior-posterior and left-right relations of absolute alpha-power
+T4	HMM 948 960	baseline-EEG
+T5	HMM 1193 1198	forms
+T6	HMM 1303 1315	non-A epochs
+T7	HMM 1322 1337	alpha-activity)
+T8	HMM 1359 1372	non-A epochs;
+T9	HMM 1393 1441	prevalence of A-epochs (abundant alpha-activity)
+T10	HMM 1522 1557	left-right relations of alpha-power
+T11	HMM 1631 1645	alpha-activity
+T12	HMM 1655 1673	shift to the left;
+T13	HMM 1701 1729	alpha-activity to the right.
+T14	HMM 1777 1795	shift to the left.
+T15	HMM 1852 1885	electroencephalographic vigilance

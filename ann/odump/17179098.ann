@@ -1,0 +1,7 @@
+T1	HMM 177 202	efficacy and tolerability
+T2	HMM 881 939	overall response rate (ORR; partial or complete response).
+T3	HMM 988 991	ORR
+T4	HMM 1143 1184	prolonged progression-free survival (PFS;
+T5	HMM 1318 1321	PFS
+T6	HMM 1488 1514	neutropenia and leukopenia
+T7	HMM 1654 1690	plasma concentration of doxorubicin.

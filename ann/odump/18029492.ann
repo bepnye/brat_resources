@@ -1,0 +1,11 @@
+T1	HMM 8 61	indicators of oxidative stress, immunity, and illness
+T2	HMM 352 406	indicators of oxidative stress, immunity, and illness.
+T3	HMM 650 666	7-d food records
+T4	HMM 837 845	illness.
+T5	HMM 924 969	carbonyl groups on protein (CP) and TNFalpha.
+T6	HMM 1000 1002	CP
+T7	HMM 1123 1138	CP and TNFalpha
+T8	HMM 1216 1224	TNFalpha
+T9	HMM 1413 1420	illness
+T10	HMM 1545 1552	illness
+T11	HMM 1570 1600	CP and TNFalpha concentrations

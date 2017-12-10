@@ -1,0 +1,13 @@
+Adult
+Carcinoma, Squamous Cell
+Combined Modality Therapy
+Drugs, Chinese Herbal
+Female
+Humans
+Male
+Middle Aged
+Nasopharyngeal Neoplasms
+Phytotherapy
+Radiation-Sensitizing Agents
+Selaginellaceae
+Treatment Outcome

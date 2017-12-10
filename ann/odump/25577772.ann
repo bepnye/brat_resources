@@ -1,0 +1,8 @@
+T1	HMM 409 419	echo score
+T2	HMM 736 760	LV mass, LA volume, E:e'
+T3	HMM 766 768	s'
+T4	HMM 783 807	objective summary score.
+T5	HMM 932 950	heart failure (HF)
+T6	HMM 976 989	any CV event.
+T7	HMM 1304 1321	development of HF
+T8	HMM 1430 1435	score

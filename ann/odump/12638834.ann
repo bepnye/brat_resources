@@ -1,0 +1,6 @@
+T1	HMM 712 913	number of attempts at successful identification of the spinal space, intraoperative complications, incidence of postdural puncture headache (PDPH), non-postdural puncture headache (NPDPH) and backache.
+T2	HMM 997 1036	successful location of the spinal space
+T3	HMM 1069 1100	Non-postdural puncture headache
+T4	HMM 1142 1146	PDPH
+T5	HMM 1263 1271	backache
+T6	HMM 1342 1346	PDPH

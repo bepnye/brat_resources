@@ -1,0 +1,12 @@
+T1	HMM 183 235	T lymphocytes, NK cell number and cytotoxic activity
+T2	HMM 339 394	absolute lymphocyte number and percentage of CD3 cells.
+T3	HMM 415 425	CD16 cells
+T4	HMM 459 485	NK cell cytotoxic activity
+T5	HMM 660 676	hematocrit level
+T6	HMM 725 731	anemia
+T7	HMM 823 858	CD3, CD4, CD8 and CD16 cell numbers
+T8	HMM 876 890	CD4/CD8 ratio.
+T9	HMM 891 921	Cytotoxic activity of NK cells
+T10	HMM 1044 1062	lymphocyte number.
+T11	HMM 1142 1170	CD8 and CD16 cell percentage
+T12	HMM 1203 1217	CD4/CD8 ratio.

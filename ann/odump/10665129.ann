@@ -1,0 +1,4 @@
+T1	HMM 0 25	Bronchodilatory responses
+T2	HMM 764 799	spirometric indices and vital signs
+T3	HMM 927 948	Mean peak FEV1 change
+T4	HMM 1244 1267	Safety and tolerability

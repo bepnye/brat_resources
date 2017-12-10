@@ -1,0 +1,13 @@
+T1	HMM 64 85	ST segment depression
+T2	HMM 365 386	ST segment depression
+T3	HMM 706 730	Treadmill exercise tests
+T4	HMM 735 774	72-hour electrocardiographic recordings
+T5	HMM 902 940	Episodes of asymptomatic ST depression
+T6	HMM 1072 1091	cumulative duration
+T7	HMM 1178 1197	circadian variation
+T8	HMM 1256 1291	ischemic type ST segment depression
+T9	HMM 1309 1330	changes in heart rate
+T10	HMM 1391 1415	exercise test end points
+T11	HMM 1440 1469	Time to ST segment depression
+T12	HMM 1629 1659	exercise-induced ST depression
+T13	HMM 1798 1825	ischemic type ST depression

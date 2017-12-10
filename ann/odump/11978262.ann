@@ -1,0 +1,8 @@
+T1	HMM 753 818	systolic blood pressure (SBP) and diastolic blood pressure (DBP).
+T2	HMM 847 983	blood lipid, fasting glucose, and insulin levels and side effects related to elevated blood pressure and increased dietary fiber intake.
+T3	HMM 1050 1053	SBP
+T4	HMM 1094 1097	DBP
+T5	HMM 1247 1269	total insulin response
+T6	HMM 1516 1533	total cholesterol
+T7	HMM 1543 1578	low-density lipoprotein cholesterol
+T8	HMM 1702 1714	SBP and DBP.

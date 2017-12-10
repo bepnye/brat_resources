@@ -1,0 +1,9 @@
+T1	Outcomes 516 539	overall median survival
+T2	Outcomes 627 649	complete response (CR)
+T3	Outcomes 658 679	partial response (PR)
+T4	Outcomes 694 713	stable disease (SD)
+T5	Outcomes 731 756	progressive disease (PD).
+T6	Outcomes 792 807	median survival
+T7	Outcomes 847 855	survival
+T8	Outcomes 1077 1092	median survival
+T9	Outcomes 1353 1361	survival

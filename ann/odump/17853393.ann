@@ -1,0 +1,10 @@
+T1	HMM 583 634	syndrome of bowel wall injury (BWI, small or large)
+T2	HMM 690 800	severe diarrhea or dehydration and radiographic or endoscopic evidence of bowel wall thickening or ulceration.
+T3	HMM 828 842	adverse events
+T4	HMM 933 952	Enteric sepsis (ES)
+T5	HMM 971 1056	grade 3 or greater diarrhea and grade 4 neutropenia with or without proven bacteremia
+T6	HMM 1172 1191	higher risk for BWI
+T7	HMM 1289 1312	higher incidence of BWI
+T8	HMM 1360 1392	Severe gastrointestinal toxicity
+T9	HMM 1574 1580	deaths
+T10	HMM 1810 1818	diarrhea

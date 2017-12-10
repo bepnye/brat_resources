@@ -1,0 +1,12 @@
+T1	HMM 24 42	sweating threshold
+T2	HMM 68 85	gain of sweating.
+T3	HMM 153 187	increase in the sweating threshold
+T4	HMM 201 229	reduce the gain of sweating.
+T5	HMM 553 569	Core temperature
+T6	HMM 612 633	mean skin temperature
+T7	HMM 668 687	chest sweating rate
+T8	HMM 764 772	sweating
+T9	HMM 915 931	core temperature
+T10	HMM 1009 1040	Plasma clonidine concentrations
+T11	HMM 1276 1292	gain of sweating
+T12	HMM 1380 1404	thermoregulatory effects

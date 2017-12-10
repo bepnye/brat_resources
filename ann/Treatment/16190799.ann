@@ -1,0 +1,13 @@
+T1	Treatment 16 34	placebo-controlled
+T2	Treatment 44 53	valproate
+T3	Treatment 164 173	valproate
+T4	Treatment 325 343	placebo-controlled
+T5	Treatment 481 496	valproate (VPA)
+T6	Treatment 500 513	placebo (PBO)
+T7	Treatment 692 695	VPA
+T8	Treatment 700 703	PBO
+T9	Treatment 1137 1140	VPA
+T10	Treatment 1283 1286	VPA
+T11	Treatment 1291 1294	PBO
+T12	Treatment 1314 1317	VPA
+T13	Treatment 1536 1543	placebo

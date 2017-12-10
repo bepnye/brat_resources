@@ -1,0 +1,4 @@
+T1	HMM 1003 1034	overall endometrial cancer risk
+T2	HMM 1179 1206	9708/9905, miRNA expression
+T3	HMM 1277 1284	status.
+T4	HMM 1285 1307	Overall survival rates

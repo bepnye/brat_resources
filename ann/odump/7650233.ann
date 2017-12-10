@@ -1,0 +1,7 @@
+T1	HMM 48 63	immune response
+T2	HMM 549 567	Antitoxin response
+T3	HMM 609 691	Circulating antibodies were measured by enzyme-linked immunosorbent assay (ELISA).
+T4	HMM 825 840	antibody titers
+T5	HMM 963 999	circulating T and D antitoxin levels
+T6	HMM 1171 1189	T antitoxin levels
+T7	HMM 1281 1299	D antitoxin levels

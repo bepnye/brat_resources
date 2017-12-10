@@ -1,0 +1,12 @@
+Adult
+Aged
+Anastomosis, Surgical
+Colectomy
+Female
+Humans
+Ileostomy
+Male
+Middle Aged
+Pilot Projects
+Postoperative Complications
+Rectal Neoplasms

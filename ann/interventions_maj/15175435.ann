@@ -1,0 +1,18 @@
+T1	Intervention 0 11	Bevacizumab
+T2	Intervention 17 42	irinotecan, fluorouracil,
+T3	Intervention 47 57	leucovorin
+T4	Intervention 104 116	Bevacizumab,
+T5	Intervention 438 469	irinotecan, bolus fluorouracil,
+T6	Intervention 474 490	leucovorin (IFL)
+T7	Intervention 496 507	bevacizumab
+T8	Intervention 578 595	IFL plus placebo.
+T9	Intervention 850 871	IFL plus bevacizumab,
+T10	Intervention 920 937	IFL plus placebo,
+T11	Intervention 1083 1104	IFL plus bevacizumab,
+T12	Intervention 1152 1168	IFL plus placebo
+T13	Intervention 1377 1398	IFL plus bevacizumab,
+T14	Intervention 1446 1462	IFL plus placebo
+T15	Intervention 1569 1589	IFL plus bevacizumab
+T16	Intervention 1600 1616	IFL plus placebo
+T17	Intervention 1700 1711	bevacizumab
+T18	Intervention 1715 1727	fluorouracil

@@ -1,0 +1,13 @@
+T1	Outcomes 0 7	Quality
+T2	Outcomes 11 33	individual INR control
+T3	Outcomes 38 56	the risk of stroke
+T4	Outcomes 61 69	bleeding
+T5	Outcomes 178 182	Time
+T6	Outcomes 186 209	therapeutic range (TTR)
+T7	Outcomes 602 657	anticoagulation quality measures were compared, overall
+T8	Outcomes 662 688	in a time-dependent manner
+T9	Outcomes 992 1000	mean TTR
+T10	Outcomes 1009 1021	stroke cases
+T11	Outcomes 1062 1076	bleeding cases
+T12	Outcomes 1124 1185	Time below range for stroke and time above range for bleeding
+T13	Outcomes 1668 1687	stroke and bleeding

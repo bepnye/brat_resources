@@ -1,0 +1,14 @@
+T1	HMM 0 9	Influence
+T2	HMM 26 59	heart rate and arrhythmic pattern
+T3	HMM 512 534	arrhythmogenic action.
+T4	HMM 587 593	effect
+T5	HMM 652 693	heart rate, rhythm and electrical safety.
+T6	HMM 1103 1120	Holter recordings
+T7	HMM 1214 1226	heart rhythm
+T8	HMM 1267 1285	maximum heart rate
+T9	HMM 1338 1355	medium heart rate
+T10	HMM 1408 1426	minimum heart rate
+T11	HMM 1514 1544	ectopic supraventricular beats
+T12	HMM 1639 1669	ectopic supraventricular beats
+T13	HMM 1709 1734	ectopic ventricular beats
+T14	HMM 1858 1932	Lown classification nor the Final Score of the Italian Lown Classification

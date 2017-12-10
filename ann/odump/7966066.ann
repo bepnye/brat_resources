@@ -1,0 +1,15 @@
+T1	HMM 422 443	inflammatory activity
+T2	HMM 447 466	functional capacity
+T3	HMM 682 700	osteocalcin levels
+T4	HMM 766 787	inflammatory activity
+T5	HMM 812 848	erythrocyte sedimentation rate (ESR)
+T6	HMM 860 884	C-reactive protein (CRP)
+T7	HMM 957 961	CRP-
+T8	HMM 988 1003	ESR differences
+T9	HMM 1261 1280	functional capacity
+T10	HMM 1312 1330	osteocalcin levels
+T11	HMM 1358 1378	alkaline phosphatase
+T12	HMM 1491 1504	bone turnover
+T13	HMM 1572 1618	inflammatory activity and functional capacity.
+T14	HMM 1634 1654	alkaline phosphatase
+T15	HMM 1717 1736	functional capacity

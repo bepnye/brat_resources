@@ -1,0 +1,6 @@
+T1	HMM 869 923	incidence of any target vessel revascularization (TVR)
+T2	HMM 986 1009	higher 1-year mortality
+T3	HMM 1100 1161	incidence of death, myocardial infarction (MI), or urgent TVR
+T4	HMM 1308 1329	death, MI, or any TVR
+T5	HMM 1435 1438	TVR
+T6	HMM 1505 1521	1-year mortality

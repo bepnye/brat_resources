@@ -1,0 +1,5 @@
+T1	HMM 209 217	survival
+T2	HMM 1068 1092	objective tumor response
+T3	HMM 1175 1191	patient survival
+T4	HMM 1371 1416	average length of delay of standard treatment
+T5	HMM 1668 1692	toxicity to chemotherapy

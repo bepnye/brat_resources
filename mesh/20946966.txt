@@ -1,0 +1,27 @@
+Adenine Nucleotides
+Animals
+Antilymphocyte Serum
+Antineoplastic Agents
+Arabinonucleosides
+Busulfan
+Cell Line, Tumor
+Drug Administration Schedule
+Drug Resistance, Neoplasm
+Drug Synergism
+Female
+Graft vs Host Disease
+Hematopoietic Stem Cell Transplantation
+Humans
+Immunosuppressive Agents
+Injections, Intravenous
+Leukemia, Myeloid, Acute
+Male
+Middle Aged
+Myeloablative Agonists
+Rabbits
+Remission Induction
+Survival Analysis
+Tacrolimus
+Transplantation Conditioning
+Transplantation, Homologous
+Vidarabine

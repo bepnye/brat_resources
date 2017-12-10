@@ -1,0 +1,27 @@
+Adrenergic beta-Antagonists
+Aged
+Angiotensin Receptor Antagonists
+Angiotensin-Converting Enzyme Inhibitors
+Biological Markers
+Cardiovascular Agents
+Digoxin
+Disease-Free Survival
+Diuretics
+Female
+Germany
+Heart Failure
+Humans
+Male
+Middle Aged
+Multivariate Analysis
+Natriuretic Peptide, Brain
+Nitrates
+Odds Ratio
+Peptide Fragments
+Proportional Hazards Models
+Quality of Life
+Questionnaires
+Severity of Illness Index
+Stroke Volume
+Switzerland
+Treatment Outcome

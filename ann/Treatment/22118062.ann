@@ -1,0 +1,5 @@
+T1	Treatment 326 355	peer-mediated approach (PEER)
+T2	Treatment 381 413	child-assisted approach (CHILD).
+T3	Treatment 498 518	control, PEER, CHILD
+T4	Treatment 524 543	both PEER and CHILD
+T5	Treatment 1094 1102	received

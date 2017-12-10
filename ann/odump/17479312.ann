@@ -1,0 +1,6 @@
+T1	HMM 988 1000	no mortality
+T2	HMM 1042 1067	mean operative time (OpT)
+T3	HMM 1191 1218	left adrenalectomy mean OpT
+T4	HMM 1333 1348	mean blood loss
+T5	HMM 1459 1477	mean hospital stay
+T6	HMM 1602 1638	short operating time and blood loss.

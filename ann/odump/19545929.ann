@@ -1,0 +1,13 @@
+T1	HMM 175 222	safety, activity, and impact on quality of life
+T2	HMM 963 976	response rate
+T3	HMM 1079 1111	Median progression-free survival
+T4	HMM 1215 1238	median overall survival
+T5	HMM 1317 1335	Severe neutropenia
+T6	HMM 1354 1373	febrile neutropenia
+T7	HMM 1430 1439	hair loss
+T8	HMM 1457 1488	any grade peripheral neuropathy
+T9	HMM 1549 1568	severe side effects
+T10	HMM 1588 1597	diarrhoea
+T11	HMM 1605 1629	liver enzyme derangement
+T12	HMM 1641 1648	fatigue
+T13	HMM 1685 1716	tolerated and moderately active

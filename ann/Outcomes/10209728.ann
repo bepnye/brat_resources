@@ -1,0 +1,13 @@
+T1	Outcomes 0 7	Effects
+T2	Outcomes 167 173	effect
+T3	Outcomes 739 814	Changes in mean deviation (MD), corrected pattern standard deviation (CPSD)
+T4	Outcomes 820 840	total deviation (TD)
+T5	Outcomes 1014 1028	no differences
+T6	Outcomes 1047 1127	age; sex distribution; refraction; blood pressure; baseline IOP; MD, CPSD, or TD
+T7	Outcomes 1143 1156	Changes in MD
+T8	Outcomes 1396 1415	Change in CPSD (SE)
+T9	Outcomes 1514 1520	Change
+T10	Outcomes 1621 1633	Change in TD
+T11	Outcomes 1729 1740	significant
+T12	Outcomes 1821 1832	average IOP
+T13	Outcomes 1929 1943	no significant

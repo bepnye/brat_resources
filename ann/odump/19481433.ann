@@ -1,0 +1,6 @@
+T1	HMM 691 710	Ventilation pattern
+T2	HMM 791 803	leak volumes
+T3	HMM 888 895	leakage
+T4	HMM 1007 1054	inspiratory volumes delivered by the ventilator
+T5	HMM 1315 1339	leakage-induced dyspnea.
+T6	HMM 1479 1496	Expiratory volume

@@ -1,0 +1,9 @@
+T1	HMM 48 61	breast cancer
+T2	HMM 250 263	breast cancer
+T3	HMM 906 991	effects of treatment condition, cohort, and baseline distress and their interactions.
+T4	HMM 1021 1040	treatment condition
+T5	HMM 1098 1108	distressed
+T6	HMM 1132 1147	greater benefit
+T7	HMM 1317 1325	distress
+T8	HMM 1409 1423	breast cancer.
+T9	HMM 1503 1512	distress.

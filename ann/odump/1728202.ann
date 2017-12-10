@@ -1,0 +1,9 @@
+T1	HMM 626 648	periods of neutropenia
+T2	HMM 769 819	shorter periods of platelet-transfusion dependency
+T3	HMM 886 910	shorter hospitalizations
+T4	HMM 1012 1125	frequency and severity of toxicities, development of pneumonia or infection, in-hospital death, and response rate
+T5	HMM 1168 1199	long-term disease-free survival
+T6	HMM 1358 1413	lower total charges after infusion of autologous marrow
+T7	HMM 1519 1546	lower post-infusion charges
+T8	HMM 1705 1750	acceleration of myeloid and platelet recovery
+T9	HMM 1759 1773	cost effective

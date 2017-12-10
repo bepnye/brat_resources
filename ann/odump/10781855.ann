@@ -1,0 +1,7 @@
+T1	HMM 0 14	Immunogenicity
+T2	HMM 19 33	reactogenicity
+T3	HMM 232 246	immunogenicity
+T4	HMM 251 265	reactogenicity
+T5	HMM 505 570	meningococcal IgG antibody concentrations and bactericidal titres
+T6	HMM 809 841	post immunisation reaction rates
+T7	HMM 936 950	immunogenicity

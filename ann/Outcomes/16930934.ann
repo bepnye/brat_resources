@@ -1,0 +1,10 @@
+T1	Outcomes 0 22	Heart rate variability
+T2	Outcomes 27 40	QT dispersion
+T3	Outcomes 1300 1313	QT dispersion
+T4	Outcomes 1318 1336	lower HRV measures
+T5	Outcomes 1397 1430	standard deviation of N-Ns (SDNN)
+T6	Outcomes 1487 1531	low frequency (LF)/high frequency (HF) ratio
+T7	Outcomes 1611 1643	QT dispersion and QTc dispersion
+T8	Outcomes 1792 1805	QT dispersion
+T9	Outcomes 1825 1840	HRV parameters.
+T10	Outcomes 1940 1950	heart rate

@@ -1,0 +1,4 @@
+T1	Treatment 0 21	Psychiatric treatment
+T2	Treatment 161 190	dermatological treatment only
+T3	Treatment 219 275	same dermatological treatment plus psychiatric treatment
+T4	Treatment 606 627	psychiatric treatment

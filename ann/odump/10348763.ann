@@ -1,0 +1,7 @@
+T1	HMM 1088 1111	pharmacokinetics of AmB
+T2	HMM 1314 1344	concentration of AmB in plasma
+T3	HMM 1413 1446	clearance (CL) of AmB in dextrose
+T4	HMM 1596 1639	steady-state volume of distribution for AmB
+T5	HMM 1795 1816	AmB in lipid emulsion
+T6	HMM 1879 1894	AmB in dextrose
+T7	HMM 1964 1984	safety and tolerance

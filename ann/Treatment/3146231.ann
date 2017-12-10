@@ -1,0 +1,10 @@
+T1	Treatment 291 386	anesthetics halothane, enflurane, isoflurane, or balanced anesthesia with enflurane/alfentanil.
+T2	Treatment 432 441	enflurane
+T3	Treatment 453 462	halothane
+T4	Treatment 466 477	isoflurane.
+T5	Treatment 665 674	halothane
+T6	Treatment 692 703	isoflurane.
+T7	Treatment 896 905	enflurane
+T8	Treatment 914 924	alfentanil
+T9	Treatment 1056 1066	isoflurane
+T10	Treatment 1146 1191	Balanced anesthesia with enflurane/alfentanil

@@ -1,0 +1,7 @@
+T1	HMM 501 593	composite of death, myocardial infarction, or ischemia-driven revascularization at 48 hours.
+T2	HMM 744 761	primary end point
+T3	HMM 1179 1203	rate of stent thrombosis
+T4	HMM 1281 1309	rate of death from any cause
+T5	HMM 1422 1447	rate of blood transfusion
+T6	HMM 1524 1538	major bleeding
+T7	HMM 1635 1651	groin hematomas.

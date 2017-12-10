@@ -1,0 +1,8 @@
+T1	HMM 238 287	plasma potassium and blood glucose concentrations
+T2	HMM 616 652	potassium and glucose concentrations
+T3	HMM 793 846	plasma potassium concentration 10 min after injection
+T4	HMM 905 932	blood glucose concentration
+T5	HMM 1042 1058	plasma potassium
+T6	HMM 1073 1086	blood glucose
+T7	HMM 1182 1198	30 min potassium
+T8	HMM 1242 1249	glucose

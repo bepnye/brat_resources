@@ -1,0 +1,14 @@
+T1	Treatment 182 220	153Gd transmission computed tomography
+T2	Treatment 266 307	99mTc-ethyl cysteinate dimer (ECD) images
+T3	Treatment 518 521	ECD
+T4	Treatment 693 696	TCT
+T5	Treatment 763 766	ECD
+T6	Treatment 846 855	ECD-based
+T7	Treatment 860 869	TCT-based
+T8	Treatment 1152 1167	ECD/CD, ECD/NMI
+T9	Treatment 1172 1178	TCT/CD
+T10	Treatment 1629 1632	ECD
+T11	Treatment 1652 1654	CD
+T12	Treatment 1658 1661	NMI
+T13	Treatment 1681 1684	TCT
+T14	Treatment 1716 1719	TCT

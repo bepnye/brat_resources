@@ -1,0 +1,18 @@
+Adult
+Aged
+Biopsy
+Cyclosporine
+Endocardium
+Female
+Follow-Up Studies
+Graft Rejection
+Heart Transplantation
+Humans
+Immunosuppressive Agents
+Male
+Middle Aged
+Myocarditis
+Myocardium
+Opportunistic Infections
+Prospective Studies
+Tacrolimus

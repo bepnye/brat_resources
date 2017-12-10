@@ -1,0 +1,17 @@
+Adult
+Analysis of Variance
+Animals
+Carbonated Beverages
+Cattle
+Dentin
+Female
+Hardness
+Humans
+Linear Models
+Male
+Saliva
+Time Factors
+Tooth Abrasion
+Tooth Erosion
+Tooth Root
+Toothbrushing

@@ -1,0 +1,14 @@
+Antiemetics
+Antineoplastic Combined Chemotherapy Protocols
+Cisplatin
+Female
+Granisetron
+Hematologic Neoplasms
+Humans
+Infusions, Intravenous
+Injections, Intravenous
+Male
+Middle Aged
+Nausea
+Treatment Outcome
+Vomiting

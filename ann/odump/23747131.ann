@@ -1,0 +1,11 @@
+T1	HMM 48 50	H.
+T2	HMM 51 70	pylori eradication:
+T3	HMM 168 199	Helicobacter pylori eradication
+T4	HMM 344 354	cure rates
+T5	HMM 1122 1143	Bacterial eradication
+T6	HMM 1554 1571	eradication rates
+T7	HMM 1759 1761	H.
+T8	HMM 1762 1778	pylori infection
+T9	HMM 1783 1788	cured
+T10	HMM 1945 1963	eradication rates.
+T11	HMM 1968 1980	success rate

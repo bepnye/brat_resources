@@ -1,0 +1,10 @@
+T1	HMM 15 33	peptidase activity
+T2	HMM 165 211	clinical, enzymatic, and microbiologic effects
+T3	HMM 721 778	Peptidase activity and clinical and microbiologic effects
+T4	HMM 841 909	Bleeding of the gums on probing (BOP) and pocket depth (PD) improved
+T5	HMM 991 1001	BOP and PD
+T6	HMM 1060 1078	Peptidase activity
+T7	HMM 1208 1226	peptidase activity
+T8	HMM 1335 1357	Total bacterial counts
+T9	HMM 1476 1492	bacterial counts
+T10	HMM 1581 1609	Increased peptidase activity

@@ -1,0 +1,13 @@
+T1	HMM 41 108	intracranial pressure, cerebral blood flow, and cerebral metabolism
+T2	HMM 210 217	effects
+T3	HMM 248 331	on intracranial pressure (ICP), cerebral blood flow (CBF), and cerebral metabolism.
+T4	HMM 654 657	ICP
+T5	HMM 745 799	CBF and the arteriovenous difference of oxygen (AVDO2)
+T6	HMM 901 904	ICP
+T7	HMM 1035 1038	CBF
+T8	HMM 1081 1087	AVDO2.
+T9	HMM 1120 1223	cerebral metabolic rate of oxygen, the arteriovenous difference of lactate, or the lactate/oxygen index
+T10	HMM 1323 1327	dura
+T11	HMM 1383 1387	dura
+T12	HMM 1425 1443	cerebral swelling.
+T13	HMM 1504 1520	dural tightness.

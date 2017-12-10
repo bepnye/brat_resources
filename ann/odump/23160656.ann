@@ -1,0 +1,16 @@
+T1	HMM 43 88	arterial stiffness and central haemodynamics:
+T2	HMM 147 179	Aortic pulse wave velocity (PWV)
+T3	HMM 184 208	augmentation index (AIx)
+T4	HMM 239 272	cardiovascular risk and mortality
+T5	HMM 443 642	arterial stiffness (aortic and brachial PWV), and on central haemodynamics [including augmented pressure (AP), AIx], and aortic reservoir components [including reservoir and excess pressures (P ex)].
+T6	HMM 813 818	days.
+T7	HMM 819 842	Supine resting measures
+T8	HMM 1004 1037	change in brachial blood pressure
+T9	HMM 1101 1108	control
+T10	HMM 1174 1177	and
+T11	HMM 1229 1250	and time to maximum P
+T12	HMM 1432 1448	change in aortic
+T13	HMM 1492 1509	0.87) or brachial
+T14	HMM 1607 1644	increases central haemodynamic stress
+T15	HMM 1649 1685	alters timing of peak aortic in-flow
+T16	HMM 1709 1737	affecting arterial stiffness

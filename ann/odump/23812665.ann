@@ -1,0 +1,7 @@
+T1	HMM 426 460	neural function, via EEG asymmetry
+T2	HMM 639 680	right-hemisphere gamma-band EEG asymmetry
+T3	HMM 697 726	left-hemisphere EEG asymmetry
+T4	HMM 785 798	EEG asymmetry
+T5	HMM 824 853	social contacts and knowledge
+T6	HMM 865 884	symptoms of autism.
+T7	HMM 975 1002	left-dominant EEG asymmetry

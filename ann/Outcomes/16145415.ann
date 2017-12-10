@@ -1,0 +1,15 @@
+T1	Outcomes 138 146	efficacy
+T2	Outcomes 151 157	safety
+T3	Outcomes 541 617	uroflowmetry scores, operative time, catheterization duration, hospital stay
+T4	Outcomes 622 640	complication rates
+T5	Outcomes 849 868	mean operative time
+T6	Outcomes 976 1043	mean volume of saline irrigation during the PlasmaKinetic procedure
+T7	Outcomes 1303 1324	mean improvement rate
+T8	Outcomes 1354 1424	International Prostate Symptom Score and the maximal urinary flow rate
+T9	Outcomes 1454 1480	Severe irritative symptoms
+T10	Outcomes 1574 1591	Recatheterization
+T11	Outcomes 1708 1736	urethral stricture formation
+T12	Outcomes 1846 1857	Reoperation
+T13	Outcomes 2101 2153	operative, catheterization and hospitalization times
+T14	Outcomes 2183 2216	postoperative irritative symptoms
+T15	Outcomes 2221 2249	urethral stricture formation

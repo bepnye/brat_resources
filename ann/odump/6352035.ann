@@ -1,0 +1,10 @@
+T1	HMM 260 281	efficacy and toxicity
+T2	HMM 377 385	efficacy
+T3	HMM 618 635	clinical response
+T4	HMM 822 839	clinical response
+T5	HMM 950 964	Nephrotoxicity
+T6	HMM 995 1011	serum creatinine
+T7	HMM 1170 1184	nephrotoxicity
+T8	HMM 1282 1293	Ototoxicity
+T9	HMM 1378 1389	ototoxicity
+T10	HMM 1528 1536	toxicity

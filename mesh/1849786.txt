@@ -1,0 +1,14 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Carcinoma, Non-Small-Cell Lung
+Cisplatin
+Combined Modality Therapy
+Etoposide
+Female
+Humans
+Lung Neoplasms
+Male
+Middle Aged
+Radiotherapy Dosage
+Survival Rate

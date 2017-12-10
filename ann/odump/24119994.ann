@@ -1,0 +1,20 @@
+T1	HMM 58 71	effectiveness
+T2	HMM 217 234	protective effect
+T3	HMM 389 434	malaria vector abundance and biting behaviour
+T4	HMM 443 475	human population sleeping habits
+T5	HMM 501 515	effectiveness.
+T6	HMM 608 640	potential malaria vector species
+T7	HMM 664 678	biting habits.
+T8	HMM 1060 1070	preference
+T9	HMM 1127 1137	preference
+T10	HMM 1142 1157	outdoor biting;
+T11	HMM 1297 1309	human biting
+T12	HMM 1349 1365	peak biting time
+T13	HMM 1426 1440	bites recorded
+T14	HMM 1477 1499	proportion of children
+T15	HMM 1509 1517	sleeping
+T16	HMM 1538 1556	peak biting times.
+T17	HMM 1601 1620	malaria sporozoites
+T18	HMM 1668 1686	Peak vector biting
+T19	HMM 1737 1746	outdoors.
+T20	HMM 1759 1767	efficacy

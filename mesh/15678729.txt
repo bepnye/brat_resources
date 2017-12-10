@@ -1,0 +1,13 @@
+Adult
+Analgesics
+Analgesics, Opioid
+Anesthesia, Spinal
+Female
+Humans
+Infusions, Intravenous
+Magnesium Sulfate
+Male
+Meperidine
+Middle Aged
+Pain Measurement
+Pain, Postoperative

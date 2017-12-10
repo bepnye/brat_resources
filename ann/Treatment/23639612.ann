@@ -1,0 +1,5 @@
+T1	Treatment 0 21	Galactomannan and PCR
+T2	Treatment 697 709	chemotherapy
+T3	Treatment 874 902	standard diagnostic strategy
+T4	Treatment 941 1012	biomarker-based diagnostic strategy (aspergillus galactomannan and PCR)
+T5	Treatment 2540 2570	empirical antifungal treatment

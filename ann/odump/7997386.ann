@@ -1,0 +1,6 @@
+T1	HMM 50 74	myocardial contractility
+T2	HMM 193 215	myocardial performance
+T3	HMM 930 964	left ventricular ejection fraction
+T4	HMM 977 1027	Peak ejection rate and peak diastolic filling rate
+T5	HMM 1083 1111	blood pressure or heart rate
+T6	HMM 1244 1278	left ventricular ejection fraction

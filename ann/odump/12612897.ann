@@ -1,0 +1,13 @@
+T1	HMM 0 23	Gastrointestinal safety
+T2	HMM 200 222	antiplatelet activity.
+T3	HMM 318 336	platelet functions
+T4	HMM 716 738	gastroduodenal lesions
+T5	HMM 759 785	predefined scoring system.
+T6	HMM 786 830	Basal and posttreatment platelet aggregation
+T7	HMM 972 1003	Mucosal endoscopic injury score
+T8	HMM 1215 1244	gastric and duodenal toxicity
+T9	HMM 1261 1304	total gastric and duodenal endoscopic score
+T10	HMM 1412 1443	AA-induced platelet aggregation
+T11	HMM 1455 1467	serum TXB(2)
+T12	HMM 1472 1498	platelet TXB(2) generation
+T13	HMM 1798 1822	gastrointestinal damage.

@@ -1,0 +1,7 @@
+T1	Intervention 31 78	proton pump inhibitor-containing triple therapy
+T2	Intervention 260 287	proton pump inhibitor (PPI)
+T3	Intervention 514 560	7-day and 14-day PPI-containing triple therapy
+T4	Intervention 812 822	omeprazole
+T5	Intervention 829 874	or equivalent dose of other PPIs, amoxicillin
+T6	Intervention 884 902	and clarithromycin
+T7	Intervention 1550 1577	7-day PPI-containing triple

@@ -1,0 +1,15 @@
+T1	HMM 869 889	Mean airway pressure
+T2	HMM 1017 1032	ventilation+15.
+T3	HMM 1033 1059	Right ventricular function
+T4	HMM 1073 1111	using transesophageal echocardiography
+T5	HMM 1181 1212	a right ventricular dysfunction
+T6	HMM 1324 1351	a right ventricular failure
+T7	HMM 1488 1531	further worsened right ventricular function
+T8	HMM 1567 1648	in right ventricular end-diastolic area/left ventricular end-diastolic area ratio
+T9	HMM 1668 1703	in end-diastolic eccentricity index
+T10	HMM 1870 1903	had right ventricular dysfunction
+T11	HMM 1913 1942	had right ventricular failure
+T12	HMM 1987 2010	not improve oxygenation
+T13	HMM 2196 2232	when increasing mean airway pressure
+T14	HMM 2306 2347	a worsening of right ventricular function
+T15	HMM 2642 2679	can worsen right ventricular function

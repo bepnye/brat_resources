@@ -1,0 +1,12 @@
+T1	HMM 10 35	microvascular alterations
+T2	HMM 609 647	alterations in microvascular perfusion
+T3	HMM 842 918	functional capillary density (FCD), blood flow velocity, and vessel diameter
+T4	HMM 1088 1091	FCD
+T5	HMM 1121 1124	FCD
+T6	HMM 1264 1268	(T3)
+T7	HMM 1315 1322	whereas
+T8	HMM 1508 1516	ECC (T4)
+T9	HMM 1550 1559	baseline.
+T10	HMM 1560 1579	Blood flow velocity
+T11	HMM 1761 1798	impairment of microvascular perfusion
+T12	HMM 1820 1827	Changes

@@ -1,0 +1,7 @@
+T1	Treatment 0 40	Endoscopic versus operative gastrostomy:
+T2	Treatment 111 137	operative gastrostomy (OG)
+T3	Treatment 152 185	with endoscopic gastrostomy (PEG)
+T4	Treatment 287 318	PEG (Sachs-Vine) and OG (Stamm)
+T5	Treatment 335 352	local anesthesia.
+T6	Treatment 821 824	PEG
+T7	Treatment 981 984	PEG

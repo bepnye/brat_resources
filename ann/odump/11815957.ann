@@ -1,0 +1,7 @@
+T1	HMM 1555 1586	Protocol-defined cardiotoxicity
+T2	HMM 1723 1784	Median cumulative doxorubicin dose at onset of cardiotoxicity
+T3	HMM 1887 1908	overall response rate
+T4	HMM 1947 1957	median TTP
+T5	HMM 2019 2034	Median survival
+T6	HMM 2123 2142	Clinical toxicities
+T7	HMM 2306 2339	palmar-plantar erythrodysesthesia

@@ -1,0 +1,7 @@
+T1	HMM 635 666	through plasma uricase activity
+T2	HMM 701 743	using uric acid levels in plasma and urine
+T3	HMM 794 820	in plasma uric acid levels
+T4	HMM 860 866	model.
+T5	HMM 867 881	Adverse events
+T6	HMM 1201 1232	produce pharmacological effects
+T7	HMM 1278 1366	the mean uric acid concentration in blood and the mean uric acid excretion rate in urine

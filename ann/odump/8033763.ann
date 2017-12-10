@@ -1,0 +1,8 @@
+T1	HMM 591 642	decreased Arousal, Elation, Positive Mood and Vigor
+T2	HMM 648 689	increased Anxiety, Depression and Fatigue
+T3	HMM 722 749	increased Arousal and Vigor
+T4	HMM 799 843	likely to be males and/or full-time students
+T5	HMM 881 902	sedative-like effects
+T6	HMM 951 995	decreased Anxiety and increased Friendliness
+T7	HMM 1055 1114	more frequent recreational use of marijuana and stimulants.
+T8	HMM 1126 1175	demographic variables and subjective drug effects

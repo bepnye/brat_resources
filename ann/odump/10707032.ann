@@ -1,0 +1,6 @@
+T1	HMM 1001 1053	blood pressure or plasma triglyceride concentration.
+T2	HMM 1092 1114	fasting plasma insulin
+T3	HMM 1125 1142	total cholesterol
+T4	HMM 1156 1161	Apo B
+T5	HMM 1172 1186	concentrations
+T6	HMM 1314 1364	Tissue plasminogen activator antigen concentration

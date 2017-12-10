@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Blood Glucose
+Child
+Diabetes Mellitus, Type 1
+Double-Blind Method
+Drug Administration Schedule
+Female
+Humans
+Hypoglycemic Agents
+Male
+Peptides
+Postprandial Period
+Venoms
+Young Adult

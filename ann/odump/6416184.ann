@@ -1,0 +1,3 @@
+T1	HMM 455 485	survival and disease-free rate
+T2	HMM 601 631	survival and disease-free rate
+T3	HMM 735 747	relapse rate

@@ -1,0 +1,8 @@
+T1	HMM 328 346	analgesic efficacy
+T2	HMM 356 382	postoperative motor block.
+T3	HMM 815 874	clinical efficacy of the caudal block during the operation.
+T4	HMM 907 989	analgesic onset time, pain relief after the operation and residual motor blockade.
+T5	HMM 1232 1252	residual motor block
+T6	HMM 1635 1654	analgesic efficacy.
+T7	HMM 1685 1721	incidence of residual motor blockade
+T8	HMM 1735 1750	analgesic block

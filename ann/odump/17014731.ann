@@ -1,0 +1,5 @@
+T1	HMM 788 795	effects
+T2	HMM 912 923	reduce pain
+T3	HMM 928 944	improve function
+T4	HMM 1313 1323	compliance
+T5	HMM 1993 2067	pain, function, overall health, cardiovascular ability and activity level.

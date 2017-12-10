@@ -1,0 +1,8 @@
+T1	HMM 0 35	Extinction of over-selected stimuli
+T2	HMM 43 52	emergence
+T3	HMM 56 75	under-selected cues
+T4	HMM 212 248	post-acquisition performance deficit
+T5	HMM 513 535	over-selected stimulus
+T6	HMM 554 572	behavioral control
+T7	HMM 785 801	over-selectivity
+T8	HMM 899 934	extinction of over-selected stimuli

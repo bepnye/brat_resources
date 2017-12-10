@@ -1,0 +1,13 @@
+T1	HMM 61 73	endotracheal
+T2	HMM 222 229	suction
+T3	HMM 453 464	lung volume
+T4	HMM 477 487	suctioning
+T5	HMM 505 538	end-expiratory lung volume (EELV)
+T6	HMM 639 650	postcardiac
+T7	HMM 660 662	CS
+T8	HMM 667 669	OS
+T9	HMM 720 734	Lung impedance
+T10	HMM 881 981	Oximetry, partial pressure of oxygen in the alveoli/fraction of inspired oxygen ratio and compliance
+T11	HMM 1025 1034	impedance
+T12	HMM 1217 1221	EELV
+T13	HMM 1599 1614	postsuctioning.

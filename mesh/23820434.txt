@@ -1,0 +1,8 @@
+Adolescent
+Adult
+Blood Donors
+Culture
+Female
+Humans
+Male
+Syncope, Vasovagal

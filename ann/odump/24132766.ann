@@ -1,0 +1,15 @@
+T1	HMM 0 10	Comparison
+T2	HMM 56 86	volumetry of pulmonary nodules
+T3	HMM 596 619	volumetric measurements
+T4	HMM 697 723	volume doubling time (VDT)
+T5	HMM 1014 1035	volume of each nodule
+T6	HMM 1220 1223	VDT
+T7	HMM 1242 1265	evaluate nodule growth.
+T8	HMM 1266 1300	Volume, VDT, and nodule management
+T9	HMM 1486 1506	Initial segmentation
+T10	HMM 1649 1664	measured volume
+T11	HMM 1737 1747	the volume
+T12	HMM 1810 1853	was consensus on nodule size categorization
+T13	HMM 1890 1935	At follow-up, consensus on VDT categorization
+T14	HMM 2058 2096	differences in volumetric measurements
+T15	HMM 2111 2150	variation affects the classification of

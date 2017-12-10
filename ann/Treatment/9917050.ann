@@ -1,0 +1,18 @@
+T1	Treatment 11 35	atropine and scopolamine
+T2	Treatment 121 154	unilateral or bilateral otoplasty
+T3	Treatment 249 260	scopolamine
+T4	Treatment 523 552	scopolamine (TTS-scopolamine)
+T5	Treatment 612 619	placebo
+T6	Treatment 635 676	atropine 10 microg x kg(-1) intravenously
+T7	Treatment 707 726	scopolamine-treated
+T8	Treatment 814 830	atropine-treated
+T9	Treatment 883 898	TTS-scopolamine
+T10	Treatment 924 933	atropine.
+T11	Treatment 974 997	TTS-scopolamine-treated
+T12	Treatment 1022 1038	atropine-treated
+T13	Treatment 1253 1269	atropine-treated
+T14	Treatment 1299 1318	scopolamine-treated
+T15	Treatment 1376 1386	droperidol
+T16	Treatment 1486 1501	TTS-scopolamine
+T17	Treatment 1573 1588	TTS-scopolamine
+T18	Treatment 1748 1763	TTS-scopolamine

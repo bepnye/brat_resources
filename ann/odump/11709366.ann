@@ -1,0 +1,11 @@
+T1	HMM 0 15	Pharmacokinetic
+T2	HMM 210 239	steady-state pharmacokinetics
+T3	HMM 437 469	amprenavir plasma concentrations
+T4	HMM 543 583	concentration-time curve at steady state
+T5	HMM 606 647	peak plasma concentration at steady state
+T6	HMM 742 779	amprenavir minimum drug concentration
+T7	HMM 836 843	AUC(ss)
+T8	HMM 847 857	C(max,ss).
+T9	HMM 884 913	steady-state pharmacokinetics
+T10	HMM 1012 1082	Concentrations of indinavir, coadministered with amprenavir, in plasma
+T11	HMM 1169 1208	steady-state pharmacokinetic parameters

@@ -1,0 +1,15 @@
+T1	Intervention 0 9	Verapamil
+T2	Intervention 26 33	lithium
+T3	Intervention 86 93	lithium
+T4	Intervention 324 334	Verapamil,
+T5	Intervention 424 433	Verapamil
+T6	Intervention 519 529	verapamil,
+T7	Intervention 730 737	lithium
+T8	Intervention 859 868	verapamil
+T9	Intervention 881 898	continued-lithium
+T10	Intervention 956 982	combined verapamil/lithium
+T11	Intervention 1060 1069	verapamil
+T12	Intervention 1074 1092	continued-lithium.
+T13	Intervention 1463 1472	verapamil
+T14	Intervention 1557 1579	verapamil plus lithium
+T15	Intervention 1635 1644	verapamil

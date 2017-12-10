@@ -1,0 +1,13 @@
+Adult
+Aged
+Bacterial Infections
+Cefoperazone
+Ceftriaxone
+Female
+Hospitalization
+Humans
+Male
+Middle Aged
+Pneumonia
+Sepsis
+Urinary Tract Infections

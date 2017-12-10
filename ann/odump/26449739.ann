@@ -1,0 +1,8 @@
+T1	HMM 523 557	5-year relapse-free survival (RFS)
+T2	HMM 687 697	5-year RFS
+T3	HMM 828 835	was RFS
+T4	HMM 1031 1062	regarding overall survival (OS)
+T5	HMM 1076 1079	and
+T6	HMM 1139 1166	in the OG [OS: hazard ratio
+T7	HMM 1188 1218	0·11; 95% confidence interval
+T8	HMM 1226 1238	0·00-1·03;

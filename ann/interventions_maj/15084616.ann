@@ -1,0 +1,7 @@
+T1	Intervention 19 30	gemcitabine
+T2	Intervention 36 46	tipifarnib
+T3	Intervention 78 85	placebo
+T4	Intervention 478 502	gemcitabine + tipifarnib
+T5	Intervention 510 531	gemcitabine + placebo
+T6	Intervention 628 638	Tipifarnib
+T7	Intervention 684 695	gemcitabine

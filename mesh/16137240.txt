@@ -1,0 +1,19 @@
+Abdomen
+Adult
+Aged
+Aged, 80 and over
+Analgesia
+Breathing Exercises
+Cough
+Early Ambulation
+Female
+Humans
+Lung Diseases
+Male
+Middle Aged
+Outcome and Process Assessment (Health Care)
+Physical Therapy Modalities
+Postoperative Care
+Risk Factors
+Surgical Procedures, Operative
+Treatment Outcome

@@ -1,0 +1,23 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols
+Bone Neoplasms
+Breast Neoplasms
+Doxorubicin
+Female
+Humans
+Liver Neoplasms
+Lung Neoplasms
+Middle Aged
+Models, Statistical
+Neoplasm Recurrence, Local
+Neoplasm Staging
+Neutropenia
+Polyethylene Glycols
+Prognosis
+Prospective Studies
+Risk Factors
+Sensitivity and Specificity
+Survival Rate
+Treatment Outcome

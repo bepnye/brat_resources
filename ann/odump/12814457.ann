@@ -1,0 +1,9 @@
+T1	HMM 37 54	putative benefits
+T2	HMM 936 952	sequence effects
+T3	HMM 1032 1056	Methacholine PD20 values
+T4	HMM 1219 1245	Lung function deteriorated
+T5	HMM 1454 1458	FEV1
+T6	HMM 1472 1480	FEF25-75
+T7	HMM 1494 1532	diurnal peak expiratory flow, symptoms
+T8	HMM 1537 1552	salbutamol use.
+T9	HMM 2007 2026	important outcomes.

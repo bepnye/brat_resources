@@ -1,0 +1,8 @@
+T1	HMM 806 821	Quality of life
+T2	HMM 892 921	proportions of missing values
+T3	HMM 1012 1032	internal consistency
+T4	HMM 1291 1301	(FEV(1)) %
+T5	HMM 1316 1348	peak expiratory flow rate (PEFR)
+T6	HMM 1494 1500	FEV(1)
+T7	HMM 1865 1921	CRQ total and emotions score and the SGRQ symptoms score
+T8	HMM 1962 1982	SGRQ symptoms domain

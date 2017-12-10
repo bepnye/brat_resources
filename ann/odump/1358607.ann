@@ -1,0 +1,9 @@
+T1	HMM 24 72	prevention of postoperative nausea and vomiting.
+T2	HMM 137 170	postoperative nausea and vomiting
+T3	HMM 602 634	incidence of nausea and vomiting
+T4	HMM 815 827	Side-effects
+T5	HMM 848 916	constipation, headache, and asymptomatic elevation of liver enzymes.
+T6	HMM 934 946	side-effects
+T7	HMM 1029 1057	clinically important benefit
+T8	HMM 1202 1219	optimal oral dose
+T9	HMM 1241 1275	postoperative nausea and vomiting.

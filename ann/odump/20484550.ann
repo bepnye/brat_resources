@@ -1,0 +1,16 @@
+T1	HMM 593 621	biomarkers of dietary intake
+T2	HMM 794 825	Conditional logistic regression
+T3	HMM 838 872	estimate adjusted odds ratios (OR)
+T4	HMM 877 884	95% CI.
+T5	HMM 885 910	Isoflavone concentrations
+T6	HMM 942 964	risk of fibroadenomas.
+T7	HMM 965 985	Adjusted OR (95% CI)
+T8	HMM 1175 1195	inverse associations
+T9	HMM 1211 1280	percentages of the RBC (n-3) fatty acids, eicosapentaenoic acid (EPA)
+T10	HMM 1322 1349	docosapentaenoic acid (DPA)
+T11	HMM 1440 1485	carotenoids, vitamin C, retinol, and ferritin
+T12	HMM 1534 1554	inverse associations
+T13	HMM 1563 1595	plasma isoflavone concentrations
+T14	HMM 1600 1615	RBC EPA and DPA
+T15	HMM 1620 1637	fibroadenoma risk
+T16	HMM 1708 1730	risk of fibroadenomas.

@@ -1,0 +1,5 @@
+T1	HMM 437 453	Wound infections
+T2	HMM 574 625	Staphylococcus epidermidis and Enterobacter species
+T3	HMM 654 669	wound infection
+T4	HMM 766 855	Enterobacter species, Klebsiella species, Enterococcus faecalis, and Aeromonas hydrophila
+T5	HMM 933 951	safe and effective

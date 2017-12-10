@@ -1,0 +1,9 @@
+T1	HMM 14 48	quality of life, work productivity
+T2	HMM 53 81	medical resource utilization
+T3	HMM 282 356	quality of life (QOL), work productivity, and medical resource utilization
+T4	HMM 564 627	health-related QOL, work productivity and resource utilization.
+T5	HMM 1008 1085	SF-36 Health Survey Questionnaire and additional generic and specific scales.
+T6	HMM 1130 1192	Hepatitis Quality of Life Questionnaire (HQLQ)-specific scales
+T7	HMM 1541 1551	impairment
+T8	HMM 1711 1730	health-related QOL.
+T9	HMM 1782 1923	work productivity, less activity impairment, decreased need for prescription drugs to treat adverse effects, and better adherence to therapy.

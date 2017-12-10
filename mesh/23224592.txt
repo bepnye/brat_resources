@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Anxiety
+Anxiety Disorders
+Child
+Child Development Disorders, Pervasive
+Female
+Humans
+Internal-External Control
+Male
+Parents
+Psychotherapy
+Severity of Illness Index
+Treatment Outcome

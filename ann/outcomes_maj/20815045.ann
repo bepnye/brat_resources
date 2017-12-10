@@ -1,0 +1,7 @@
+T1	Outcomes 25 42	clinical outcomes
+T2	Outcomes 194 308	major adverse cardiovascular event (MACE) (death, nonfatal myocardial infarction, target lesion revascularization)
+T3	Outcomes 317 336	predictors of MACEs
+T4	Outcomes 686 700	rates of MACEs
+T5	Outcomes 1036 1040	MACE
+T6	Outcomes 1120 1151	target vessel revascularization
+T7	Outcomes 1247 1288	rates of MACEs, TVR, and stent thrombosis

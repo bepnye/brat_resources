@@ -1,0 +1,14 @@
+T1	Outcomes 66 107	late cardiovascular outcome and survival:
+T2	Outcomes 182 199	long-term effects
+T3	Outcomes 281 325	cardiovascular (CV) morbidity and mortality.
+T4	Outcomes 861 870	CV events
+T5	Outcomes 993 1120	Composite CV events, that is, ischaemic coronary and cerebrovascular events, components of the composite CV outcome, and death.
+T6	Outcomes 1121 1181	Relative HRs from Cox proportional-hazards regression models
+T7	Outcomes 1245 1264	composite CV events
+T8	Outcomes 1423 1429	deaths
+T9	Outcomes 1454 1483	age-adjusted relative hazards
+T10	Outcomes 1512 1562	composite CV event, first coronary event and death
+T11	Outcomes 1717 1757	risk for the first cerebrovascular event
+T12	Outcomes 1976 2021	incidence of ischaemic coronary artery events
+T13	Outcomes 2075 2125	long-term risk of ischaemic cerebrovascular events
+T14	Outcomes 2190 2206	reduced survival

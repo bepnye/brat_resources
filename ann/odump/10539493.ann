@@ -1,0 +1,10 @@
+T1	HMM 53 82	service utilization and cost.
+T2	HMM 350 377	clinical cost effectiveness
+T3	HMM 400 429	functional cost effectiveness
+T4	HMM 458 477	functional outcomes
+T5	HMM 642 660	cost effectiveness
+T6	HMM 681 750	Mental health and physical health functioning, as well as work status
+T7	HMM 882 894	cost savings
+T8	HMM 951 971	physical functioning
+T9	HMM 1004 1023	Functional outcomes
+T10	HMM 1091 1121	health-related quality of life

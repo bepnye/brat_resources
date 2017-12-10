@@ -1,0 +1,23 @@
+T1	HMM 124 146	periodic leg movements
+T2	HMM 250 258	efficacy
+T3	HMM 263 269	safety
+T4	HMM 449 478	periodic limb movements (PLM)
+T5	HMM 483 499	sleep parameters
+T6	HMM 517 532	polysomnography
+T7	HMM 567 584	sleep disturbance
+T8	HMM 597 609	RLS severity
+T9	HMM 884 919	PLM per hour in bed asleep or awake
+T10	HMM 1141 1186	endpoints of PLM while asleep and while awake
+T11	HMM 1283 1310	median for PLM while asleep
+T12	HMM 1361 1401	delta-sleep time and awakenings/arousals
+T13	HMM 1463 1483	Median sleep latency
+T14	HMM 1608 1631	Median total sleep time
+T15	HMM 1720 1754	2-4/rapid eye movement (REM) sleep
+T16	HMM 1966 1980	adverse events
+T17	HMM 1989 2032	drug-related increase in daytime somnolence
+T18	HMM 2074 2083	effective
+T19	HMM 2088 2102	well tolerated
+T20	HMM 2154 2166	reducing PLM
+T21	HMM 2171 2196	decreasing sleep latency.
+T22	HMM 2306 2318	RLS severity
+T23	HMM 2323 2340	sleep disturbance

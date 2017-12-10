@@ -1,0 +1,5 @@
+T1	HMM 0 16	Gastric contents
+T2	HMM 394 419	amount of gastric content
+T3	HMM 535 544	pH values
+T4	HMM 598 608	gastric pH
+T5	HMM 627 641	gastric volume

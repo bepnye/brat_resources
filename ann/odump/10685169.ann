@@ -1,0 +1,7 @@
+T1	HMM 35 65	second intention wound healing
+T2	HMM 897 1118	presence of exuberant granulation tissue requiring excision, number of times excision was required, total wound area, area of epithelialisation, area of granulation, and histological evaluation of biopsy samples of wounds
+T3	HMM 1267 1287	total area of wounds
+T4	HMM 1299 1329	the area of granulation tissue
+T5	HMM 1342 1371	the area of epithelialisation
+T6	HMM 1411 1452	subjective clinical assessment of wounds.
+T7	HMM 1504 1518	wound healing.

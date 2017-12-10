@@ -1,0 +1,4 @@
+T1	Outcomes 784 1004	severity of pain, (ii) ease of swallowing, (iii) satisfaction of daily activities, (iv) dependence on medications, (v) working ability, (vi) fatigue, (vii) appetite, (viii) sociality, (ix) happiness and (x) self respect,
+T2	Outcomes 1071 1101	operative results and survival
+T3	Outcomes 1449 1506	intraoperative blood loss and postoperative hospital stay
+T4	Outcomes 1568 1596	Kaplan-Meier survival curves

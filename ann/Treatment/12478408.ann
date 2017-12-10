@@ -1,0 +1,7 @@
+T1	Treatment 50 61	ganciclovir
+T2	Treatment 74 86	valacyclovir
+T3	Treatment 165 193	ganciclovir and valacyclovir
+T4	Treatment 357 385	ganciclovir and valacyclovir
+T5	Treatment 526 542	oral ganciclovir
+T6	Treatment 576 593	oral valacyclovir
+T7	Treatment 658 673	no prophylaxis.

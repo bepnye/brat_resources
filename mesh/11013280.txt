@@ -1,0 +1,16 @@
+Adult
+Aged
+Antineoplastic Agents
+Antineoplastic Combined Chemotherapy Protocols
+Carcinoma, Non-Small-Cell Lung
+Cisplatin
+Disease-Free Survival
+Dose-Response Relationship, Drug
+Female
+Humans
+Lung Neoplasms
+Male
+Middle Aged
+Paclitaxel
+Quality of Life
+Survival Analysis

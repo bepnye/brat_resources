@@ -1,0 +1,6 @@
+T1	HMM 445 455	end points
+T2	HMM 461 506	survival and time to treatment failure (TTF).
+T3	HMM 554 577	complete remission rate
+T4	HMM 591 594	TTF
+T5	HMM 618 634	overall survival
+T6	HMM 826 835	tolerated

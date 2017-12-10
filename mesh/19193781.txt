@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents
+Benzamides
+Disease-Free Survival
+Drug Approval
+Female
+Gastrointestinal Stromal Tumors
+Humans
+Male
+Middle Aged
+Piperazines
+Pyrimidines
+Treatment Outcome
+Young Adult

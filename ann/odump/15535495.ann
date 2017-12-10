@@ -1,0 +1,10 @@
+T1	HMM 967 981	blood staining
+T2	HMM 998 1007	Insertion
+T3	HMM 1017 1038	frequently successful
+T4	HMM 1070 1076	faster
+T5	HMM 1160 1177	failed insertions
+T6	HMM 1267 1296	aetiology of failed insertion
+T7	HMM 1397 1411	blood staining
+T8	HMM 1475 1489	blood staining
+T9	HMM 1672 1684	success rate
+T10	HMM 1701 1707	trauma

@@ -1,0 +1,14 @@
+T1	Treatment 10 42	spinal versus general anesthesia
+T2	Treatment 172 204	spinal versus general anesthesia
+T3	Treatment 283 332	elective transurethral resection of the prostate.
+T4	Treatment 503 525	transurethral surgery.
+T5	Treatment 674 695	hyperbaric tetracaine
+T6	Treatment 737 760	General Anesthesia (GA)
+T7	Treatment 781 801	fentanyl intravenous
+T8	Treatment 881 892	anesthesia.
+T9	Treatment 977 987	anesthesia
+T10	Treatment 1020 1030	isoflurane
+T11	Treatment 1064 1094	nitrous oxide (N2O) in oxygen.
+T12	Treatment 1182 1192	anesthesia
+T13	Treatment 1917 1946	spinal and general anesthesia
+T14	Treatment 2138 2155	spinal anesthesia

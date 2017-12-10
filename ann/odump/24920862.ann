@@ -1,0 +1,7 @@
+T1	HMM 14 28	EEG discharges
+T2	HMM 896 953	attention-deficit/hyperactivity disorder (ADHD) symptoms.
+T3	HMM 988 996	abnormal
+T4	HMM 1061 1079	clinical seizures.
+T5	HMM 1231 1326	sex, age, intellectual disability, language level, or baseline ADHD symptoms, autistic symptoms
+T6	HMM 1388 1438	Autism Diagnostic Observation Schedule-2 criteria)
+T7	HMM 1542 1564	ADHD symptom severity.

@@ -1,0 +1,10 @@
+T1	HMM 25 38	costs of care
+T2	HMM 125 134	resources
+T3	HMM 144 158	costs incurred
+T4	HMM 649 654	Costs
+T5	HMM 724 729	costs
+T6	HMM 812 844	annual cost of intensive therapy
+T7	HMM 993 1025	cost of conventional therapy ($1
+T8	HMM 1074 1078	cost
+T9	HMM 1106 1136	frequency of outpatient visits
+T10	HMM 1153 1181	resources used in self-care.

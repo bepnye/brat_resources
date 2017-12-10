@@ -1,0 +1,7 @@
+T1	Treatment 0 26	Abdominoperineal resection
+T2	Treatment 31 49	anterior resection
+T3	Treatment 108 143	adjuvant preoperative radiotherapy.
+T4	Treatment 199 280	abdominoperineal or anterior resection, with or without preoperative radiotherapy
+T5	Treatment 514 539	preoperative radiotherapy
+T6	Treatment 775 787	radiotherapy
+T7	Treatment 975 1002	Sphincter-saving procedures

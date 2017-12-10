@@ -1,0 +1,16 @@
+Chi-Square Distribution
+Dental Devices, Home Care
+Dental Plaque
+Dental Plaque Index
+Gingivitis
+Humans
+Microscopy, Electron, Scanning
+Models, Statistical
+Multivariate Analysis
+Oral Hygiene
+Periodontal Index
+Periodontal Pocket
+Regression Analysis
+Smoking
+Toothbrushing
+Treatment Outcome

@@ -1,0 +1,15 @@
+T1	HMM 0 28	Short- and long-term effects
+T2	HMM 51 83	salivary cortisol concentrations
+T3	HMM 323 365	hypothalamic-pituitary-adrenal (HPA) axis.
+T4	HMM 406 460	basal diurnal and total secretion of salivary cortisol
+T5	HMM 885 902	Salivary cortisol
+T6	HMM 1126 1168	assess and compare cortisol concentrations
+T7	HMM 1285 1454	impact of age, gender, body mass index (BMI), duration and severity of PD, effects of interventional time-point of the day, and levodopa doses on cortisol concentration.
+T8	HMM 1467 1497	median cortisol concentrations
+T9	HMM 1630 1653	Cortisol concentrations
+T10	HMM 1786 1818	salivary cortisol concentrations
+T11	HMM 2022 2045	cortisol concentrations
+T12	HMM 2050 2208	age, gender, BMI, time-point for intervention, time interval between anti-parkinson pharmacy intake and sampling, levodopa doses, duration, or severity of PD.
+T13	HMM 2221 2253	Diurnal salivary cortisol rhythm
+T14	HMM 2266 2298	Salivary cortisol concentrations
+T15	HMM 2497 2528	salivary cortisol concentration

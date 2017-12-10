@@ -1,0 +1,9 @@
+Adult
+Blood Pressure
+Female
+Heart Rate
+Humans
+Male
+Mecamylamine
+Middle Aged
+Smoking

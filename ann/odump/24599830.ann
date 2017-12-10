@@ -1,0 +1,11 @@
+T1	HMM 560 614	risk of all-cause mortality and/or dialysis initiation
+T2	HMM 630 677	coronary artery calcification (CAC) progression
+T3	HMM 1080 1131	were death for any cause and initiation of dialysis
+T4	HMM 1285 1403	with increased CAC progression and occurrence of all-cause mortality, dialysis initiation, and the composite end-point
+T5	HMM 1499 1528	reduced risk of each endpoint
+T6	HMM 1538 1556	if CAC progression
+T7	HMM 1578 1587	moderate.
+T8	HMM 1588 1611	Accelerated progression
+T9	HMM 1681 1736	the risk of all-cause mortality and composite end-point
+T10	HMM 1815 1898	reduction in all-cause mortality, dialysis initiation, and composite end-point risk
+T11	HMM 2027 2054	accelerated CAC progression

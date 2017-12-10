@@ -1,0 +1,7 @@
+T1	HMM 0 19	Tetrahydrobiopterin
+T2	HMM 452 534	the Clinical Global Impressions Improvement and Severity Scales (CGI-I and CGI-S);
+T3	HMM 559 717	the Preschool Language Scale-4 (PLS-4), Social Responsiveness Scale (SRS), Aberrant Behavior Checklist (ABC), and Vineland Adaptive Behavior Scales (Vineland)
+T4	HMM 801 819	the CGI-I or CGI-S
+T5	HMM 875 882	for BH4
+T6	HMM 915 994	to social awareness, autism mannerisms, hyperactivity, and inappropriate speech
+T7	HMM 1113 1121	that BH4

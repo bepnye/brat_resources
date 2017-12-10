@@ -1,0 +1,10 @@
+T1	Outcomes 299 338	hepatic, renal functions, haemodynamics
+T2	Outcomes 343 363	perioperative course
+T3	Outcomes 583 596	Haemodynamics
+T4	Outcomes 612 665	invasive blood pressure and trans-oesophageal Doppler
+T5	Outcomes 673 780	Liver and kidney function tests, blood Glutathione-S-transferase (GST), urinary microalbuminuria (Microalb)
+T6	Outcomes 795 838	Extubation time and anaesthetic consumption
+T7	Outcomes 862 929	Systemic vascular resistance (SVR) post-resection and stroke volume
+T8	Outcomes 1064 1097	Doppler corrected flow time (FTc)
+T9	Outcomes 1182 1229	hepatic and renal functions, and urine Microalb
+T10	Outcomes 1424 1437	D consumption

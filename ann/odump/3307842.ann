@@ -1,0 +1,4 @@
+T1	HMM 13 32	infectious symptoms
+T2	HMM 472 488	higher morbidity
+T3	HMM 839 848	morbidity
+T4	HMM 1253 1262	morbidity

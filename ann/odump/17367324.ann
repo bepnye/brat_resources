@@ -1,0 +1,7 @@
+T1	HMM 0 21	p16(INK4a) Expression
+T2	HMM 685 706	p16(INK4a) expression
+T3	HMM 1016 1037	p16(INK4a) expression
+T4	HMM 1080 1114	univariate survival (Cox) analysis
+T5	HMM 1276 1297	p16(INK4a) expression
+T6	HMM 1321 1339	diagnosis of CIN2.
+T7	HMM 1385 1390	CIN2.

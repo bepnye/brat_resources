@@ -1,0 +1,6 @@
+T1	HMM 590 650	improve survival and reduce local recurrences and metastases
+T2	HMM 708 721	survival rate
+T3	HMM 857 912	lengths of disease-free status and survival of patients
+T4	HMM 1107 1126	highly advantageous
+T5	HMM 1270 1282	no advantage
+T6	HMM 1316 1346	occurrence of lung metastases.

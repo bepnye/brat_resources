@@ -1,0 +1,11 @@
+Aneurysm, Dissecting
+Angioplasty, Balloon, Coronary
+Blood Flow Velocity
+Coronary Disease
+Female
+Humans
+Male
+Middle Aged
+Stents
+Treatment Outcome
+Ultrasonography, Interventional

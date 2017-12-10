@@ -1,0 +1,9 @@
+T1	HMM 31 54	cardiovascular response
+T2	HMM 354 368	blood pressure
+T3	HMM 377 398	rate pressure product
+T4	HMM 419 430	heart rate.
+T5	HMM 477 503	pressor response the cold.
+T6	HMM 550 574	cardiovascular variables
+T7	HMM 664 685	rate pressure product
+T8	HMM 760 774	pain threshold
+T9	HMM 885 909	cardiovascular variables

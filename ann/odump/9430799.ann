@@ -1,0 +1,6 @@
+T1	HMM 546 632	Cardiac output (CO), forearm blood flow (FABF) heart rate (HR) and blood pressure (BP)
+T2	HMM 763 773	CO and HR.
+T3	HMM 807 834	total peripheral resistance
+T4	HMM 876 878	BP
+T5	HMM 931 935	LBSP
+T6	HMM 960 1017	attenuated FABF and forearm vascular resistance responses

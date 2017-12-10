@@ -1,0 +1,12 @@
+T1	Treatment 0 20	Arginine vasopressin
+T2	Treatment 137 163	arginine vasopressin (AVP)
+T3	Treatment 389 444	Atrial natriuretic factor 15 pmol kg-1 min-1 or placebo
+T4	Treatment 520 551	AVP 0.003 pmol kg-1 min-1 or P;
+T5	Treatment 574 584	P + P, AVP
+T6	Treatment 590 611	P + ANF and AVP + ANF
+T7	Treatment 626 651	Atrial natriuretic factor
+T8	Treatment 829 849	Arginine vasopressin
+T9	Treatment 921 930	AVP + ANF
+T10	Treatment 972 979	P + ANF
+T11	Treatment 1201 1204	AVP
+T12	Treatment 1267 1271	ANF.

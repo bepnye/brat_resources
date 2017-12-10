@@ -1,0 +1,11 @@
+T1	Outcomes 85 124	human immunodeficiency virus infection.
+T2	Outcomes 220 255	human immunodeficiency virus type 1
+T3	Outcomes 1030 1050	Delavirdine exposure
+T4	Outcomes 1111 1153	maximum drug concentration in serum (Cmax)
+T5	Outcomes 1216 1255	area under the concentration-time curve
+T6	Outcomes 1352 1376	extent of N-dealkylation
+T7	Outcomes 1398 1452	ratio of the N-dealkylated delavirdine AUC0-->infinity
+T8	Outcomes 1460 1487	delavirdine AUC0-->infinity
+T9	Outcomes 1554 1573	didanosine exposure
+T10	Outcomes 1645 1649	Cmax
+T11	Outcomes 1856 1871	AUC0-->infinity

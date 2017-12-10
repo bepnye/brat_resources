@@ -1,0 +1,8 @@
+T1	Treatment 38 58	constant exhalation.
+T2	Treatment 286 306	constant exhalation.
+T3	Treatment 573 598	Exhalation TLCO (TLCO,ex)
+T4	Treatment 621 687	standard (Jones and Meade) 10 second breath holding TLCO (TLCO,bh)
+T5	Treatment 1230 1244	breath holding
+T6	Treatment 1249 1269	constant exhalation.
+T7	Treatment 1270 1289	Constant exhalation
+T8	Treatment 1335 1349	breath holding

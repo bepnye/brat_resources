@@ -1,0 +1,11 @@
+T1	HMM 30 46	chromatic effect
+T2	HMM 345 360	color of teeth.
+T3	HMM 401 414	color changes
+T4	HMM 724 758	Color changes in the enamel blocks
+T5	HMM 781 807	Minolta colorimeter CR300.
+T6	HMM 973 999	no color changes over time
+T7	HMM 1008 1029	high luminosity equal
+T8	HMM 1110 1114	safe
+T9	HMM 1131 1147	dental esthetics
+T10	HMM 1155 1168	control of S.
+T11	HMM 1169 1176	mutans.

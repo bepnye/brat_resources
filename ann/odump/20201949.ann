@@ -1,0 +1,6 @@
+T1	HMM 811 833	complete response (CR)
+T2	HMM 845 868	partial remission (PR).
+T3	HMM 984 1009	the overall response rate
+T4	HMM 1076 1143	The progression-free survival (PFS) and overall survival at 5 years
+T5	HMM 1326 1334	relapsed
+T6	HMM 1350 1369	long-term survivors

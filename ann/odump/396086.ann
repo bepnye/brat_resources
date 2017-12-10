@@ -1,0 +1,10 @@
+T1	HMM 43 96	blood pressure, plasma renin activity and aldosterone
+T2	HMM 336 365	blood pressure and heart rate
+T3	HMM 447 461	blood pressure
+T4	HMM 586 607	plasma renin activity
+T5	HMM 886 905	Urinary aldosterone
+T6	HMM 1075 1124	basal values nor changes of renin and aldosterone
+T7	HMM 1208 1237	urinary sodium excretion fell
+T8	HMM 1323 1329	sodium
+T9	HMM 1370 1384	blood pressure
+T10	HMM 1394 1418	successive sodium escape

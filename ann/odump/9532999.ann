@@ -1,0 +1,7 @@
+T1	HMM 67 88	intrauterine pressure
+T2	HMM 158 179	intrauterine pressure
+T3	HMM 573 611	active and cumulative active pressures
+T4	HMM 705 731	individual active pressure
+T5	HMM 850 876	Cumulative active pressure
+T6	HMM 1015 1031	uterine activity
+T7	HMM 1145 1173	individual active pressures.

@@ -1,0 +1,6 @@
+T1	HMM 1160 1329	heart rate and mean arterial pressure, oxygen saturation, visual analogue score (VAS), verbal rating scale (VRS), rescue analgesic requirements, total opioid consumption
+T2	HMM 1509 1582	demographic data, mean arterial pressure, heart rate or oxygen saturation
+T3	HMM 1603 1642	area under the curve VAS and VRS scores
+T4	HMM 1729 1790	rescue analgesic requirement and the total opioid consumption
+T5	HMM 1870 1917	time to first mobilisation and the Likert score
+T6	HMM 2025 2041	block onset time

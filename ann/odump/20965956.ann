@@ -1,0 +1,8 @@
+T1	HMM 246 267	complement activation
+T2	HMM 424 454	systemic complement activation
+T3	HMM 1118 1133	C4b/c and C3b/c
+T4	HMM 1149 1173	levels of microparticles
+T5	HMM 1392 1413	C3b/c (but not C4b/c)
+T6	HMM 1600 1679	Concentrations of fluid-phase complement activation products and microparticles
+T7	HMM 1868 1903	activation of the complement system
+T8	HMM 1995 2026	systemic complement activation.

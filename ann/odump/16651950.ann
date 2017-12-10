@@ -1,0 +1,6 @@
+T1	HMM 926 934	Cosmesis
+T2	HMM 1103 1171	infection, dehiscence, pain, closure time, and other adverse events.
+T3	HMM 1253 1268	Cosmesis scores
+T4	HMM 1353 1409	Rates of infection, dehiscence, and other adverse events
+T5	HMM 1463 1491	Closure time and pain scores
+T6	HMM 1616 1643	cosmesis and safety profile

@@ -1,0 +1,15 @@
+T1	Outcomes 992 1015	complete remission (CR)
+T2	Outcomes 1030 1047	partial remission
+T3	Outcomes 1057 1074	failed to respond
+T4	Outcomes 1088 1092	died
+T5	Outcomes 1217 1255	overall survival time to failure (TTF)
+T6	Outcomes 1261 1291	time to relapse (TTR) survival
+T7	Outcomes 1384 1396	relapse rate
+T8	Outcomes 1422 1451	persistent fibronecrotic mass
+T9	Outcomes 1510 1523	relapse rate.
+T10	Outcomes 1524 1532	Toxicity
+T11	Outcomes 1544 1555	neutropenia
+T12	Outcomes 1560 1569	infection
+T13	Outcomes 1617 1648	dying from septic complications
+T14	Outcomes 1722 1733	neutropenia
+T15	Outcomes 1795 1815	documented infection

@@ -1,0 +1,20 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Carcinoma, Squamous Cell
+Chemoradiotherapy, Adjuvant
+Cisplatin
+Deoxycytidine
+Disease-Free Survival
+Drug Administration Schedule
+Female
+Fluorouracil
+Head and Neck Neoplasms
+Humans
+Male
+Middle Aged
+Neoadjuvant Therapy
+Neoplasm Grading
+Neoplasm Invasiveness
+Neoplasm Staging
+Quality of Life

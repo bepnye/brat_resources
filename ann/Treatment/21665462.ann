@@ -1,0 +1,17 @@
+T1	Treatment 13 34	irinotecan or FOLFIRI
+T2	Treatment 50 62	chemotherapy
+T3	Treatment 214 224	irinotecan
+T4	Treatment 313 323	irinotecan
+T5	Treatment 352 366	5-fluorouracil
+T6	Treatment 414 431	fluoropyrimidine.
+T7	Treatment 524 536	chemotherapy
+T8	Treatment 541 551	irinotecan
+T9	Treatment 689 730	Combination therapy (FOLFIRI), irinotecan
+T10	Treatment 768 782	5-fluorouracil
+T11	Treatment 857 869	folinic acid
+T12	Treatment 926 936	irinotecan
+T13	Treatment 1233 1243	irinotecan
+T14	Treatment 1602 1618	irinotecan-based
+T15	Treatment 1643 1653	irinotecan
+T16	Treatment 1764 1785	Combination treatment
+T17	Treatment 1813 1823	irinotecan

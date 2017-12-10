@@ -1,0 +1,13 @@
+T1	HMM 43 66	objective sleep testing
+T2	HMM 75 126	symptoms of rhinitis, sleep, and daytime somnolence
+T3	HMM 258 273	disrupted sleep
+T4	HMM 372 401	sleep and daytime somnolence.
+T5	HMM 588 645	improvement of congestion, sleep, and daytime somnolence.
+T6	HMM 788 852	subjective congestion and daytime somnolence and improving sleep
+T7	HMM 905 947	overnight sleep testing (polysomnography).
+T8	HMM 1178 1309	Questionnaires, quality of life instruments, daily diary, Epworth Sleepiness Scale, and an overnight sleep test with polysomnograms
+T9	HMM 1472 1504	sleep tests and subjective tests
+T10	HMM 1542 1558	subjective sleep
+T11	HMM 1638 1658	apnea/hypopnea index
+T12	HMM 1687 1717	Daytime sleepiness and fatigue
+T13	HMM 1866 1882	subjective sleep

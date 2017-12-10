@@ -1,0 +1,15 @@
+T1	HMM 61 89	subclinical atherosclerosis:
+T2	HMM 322 380	progression of carotid artery intima-media thickness (IMT)
+T3	HMM 820 838	carotid artery IMT
+T4	HMM 903 914	carotid IMT
+T5	HMM 949 991	high-density lipoprotein (HDL) cholesterol
+T6	HMM 1152 1173	HDL-cholesterol level
+T7	HMM 1200 1222	LDL-cholesterol level.
+T8	HMM 1236 1280	fasting glucose, insulin, and hemoglobin A1C
+T9	HMM 1422 1457	HDL-cholesterol and LDL-cholesterol
+T10	HMM 1503 1514	carotid IMT
+T11	HMM 1619 1631	carotid IMT.
+T12	HMM 1678 1689	carotid IMT
+T13	HMM 1748 1763	HDL-cholesterol
+T14	HMM 1779 1795	LDL-cholesterol.
+T15	HMM 1950 1961	carotid IMT

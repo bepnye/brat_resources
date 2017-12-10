@@ -1,0 +1,7 @@
+T1	Outcomes 51 64	rectal cancer
+T2	Outcomes 385 401	serum CEA levels
+T3	Outcomes 780 791	CEA values:
+T4	Outcomes 1100 1123	5-year overall survival
+T5	Outcomes 1160 1188	5-year disease-free survival
+T6	Outcomes 1364 1392	5-year overall survival rate
+T7	Outcomes 1650 1666	of CEA clearance

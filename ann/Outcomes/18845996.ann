@@ -1,0 +1,12 @@
+T1	Outcomes 38 63	neutropenic complications
+T2	Outcomes 267 297	neutropenic complications (NC)
+T3	Outcomes 662 735	NC were defined as an absolute neutrophil count < or =1.5 x 10(9) cells/L
+T4	Outcomes 780 843	febrile neutropenia or neutropenia with a documented infection.
+T5	Outcomes 1204 1280	poor performance status, absolute neutrophil count < or =2.0 x 10(9) cells/L
+T6	Outcomes 1304 1369	the first cycle of chemotherapy, DOX versus PLD and advanced age.
+T7	Outcomes 1372 1391	precycle risk score
+T8	Outcomes 1469 1494	threshold for sensitivity
+T9	Outcomes 1507 1518	specificity
+T10	Outcomes 1544 1577	score at or beyond this threshold
+T11	Outcomes 1601 1610	high risk
+T12	Outcomes 1839 1841	NC

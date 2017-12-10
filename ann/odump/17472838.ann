@@ -1,0 +1,9 @@
+T1	HMM 0 19	Efficacy and safety
+T2	HMM 212 216	safe
+T3	HMM 998 1048	Mortality, hospitalization, and metabolic markers.
+T4	HMM 1352 1383	fluid overload or hyperkalemia.
+T5	HMM 1440 1446	deaths
+T6	HMM 1472 1504	One-year observed survival rates
+T7	HMM 1750 1758	survival
+T8	HMM 1802 1838	The hazard ratio for hospitalization
+T9	HMM 2040 2058	effective and safe

@@ -1,0 +1,8 @@
+T1	HMM 382 426	safety, tolerability, and antiviral activity
+T2	HMM 1554 1596	frequency of infection and viral shedding;
+T3	HMM 1742 1750	infected
+T4	HMM 2029 2061	viral titer area under the curve
+T5	HMM 2293 2332	median (IQR) duration of viral shedding
+T6	HMM 2443 2457	symptom scores
+T7	HMM 2530 2568	nasal proinflammatory cytokine levels.
+T8	HMM 2579 2602	mild to moderate nausea

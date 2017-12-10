@@ -1,0 +1,24 @@
+T1	Outcomes 0 21	Clinical pharmacology
+T2	Outcomes 74 102	pharmacokinetics and effects
+T3	Outcomes 119 128	behaviour
+T4	Outcomes 133 182	plasma concentrations of cortisol and vasopressin
+T5	Outcomes 477 512	Drug and hormone analyses in plasma
+T6	Outcomes 640 656	Behavioural data
+T7	Outcomes 740 773	plasma concentration of methadone
+T8	Outcomes 834 852	terminal half-life
+T9	Outcomes 880 902	volume of distribution
+T10	Outcomes 928 944	plasma clearance
+T11	Outcomes 1005 1041	time to maximal plasma concentration
+T12	Outcomes 1070 1111	maximal plasma concentration of methadone
+T13	Outcomes 1145 1163	terminal half-life
+T14	Outcomes 1191 1206	bioavailability
+T15	Outcomes 1223 1270	Concentrations of both cortisol and vasopressin
+T16	Outcomes 1326 1354	observed behavioural effects
+T17	Outcomes 1383 1405	licking and swallowing
+T18	Outcomes 1425 1432	whining
+T19	Outcomes 1519 1523	pain
+T20	Outcomes 1651 1660	half-life
+T21	Outcomes 1692 1726	variation in plasma concentrations
+T22	Outcomes 1782 1802	frequency of whining
+T23	Outcomes 1895 1944	Cortisol and vasopressin concentrations in plasma
+T24	Outcomes 1980 1989	analgesia

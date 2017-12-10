@@ -1,0 +1,6 @@
+T1	HMM 511 540	Refractory status epilepticus
+T2	HMM 618 670	median time to control refractory status epilepticus
+T3	HMM 816 852	ventilation or developed hypotension
+T4	HMM 897 908	ventilation
+T5	HMM 927 938	hypotension
+T6	HMM 976 1010	adverse effects on liver functions

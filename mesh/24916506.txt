@@ -1,0 +1,16 @@
+Antibodies, Monoclonal, Murine-Derived
+Antineoplastic Combined Chemotherapy Protocols
+Combined Modality Therapy
+Cyclophosphamide
+Disease-Free Survival
+Focal Adhesion Kinase 1
+Gene Expression
+Humans
+Immunotherapy
+Leukemia, Lymphocytic, Chronic, B-Cell
+Proportional Hazards Models
+RNA, Messenger
+RNA, Neoplasm
+Recurrence
+Retrospective Studies
+Vidarabine

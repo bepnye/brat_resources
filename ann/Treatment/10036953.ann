@@ -1,0 +1,17 @@
+T1	Treatment 35 48	H2 blockaders
+T2	Treatment 112 122	ranitidine
+T3	Treatment 127 139	lansoprazole
+T4	Treatment 311 330	antisecretory drugs
+T5	Treatment 428 440	lansoprazole
+T6	Treatment 450 460	ranitidine
+T7	Treatment 486 506	clarithromycin (CAM)
+T8	Treatment 511 530	metrinidazole (MTZ)
+T9	Treatment 602 605	LPZ
+T10	Treatment 613 616	CAM
+T11	Treatment 625 628	MTZ
+T12	Treatment 653 663	ranitidine
+T13	Treatment 679 682	RNT
+T14	Treatment 691 694	CAM
+T15	Treatment 703 706	MTZ
+T16	Treatment 779 782	LCM
+T17	Treatment 818 821	RCM

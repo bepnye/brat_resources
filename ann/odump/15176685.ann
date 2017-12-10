@@ -1,0 +1,9 @@
+T1	HMM 27 68	severity of bronchial hyperresponsiveness
+T2	HMM 162 182	evaluate the effects
+T3	HMM 243 272	bronchial hyperresponsiveness
+T4	HMM 734 778	Bronchial hyperresponsiveness was quantified
+T5	HMM 801 833	provocative dose of methacholine
+T6	HMM 844 902	20% fall in forced expiratory volume in one second (PD20).
+T7	HMM 903 936	Median (interquartile range) PD20
+T8	HMM 1147 1173	Serum free cortisol levels
+T9	HMM 1315 1354	degree of bronchial hyperresponsiveness

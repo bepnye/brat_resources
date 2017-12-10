@@ -1,0 +1,12 @@
+T1	HMM 835 870	pain scores and satisfaction scores
+T2	HMM 929 949	simple questionnaire
+T3	HMM 1192 1286	operation time, blood loss, day of first bowel movement after surgery, and complication rates.
+T4	HMM 1393 1403	pain score
+T5	HMM 1465 1479	length of stay
+T6	HMM 1692 1712	smooth muscle fibers
+T7	HMM 1747 1774	smooth muscle incorporation
+T8	HMM 1779 1812	postoperative continence function
+T9	HMM 2040 2059	satisfaction scores
+T10	HMM 2113 2131	safe and effective
+T11	HMM 2213 2221	benefits
+T12	HMM 2225 2294	reduced pain, shorter length of stay, and earlier resumption to work.

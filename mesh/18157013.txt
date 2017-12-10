@@ -1,0 +1,23 @@
+Adult
+Aged
+Antigens, CD3
+Antigens, CD56
+Antigens, CD8
+Carcinoma, Hepatocellular
+Cell Line, Tumor
+Combined Modality Therapy
+Cytotoxicity Tests, Immunologic
+Female
+Humans
+Immunophenotyping
+Immunotherapy, Adoptive
+Interferon-gamma
+Interleukin-4
+Killer Cells, Lymphokine-Activated
+Leukocytes, Mononuclear
+Liver Neoplasms
+Lymphocyte Subsets
+Male
+Middle Aged
+Neoplasm Recurrence, Local
+Treatment Outcome

@@ -1,0 +1,12 @@
+T1	HMM 620 655	severe or life-threatening toxicity
+T2	HMM 716 746	Bacterial or fungal infections
+T3	HMM 839 861	Fatal cardiac toxicity
+T4	HMM 887 915	Complete or partial response
+T5	HMM 1077 1086	responses
+T6	HMM 1167 1187	duration of survival
+T7	HMM 1250 1277	median duration of survival
+T8	HMM 1424 1453	complete or partial responses
+T9	HMM 1599 1630	activity in childhood leukemia.
+T10	HMM 1649 1707	incidence of severe, life-threatening, or fatal infections
+T11	HMM 1723 1769	quality and quantity of responses and survival
+T12	HMM 1800 1808	toxicity

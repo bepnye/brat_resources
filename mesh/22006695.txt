@@ -1,0 +1,16 @@
+Adult
+Aged
+Arm
+Electromyography
+Female
+Humans
+Male
+Middle Aged
+Movement
+Orientation
+Photic Stimulation
+Psychomotor Performance
+Range of Motion, Articular
+Stroke
+Torque
+Young Adult

@@ -1,0 +1,7 @@
+T1	HMM 646 672	sensitization to allergens
+T2	HMM 879 894	serum total IgE
+T3	HMM 948 980	specific allergen sensitization.
+T4	HMM 1003 1012	total IgE
+T5	HMM 1226 1248	allergen sensitization
+T6	HMM 1278 1292	IgE antibodies
+T7	HMM 1409 1440	specific allergen sensitization

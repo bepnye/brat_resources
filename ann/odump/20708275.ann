@@ -1,0 +1,9 @@
+T1	HMM 294 307	sleep quality
+T2	HMM 312 320	hormones
+T3	HMM 572 602	Pittsburgh Sleep Quality Index
+T4	HMM 689 752	Estradiol, prolactin and cortisol, and a single measure of IL-6
+T5	HMM 812 899	21-item Hamilton Rating Scale for Depression (HRSD) scores≥15 and clinician interview
+T6	HMM 933 971	to PPMD recurrence, poor sleep quality
+T7	HMM 1014 1034	with PPMD recurrence
+T8	HMM 1244 1256	between PSQI
+T9	HMM 1264 1272	and IL-6

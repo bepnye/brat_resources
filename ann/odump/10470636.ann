@@ -1,0 +1,8 @@
+T1	HMM 46 92	bladder compliance and intraabdominal pressure
+T2	HMM 208 254	bladder compliance and intraabdominal pressure
+T3	HMM 1095 1141	Intraabdominal pressure and bladder compliance
+T4	HMM 1413 1436	intraabdominal pressure
+T5	HMM 1530 1558	mean intraabdominal pressure
+T6	HMM 1712 1730	bladder compliance
+T7	HMM 1957 2005	significant decrease in intraabdominal pressure.
+T8	HMM 2052 2082	increase in bladder compliance

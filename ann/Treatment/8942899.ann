@@ -1,0 +1,19 @@
+T1	Treatment 53 89	lateral and standard SMAS face lifts
+T2	Treatment 95 108	extended SMAS
+T3	Treatment 113 138	composite rhytidectomies.
+T4	Treatment 183 250	limited SMAS (lateral SMASectomy), conventional SMAS, extended SMAS
+T5	Treatment 256 281	composite rhytidectomies.
+T6	Treatment 320 422	limited SMAS or conventional SMAS face lift on one side and an extended SMAS or composite rhytidectomy
+T7	Treatment 928 951	primary rhytidectomies;
+T8	Treatment 966 987	secondary face lifts.
+T9	Treatment 1096 1113	conventional SMAS
+T10	Treatment 1126 1138	limited SMAS
+T11	Treatment 1197 1214	conventional SMAS
+T12	Treatment 1251 1263	limited SMAS
+T13	Treatment 1298 1320	composite rhytidectomy
+T14	Treatment 1647 1660	extended SMAS
+T15	Treatment 1665 1690	composite rhytidectomies.
+T16	Treatment 2215 2243	limited (lateral SMASectomy)
+T17	Treatment 2248 2265	conventional SMAS
+T18	Treatment 2291 2304	extended SMAS
+T19	Treatment 2309 2334	composite rhytidectomies.

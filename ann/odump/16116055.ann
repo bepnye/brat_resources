@@ -1,0 +1,8 @@
+T1	HMM 798 839	cardiovascular death or rehospitalization
+T2	HMM 844 868	congestive heart failure
+T3	HMM 1081 1152	cardiovascular death or hospital admission for congestive heart failure
+T4	HMM 1207 1233	Postprocedural TIMI 3 flow
+T5	HMM 1361 1387	Corrected TIMI frame count
+T6	HMM 1477 1503	ST-segment resolution >50%
+T7	HMM 1719 1736	clinical outcomes
+T8	HMM 1750 1798	cardiovascular events of long duration and death

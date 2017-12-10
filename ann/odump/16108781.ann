@@ -1,0 +1,13 @@
+T1	HMM 0 19	Economic evaluation
+T2	HMM 334 351	evaluate the cost
+T3	HMM 526 556	development and sustainability
+T4	HMM 787 814	cost-effectiveness analysis
+T5	HMM 966 983	Resource use data
+T6	HMM 993 1058	length of stay, investigations performed, multiprofessional input
+T7	HMM 1063 1077	nursing input.
+T8	HMM 1078 1094	Clinical outcome
+T9	HMM 1114 1127	Barthel Index
+T10	HMM 1166 1178	Cost per day
+T11	HMM 1232 1254	cost per hospital stay
+T12	HMM 1313 1347	Postdischarge community care costs
+T13	HMM 1364 1400	incremental cost-effectiveness ratio

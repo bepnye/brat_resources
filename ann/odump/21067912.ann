@@ -1,0 +1,5 @@
+T1	HMM 561 587	incidence of neurotoxicity
+T2	HMM 595 611	clinical outcome
+T3	HMM 1297 1320	all grade neurotoxicity
+T4	HMM 1439 1454	2 neurotoxicity
+T5	HMM 1497 1511	The median PFS

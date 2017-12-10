@@ -1,0 +1,18 @@
+T1	Treatment 0 80	Atrial fibrillation catheter ablation versus surgical ablation treatment (FAST):
+T2	Treatment 131 153	Catheter ablation (CA)
+T3	Treatment 158 199	minimally invasive surgical ablation (SA)
+T4	Treatment 596 598	CA
+T5	Treatment 637 639	CA
+T6	Treatment 657 659	SA
+T7	Treatment 675 677	CA
+T8	Treatment 761 763	SA
+T9	Treatment 1096 1116	antiarrhythmic drugs
+T10	Treatment 1148 1150	CA
+T11	Treatment 1165 1167	SA
+T12	Treatment 1383 1385	SA
+T13	Treatment 1395 1397	CA
+T14	Treatment 1558 1560	CA
+T15	Treatment 1743 1749	CA, SA
+T16	Treatment 1765 1767	CA
+T17	Treatment 1919 1921	SA
+T18	Treatment 1931 1934	CA.

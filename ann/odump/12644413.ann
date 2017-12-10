@@ -1,0 +1,11 @@
+T1	HMM 33 78	metabolic control in type 2 diabetic patients
+T2	HMM 447 468	blood glucose control
+T3	HMM 473 493	insulin requirements
+T4	HMM 796 824	Blood glucose concentrations
+T5	HMM 902 950	Plasma C-peptide and counter-regulatory hormones
+T6	HMM 979 988	Glycaemia
+T7	HMM 1053 1090	median amount of insulin administered
+T8	HMM 1207 1242	Plasma catecholamine concentrations
+T9	HMM 1322 1346	cortisol concentrations.
+T10	HMM 1446 1467	blood glucose control
+T11	HMM 1482 1502	insulin requirements

@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aged
+Animals
+Antimalarials
+Artemisinins
+Drug Combinations
+Drug Resistance
+Female
+Humans
+Malaria, Vivax
+Male
+Middle Aged
+Parasitemia
+Plasmodium vivax
+Primaquine
+Pyrimethamine
+Sesquiterpenes
+Sulfadoxine
+Treatment Outcome

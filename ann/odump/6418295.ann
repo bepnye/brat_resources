@@ -1,0 +1,12 @@
+T1	HMM 218 232	blood pressure
+T2	HMM 779 822	heart rate and urinary noradrenaline output
+T3	HMM 834 871	systolic or diastolic blood pressure.
+T4	HMM 872 883	Body weight
+T5	HMM 913 937	urinary sodium excretion
+T6	HMM 971 992	urinary sodium output
+T7	HMM 1055 1066	weight loss
+T8	HMM 1088 1126	Systolic and diastolic blood pressures
+T9	HMM 1158 1168	heart rate
+T10	HMM 1173 1205	urinary noradrenaline excretion.
+T11	HMM 1309 1345	sympathetic nervous system activity.
+T12	HMM 1359 1373	blood pressure

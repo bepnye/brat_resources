@@ -1,0 +1,8 @@
+T1	HMM 240 298	diagnostic accuracy of coronary artery stenosis evaluation
+T2	HMM 686 729	degree of stenosis on each coronary segment
+T3	HMM 735 751	overall accuracy
+T4	HMM 838 876	improved analysis accuracy per segment
+T5	HMM 894 905	sensitivity
+T6	HMM 967 978	specificity
+T7	HMM 1031 1080	Positive and negative predictive values increased
+T8	HMM 1156 1178	diagnostic performance

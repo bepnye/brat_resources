@@ -1,0 +1,21 @@
+Adolescent
+Adult
+Antineoplastic Combined Chemotherapy Protocols
+Bleomycin
+Bone Marrow Transplantation
+Carmustine
+Confidence Intervals
+Cyclophosphamide
+Disease-Free Survival
+Doxorubicin
+Etoposide
+Follow-Up Studies
+Humans
+Lymphoma, Non-Hodgkin
+Middle Aged
+Prednisolone
+Prospective Studies
+Remission Induction
+Risk Factors
+Transplantation, Autologous
+Vindesine

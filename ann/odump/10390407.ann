@@ -1,0 +1,5 @@
+T1	HMM 27 35	efficacy
+T2	HMM 770 799	beta2-adrenoceptor tolerance.
+T3	HMM 800 871	S-potassium, heart rate corrected Q-T interval (Q-Tc), and tremor score
+T4	HMM 1232 1244	tremor score
+T5	HMM 1266 1277	S-potassium

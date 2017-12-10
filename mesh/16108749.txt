@@ -1,0 +1,18 @@
+Adolescent
+Anesthesia, Caudal
+Anesthesia, Local
+Anesthetics, Local
+Anti-Inflammatory Agents, Non-Steroidal
+Bupivacaine
+Chi-Square Distribution
+Child
+Child, Preschool
+Diclofenac
+Female
+Humans
+Laparoscopy
+Male
+Pain Measurement
+Pain, Postoperative
+Suppositories
+Treatment Outcome

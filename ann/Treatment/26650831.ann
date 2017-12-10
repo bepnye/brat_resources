@@ -1,0 +1,6 @@
+T1	Treatment 0 10	Ultrasound
+T2	Treatment 34 60	magnetic resonance imaging
+T3	Treatment 225 282	primary breast tumour post-neoadjuvant chemotherapy (NAC)
+T4	Treatment 439 491	magnetic resonance imaging (MRI) and ultrasound (US)
+T5	Treatment 676 679	MRI
+T6	Treatment 689 691	US

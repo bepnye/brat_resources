@@ -1,0 +1,10 @@
+T1	Treatment 28 43	low level laser
+T2	Treatment 94 106	Radiotherapy
+T3	Treatment 139 151	chemotherapy
+T4	Treatment 338 370	low-power laser on radiotherapy-
+T5	Treatment 375 395	chemotherapy-induced
+T6	Treatment 466 481	low-power laser
+T7	Treatment 549 562	chemotherapy.
+T8	Treatment 662 674	chemotherapy
+T9	Treatment 768 780	chemotherapy
+T10	Treatment 887 902	low-power laser

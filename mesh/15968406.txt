@@ -1,0 +1,13 @@
+Adult
+Aged
+Anticoagulants
+Dalteparin
+Factor Xa Inhibitors
+Female
+Humans
+Male
+Middle Aged
+Neoplasms
+Prospective Studies
+Thromboembolism
+Warfarin

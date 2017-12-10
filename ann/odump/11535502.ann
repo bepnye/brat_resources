@@ -1,0 +1,16 @@
+T1	HMM 531 553	favorable cytogenetics
+T2	HMM 587 641	incidence of translocations involving chromosome 11q23
+T3	HMM 731 743	FAB types M5
+T4	HMM 758 760	M7
+T5	HMM 856 868	FAB types M0
+T6	HMM 892 894	M2
+T7	HMM 910 912	M3
+T8	HMM 924 965	Involvement of the central nervous system
+T9	HMM 1061 1076	severe diarrhea
+T10	HMM 1121 1140	nausea and vomiting
+T11	HMM 1213 1237	complete remission rates
+T12	HMM 1388 1394	deaths
+T13	HMM 1475 1491	overall survival
+T14	HMM 1502 1521	event-free survival
+T15	HMM 1536 1557	disease-free survival
+T16	HMM 1614 1626	relapse rate

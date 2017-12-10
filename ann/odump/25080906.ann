@@ -1,0 +1,7 @@
+T1	HMM 556 713	Oxygenation index (OI), difference of alveoli-arterial oxygen pressure (P(A-α)O2), static lung compliance (Cstat), and airway resistance (Raw) were measured
+T2	HMM 880 914	The time of mechanical ventilation
+T3	HMM 949 970	the CPB, OI and Cstat
+T4	HMM 1010 1033	while Raw and P(A-α)O2
+T5	HMM 1059 1089	At T3, T4 and T5, OI and Cstat
+T6	HMM 1175 1202	(P<0.05), Raw and P(A-α)O2
+T7	HMM 1297 1317	The ventilation time

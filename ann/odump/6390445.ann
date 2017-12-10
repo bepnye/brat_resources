@@ -1,0 +1,6 @@
+T1	HMM 267 275	efficacy
+T2	HMM 824 850	recurrence rate after TUR.
+T3	HMM 873 883	tolerated.
+T4	HMM 884 903	Systemic absorption
+T5	HMM 929 964	no severe drug-related side effects
+T6	HMM 990 1007	Chemical cystitis

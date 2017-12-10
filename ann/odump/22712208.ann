@@ -1,0 +1,5 @@
+T1	HMM 915 933	sleep disturbance.
+T2	HMM 1218 1242	self-assessed sleepiness
+T3	HMM 1273 1339	self-assessment of night sleep for day-shift days and for fatigue.
+T4	HMM 1340 1358	Mean response time
+T5	HMM 1504 1557	frequency of perceived adverse events and near misses

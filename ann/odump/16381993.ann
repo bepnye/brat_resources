@@ -1,0 +1,16 @@
+T1	HMM 13 41	enzyme activity of 11betaHSD
+T2	HMM 367 407	body composition and insulin sensitivity
+T3	HMM 570 632	11betaHSD type 1 and 2 (11betaHSD1 and 11betaHSD2) activities.
+T4	HMM 633 647	Abdominal s.c.
+T5	HMM 648 676	and visceral adipose tissues
+T6	HMM 718 745	Glucose disposal rate (GDR)
+T7	HMM 827 847	insulin sensitivity.
+T8	HMM 884 903	11betaHSD1 activity
+T9	HMM 1050 1053	GDR
+T10	HMM 1068 1085	visceral fat mass
+T11	HMM 1108 1118	11betaHSD1
+T12	HMM 1146 1163	visceral fat mass
+T13	HMM 1241 1251	11betaHSD1
+T14	HMM 1256 1267	11betaHSD 2
+T15	HMM 1283 1287	GDR.
+T16	HMM 1386 1421	11betaHSD1 and 11betaHSD2 activity.

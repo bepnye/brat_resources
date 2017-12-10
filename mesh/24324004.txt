@@ -1,0 +1,18 @@
+Acclimatization
+Adult
+Altitude
+Anoxia
+Blood Pressure
+Carotid Arteries
+Carotid Intima-Media Thickness
+Female
+Humans
+Male
+Muscle, Smooth, Vascular
+Oxidation-Reduction
+Placebo Effect
+Pressure
+Reactive Oxygen Species
+Sympathetic Nervous System
+Vascular Resistance
+Vasoconstriction

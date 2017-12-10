@@ -1,0 +1,10 @@
+T1	HMM 44 88	health economics of realtime teledermatology
+T2	HMM 219 265	cost-effectiveness of realtime teledermatology
+T3	HMM 819 836	clinical outcomes
+T4	HMM 857 869	consultation
+T5	HMM 875 890	similar--almost
+T6	HMM 978 1012	observed marginal cost per patient
+T7	HMM 1169 1191	observed marginal cost
+T8	HMM 1310 1330	total observed costs
+T9	HMM 1334 1349	teledermatology
+T10	HMM 1554 1567	average costs

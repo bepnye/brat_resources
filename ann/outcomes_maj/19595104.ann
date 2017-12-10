@@ -1,0 +1,8 @@
+T1	Outcomes 857 908	necrosis of tumor, size of tumor, local recurrence,
+T2	Outcomes 913 932	survival of patient
+T3	Outcomes 963 972	remission
+T4	Outcomes 1060 1097	tumor necrosis and minification rates
+T5	Outcomes 1266 1293	tumor local recurrence rate
+T6	Outcomes 1405 1429	median survival duration
+T7	Outcomes 1624 1643	tumor necrosis rate
+T8	Outcomes 1661 1688	patients' survival duration

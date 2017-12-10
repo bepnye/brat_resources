@@ -1,0 +1,5 @@
+T1	HMM 35 55	colonic transit time
+T2	HMM 622 637	colonic transit
+T3	HMM 732 755	acceleration in transit
+T4	HMM 797 812	colonic transit
+T5	HMM 950 984	worsening of Parkinsonian symptoms

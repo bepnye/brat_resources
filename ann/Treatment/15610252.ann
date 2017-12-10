@@ -1,0 +1,7 @@
+T1	Treatment 0 26	B-type natriuretic peptide
+T2	Treatment 129 168	B-type natriuretic peptide (BNP) levels
+T3	Treatment 416 419	BNP
+T4	Treatment 740 860	diagnostic strategy with (BNP group) or without (control group) the use of BNP levels provided by a rapid bedside assay.
+T5	Treatment 1094 1105	BNP testing
+T6	Treatment 1414 1417	BNP
+T7	Treatment 1499 1509	BNP levels

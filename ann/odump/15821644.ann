@@ -1,0 +1,12 @@
+T1	HMM 826 859	Platelet membrane glycoprotein Ib
+T2	HMM 864 960	glycoprotein IIb/IIIa, P-selectin, platelet-derived microparticles, leukocyte CD11b/CD18 (Mac-1)
+T3	HMM 966 994	platelet-leukocyte aggregate
+T4	HMM 1252 1268	thrombocytopenia
+T5	HMM 1283 1326	glycoprotein Ib and glycoprotein IIb levels
+T6	HMM 1345 1355	P-selectin
+T7	HMM 1382 1400	Mac-1 upregulation
+T8	HMM 1421 1450	collagen-induced aggregation.
+T9	HMM 1525 1597	thrombocytopenia, microparticle formation, and P-selectin translocation.
+T10	HMM 1809 1820	blood loss.
+T11	HMM 1927 2004	thrombocytopenia, platelet activation, platelet-leukocyte aggregate formation
+T12	HMM 2025 2056	platelet aggregative responses.

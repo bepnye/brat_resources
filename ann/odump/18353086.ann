@@ -1,0 +1,7 @@
+T1	HMM 31 41	ALA uptake
+T2	HMM 510 523	uptake of ALA
+T3	HMM 923 940	PPIX fluorescence
+T4	HMM 1202 1240	ratio of fluorescence after incubation
+T5	HMM 1447 1470	curettage and abrasion.
+T6	HMM 1515 1522	outcome
+T7	HMM 1820 1831	ALA uptake.

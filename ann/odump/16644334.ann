@@ -1,0 +1,5 @@
+T1	HMM 895 928	Recurrence of atrial fibrillation
+T2	HMM 1163 1214	deaths, adverse events, and serious adverse events.
+T3	HMM 1337 1373	median time to arrhythmia recurrence
+T4	HMM 1526 1554	relative risk for recurrence
+T5	HMM 1619 1624	death

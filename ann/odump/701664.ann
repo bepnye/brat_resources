@@ -1,0 +1,8 @@
+T1	HMM 858 884	blocking antibody activity
+T2	HMM 974 1008	rise in blocking antibody activity
+T3	HMM 1098 1131	blocking antibody activity levels
+T4	HMM 1235 1265	postseasonal specific IgE rise
+T5	HMM 1315 1323	erythema
+T6	HMM 1342 1352	induration
+T7	HMM 1403 1421	systemic reactions
+T8	HMM 1490 1513	symptomatic improvement

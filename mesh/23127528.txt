@@ -1,0 +1,15 @@
+Adult
+Aged
+Antigens, Neoplasm
+CA-19-9 Antigen
+Carcinoembryonic Antigen
+Deoxycytidine
+Disease Progression
+Female
+Humans
+Male
+Middle Aged
+Pancreatic Neoplasms
+Prognosis
+Tomography, X-Ray Computed
+Tumor Markers, Biological

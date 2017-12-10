@@ -1,0 +1,7 @@
+T1	HMM 621 630	bleedings
+T2	HMM 684 693	bleedings
+T3	HMM 862 881	absence of bleeding
+T4	HMM 946 987	Days lost from work per patient per month
+T5	HMM 1132 1153	freedom from bleeding
+T6	HMM 1161 1170	lost days
+T7	HMM 1202 1233	mobility and physical capacity.

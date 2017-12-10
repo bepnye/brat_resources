@@ -1,0 +1,9 @@
+T1	HMM 491 513	number of transfusions
+T2	HMM 1091 1192	number of transfusions, the number of donor exposures, and various clinical and physiologic outcomes.
+T3	HMM 1256 1272	RBC transfusions
+T4	HMM 1367 1383	number of donors
+T5	HMM 1529 1586	percentage of infants who avoided transfusions altogether
+T6	HMM 1745 1810	intraparenchymal brain hemorrhage or periventricular leukomalacia
+T7	HMM 1825 1856	more frequent episodes of apnea
+T8	HMM 1873 1898	mild and severe episodes.
+T9	HMM 1996 2027	major adverse neurologic events

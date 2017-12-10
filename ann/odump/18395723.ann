@@ -1,0 +1,4 @@
+T1	HMM 44 63	menopausal symptoms
+T2	HMM 714 748	hot flashes and excessive sweating
+T3	HMM 811 871	weakness, palpitations, limb paresthesia, and total symptoms
+T4	HMM 958 977	menopausal symptoms

@@ -1,0 +1,7 @@
+T1	Intervention 17 27	cytarabine
+T2	Intervention 39 48	cisplatin
+T3	Intervention 993 1003	cytarabine
+T4	Intervention 1031 1050	cisplatin infusion,
+T5	Intervention 1067 1076	cisplatin
+T6	Intervention 1198 1207	cisplatin
+T7	Intervention 1273 1294	irradiation+/-surgery

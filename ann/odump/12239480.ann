@@ -1,0 +1,8 @@
+T1	HMM 62 103	suppression of dentinal cold sensitivity.
+T2	HMM 1050 1068	Dentin sensitivity
+T3	HMM 1160 1177	Tooth sensitivity
+T4	HMM 1533 1564	suppression of cold sensitivity
+T5	HMM 1751 1787	temperature at which teeth responded
+T6	HMM 1826 1848	temperature reductions
+T7	HMM 1953 1984	decrease in sensitivity to cold
+T8	HMM 2253 2275	tooth root sensitivity

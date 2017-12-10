@@ -1,0 +1,20 @@
+T1	HMM 0 40	Safety, tolerability, and immunogenicity
+T2	HMM 523 560	compared immunity and safety profiles
+T3	HMM 618 626	placebo.
+T4	HMM 627 641	Immunogenicity
+T5	HMM 656 807	using VZV interferon-gamma (IFN-γ) enzyme-linked immunospot (ELISPOT) assay and VZV glycoprotein enzyme-linked immunosorbent antibody (gpELISA) assay.
+T6	HMM 808 833	Adverse experiences (AEs)
+T7	HMM 891 898	RESULTS
+T8	HMM 902 925	serious vaccine-related
+T9	HMM 930 939	occurred.
+T10	HMM 940 1046	VZV IFN-γ ELISPOT geometric mean count (GMC) of spot-forming cells per 10(6) peripheral blood mononuclear
+T11	HMM 1196 1206	postdose 2
+T12	HMM 1238 1250	respectively
+T13	HMM 1310 1335	The peak ELISPOT response
+T14	HMM 1370 1375	dose.
+T15	HMM 1376 1409	The gpELISA geometric mean titers
+T16	HMM 1488 1498	each dose.
+T17	HMM 1499 1549	Correlation between the IFN-γ ELISPOT and gpELISA
+T18	HMM 1586 1626	generally well-tolerated and immunogenic
+T19	HMM 1674 1687	was generally
+T20	HMM 1712 1724	VZV-specific

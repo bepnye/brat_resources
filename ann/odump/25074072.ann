@@ -1,0 +1,7 @@
+T1	HMM 90 94	acne
+T2	HMM 942 978	decrease in total acne lesion counts
+T3	HMM 1022 1047	facial improvement score.
+T4	HMM 1093 1121	severity of facial seborrhea
+T5	HMM 1159 1176	changes in weight
+T6	HMM 1305 1330	efficacy and tolerability
+T7	HMM 1405 1421	facial seborrhea

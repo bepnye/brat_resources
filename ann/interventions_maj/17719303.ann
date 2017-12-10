@@ -1,0 +1,14 @@
+T1	Intervention 0 48	Sodium bicarbonate, N-acetylcysteine, and saline
+T2	Intervention 411 429	sodium bicarbonate
+T3	Intervention 471 556	combination of N-acetylcysteine (NAC) plus sodium chloride and sodium chloride alone,
+T4	Intervention 823 901	infusion of sodium bicarbonate, sodium chloride, sodium chloride plus oral NAC
+T5	Intervention 1230 1248	sodium bicarbonate
+T6	Intervention 1339 1357	sodium bicarbonate
+T7	Intervention 1385 1406	sodium chloride alone
+T8	Intervention 1460 1471	combination
+T9	Intervention 1591 1609	sodium bicarbonate
+T10	Intervention 1624 1639	sodium chloride
+T11	Intervention 1711 1729	sodium bicarbonate
+T12	Intervention 1778 1802	sodium chloride infusion
+T13	Intervention 1815 1862	Combination therapy of NAC plus sodium chloride
+T14	Intervention 1916 1937	sodium chloride alone

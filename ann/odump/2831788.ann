@@ -1,0 +1,6 @@
+T1	HMM 424 438	blood pressure
+T2	HMM 548 571	systolic blood pressure
+T3	HMM 699 719	mean serum potassium
+T4	HMM 837 851	hyperkalaemia.
+T5	HMM 855 870	adverse effects
+T6	HMM 978 996	tolerated and safe

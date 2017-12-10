@@ -1,0 +1,19 @@
+T1	HMM 0 27	Cardiovascular risk markers
+T2	HMM 116 143	cardiovascular risk markers
+T3	HMM 448 475	Cardiovascular risk markers
+T4	HMM 560 570	Fibrinogen
+T5	HMM 635 662	Factor VIIc activity levels
+T6	HMM 726 744	Factor VII antigen
+T7	HMM 817 828	Factor VIIa
+T8	HMM 867 885	Plasminogen levels
+T9	HMM 1012 1027	lipid variables
+T10	HMM 1071 1108	total cholesterol and LDL cholesterol
+T11	HMM 1152 1163	factor VIIc
+T12	HMM 1213 1224	factor VIIc
+T13	HMM 1283 1300	bleeding pattern.
+T14	HMM 1351 1386	procoagulant changes in factor VIIa
+T15	HMM 1391 1411	factor VIIc activity
+T16	HMM 1435 1449	PAI-1 activity
+T17	HMM 1523 1544	androgenic properties
+T18	HMM 1582 1598	fibrinogen level
+T19	HMM 1603 1608	Lp(a)

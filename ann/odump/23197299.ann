@@ -1,0 +1,11 @@
+T1	HMM 847 947	Plasma clot-lysis times, activated TAFI (TAFIa)-dependent prolongation of clot-lysis and TAFI levels
+T2	HMM 963 985	Thyroid hormone excess
+T3	HMM 1000 1026	hypofibrinolytic condition
+T4	HMM 1046 1089	TAFIa-dependent prolongation of clot lysis.
+T5	HMM 1106 1134	decreased plasma TAFI levels
+T6	HMM 1221 1238	hyperfibrinolysis
+T7	HMM 1245 1296	reduced TAFIa-dependent prolongation of clot lysis.
+T8	HMM 1327 1369	TAFIa-dependent prolongation of clot lysis
+T9	HMM 1418 1447	impaired haemostatic balance.
+T10	HMM 1452 1481	disturbed haemostatic balance
+T11	HMM 1571 1579	bleeding

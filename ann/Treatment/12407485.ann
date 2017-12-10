@@ -1,0 +1,13 @@
+T1	Treatment 0 10	Lamivudine
+T2	Treatment 38 48	lamivudine
+T3	Treatment 65 74	stavudine
+T4	Treatment 81 99	protease inhibitor
+T5	Treatment 230 240	lamivudine
+T6	Treatment 281 291	lamivudine
+T7	Treatment 440 512	lamivudine 150 mg BID plus stavudine and either indinavir or nelfinavir.
+T8	Treatment 687 714	pretrial protease inhibitor
+T9	Treatment 789 799	lamivudine
+T10	Treatment 853 883	pretrial stavudine/PI regimens
+T11	Treatment 1640 1650	lamivudine
+T12	Treatment 1665 1694	combination with stavudine/PI
+T13	Treatment 1769 1779	lamivudine

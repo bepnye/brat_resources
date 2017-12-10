@@ -1,0 +1,16 @@
+T1	Outcomes 228 246	antitumor activity
+T2	Outcomes 251 257	safety
+T3	Outcomes 813 838	Grades 3 and 4 toxicities
+T4	Outcomes 888 899	neutropenia
+T5	Outcomes 907 914	fatigue
+T6	Outcomes 925 935	neuropathy
+T7	Outcomes 949 981	ixabepilone arm, and neutropenia
+T8	Outcomes 989 1008	febrile neutropenia
+T9	Outcomes 1015 1022	fatigue
+T10	Outcomes 1029 1039	neuropathy
+T11	Outcomes 1050 1060	thrombosis
+T12	Outcomes 1123 1148	prostate-specific antigen
+T13	Outcomes 1363 1380	partial responses
+T14	Outcomes 1538 1583	Time to prostate-specific antigen progression
+T15	Outcomes 1790 1804	well tolerated
+T16	Outcomes 1813 1831	antitumor activity

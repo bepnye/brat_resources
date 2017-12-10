@@ -1,0 +1,21 @@
+T1	HMM 0 56	Outcomes of early endovascular versus surgical treatment
+T2	HMM 69 88	cerebral aneurysms.
+T3	HMM 197 253	outcomes of surgical clipping and endovascular treatment
+T4	HMM 446 485	Clinical and neuropsychological outcome
+T5	HMM 775 783	recovery
+T6	HMM 793 840	severe disability or were in a vegetative state
+T7	HMM 854 858	died
+T8	HMM 925 933	recovery
+T9	HMM 958 989	neuropsychological test scores.
+T10	HMM 990 1011	Symptomatic vasospasm
+T11	HMM 1060 1079	Hunt and Hess grade
+T12	HMM 1121 1145	need for permanent shunt
+T13	HMM 1192 1219	larger size of the aneurysm
+T14	HMM 1294 1310	clinical outcome
+T15	HMM 1357 1394	superficial brain retraction deficits
+T16	HMM 1409 1425	ischemic lesions
+T17	HMM 1450 1467	ruptured aneurysm
+T18	HMM 1594 1602	survival
+T19	HMM 1632 1648	late rebleedings
+T20	HMM 1685 1725	clinical and neuropsychological outcomes
+T21	HMM 1889 1899	rebleeding

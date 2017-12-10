@@ -1,0 +1,10 @@
+T1	HMM 38 50	self-control
+T2	HMM 108 120	Self-control
+T3	HMM 540 552	self-control
+T4	HMM 812 836	neuropsychological tests
+T5	HMM 841 887	parental rating on standardized questionnaires
+T6	HMM 1123 1150	improvement in self-control
+T7	HMM 1226 1243	autistic symptoms
+T8	HMM 1258 1290	control of temper and behaviors.
+T9	HMM 1334 1355	enhanced EEG activity
+T10	HMM 1620 1632	self-control

@@ -1,0 +1,13 @@
+T1	HMM 106 114	evaluate
+T2	HMM 119 150	analgesic efficacy and duration
+T3	HMM 677 695	Postoperative pain
+T4	HMM 728 749	objective pain score.
+T5	HMM 750 851	Blood pressure, heart rate, oxygen saturation, total amount of analgesic consumed and adverse effects
+T6	HMM 884 919	duration of postoperative analgesia
+T7	HMM 1083 1124	Total analgesic (paracetamol) consumption
+T8	HMM 1366 1433	duration of postoperative analgesia and total analgesic consumption
+T9	HMM 1459 1478	nausea and vomiting
+T10	HMM 1544 1555	vital signs
+T11	HMM 1703 1719	analgesic effect
+T12	HMM 1860 1902	postoperative rescue analgesic consumption
+T13	HMM 1939 1955	adverse effects.

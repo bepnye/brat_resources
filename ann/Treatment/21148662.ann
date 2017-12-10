@@ -1,0 +1,11 @@
+T1	Treatment 20 51	angiotensin II-receptor blocker
+T2	Treatment 56 95	dihydropiridine calcium channel blocker
+T3	Treatment 360 398	angiotensin II-receptor blockers (ARB)
+T4	Treatment 435 478	conventional calcium channel blockers (CCB)
+T5	Treatment 686 703	ARB (candesartan)
+T6	Treatment 710 726	CCB (amlodipine)
+T7	Treatment 803 829	transtelephonic monitoring
+T8	Treatment 1267 1270	ARB
+T9	Treatment 1292 1295	CCB
+T10	Treatment 2008 2022	by candesartan
+T11	Treatment 2049 2064	over amlodipine

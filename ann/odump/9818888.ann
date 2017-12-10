@@ -1,0 +1,5 @@
+T1	HMM 0 17	Long-term outcome
+T2	HMM 246 291	predict the efficacy of antimigraine therapy.
+T3	HMM 516 544	maintained treatment benefit
+T4	HMM 554 561	benefit
+T5	HMM 591 621	early onset migraine response.

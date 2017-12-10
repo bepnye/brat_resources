@@ -1,0 +1,6 @@
+T1	Outcomes 676 691	median duration
+T2	Outcomes 725 745	median survival time
+T3	Outcomes 789 861	response rate, time to treatment failure (TTF), and median survival time
+T4	Outcomes 1036 1039	TTF
+T5	Outcomes 1051 1059	survival
+T6	Outcomes 1383 1410	longer median survival time

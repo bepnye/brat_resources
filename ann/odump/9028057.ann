@@ -1,0 +1,6 @@
+T1	HMM 740 766	BSE and CARS rating scales
+T2	HMM 821 844	autistic symptomatology
+T3	HMM 1036 1064	T-helper-inducers (CD4+CD8-)
+T4	HMM 1100 1133	T-cytotoxic-suppressor (CD4-CD8+)
+T5	HMM 1170 1184	CD4/CD8 ratio.
+T6	HMM 1196 1229	natural killer cells and activity

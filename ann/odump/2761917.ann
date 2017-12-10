@@ -1,0 +1,7 @@
+T1	HMM 335 371	efficacy, toxicity, and tolerability
+T2	HMM 807 861	overall response rate (complete and partial responses)
+T3	HMM 1078 1095	complete response
+T4	HMM 1349 1367	disease recurrence
+T5	HMM 1439 1456	flu-like symptoms
+T6	HMM 1522 1529	Fatigue
+T7	HMM 1611 1623	side effect.

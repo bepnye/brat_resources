@@ -1,0 +1,8 @@
+T1	HMM 209 213	pain
+T2	HMM 268 311	behavioural and physiological observations.
+T3	HMM 728 874	physiological (heart rate and oxygen saturation) and behavioural parameters [duration of crying and modified Neonatal Facial Coding Scores (NFCS)]
+T4	HMM 1002 1020	duration of crying
+T5	HMM 1173 1196	mean duration of crying
+T6	HMM 1274 1287	modified NFCS
+T7	HMM 1378 1420	change in heart rate and oxygen saturation
+T8	HMM 1599 1607	symptoms

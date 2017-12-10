@@ -1,0 +1,7 @@
+T1	HMM 918 935	lower pain scores
+T2	HMM 1065 1083	amount of morphine
+T3	HMM 1184 1202	reported less pain
+T4	HMM 1300 1333	Systolic blood pressure was lower
+T5	HMM 1427 1483	no difference in diastolic blood pressure or heart rate.
+T6	HMM 1631 1642	pain scores
+T7	HMM 1693 1697	pain

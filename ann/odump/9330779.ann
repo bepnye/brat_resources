@@ -1,0 +1,15 @@
+T1	HMM 8 22	effect of food
+T2	HMM 30 73	steady state pharmacokinetics of BMS-181101
+T3	HMM 120 172	effect of food on the pharmacokinetics of BMS-181101
+T4	HMM 667 687	Serial blood samples
+T5	HMM 794 814	trough blood samples
+T6	HMM 882 896	Plasma samples
+T7	HMM 915 932	intact BMS-181101
+T8	HMM 1051 1060	tolerated
+T9	HMM 1136 1147	Cmin values
+T10	HMM 1163 1175	steady state
+T11	HMM 1328 1344	Cmax was reduced
+T12	HMM 1362 1380	tmax was prolonged
+T13	HMM 1398 1457	AUCtau, t1/2, and time to attain steady state of BMS-181101
+T14	HMM 1575 1581	safety
+T15	HMM 1585 1609	pharmacokinetic profiles

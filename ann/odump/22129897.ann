@@ -1,0 +1,4 @@
+T1	HMM 428 452	blood glutathione levels
+T2	HMM 755 883	plasma reduced glutathione, oxidized glutathione, cysteine, taurine, free and total sulfate, and whole-blood glutathione levels.
+T3	HMM 949 1015	plasma reduced glutathione, but not whole-blood glutathione levels
+T4	HMM 1122 1159	plasma sulfate, cysteine, and taurine

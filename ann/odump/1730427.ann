@@ -1,0 +1,7 @@
+T1	HMM 48 56	survival
+T2	HMM 480 509	severe bone marrow depression
+T3	HMM 552 574	expired from leukemia.
+T4	HMM 654 720	surgical reexploration for intestinal obstruction or bowel injury.
+T5	HMM 738 742	died
+T6	HMM 761 769	Survival
+T7	HMM 838 863	5-year actuarial survival

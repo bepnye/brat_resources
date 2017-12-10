@@ -1,0 +1,12 @@
+T1	HMM 188 216	modify the long-term outcome
+T2	HMM 796 816	Hematologic toxicity
+T3	HMM 830 860	Nausea/vomiting and stomatitis
+T4	HMM 910 944	left ventricular ejection fraction
+T5	HMM 1036 1054	died of infections
+T6	HMM 1120 1149	objective response rate (ORR)
+T7	HMM 1233 1236	ORR
+T8	HMM 1401 1448	response duration and time to progression (TTP)
+T9	HMM 1552 1573	median survival times
+T10	HMM 1738 1764	response duration and TTP.
+T11	HMM 1794 1798	ORR.
+T12	HMM 1907 1923	overall survival

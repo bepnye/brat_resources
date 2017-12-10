@@ -1,0 +1,5 @@
+T1	HMM 628 665	Scores for cleansing the entire colon
+T2	HMM 800 857	Scores of left-colon cleansing for flexible sigmoidoscopy
+T3	HMM 899 940	Scores for taste and symptom side effects
+T4	HMM 1001 1034	signs or symptoms of hypocalcemia
+T5	HMM 1188 1203	patient savings

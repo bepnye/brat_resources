@@ -1,0 +1,18 @@
+T1	Treatment 38 62	oral anti-diabetic agent
+T2	Treatment 68 86	clomiphene citrate
+T3	Treatment 90 94	rFSH
+T4	Treatment 276 285	metformin
+T5	Treatment 291 314	clomiphene citrate (CC)
+T6	Treatment 319 323	rFSH
+T7	Treatment 778 787	metformin
+T8	Treatment 808 816	control.
+T9	Treatment 828 837	metformin
+T10	Treatment 856 858	CC
+T11	Treatment 880 885	rFSH.
+T12	Treatment 916 921	rFSH.
+T13	Treatment 922 931	Metformin
+T14	Treatment 971 992	Afterwards CC or rFSH
+T15	Treatment 1037 1051	with metformin
+T16	Treatment 1159 1173	of CC and rFSH
+T17	Treatment 1474 1481	of rFSH
+T18	Treatment 1671 1687	Use of metformin

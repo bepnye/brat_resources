@@ -1,0 +1,14 @@
+T1	Outcomes 0 10	Evaluation
+T2	Outcomes 152 179	pharmacokinetic interaction
+T3	Outcomes 378 405	pharmacodynamic interaction
+T4	Outcomes 484 506	antiplatelet activity.
+T5	Outcomes 816 886	aspirin reactivity units (ARU, as measured by the VerifyNow ASA assay)
+T6	Outcomes 1193 1343	antiplatelet activity of ASA, as assessed by ARU ratio relative to baseline in the VerifyNow ASA assay; suppression of serum thromboxane B(2) (TXB(2))
+T7	Outcomes 1597 1609	achieved ARU
+T8	Outcomes 1668 1699	(baseline) platelet aggregation
+T9	Outcomes 1830 1853	of platelet aggregation
+T10	Outcomes 1953 1973	reduced serum TXB(2)
+T11	Outcomes 2019 2041	of serum TXB(2) levels
+T12	Outcomes 2141 2155	well tolerated
+T13	Outcomes 2168 2198	No pharmacodynamic interaction
+T14	Outcomes 2259 2279	to platelet function

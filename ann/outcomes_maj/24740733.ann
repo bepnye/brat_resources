@@ -1,0 +1,11 @@
+T1	Outcomes 233 256	facial nerve paralysis.
+T2	Outcomes 825 853	House-Brackmann scale (H-B),
+T3	Outcomes 894 1041	facial electroneurography [ENG, compound muscle action potential (CMAP)], mimetic muscle electromyography (EMG) and blink-reflex examinations (BR).
+T4	Outcomes 1060 1063	H-B
+T5	Outcomes 1368 1383	CMAP amplitudes
+T6	Outcomes 1538 1543	CMAPs
+T7	Outcomes 1629 1631	BR
+T8	Outcomes 1641 1652	H-B and ENG
+T9	Outcomes 1805 1835	silent facial nerve neuropathy
+T10	Outcomes 1898 1913	EMG, ENG and BR
+T11	Outcomes 1955 2011	face muscles reinnervation and facial nerve regeneration

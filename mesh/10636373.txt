@@ -1,0 +1,12 @@
+Adult
+Aged
+Ascorbic Acid
+Blood Pressure
+Double-Blind Method
+Female
+Humans
+Hypertension
+Male
+Middle Aged
+Reactive Oxygen Species
+Treatment Outcome

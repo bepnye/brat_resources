@@ -1,0 +1,5 @@
+T1	HMM 537 575	incidence of loco-regional recurrences
+T2	HMM 631 648	overall survival.
+T3	HMM 649 674	The relapse-free survival
+T4	HMM 808 816	survival
+T5	HMM 970 1018	number of deaths caused by myocardial infarction

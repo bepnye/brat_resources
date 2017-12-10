@@ -1,0 +1,6 @@
+T1	HMM 817 847	serum creatinine concentration
+T2	HMM 948 1019	(three gastrointestinal symptoms, two neurological symptoms, two other)
+T3	HMM 1042 1110	(six gastrointestinal symptoms, four inefficacy, two other) withdrew
+T4	HMM 1167 1179	hypertensive
+T5	HMM 1198 1224	anti-hypertensive therapy.
+T6	HMM 1431 1445	CSA toxicities

@@ -1,0 +1,9 @@
+T1	HMM 0 9	Mortality
+T2	HMM 964 973	mortality
+T3	HMM 1021 1034	median length
+T4	HMM 1222 1227	died;
+T5	HMM 1230 1236	deaths
+T6	HMM 1284 1304	metastatic melanoma.
+T7	HMM 1351 1360	mortality
+T8	HMM 1428 1437	mortality
+T9	HMM 1617 1634	choroidal lesions

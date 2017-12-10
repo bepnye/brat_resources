@@ -1,0 +1,14 @@
+T1	HMM 667 681	UTC procedure.
+T2	HMM 711 727	ultrasonographic
+T3	HMM 973 1084	three-dimensional stability of echo patterns, qua intensity and distribution over contiguous transverse images.
+T4	HMM 1202 1211	echotypes
+T5	HMM 1231 1245	highly stable;
+T6	HMM 1251 1265	medium stable;
+T7	HMM 1272 1287	highly variable
+T8	HMM 1297 1311	constantly low
+T9	HMM 1368 1378	echo-types
+T10	HMM 1412 1428	tendon thickness
+T11	HMM 1674 1687	echo pattern.
+T12	HMM 1705 1721	tendon thickness
+T13	HMM 1810 1844	Intraclass Correlation Coefficient
+T14	HMM 1942 1958	tendon thickness

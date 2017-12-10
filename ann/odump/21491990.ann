@@ -1,0 +1,12 @@
+T1	HMM 172 218	clinical, microbiologic, and serologic effects
+T2	HMM 875 885	treatment.
+T3	HMM 886 897	Subgingival
+T4	HMM 972 982	treatment.
+T5	HMM 983 1128	Periodontal pathogens Aggregatibacter actinomycetemcomitans, Porphyromonas gingivalis, Prevotella intermedia, Tannerella forsythia, and Treponema
+T6	HMM 1144 1153	analyzed.
+T7	HMM 1154 1226	Serum levels of high sensitive C-reactive and lipopolysaccharide-binding
+T8	HMM 1316 1338	tested by Mann-Whitney
+T9	HMM 1462 1507	difference in clinical attachment level (CAL)
+T10	HMM 1675 1718	reduction of the microorganisms of the "red
+T11	HMM 1815 1827	SRP improved
+T12	HMM 1836 1885	reduced the subgingival microorganisms of the red

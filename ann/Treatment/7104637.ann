@@ -1,0 +1,8 @@
+T1	Treatment 0 25	Intraoperative microscopy
+T2	Treatment 50 79	Direct microscopy of the bile
+T3	Treatment 101 116	cholecystectomy
+T4	Treatment 263 278	cholecystectomy
+T5	Treatment 413 429	antibiotic group
+T6	Treatment 487 503	antibiotic group
+T7	Treatment 519 533	control group.
+T8	Treatment 666 681	cholecystectomy

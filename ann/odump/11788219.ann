@@ -1,0 +1,7 @@
+T1	HMM 50 92	end-point analysis, edge-effect evaluation
+T2	HMM 98 132	prediction of recurrent restenosis
+T3	HMM 1347 1367	recurrent restenosis
+T4	HMM 1405 1435	length of recurrent restenosis
+T5	HMM 1523 1542	Isolated stent edge
+T6	HMM 1554 1565	ribbon edge
+T7	HMM 1573 1583	restenoses

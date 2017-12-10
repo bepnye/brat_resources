@@ -1,0 +1,5 @@
+T1	Treatment 9 80	cyclophosphamide, doxorubicin, vincristine, and prednisone chemotherapy
+T2	Treatment 297 385	adjuvant chemotherapy (cyclophosphamide, doxorubicin, vincristine, and prednisone; CHOP)
+T3	Treatment 630 736	receive regional RT alone (median dose, 40 Gy) or regional RT followed by six cycles of CHOP chemotherapy.
+T4	Treatment 1427 1431	CHOP
+T5	Treatment 1693 1710	CHOP chemotherapy

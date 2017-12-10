@@ -1,0 +1,10 @@
+T1	HMM 769 846	Protein breakdown, protein oxidation, protein balance, and glucose production
+T2	HMM 944 1014	Circulating concentrations of glucose, cortisol, insulin, and glucagon
+T3	HMM 1076 1091	protein balance
+T4	HMM 1235 1250	protein balance
+T5	HMM 1312 1327	protein balance
+T6	HMM 1446 1475	endogenous glucose production
+T7	HMM 1500 1517	insulin secretion
+T8	HMM 1593 1606	Hyperglycemia
+T9	HMM 1784 1806	protein-sparing effect
+T10	HMM 1833 1847	hyperglycemia.

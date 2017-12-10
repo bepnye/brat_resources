@@ -1,0 +1,16 @@
+T1	HMM 27 35	mesylate
+T2	HMM 97 129	gastrointestinal stromal tumors.
+T3	HMM 276 293	imatinib mesylate
+T4	HMM 572 580	imatinib
+T5	HMM 845 851	Cancer
+T6	HMM 893 901	Oncology
+T7	HMM 956 964	imatinib
+T8	HMM 984 993	imatinib.
+T9	HMM 1191 1199	imatinib
+T10	HMM 1287 1295	imatinib
+T11	HMM 1313 1343	progression-free survival time
+T12	HMM 1550 1559	median OS
+T13	HMM 1614 1634	adverse events (AEs)
+T14	HMM 1657 1726	nausea, fatigue, skin rash, gastrointestinal complaints, and myalgia.
+T15	HMM 1754 1777	abnormality was anemia.
+T16	HMM 1793 1796	AEs

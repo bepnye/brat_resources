@@ -1,0 +1,17 @@
+Adult
+Aged
+Anti-Arrhythmia Agents
+Atrial Fibrillation
+Cardiac Pacing, Artificial
+Catheter Ablation
+Electrocardiography, Ambulatory
+Electrophysiologic Techniques, Cardiac
+Female
+Humans
+Magnetic Resonance Imaging
+Male
+Middle Aged
+Pulmonary Veins
+Reoperation
+Statistics, Nonparametric
+Treatment Outcome

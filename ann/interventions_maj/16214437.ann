@@ -1,0 +1,10 @@
+T1	Intervention 11 45	glucose-insulin-potassium infusion
+T2	Intervention 109 129	thrombolytic therapy
+T3	Intervention 144 184	glucose-insulin-potassium (GIK) infusion
+T4	Intervention 432 435	GIK
+T5	Intervention 490 519	80 mmol of potassium chloride
+T6	Intervention 575 623	thrombolytic therapy (1.5 MU of streptokinase/30
+T7	Intervention 653 679	thrombolytic therapy alone
+T8	Intervention 1772 1776	GIK,
+T9	Intervention 1799 1820	thrombolytic therapy,
+T10	Intervention 1897 1900	GIK

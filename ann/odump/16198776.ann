@@ -1,0 +1,9 @@
+T1	HMM 1064 1116	mycological cure of the target toenail at 18 months.
+T2	HMM 1153 1272	clinical cure and complete (clinical plus mycological) cure of the target toenail and complete cure of all 10 toenails.
+T3	HMM 1451 1467	mycological cure
+T4	HMM 1534 1547	relative risk
+T5	HMM 1605 1618	clinical cure
+T6	HMM 1715 1728	complete cure
+T7	HMM 1827 1840	complete cure
+T8	HMM 1933 1945	Tolerability
+T9	HMM 2274 2283	effective

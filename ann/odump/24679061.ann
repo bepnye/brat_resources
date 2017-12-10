@@ -1,0 +1,9 @@
+T1	HMM 235 280	perioperative myocardial infarction and death
+T2	HMM 923 962	death or nonfatal myocardial infarction
+T3	HMM 1049 1071	primary-outcome events
+T4	HMM 1188 1209	Myocardial infarction
+T5	HMM 1465 1476	hypotension
+T6	HMM 1656 1679	nonfatal cardiac arrest
+T7	HMM 1917 1922	death
+T8	HMM 1926 1957	nonfatal myocardial infarction;
+T9	HMM 1996 2057	clinically important hypotension and nonfatal cardiac arrest.

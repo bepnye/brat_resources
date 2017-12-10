@@ -1,0 +1,5 @@
+T1	HMM 31 63	electroencephalographic activity
+T2	HMM 189 218	electroencephalographic (EEG)
+T3	HMM 438 450	EEG activity
+T4	HMM 1132 1163	EEG activity at anterior sites:
+T5	HMM 1331 1369	cortical region and EEG frequency band

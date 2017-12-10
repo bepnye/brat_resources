@@ -1,0 +1,5 @@
+T1	HMM 34 65	anti-IgE-induced skin reactions
+T2	HMM 790 801	wheal areas
+T3	HMM 807 828	significantly reduced
+T4	HMM 989 1005	oedema formation
+T5	HMM 1168 1182	skin reactions

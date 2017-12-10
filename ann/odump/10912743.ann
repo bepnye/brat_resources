@@ -1,0 +1,8 @@
+T1	HMM 31 67	clinic and ambulatory blood pressure
+T2	HMM 231 258	blood pressure (BP) control
+T3	HMM 461 520	clinic and ambulatory systolic (SBP) and diastolic (DBP) BP
+T4	HMM 1064 1119	clinic BP evaluation with an automatic sphygmomanometer
+T5	HMM 1126 1155	24-h ambulatory BP monitoring
+T6	HMM 1249 1267	clinic SBP and DBP
+T7	HMM 1336 1358	Ambulatory SBP and DBP
+T8	HMM 1875 1885	BP control

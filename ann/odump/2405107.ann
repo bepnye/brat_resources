@@ -1,0 +1,9 @@
+T1	HMM 738 759	partial response rate
+T2	HMM 913 929	greater toxicity
+T3	HMM 954 989	grades 3 and 4 hematologic toxicity
+T4	HMM 1066 1085	nausea and vomiting
+T5	HMM 1201 1221	duration of response
+T6	HMM 1292 1300	survival
+T7	HMM 1419 1440	partial response rate
+T8	HMM 1446 1464	increased toxicity
+T9	HMM 1489 1505	overall survival

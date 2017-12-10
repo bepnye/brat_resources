@@ -1,0 +1,11 @@
+T1	HMM 0 21	Immunological changes
+T2	HMM 449 470	immunological changes
+T3	HMM 475 499	surgical stress response
+T4	HMM 709 731	immunological response
+T5	HMM 757 998	leukocyte counts, HLA-DR expression on monocytes, the acute-phase response by means of C-reactive protein (CRP), interleukin-6 (IL-6), and interleukin-8 (IL-8), and the stress response was measured by cortisol, growth hormone, and prolactin.
+T6	HMM 1208 1245	leukocyte counts, IL-8, and prolactin
+T7	HMM 1285 1324	HLA-DR expression, IL-6, and CRP levels
+T8	HMM 1621 1653	leukocyte counts and IL-8 levels
+T9	HMM 1745 1773	fewer respiratory infections
+T10	HMM 1855 1871	prolactin levels
+T11	HMM 1910 1925	stress response

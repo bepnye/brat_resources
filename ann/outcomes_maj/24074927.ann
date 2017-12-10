@@ -1,0 +1,13 @@
+T1	Outcomes 201 209	toxicity
+T2	Outcomes 214 230	clinical outcome
+T3	Outcomes 785 832	Common Terminology Criteria for Adverse Events,
+T4	Outcomes 892 932	Radiation Therapy Oncology Group system.
+T5	Outcomes 980 1005	gastrointestinal toxicity
+T6	Outcomes 1010 1032	disease-free survival,
+T7	Outcomes 1458 1479	disease-free survival
+T8	Outcomes 1556 1572	overall survival
+T9	Outcomes 1705 1747	grade ≥2 acute gastrointestinal toxicities
+T10	Outcomes 1786 1813	gastrointestinal toxicities
+T11	Outcomes 1886 1919	chronic gastrointestinal toxicity
+T12	Outcomes 2001 2009	toxicity
+T13	Outcomes 2052 2069	clinical outcome.

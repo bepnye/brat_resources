@@ -1,0 +1,11 @@
+T1	HMM 74 80	effect
+T2	HMM 84 99	bone metabolism
+T3	HMM 201 217	bone metabolism.
+T4	HMM 719 779	bone formation and resorption markers and bone mass measured
+T5	HMM 860 920	anthropometric, bone densitometry, and biochemical variables
+T6	HMM 962 1050	Dietary potential renal acid load (PRAL) and daily net endogenous acid production (NEAP)
+T7	HMM 1205 1219	PRAL and NEAP.
+T8	HMM 1297 1329	parathyroid hormone (PTH) levels
+T9	HMM 1448 1491	urine free deoxypyridoxine:creatinine ratio
+T10	HMM 1771 1797	bone metabolism biomarkers
+T11	HMM 1821 1831	PTH levels

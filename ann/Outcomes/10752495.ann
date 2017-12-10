@@ -1,0 +1,9 @@
+T1	Outcomes 14 56	creatinine clearance from serum creatinine
+T2	Outcomes 160 186	glomerular filtration rate
+T3	Outcomes 300 338	endogenous creatinine clearance (Clcr)
+T4	Outcomes 490 536	prediction of Clcr from serum creatinine (Scr)
+T5	Outcomes 588 599	correlation
+T6	Outcomes 724 728	Clcr
+T7	Outcomes 899 913	measured Clcr.
+T8	Outcomes 945 953	reliably
+T9	Outcomes 962 987	to predict Clcr from Scr.

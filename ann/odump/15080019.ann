@@ -1,0 +1,7 @@
+T1	HMM 219 260	post-operative nausea and vomiting (PONV)
+T2	HMM 529 533	PONV
+T3	HMM 560 600	nausea graded on a visual analogue scale
+T4	HMM 610 690	number of patients who experienced emetic episodes or needed rescue anti-emetics
+T5	HMM 726 746	Patient satisfaction
+T6	HMM 854 880	higher number of headaches
+T7	HMM 977 981	PONV

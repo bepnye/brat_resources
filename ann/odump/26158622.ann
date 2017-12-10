@@ -1,0 +1,11 @@
+T1	HMM 0 19	Optimal vaccination
+T2	HMM 164 192	optimal vaccination schedule
+T3	HMM 430 431	.
+T4	HMM 432 445	Blood samples
+T5	HMM 511 656	The geometric mean titer (GMT), seroconversion rate (levels of anti-HBs ≥ 10 mIU/mL) and high response rate (levels of anti-HBs ≥ 100 mIU/mL)
+T6	HMM 756 757	.
+T7	HMM 758 792	The seroconversion/sero-protective
+T8	HMM 935 948	respectively.
+T9	HMM 949 965	GMT for anti-HBs
+T10	HMM 1149 1203	differences of seroconversion/sero-protective rate and
+T11	HMM 1249 1286	high anti-HBs seroconversion rate and

@@ -1,0 +1,4 @@
+T1	HMM 993 1058	Median time to recurrence of any mood symptoms (primary endpoint)
+T2	HMM 1187 1226	Time to recurrence of any mood symptoms
+T3	HMM 1494 1513	recurrence of manic
+T4	HMM 1545 1598	Treatment-emergent adverse events (maintenance phase)

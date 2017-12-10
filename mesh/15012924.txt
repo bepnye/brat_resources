@@ -1,0 +1,15 @@
+Adult
+Aged
+Emotions
+Exercise
+Exercise Tolerance
+Female
+Heart Failure
+Humans
+Life Style
+Male
+Middle Aged
+Motor Activity
+Personal Satisfaction
+Quality of Life
+Severity of Illness Index

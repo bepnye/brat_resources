@@ -1,0 +1,8 @@
+T1	HMM 1067 1106	dosage of drug and duration of survival
+T2	HMM 1134 1161	mean survival over 6 months
+T3	HMM 1295 1318	gain in life expectancy
+T4	HMM 1394 1415	mean cost per patient
+T5	HMM 1483 1513	incremental cost per life-year
+T6	HMM 1781 1804	risk of hospitalisation
+T7	HMM 1842 1882	hospitalisation or hospitalisation costs
+T8	HMM 1979 2006	cost-effectiveness analyses

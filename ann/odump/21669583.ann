@@ -1,0 +1,11 @@
+T1	HMM 95 111	glycemic control
+T2	HMM 315 341	long-term glycemic control
+T3	HMM 503 519	changes in HbA1c
+T4	HMM 794 837	impact of the two plans on glycemic control
+T5	HMM 892 913	improvements in HbA1c
+T6	HMM 998 1035	HbA1c levels were significantly lower
+T7	HMM 1140 1181	similar improvements in dietary practices
+T8	HMM 1277 1285	increase
+T9	HMM 1289 1320	consumption of green vegetables
+T10	HMM 1339 1369	decrease in fruit consumption.
+T11	HMM 1441 1464	better glycemic control

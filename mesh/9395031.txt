@@ -1,0 +1,11 @@
+Acute Disease
+Adult
+Antibiotics, Antineoplastic
+Daunorubicin
+Follow-Up Studies
+Humans
+Idarubicin
+Leukemia, Myeloid
+Middle Aged
+Survival Analysis
+Treatment Outcome

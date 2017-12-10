@@ -1,0 +1,5 @@
+T1	HMM 654 663	pneumonia
+T2	HMM 733 753	ventilator-free days
+T3	HMM 818 847	intensive care unit-free days
+T4	HMM 928 1008	rates of acute kidney injury, gastrointestinal hemorrhage, and fracture nonunion
+T5	HMM 1151 1160	pneumonia

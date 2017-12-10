@@ -1,0 +1,7 @@
+T1	HMM 25 49	pressure-flow parameters
+T2	HMM 191 215	pressure-flow parameters
+T3	HMM 629 663	modified Abrams-Griffiths nomogram
+T4	HMM 943 958	PFS parameters.
+T5	HMM 1120 1137	Detrusor pressure
+T6	HMM 1154 1164	(PdetQmax)
+T7	HMM 1337 1368	Abrams-Griffiths classification

@@ -1,0 +1,7 @@
+T1	HMM 58 91	peripheral blood progenitor cells
+T2	HMM 1207 1239	median CD34+ cell yield/pheresis
+T3	HMM 1537 1559	minimum yield of CD34+
+T4	HMM 1774 1792	CD34+ cell values.
+T5	HMM 1841 1859	platelet recovery.
+T6	HMM 1960 1964	PBPC
+T7	HMM 1987 2000	leukapheresis

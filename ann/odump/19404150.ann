@@ -1,0 +1,20 @@
+T1	HMM 0 13	Perioperative
+T2	HMM 575 580	Fever
+T3	HMM 608 703	other complications (including infections) occurring between admission and discharge (or death)
+T4	HMM 719 759	Functional and neuropsychologic outcomes
+T5	HMM 847 915	dichotomized Glasgow Outcome Scale (good outcome versus all others).
+T6	HMM 924 929	Fever
+T7	HMM 980 985	fever
+T8	HMM 1028 1067	median time from surgery to first fever
+T9	HMM 1170 1180	infections
+T10	HMM 1417 1422	fever
+T11	HMM 1502 1511	infection
+T12	HMM 1598 1611	fever-related
+T13	HMM 1853 1858	fever
+T14	HMM 1931 1969	delayed ischemic neurological deficits
+T15	HMM 1998 2115	National Institutes of Health Stroke Scale score, Barthel Activities of Daily Living index, and discharge destination
+T16	HMM 2221 2226	fever
+T17	HMM 2351 2356	fever
+T18	HMM 2490 2529	delayed ischemic neurological deficits)
+T19	HMM 2571 2576	fever
+T20	HMM 2630 2635	fever

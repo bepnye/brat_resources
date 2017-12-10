@@ -1,0 +1,7 @@
+T1	HMM 872 885	paroxysmal AF
+T2	HMM 959 985	difference in AF frequency
+T3	HMM 1090 1192	cardiovascular events, development of persistent AF, left atrial dimension, and quality-of-life (QOL).
+T4	HMM 1358 1382	frequency of AF episodes
+T5	HMM 1490 1515	follow-up, blood pressure
+T6	HMM 1592 1608	The AF frequency
+T7	HMM 1797 1919	the development of persistent AF, changes in left atrial dimension, occurrence of cardiovascular events, or changes in QOL

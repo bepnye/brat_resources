@@ -1,0 +1,10 @@
+T1	HMM 243 251	efficacy
+T2	HMM 256 262	safety
+T3	HMM 319 336	survival analyses
+T4	HMM 349 355	safety
+T5	HMM 666 684	antitumor activity
+T6	HMM 689 696	safety.
+T7	HMM 783 791	survival
+T8	HMM 1032 1041	median OS
+T9	HMM 1156 1158	OS
+T10	HMM 1250 1308	Grade 3 or 4 fatigue, neutropenia, and febrile neutropenia

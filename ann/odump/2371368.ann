@@ -1,0 +1,6 @@
+T1	HMM 40 53	schizophrenia
+T2	HMM 58 73	schizoaffective
+T3	HMM 201 233	schizophrenic or schizoaffective
+T4	HMM 540 590	Brief Psychiatric Rating Scale (BPRS) total score.
+T5	HMM 679 732	plasma level of haloperidol and clinical improvement.
+T6	HMM 799 812	side effects.

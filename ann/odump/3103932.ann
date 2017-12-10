@@ -1,0 +1,9 @@
+T1	HMM 516 539	overall median survival
+T2	HMM 627 649	complete response (CR)
+T3	HMM 658 679	partial response (PR)
+T4	HMM 694 713	stable disease (SD)
+T5	HMM 731 756	progressive disease (PD).
+T6	HMM 792 807	median survival
+T7	HMM 847 855	survival
+T8	HMM 1077 1092	median survival
+T9	HMM 1353 1361	survival

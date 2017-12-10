@@ -1,0 +1,9 @@
+T1	HMM 46 64	antioxidant status
+T2	HMM 343 397	anthropometric, biochemical and antioxidant parameters
+T3	HMM 750 790	total cholesterol (TC), HDL, LDL and TGs
+T4	HMM 915 957	total antioxidant capacity (TAC) in plasma
+T5	HMM 1006 1050	Plasma hydroxytyrosol (OH-Tyr) concentration
+T6	HMM 1170 1208	lipid profiles, OH-Tyr levels and TAC.
+T7	HMM 1257 1271	catalase (CAT)
+T8	HMM 1315 1385	superoxide dismutase (SOD) and glutathione peroxidase (GH-PX) activity
+T9	HMM 1486 1562	biochemical parameters, antioxidant capacity and antioxidant enzyme activity

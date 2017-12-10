@@ -1,0 +1,8 @@
+T1	HMM 784 839	cost of additional quality-adjusted life years (QALYs).
+T2	HMM 840 845	Costs
+T3	HMM 903 971	costs of healthcare, social care, informal care and production loss.
+T4	HMM 972 977	QALYs
+T5	HMM 1109 1131	cost and QALY measures
+T6	HMM 1429 1443	cost-effective
+T7	HMM 1538 1581	probability of cost-effectiveness increased
+T8	HMM 1772 1786	cost-effective

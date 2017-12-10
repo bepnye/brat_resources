@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Blood Glucose
+Blood Pressure
+Diabetes Mellitus, Type 1
+Diabetic Retinopathy
+Electroretinography
+Female
+Hemoglobin A, Glycosylated
+Humans
+Insulin
+Intraocular Pressure
+Longitudinal Studies
+Male
+Oscillometry
+Prospective Studies

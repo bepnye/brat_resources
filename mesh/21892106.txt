@@ -1,0 +1,26 @@
+Adult
+Aged
+Aged, 80 and over
+Anorexia
+Antimetabolites, Antineoplastic
+Antineoplastic Combined Chemotherapy Protocols
+Carcinoma, Non-Small-Cell Lung
+Chemoradiotherapy
+Cisplatin
+Deoxycytidine
+Disease-Free Survival
+Dose Fractionation
+Dyspnea
+Fatigue
+Feasibility Studies
+Female
+Humans
+Lung Neoplasms
+Male
+Middle Aged
+Neoplasm Metastasis
+Neoplasm Staging
+Proportional Hazards Models
+Quality of Life
+Treatment Outcome
+Vinblastine

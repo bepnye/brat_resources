@@ -1,0 +1,8 @@
+T1	HMM 0 21	Analysis of treatment
+T2	HMM 247 258	neutropenia
+T3	HMM 394 412	severe neutropenia
+T4	HMM 435 467	methotrexate-induced neutropenia
+T5	HMM 553 592	synergistic toxic effect of irradiation
+T6	HMM 675 681	deaths
+T7	HMM 709 718	remission
+T8	HMM 1005 1023	neutrophil counts.

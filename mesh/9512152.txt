@@ -1,0 +1,17 @@
+Aged
+Cataract
+Chemotherapy, Adjuvant
+Female
+Glaucoma, Open-Angle
+Humans
+Lens Implantation, Intraocular
+Male
+Mitomycin
+Ophthalmic Solutions
+Phacoemulsification
+Prognosis
+Prospective Studies
+Risk Factors
+Survival Analysis
+Trabeculectomy
+Treatment Failure

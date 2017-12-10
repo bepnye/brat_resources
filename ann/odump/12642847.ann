@@ -1,0 +1,12 @@
+T1	HMM 70 113	memory functioning, psychomotor performance
+T2	HMM 119 124	mood.
+T3	HMM 185 193	sedation
+T4	HMM 552 586	memory and psychomotor performance
+T5	HMM 1262 1282	tracking performance
+T6	HMM 1352 1369	divided attention
+T7	HMM 1407 1423	memory scanning:
+T8	HMM 1462 1517	word-learning tests and Sternberg Memory Scanning Tests
+T9	HMM 1699 1727	laboratory test performance.
+T10	HMM 1761 1804	memory, attention, and tracking performance
+T11	HMM 1943 1960	divided attention
+T12	HMM 1965 1973	tracking

@@ -1,0 +1,13 @@
+Adult
+Aged
+Breast Neoplasms
+Colorectal Neoplasms
+Early Detection of Cancer
+Female
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Patient Navigation
+Prostatic Neoplasms
+Time Factors

@@ -1,0 +1,14 @@
+T1	HMM 43 51	efficacy
+T2	HMM 206 214	efficacy
+T3	HMM 349 364	symptom control
+T4	HMM 377 425	American Fertility Society (AFS) score reduction
+T5	HMM 447 463	hormonal profile
+T6	HMM 953 992	Symptom control and patients' tolerance
+T7	HMM 1017 1092	posttherapy revised AFS score, hormonal profile during triptorelin therapy.
+T8	HMM 1103 1115	Pain control
+T9	HMM 1184 1205	breakthrough bleeding
+T10	HMM 1300 1313	side effects.
+T11	HMM 1318 1335	revised AFS score
+T12	HMM 1430 1460	Adequate pituitary suppression
+T13	HMM 1639 1660	hypoestrogenic state.
+T14	HMM 1680 1689	compliant

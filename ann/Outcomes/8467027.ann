@@ -1,0 +1,14 @@
+T1	Outcomes 15 24	pneumonia
+T2	Outcomes 119 144	clinical, bacteriological
+T3	Outcomes 149 172	pharmacological effects
+T4	Outcomes 442 476	endotracheal colonisation with ps.
+T5	Outcomes 477 487	aeruginosa
+T6	Outcomes 557 589	incidence of secondary pneumonia
+T7	Outcomes 639 677	Systemic administration of antibiotics
+T8	Outcomes 782 828	growth of fungi in the upper respiratory tract
+T9	Outcomes 884 910	incidence mainly of staph.
+T10	Outcomes 911 923	epidermidis.
+T11	Outcomes 1000 1009	tolerated
+T12	Outcomes 1101 1119	allergic reactions
+T13	Outcomes 1131 1152	respiratory pressures
+T14	Outcomes 1156 1176	bronchoconstrictions

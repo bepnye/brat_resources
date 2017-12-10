@@ -1,0 +1,5 @@
+T1	HMM 140 150	efficacies
+T2	HMM 656 671	clinical scores
+T3	HMM 906 926	colony-forming units
+T4	HMM 1008 1031	external ocular disease
+T5	HMM 1042 1105	ofloxacin eyedrops was equally effective when given BID or QID.

@@ -1,0 +1,5 @@
+T1	HMM 721 751	concentration-time curve (AUC)
+T2	HMM 841 857	mean AUC for MTX
+T3	HMM 892 924	maximum MTX concentration (Cmax)
+T4	HMM 1025 1072	time to reach Cmax for MTX administration, tmax
+T5	HMM 1180 1190	difference

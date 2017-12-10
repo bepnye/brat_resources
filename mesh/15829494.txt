@@ -1,0 +1,11 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols
+Cisplatin
+Dacarbazine
+Female
+Humans
+Male
+Melanoma
+Middle Aged

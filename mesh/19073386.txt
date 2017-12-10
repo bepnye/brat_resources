@@ -1,0 +1,19 @@
+Administration, Topical
+Adolescent
+Adult
+Aged
+Anti-Infective Agents, Local
+Bandages
+Burns
+Female
+Humans
+Male
+Middle Aged
+Ointments
+Pain Threshold
+Severity of Illness Index
+Silver Sulfadiazine
+Treatment Outcome
+Water
+Wound Healing
+Young Adult

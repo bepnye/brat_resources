@@ -1,0 +1,12 @@
+T1	HMM 739 756	Asymptomatic days
+T2	HMM 788 810	daily drug consumption
+T3	HMM 878 894	flow-rate values
+T4	HMM 932 981	residual volume and functional residual capacity.
+T5	HMM 1072 1080	decrease
+T6	HMM 1084 1100	clinical scores.
+T7	HMM 1147 1167	significantly better
+T8	HMM 1177 1190	run-in values
+T9	HMM 1289 1316	non-trial drug consumption.
+T10	HMM 1368 1377	flow rate
+T11	HMM 1442 1454	RV/TLC ratio
+T12	HMM 1478 1495	adverse reactions

@@ -1,0 +1,16 @@
+T1	HMM 246 293	lung function, exacerbations, and health status
+T2	HMM 733 741	Efficacy
+T3	HMM 752 877	rate of decline in FEV(1) after the bronchodilator and in health status, frequency of exacerbations, respiratory withdrawals.
+T4	HMM 895 961	morning serum cortisol concentration, incidence of adverse events.
+T5	HMM 980 1005	no significant difference
+T6	HMM 1013 1054	annual rate of decline in FEV(1 )(P=0.16)
+T7	HMM 1056 1067	Mean FEV(1)
+T8	HMM 1098 1118	significantly higher
+T9	HMM 1201 1225	Median exacerbation rate
+T10	HMM 1230 1237	reduced
+T11	HMM 1330 1356	Health status deteriorated
+T12	HMM 1447 1458	Withdrawals
+T13	HMM 1651 1676	rate of decline in FEV(1)
+T14	HMM 1685 1720	produce a small increase in FEV(1).
+T15	HMM 1766 1779	exacerbations
+T16	HMM 1786 1818	slower decline in health status.

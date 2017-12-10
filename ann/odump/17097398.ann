@@ -1,0 +1,6 @@
+T1	HMM 732 749	clinical response
+T2	HMM 792 814	microbiologic response
+T3	HMM 829 835	safety
+T4	HMM 841 852	compliance.
+T5	HMM 974 1001	Microbiologic success rates
+T6	HMM 1089 1098	tolerated

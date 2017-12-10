@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Betahistine
+Drugs, Chinese Herbal
+Female
+Hemorheology
+Humans
+Infusions, Intravenous
+Male
+Middle Aged
+Treatment Outcome
+Ultrasonography, Doppler, Transcranial
+Vasodilator Agents
+Vertebrobasilar Insufficiency
+Vertigo

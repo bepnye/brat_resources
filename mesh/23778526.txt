@@ -1,0 +1,21 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents
+Carcinoma, Renal Cell
+Female
+Humans
+Inflammation
+Kaplan-Meier Estimate
+Kidney Neoplasms
+Leukocyte Count
+Male
+Megestrol Acetate
+Middle Aged
+Platelet Count
+Prognosis
+Quinazolines
+Serum Albumin
+Tamoxifen
+Tumor Markers, Biological
+Young Adult

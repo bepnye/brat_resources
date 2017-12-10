@@ -1,0 +1,4 @@
+T1	HMM 953 998	clinical efficacy and toxic/adverse reactions
+T2	HMM 1253 1256	KPS
+T3	HMM 1449 1452	KPS
+T4	HMM 1506 1529	toxic/adverse reactions

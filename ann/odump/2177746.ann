@@ -1,0 +1,7 @@
+T1	HMM 0 18	Behavioral effects
+T2	HMM 466 478	Drug effects
+T3	HMM 497 529	ethological playroom observation
+T4	HMM 537 572	Aberrant Behavior Checklist ratings
+T5	HMM 645 665	activating influence
+T6	HMM 720 740	stereotypic behavior
+T7	HMM 770 808	"change toys," "locomote," and "talk."

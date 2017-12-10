@@ -1,0 +1,10 @@
+T1	HMM 1289 1306	haematocrit value
+T2	HMM 1338 1386	end-point values for haematocrit and haemoglobin
+T3	HMM 1628 1640	haematocrit.
+T4	HMM 1670 1681	haematocrit
+T5	HMM 1770 1780	efficiency
+T6	HMM 2015 2038	erythropoietic response
+T7	HMM 2133 2181	hypertension, thrombosis or neurologic disorders
+T8	HMM 2220 2244	terminal kidney failure.
+T9	HMM 2321 2332	ameliorates
+T10	HMM 2362 2396	haemoglobin and haematocrit values

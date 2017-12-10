@@ -1,0 +1,9 @@
+T1	HMM 96 103	effects
+T2	HMM 418 426	outcomes
+T3	HMM 431 444	complications
+T4	HMM 647 668	longer operative time
+T5	HMM 702 714	less painful
+T6	HMM 759 780	shorter hospital stay
+T7	HMM 834 849	quality of life
+T8	HMM 1001 1052	rate of major and minor postoperative complications
+T9	HMM 1077 1093	quality of life.

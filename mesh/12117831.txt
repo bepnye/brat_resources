@@ -1,0 +1,12 @@
+Echocardiography, Doppler
+Female
+Heart Diseases
+Humans
+Male
+Middle Aged
+Mitral Valve Insufficiency
+Myocardial Infarction
+Stroke Volume
+Thrombosis
+Ventricular Dysfunction, Left
+Ventricular Remodeling

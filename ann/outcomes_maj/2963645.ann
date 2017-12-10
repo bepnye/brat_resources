@@ -1,0 +1,7 @@
+T1	Outcomes 791 814	cellular immune status,
+T2	Outcomes 935 976	absolute number of immunocompetent cells,
+T3	Outcomes 1017 1031	T lymphocytes,
+T4	Outcomes 1053 1073	helper/inducer type,
+T5	Outcomes 1086 1121	cytotoxic and natural killer cells.
+T6	Outcomes 1164 1197	activation state of T lymphocytes
+T7	Outcomes 1215 1227	side effects

@@ -1,0 +1,10 @@
+T1	HMM 25 37	pain control
+T2	HMM 235 239	pain
+T3	HMM 451 520	severity of pain and the number of intramuscular analgesic injections
+T4	HMM 606 715	number of days that intramuscular analgesic injections were required, hospital stay, and patient satisfaction
+T5	HMM 884 894	pain score
+T6	HMM 976 1010	intramuscular analgesic injections
+T7	HMM 1102 1115	hospital stay
+T8	HMM 1132 1152	patient satisfaction
+T9	HMM 1237 1296	pain score and number of intramuscular analgesic injections
+T10	HMM 1422 1479	severity of pain and intramuscular analgesic requirement.

@@ -1,0 +1,5 @@
+T1	HMM 45 58	deep sedation
+T2	HMM 687 840	time to response to verbal command, Aldrete score = 9, Postanesthesia Discharge Scoring System = 7, and assessment by the Digit Symbol Substitution Test.
+T3	HMM 1042 1051	induction
+T4	HMM 1117 1145	maintenance of deep sedation
+T5	HMM 1340 1354	rapid recovery

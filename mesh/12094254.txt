@@ -1,0 +1,19 @@
+Acute Disease
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Bone Marrow Cells
+Endothelial Growth Factors
+Gene Expression Regulation, Neoplastic
+Humans
+Leukemia, Myeloid
+Lymphokines
+Middle Aged
+Neovascularization, Pathologic
+Receptor Protein-Tyrosine Kinases
+Receptors, Growth Factor
+Receptors, Mitogen
+Receptors, Vascular Endothelial Growth Factor
+Remission Induction
+Vascular Endothelial Growth Factor A
+Vascular Endothelial Growth Factors

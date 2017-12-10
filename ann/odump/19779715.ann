@@ -1,0 +1,7 @@
+T1	HMM 672 694	overall survival (OS);
+T2	HMM 720 782	time from first progression to death (TFPTD) and tolerability.
+T3	HMM 916 957	response rate, median OS and median TFPTD
+T4	HMM 1396 1402	TFPTD;
+T5	HMM 1476 1484	Toxicity
+T6	HMM 1635 1637	OS
+T7	HMM 1645 1651	TFPTD.

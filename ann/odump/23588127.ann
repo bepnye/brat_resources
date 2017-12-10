@@ -1,0 +1,9 @@
+T1	HMM 36 46	cervicitis
+T2	HMM 369 372	MPC
+T3	HMM 766 860	etiology, clinical cure rates, adverse events (AEs), and rates of pelvic inflammatory disease.
+T4	HMM 1087 1097	cervicitis
+T5	HMM 1123 1152	overall clinical failure rate
+T6	HMM 1178 1196	clinical cure rate
+T7	HMM 1289 1309	gastrointestinal AEs
+T8	HMM 1443 1462	Clinical cure rates
+T9	HMM 1580 1600	Gastrointestinal AEs

@@ -1,0 +1,6 @@
+T1	HMM 793 822	R-R intervals and variability
+T2	HMM 948 975	basal respiratory intervals
+T3	HMM 1109 1153	Lung volume-to-heart rate spectral coherence
+T4	HMM 1291 1356	lung volume-to-heart rate variability transfer function magnitude
+T5	HMM 1383 1394	phase angle
+T6	HMM 1467 1533	heart rate, respiration, and respiration-heart rate interrelations

@@ -1,0 +1,13 @@
+T1	Outcomes 83 91	survival
+T2	Outcomes 100 118	cancer recurrence.
+T3	Outcomes 194 211	cancer recurrence
+T4	Outcomes 216 233	reduced survival.
+T5	Outcomes 570 616	Five-year survival and cancer recurrence rates
+T6	Outcomes 663 686	location of recurrence.
+T7	Outcomes 736 749	survival rate
+T8	Outcomes 834 850	recurrence rates
+T9	Outcomes 939 961	difference in survival
+T10	Outcomes 1053 1089	difference in cancer recurrence rate
+T11	Outcomes 1210 1227	Local recurrences
+T12	Outcomes 1410 1454	long-term survival and/or cancer recurrence.
+T13	Outcomes 1588 1603	recurrence rate

@@ -1,0 +1,15 @@
+T1	HMM 15 43	adolescent physical activity
+T2	HMM 48 65	dietary behaviors
+T3	HMM 527 575	diet, physical activity, and sedentary behaviors
+T4	HMM 604 628	SUN protection behaviors
+T5	HMM 758 762	diet
+T6	HMM 877 909	average daily energy expenditure
+T7	HMM 973 1025	daily minutes of moderate-vigorous physical activity
+T8	HMM 1059 1107	self-reported daily hours of sedentary behavior.
+T9	HMM 1146 1162	fat and calories
+T10	HMM 1174 1192	fiber and calories
+T11	HMM 1204 1230	fiber and fruit/vegetables
+T12	HMM 1242 1271	calories and fruit/vegetables
+T13	HMM 1287 1330	fruit and vegetables and sedentary behavior
+T14	HMM 1534 1548	diet variables
+T15	HMM 1682 1728	diet, physical activity and sedentary behavior

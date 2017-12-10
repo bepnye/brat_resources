@@ -1,0 +1,19 @@
+Acute Disease
+Adolescent
+Adult
+Child
+Chronic Disease
+Costs and Cost Analysis
+Female
+France
+Graft vs Host Disease
+Hematopoietic Stem Cell Mobilization
+Humans
+Infection
+Leukemia
+Male
+Middle Aged
+Placebos
+Stem Cell Transplantation
+Transplantation, Homologous
+Whole-Body Irradiation

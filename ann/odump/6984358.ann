@@ -1,0 +1,4 @@
+T1	HMM 54 63	migraine.
+T2	HMM 186 209	acute migraine attacks.
+T3	HMM 313 335	acute migraine attacks
+T4	HMM 631 729	duration and intensity of attacks, working ability, vigilance, and overall evaluation of the drugs

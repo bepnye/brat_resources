@@ -1,0 +1,13 @@
+T1	Treatment 12 53	patient education and supervised exercise
+T2	Treatment 57 80	patient education alone
+T3	Treatment 198 239	patient education and supervised exercise
+T4	Treatment 253 276	patient education alone
+T5	Treatment 607 630	Patient education (PE).
+T6	Treatment 631 681	Patient education and supervised exercise (PE+SE).
+T7	Treatment 1031 1036	PE+SE
+T8	Treatment 1069 1071	PE
+T9	Treatment 1485 1495	PE and SE.
+T10	Treatment 1536 1546	PE program
+T11	Treatment 1588 1598	12-week SE
+T12	Treatment 1704 1729	between PE+SE vs PE alone
+T13	Treatment 1731 1746	Adding SE to PE

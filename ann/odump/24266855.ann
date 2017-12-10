@@ -1,0 +1,12 @@
+T1	HMM 4 23	efficacy and safety
+T2	HMM 199 218	safety and efficacy
+T3	HMM 647 747	rate of biopsy-confirmed acute rejection (BCAR) and renal function, as measured by serum creatinine.
+T4	HMM 824 828	BCAR
+T5	HMM 935 956	Mean serum creatinine
+T6	HMM 1039 1063	and creatinine clearance
+T7	HMM 1215 1228	respectively.
+T8	HMM 1229 1255	Patient and graft survival
+T9	HMM 1300 1338	differences in infection or malignancy
+T10	HMM 1429 1528	excellent 12-month patient and graft survival, a low incidence of BCAR, and improved renal function
+T11	HMM 1622 1648	adequate immunosuppression
+T12	HMM 1678 1721	for the nephrotoxic effects of cyclosporine

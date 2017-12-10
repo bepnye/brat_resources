@@ -1,0 +1,16 @@
+T1	HMM 208 227	efficacy and safety
+T2	HMM 604 640	International Prostate Symptom Score
+T3	HMM 693 715	peak urinary flow rate
+T4	HMM 743 776	Differences in treatment efficacy
+T5	HMM 1010 1052	total International Prostate Symptom Score
+T6	HMM 1086 1096	irritative
+T7	HMM 1120 1131	obstructive
+T8	HMM 1207 1243	International Prostate Symptom Score
+T9	HMM 1342 1378	International Prostate Symptom Score
+T10	HMM 1456 1478	peak urinary flow rate
+T11	HMM 1704 1717	adverse event
+T12	HMM 1736 1758	retrograde ejaculation
+T13	HMM 1868 1891	retrograde ejaculation.
+T14	HMM 1940 1963	orthostatic hypotension
+T15	HMM 2085 2101	urinary symptoms
+T16	HMM 2188 2212	orthostatic hypotension.

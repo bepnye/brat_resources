@@ -1,0 +1,10 @@
+T1	HMM 78 89	retinopathy
+T2	HMM 584 606	fluorescein angiograms
+T3	HMM 638 664	progression of retinopathy
+T4	HMM 874 899	retinal cotton wool spots
+T5	HMM 1026 1044	cotton wool spots.
+T6	HMM 1129 1178	glycosylated haemoglobin and blood glucose values
+T7	HMM 1194 1219	episodes of hypoglycaemia
+T8	HMM 1223 1250	longer duration of diabetes
+T9	HMM 1256 1279	more severe retinopathy
+T10	HMM 1316 1343	blood glucose concentration

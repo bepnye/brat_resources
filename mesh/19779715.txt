@@ -1,0 +1,20 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents
+Carcinoma, Papillary
+Carcinoma, Renal Cell
+Drug Therapy, Combination
+Female
+Humans
+Immunologic Factors
+Immunotherapy
+Interferon-alpha
+Interleukin-2
+Kidney Neoplasms
+Male
+Middle Aged
+Neoplasm Staging
+Prognosis
+Survival Rate
+Treatment Outcome

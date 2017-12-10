@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Antibodies, Monoclonal
+Antibodies, Monoclonal, Humanized
+Antineoplastic Combined Chemotherapy Protocols
+Carboplatin
+Carcinoma, Non-Small-Cell Lung
+Dose-Response Relationship, Drug
+Female
+Humans
+Lung Neoplasms
+Male
+Middle Aged
+Paclitaxel

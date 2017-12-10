@@ -1,0 +1,15 @@
+Adult
+Aged
+Aspirin
+Coronary Artery Bypass
+Dipyridamole
+Female
+Graft Occlusion, Vascular
+Humans
+Isoindoles
+Male
+Middle Aged
+Phenylbutyrates
+Platelet Aggregation Inhibitors
+Time Factors
+Vascular Patency

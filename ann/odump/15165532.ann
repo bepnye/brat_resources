@@ -1,0 +1,9 @@
+T1	HMM 41 51	mouth leak
+T2	HMM 534 546	Cephalometry
+T3	HMM 649 681	mouth leak and the arousal index
+T4	HMM 755 771	total sleep time
+T5	HMM 849 861	snoring time
+T6	HMM 936 949	arousal index
+T7	HMM 1050 1061	mouth leak.
+T8	HMM 1062 1084	Cephalometric measures
+T9	HMM 1118 1147	anterior lower facial height.

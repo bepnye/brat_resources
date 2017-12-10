@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Antibiotics, Antineoplastic
+Breast Neoplasms
+Doxorubicin
+Female
+Heart Diseases
+Humans
+Liposomes
+Middle Aged
+Polyethylene Glycols
+Prognosis
+Survival Rate
+Treatment Outcome

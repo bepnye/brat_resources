@@ -1,0 +1,8 @@
+T1	HMM 786 874	refractory angina pectoris, acute myocardial infarction, death, emergency PTCA and CABG.
+T2	HMM 945 974	symptom and electrocardiogram
+T3	HMM 1090 1148	lowered heart rate and myocardial oxygen consumption index
+T4	HMM 1237 1273	onsets of refractory angina pectoris
+T5	HMM 1279 1305	reduced more significantly
+T6	HMM 1446 1456	heart rate
+T7	HMM 1462 1483	reduced significantly
+T8	HMM 1652 1662	heart rate

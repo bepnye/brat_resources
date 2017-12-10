@@ -1,0 +1,7 @@
+T1	HMM 216 235	efficacy and safety
+T2	HMM 1145 1167	Clinical success rates
+T3	HMM 1192 1227	Primary target lesion patency rates
+T4	HMM 1303 1340	Secondary target lesion patency rates
+T5	HMM 1421 1439	major complication
+T6	HMM 1443 1461	venous perforation
+T7	HMM 1481 1502	30-day mortality rate

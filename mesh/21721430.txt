@@ -1,0 +1,14 @@
+Adult
+Aged
+Asthma
+Female
+Humans
+Male
+Middle Aged
+Quality of Life
+Questionnaires
+Reproducibility of Results
+Sensitivity and Specificity
+Social Environment
+Spirometry
+Thailand

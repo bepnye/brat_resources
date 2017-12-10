@@ -1,0 +1,16 @@
+Adult
+Blood Pressure
+Cardiac Output
+Dietary Carbohydrates
+Female
+Forearm
+Heart Rate
+Hemodynamics
+Humans
+Lower Body Negative Pressure
+Male
+Posture
+Reference Values
+Regional Blood Flow
+Vascular Resistance
+Vasoconstriction

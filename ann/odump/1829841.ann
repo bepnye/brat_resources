@@ -1,0 +1,6 @@
+T1	HMM 443 460	complication rate
+T2	HMM 514 521	patency
+T3	HMM 668 702	Clinical improvement after 2 years
+T4	HMM 950 968	neointimal healing
+T5	HMM 1108 1125	neointimal height
+T6	HMM 1185 1226	histological composition of the neointima

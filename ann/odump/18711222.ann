@@ -1,0 +1,9 @@
+T1	HMM 55 77	chronic heart failure:
+T2	HMM 176 185	mortality
+T3	HMM 746 771	All-cause hospitalization
+T4	HMM 1004 1056	Matched HR for cardiovascular and HF hospitalization
+T5	HMM 1198 1238	HR for all-cause hospitalization for GFR
+T6	HMM 1381 1446	HR for all-cause death for GFR 45-59 and <45 ml/min/1.73 m(2) BSA
+T7	HMM 1543 1611	Matched HR for death due to cardiovascular causes and progressive HF
+T8	HMM 1752 1781	mortality and hospitalization
+T9	HMM 1867 1883	kidney function.

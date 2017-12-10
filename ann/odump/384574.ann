@@ -1,0 +1,5 @@
+T1	HMM 527 607	response rate, time to progression, duration of the response, and survival rate.
+T2	HMM 619 632	response rate
+T3	HMM 831 964	nausea, vomiting, diarrhea, in addition to complications of femoral-arterial thrombosis, bleeding, and infection at the catheter site
+T4	HMM 1096 1104	survived
+T5	HMM 1141 1159	Long-term survival

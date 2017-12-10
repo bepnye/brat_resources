@@ -1,0 +1,7 @@
+T1	Intervention 74 100	benzodiazepine (temazepam)
+T2	Intervention 110 148	non-benzodiazepine hypnotic (zolpidem)
+T3	Intervention 665 675	temazepam,
+T4	Intervention 678 709	medium half-life benzodiazepine
+T5	Intervention 713 727	oral zolpidem,
+T6	Intervention 736 770	half-life non-benzodiazepine drug,
+T7	Intervention 774 782	placebo.

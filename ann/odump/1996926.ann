@@ -1,0 +1,4 @@
+T1	HMM 624 662	heart rate or blood pressure responses
+T2	HMM 686 703	tolerance indices
+T3	HMM 1238 1266	heart rate or blood pressure
+T4	HMM 1299 1369	cumulative stress index and the duration of negative pressure exposure

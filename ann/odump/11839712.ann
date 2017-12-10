@@ -1,0 +1,14 @@
+T1	HMM 49 95	motility and sensation of the proximal stomach
+T2	HMM 170 268	gastric emptying, reduces food intake, and inhibits antroduodenal and stimulates pyloric motility.
+T3	HMM 318 405	fundus tone and volume waves, gastric compliance, and perception of gastric distension.
+T4	HMM 559 589	Interdigestive fundus motility
+T5	HMM 806 823	gastric sensation
+T6	HMM 880 942	physiological and supraphysiological plasma immunoreactivities
+T7	HMM 992 1003	fundus tone
+T8	HMM 1095 1134	volume waves and total volume displaced
+T9	HMM 1163 1181	Gastric compliance
+T10	HMM 1341 1349	pressure
+T11	HMM 1467 1486	isobaric distension
+T12	HMM 1503 1519	perception score
+T13	HMM 1639 1655	fundus motility.
+T14	HMM 1712 1734	increase in sensation.

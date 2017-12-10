@@ -1,0 +1,7 @@
+T1	Outcomes 556 712	Oxygenation index (OI), difference of alveoli-arterial oxygen pressure (P(A-α)O2), static lung compliance (Cstat), and airway resistance (Raw) were measured
+T2	Outcomes 883 913	time of mechanical ventilation
+T3	Outcomes 952 969	CPB, OI and Cstat
+T4	Outcomes 1015 1031	Raw and P(A-α)O2
+T5	Outcomes 1060 1087	T3, T4 and T5, OI and Cstat
+T6	Outcomes 1183 1199	Raw and P(A-α)O2
+T7	Outcomes 1298 1317	ventilation time in

@@ -1,0 +1,8 @@
+T1	HMM 73 89	eliciting speech
+T2	HMM 273 289	eliciting speech
+T3	HMM 468 476	progress
+T4	HMM 537 562	number of verbal attempts
+T5	HMM 591 614	number of correct words
+T6	HMM 740 792	number of verbal attempts or number of correct words
+T7	HMM 854 873	number of new words
+T8	HMM 979 997	imitative attempts

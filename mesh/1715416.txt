@@ -1,0 +1,15 @@
+Antineoplastic Combined Chemotherapy Protocols
+Bleomycin
+Chlorambucil
+Cisplatin
+Cyclophosphamide
+Dactinomycin
+Doxorubicin
+Drug Administration Schedule
+Etoposide
+Humans
+Male
+Prognosis
+Survival Rate
+Testicular Neoplasms
+Vinblastine

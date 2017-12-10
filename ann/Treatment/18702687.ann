@@ -1,0 +1,9 @@
+T1	Treatment 0 26	Long pediatric colonoscope
+T2	Treatment 34 71	intermediate length adult colonoscope
+T3	Treatment 241 267	long pediatric colonoscope
+T4	Treatment 276 313	intermediate length adult colonoscope
+T5	Treatment 631 656	colonoscopic examinations
+T6	Treatment 721 834	colonoscopy with either intermediate length adult colonoscope (CF-240I) or long pediatric colonoscope (PCF-240L).
+T7	Treatment 1236 1243	CF-240I
+T8	Treatment 1248 1256	PCF 240L
+T9	Treatment 1976 2013	intermediate length adult colonoscope

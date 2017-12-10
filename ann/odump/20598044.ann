@@ -1,0 +1,5 @@
+T1	HMM 817 838	pregnancy occurrence.
+T2	HMM 882 966	stimulation cycle responses, pregnancy outcomes, incidence of OHSS and types of OHSS
+T3	HMM 1017 1054	chemical and clinical pregnancy rates
+T4	HMM 1060 1087	number of retrieved oocytes
+T5	HMM 1171 1457	Follicle stimulating hormone (FSH), luteinizing hormone (LH) levels, number of follicles, number of follicles >18 mm, relative frequency of mature oocytes, number and days of gonadotropin injections, day of human chorionic gonadotropin (HCG) administration, estradiol level and abortion

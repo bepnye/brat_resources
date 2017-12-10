@@ -1,0 +1,10 @@
+T1	HMM 35 58	glucose appearance rate
+T2	HMM 285 318	circulating glucose concentration
+T3	HMM 888 1067	circulating insulin, C-peptide, glucagon, alpha amino and urea nitrogen, and triglycerides; a decrease in nonesterified fatty acids; and a modest increase in respiratory quotient.
+T4	HMM 1088 1150	protein deaminated and the amino groups incorporated into urea
+T5	HMM 1213 1220	glucose
+T6	HMM 1260 1294	quantity of amino acids deaminated
+T7	HMM 1336 1382	amount of glucose appearing in the circulation
+T8	HMM 1415 1454	peripheral plasma glucose concentration
+T9	HMM 1601 1622	glucose concentration
+T10	HMM 1669 1699	rate of glucose disappearance.

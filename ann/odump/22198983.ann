@@ -1,0 +1,10 @@
+T1	HMM 639 679	the frequency of serious adverse events.
+T2	HMM 680 742	Peripheral blood counts, CD34(+) count, and functional outcome
+T3	HMM 762 841	assessed lesion volume, atrophy, and the presence of iron-labeled CD34(+) cells
+T4	HMM 901 918	at mean of 8 days
+T5	HMM 1149 1183	with serious adverse events: G-CSF
+T6	HMM 1227 1250	20, death or dependency
+T7	HMM 1325 1362	or the number of injections received.
+T8	HMM 1363 1414	G-CSF increased CD34(+) and total white cell counts
+T9	HMM 1476 1515	reduction in MRI ischemic lesion volume
+T10	HMM 1633 1654	labeled CD34(+) cells

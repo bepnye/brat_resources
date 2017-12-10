@@ -1,0 +1,5 @@
+T1	HMM 1156 1218	Freedom-from-treatment-failure (FFTF) and survival (SV) curves
+T2	HMM 1290 1306	acute toxicities
+T3	HMM 1344 1372	Analysis of relapse patterns
+T4	HMM 1553 1569	risk for relapse
+T5	HMM 1687 1711	radiotherapy dose effect

@@ -1,0 +1,8 @@
+T1	HMM 59 110	blood pressure, fasting glucose, and lipid profiles
+T2	HMM 261 316	blood pressure, blood glucose level, and lipid profiles
+T3	HMM 513 764	Systolic blood pressure (SBP), diastolic blood pressure (DBP), fasting glucose (FG), lipid profiles (total cholesterol (TC), triglyceride (TG), low density lipoprotein cholesterol (LDL-C), and high density lipoprotein (HDL-C)), and antioxidant enzymes
+T4	HMM 941 991	FG, SBP, and LDL-C levels were significantly lower
+T5	HMM 996 1082	HDL-C level and antioxidant enzymes activities (CAT and SOD) were significantly higher
+T6	HMM 1110 1148	Blood pressure, FG, and lipid profiles
+T7	HMM 1307 1356	blood pressure, blood glucose, and lipid profiles
+T8	HMM 1376 1406	antioxidant enzymes activities

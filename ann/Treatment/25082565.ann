@@ -1,0 +1,10 @@
+T1	Treatment 79 125	erlotinib and docetaxel versus docetaxel alone
+T2	Treatment 242 308	Concomitant administration of erlotinib with standard chemotherapy
+T3	Treatment 578 601	erlotinib and docetaxel
+T4	Treatment 802 912	sequential erlotinib 150 mg/d (day 2-16)+docetaxel (75 mg/m(2) d1) (arm ED) or docetaxel (75 mg/m(2) d1) alone
+T5	Treatment 1173 1175	ED
+T6	Treatment 1388 1394	The ED
+T7	Treatment 1465 1471	arm ED
+T8	Treatment 1529 1542	arms ED and D
+T9	Treatment 1630 1675	CONCLUSION Sequential erlotinib and docetaxel
+T10	Treatment 1699 1719	than docetaxel alone

@@ -1,0 +1,17 @@
+T1	HMM 0 8	Efficacy
+T2	HMM 13 19	safety
+T3	HMM 214 222	efficacy
+T4	HMM 231 237	safety
+T5	HMM 528 603	changes in trough supine systolic and diastolic blood pressure (sSBP, sDBP)
+T6	HMM 647 658	Equivalence
+T7	HMM 663 671	assessed
+T8	HMM 761 775	decreased sSBP
+T9	HMM 828 847	confidence interval
+T10	HMM 921 952	predefined equivalence interval
+T11	HMM 983 997	sDBP decreased
+T12	HMM 1099 1118	confidence interval
+T13	HMM 1163 1183	equivalence interval
+T14	HMM 1204 1229	antihypertensive efficacy
+T15	HMM 1254 1264	equivalent
+T16	HMM 1356 1360	sSBP
+T17	HMM 1398 1408	tolerated.

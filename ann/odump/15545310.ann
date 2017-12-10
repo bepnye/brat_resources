@@ -1,0 +1,11 @@
+T1	HMM 92 135	pharmacokinetics of cephalexin monohydrate.
+T2	HMM 400 452	pharmacokinetics and pharmacodynamics of cephalexin.
+T3	HMM 637 655	Time-concentration
+T4	HMM 685 711	pharmacokinetic parameters
+T5	HMM 862 1086	percentage of time that serum concentrations remain above the MIC(90) during the dosing interval (T > MIC(90)) for Streptococcus pyogenes and Staphylococcus aureus associated with the pharmacokinetic profiles was calculated.
+T6	HMM 1192 1231	C(max), AUC(infinity), t(1/2), or CL/F.
+T7	HMM 1232 1238	t(max)
+T8	HMM 1331 1353	Suboptimal T > MIC(90)
+T9	HMM 1494 1505	T > MIC(90)
+T10	HMM 1608 1614	t(max)
+T11	HMM 1728 1734	t(max)

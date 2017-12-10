@@ -1,0 +1,12 @@
+T1	HMM 651 685	standard psychiatric rating scales
+T2	HMM 809 853	17-item Hamilton Rating Scale for Depression
+T3	HMM 1157 1202	Clinical Global Impressions-Improvement score
+T4	HMM 1252 1267	HAM-D-17 scores
+T5	HMM 1380 1394	HAM-D-17 score
+T6	HMM 1530 1652	Montgomery-Asberg Depression Rating Scale; the HAM-D retardation, anxiety, and sleep disturbance factors; and HAM-D item 1
+T7	HMM 1685 1694	dysthymia
+T8	HMM 1710 1726	major depression
+T9	HMM 1912 1932	mean nefazodone dose
+T10	HMM 2024 2038	well tolerated
+T11	HMM 2090 2104	adverse events
+T12	HMM 2268 2277	efficacy.

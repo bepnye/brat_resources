@@ -1,0 +1,4 @@
+T1	HMM 881 905	antibiotic concentration
+T2	HMM 1061 1088	concentrations of ofloxacin
+T3	HMM 1346 1370	greater ofloxacin levels
+T4	HMM 1458 1471	ciprofloxacin

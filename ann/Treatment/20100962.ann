@@ -1,0 +1,16 @@
+T1	Treatment 0 9	Pazopanib
+T2	Treatment 116 125	Pazopanib
+T3	Treatment 132 159	oral angiogenesis inhibitor
+T4	Treatment 298 316	placebo-controlled
+T5	Treatment 366 387	pazopanib monotherapy
+T6	Treatment 411 430	cytokine-pretreated
+T7	Treatment 605 639	receive oral pazopanib or placebo.
+T8	Treatment 1033 1042	pazopanib
+T9	Treatment 1057 1064	placebo
+T10	Treatment 1191 1206	treatment-naive
+T11	Treatment 1453 1462	pazopanib
+T12	Treatment 1485 1492	placebo
+T13	Treatment 1754 1779	pazopanib versus placebo.
+T14	Treatment 1791 1800	Pazopanib
+T15	Treatment 1878 1885	placebo
+T16	Treatment 1909 1928	cytokine-pretreated

@@ -1,0 +1,12 @@
+T1	HMM 201 230	toxicity and clinical outcome
+T2	HMM 742 756	Acute toxicity
+T3	HMM 785 932	Common Terminology Criteria for Adverse Events, version 3.0, and late toxicity was graded according to the Radiation Therapy Oncology Group system.
+T4	HMM 974 1005	acute gastrointestinal toxicity
+T5	HMM 1010 1031	disease-free survival
+T6	HMM 1458 1479	disease-free survival
+T7	HMM 1556 1572	overall survival
+T8	HMM 1705 1749	grade ≥2 acute gastrointestinal toxicities
+T9	HMM 1785 1817	≥3 gastrointestinal toxicities
+T10	HMM 1885 1923	less chronic gastrointestinal toxicity
+T11	HMM 1986 2013	significantly less toxicity
+T12	HMM 2045 2072	comparable clinical outcome

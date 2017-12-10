@@ -1,0 +1,10 @@
+T1	Treatment 10 22	beta-alanine
+T2	Treatment 41 59	sodium bicarbonate
+T3	Treatment 147 199	beta-alanine with sodium bicarbonate supplementation
+T4	Treatment 348 380	either a placebo or beta-alanine
+T5	Treatment 464 486	before supplementation
+T6	Treatment 518 541	days of supplementation
+T7	Treatment 704 845	conditions (placebo with maltodextrin; placebo with sodium bicarbonate; beta-alanine with maltodextrin; beta-alanine with sodium bicarbonate)
+T8	Treatment 1019 1055	RESULTS Beta-alanine supplementation
+T9	Treatment 1587 1669	CONCLUSIONS Both chronic beta-alanine and acute sodium bicarbonate supplementation
+T10	Treatment 1732 1808	addition of acute sodium bicarbonate to chronic beta-alanine supplementation

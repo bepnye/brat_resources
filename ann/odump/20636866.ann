@@ -1,0 +1,6 @@
+T1	HMM 46 76	radiation-induced skin disease
+T2	HMM 602 632	radiation-induced skin disease
+T3	HMM 899 925	intensity of skin erythema
+T4	HMM 1089 1109	erythema time course
+T5	HMM 1196 1210	skin reactions
+T6	HMM 1489 1497	erythema

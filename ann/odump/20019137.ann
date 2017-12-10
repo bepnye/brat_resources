@@ -1,0 +1,11 @@
+T1	HMM 203 283	total body weight (TBW), lean body weight (LBW), and estimated blood volume (BV)
+T2	HMM 1207 1231	correlation coefficients
+T3	HMM 1240 1283	correlation of change in CT number per gram
+T4	HMM 1299 1302	TBW
+T5	HMM 1573 1585	Adjusted MHE
+T6	HMM 1652 1655	LBW
+T7	HMM 1678 1681	TBW
+T8	HMM 1707 1710	TBW
+T9	HMM 1736 1738	BV
+T10	HMM 1770 1773	TBW
+T11	HMM 1796 1836	When LBW, rather than TBW or BV, is used

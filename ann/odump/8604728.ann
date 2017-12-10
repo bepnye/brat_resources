@@ -1,0 +1,9 @@
+T1	HMM 139 147	efficacy
+T2	HMM 152 158	safety
+T3	HMM 341 382	intraocular pressure and visual function.
+T4	HMM 666 720	intraocular pressure, visual acuity, and visual fields
+T5	HMM 861 881	intraocular pressure
+T6	HMM 888 908	intraocular pressure
+T7	HMM 1212 1237	high intraocular pressure
+T8	HMM 1500 1514	visual acuity.
+T9	HMM 1573 1594	late-onset bleb leaks

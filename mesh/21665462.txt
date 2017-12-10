@@ -1,0 +1,22 @@
+Adult
+Aged
+Aged, 80 and over
+Alopecia
+Antineoplastic Agents, Phytogenic
+Antineoplastic Combined Chemotherapy Protocols
+Camptothecin
+Chemotherapy, Adjuvant
+Colorectal Neoplasms
+Diarrhea
+Drug Administration Schedule
+Female
+Fluorouracil
+Humans
+Infusions, Intravenous
+Injections, Intravenous
+Leucovorin
+Male
+Middle Aged
+Neoplasm Staging
+Research Design
+Treatment Outcome

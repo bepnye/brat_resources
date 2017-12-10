@@ -1,0 +1,9 @@
+T1	HMM 40 51	endotoxemia
+T2	HMM 412 423	endotoxemia
+T3	HMM 711 756	Endotoxin concentration, liver function tests
+T4	HMM 827 850	Endotoxin concentration
+T5	HMM 1003 1040	Mean initial endotoxin concentrations
+T6	HMM 1212 1240	mean endotoxin concentration
+T7	HMM 1407 1430	endotoxin concentration
+T8	HMM 1434 1454	liver function tests
+T9	HMM 1531 1542	endotoxemia

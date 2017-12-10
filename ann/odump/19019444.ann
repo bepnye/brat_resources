@@ -1,0 +1,11 @@
+T1	HMM 176 205	visual field (VF) progression
+T2	HMM 848 881	reduce intraocular pressure (IOP)
+T3	HMM 1044 1172	Visual field progression, measured by Humphrey 24-2 full-threshold testing and assessed by the change in the mean deviation (MD)
+T4	HMM 1178 1225	an indicator of substantial worsening of the VF
+T5	HMM 1402 1405	MD.
+T6	HMM 1464 1506	worsening (> or =3 dB) of MD from baseline
+T7	HMM 1648 1655	VF loss
+T8	HMM 1766 1780	VF progression
+T9	HMM 1890 1897	VF loss
+T10	HMM 1996 2011	lowering of IOP
+T11	HMM 2241 2248	VF loss

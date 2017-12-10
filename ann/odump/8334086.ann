@@ -1,0 +1,8 @@
+T1	HMM 575 708	Delivery success rate, maternal perineal and vaginal injuries, maternal anaesthetic requirements, neonatal scalp and facial injuries.
+T2	HMM 1052 1101	anal sphincter damage or upper vaginal extensions
+T3	HMM 1250 1281	epidural or spinal anaesthetics
+T4	HMM 1329 1349	general anaesthetics
+T5	HMM 1470 1487	cephalhaematomata
+T6	HMM 1588 1604	facial injuries.
+T7	HMM 1655 1688	unexplained neonatal convulsions.
+T8	HMM 1803 1818	maternal trauma

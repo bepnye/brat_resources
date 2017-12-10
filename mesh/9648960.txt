@@ -1,0 +1,11 @@
+Adolescent
+Adult
+Albuterol
+Asthma
+Bronchial Provocation Tests
+Bronchodilator Agents
+Female
+Forced Expiratory Volume
+Humans
+Male
+Middle Aged

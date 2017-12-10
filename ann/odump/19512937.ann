@@ -1,0 +1,8 @@
+T1	HMM 8 28	bone mineral density
+T2	HMM 131 157	bone mineral density (BMD)
+T3	HMM 355 358	BMD
+T4	HMM 824 865	percent change from baseline in total BMD
+T5	HMM 1012 1030	rate of BMD change
+T6	HMM 1246 1249	BMD
+T7	HMM 1513 1517	BMD.
+T8	HMM 1551 1554	BMD

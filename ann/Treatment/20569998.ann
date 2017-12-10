@@ -1,0 +1,13 @@
+T1	Treatment 0 12	Losartan vs.
+T2	Treatment 13 23	amlodipine
+T3	Treatment 292 300	losartan
+T4	Treatment 313 334	antihypertensive drug
+T5	Treatment 340 350	uricosuric
+T6	Treatment 366 376	amlodipine
+T7	Treatment 585 608	losartan or amlodipine.
+T8	Treatment 773 786	chemotherapy.
+T9	Treatment 817 825	losartan
+T10	Treatment 836 846	amlodipine
+T11	Treatment 969 981	chemotherapy
+T12	Treatment 1364 1372	losartan
+T13	Treatment 1385 1395	amlodipine

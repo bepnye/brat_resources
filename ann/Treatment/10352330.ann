@@ -1,0 +1,11 @@
+T1	Treatment 10 47	granulocyte/colony-stimulating factor
+T2	Treatment 132 177	granulocyte/colony-stimulating factor (G-CSF)
+T3	Treatment 363 386	chemotherapy with G-CSF
+T4	Treatment 391 425	historical controls without G-CSF.
+T5	Treatment 686 691	G-CSF
+T6	Treatment 1019 1024	G-CSF
+T7	Treatment 1319 1324	G-CSF
+T8	Treatment 1568 1573	G-CSF
+T9	Treatment 1708 1713	G-CSF
+T10	Treatment 1811 1816	G-CSF
+T11	Treatment 1861 1866	G-CSF

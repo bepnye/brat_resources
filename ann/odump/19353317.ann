@@ -1,0 +1,5 @@
+T1	HMM 1012 1022	blood loss
+T2	HMM 1124 1148	cumulative rate of union
+T3	HMM 1160 1187	range of motion of the knee
+T4	HMM 1199 1214	overall results
+T5	HMM 1229 1242	complications

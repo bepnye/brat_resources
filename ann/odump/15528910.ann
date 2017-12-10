@@ -1,0 +1,10 @@
+T1	HMM 0 15	Acid resistance
+T2	HMM 204 219	acid resistance
+T3	HMM 828 857	challenged with acid in vitro
+T4	HMM 877 902	level of remineralization
+T5	HMM 924 941	microradiography.
+T6	HMM 1002 1027	level of remineralization
+T7	HMM 1100 1121	lesions remineralized
+T8	HMM 1419 1435	demineralization
+T9	HMM 1621 1629	superior
+T10	HMM 1752 1766	more resistant

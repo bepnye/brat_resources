@@ -1,0 +1,8 @@
+T1	HMM 91 112	hypercholesterolemia.
+T2	HMM 705 740	low-density lipoprotein cholesterol
+T3	HMM 774 791	total cholesterol
+T4	HMM 817 877	total cholesterol-high-density lipoprotein cholesterol ratio
+T5	HMM 987 1048	high-density lipoprotein cholesterol and triglyceride levels.
+T6	HMM 1104 1145	low-density lipoprotein cholesterol level
+T7	HMM 1343 1355	dropout rate
+T8	HMM 1363 1375	side effects

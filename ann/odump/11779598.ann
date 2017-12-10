@@ -1,0 +1,9 @@
+T1	HMM 27 80	ovulatory rates, cervical scores, and pregnancy rates
+T2	HMM 812 952	Insulin, T, DHEAS, FSH, LH, body mass index (BMI), waist-to-hip ratio, endometrial thickness, cervical score, ovulation, and pregnancy rates
+T3	HMM 1073 1139	total T, LH level, LH/FSH ratio, insulin resistance, and mean BMI.
+T4	HMM 1157 1215	waist-to-hip ratio, DHEAS level, and fasting insulin level
+T5	HMM 1278 1317	ovulation rates and thicker endometrium
+T6	HMM 1385 1410	cumulative pregnancy rate
+T7	HMM 1487 1501	pregnancy rate
+T8	HMM 1577 1616	hyperandrogenism and insulin resistance
+T9	HMM 1635 1688	ovulation rates, cervical scores, and pregnancy rates

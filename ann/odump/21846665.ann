@@ -1,0 +1,6 @@
+T1	HMM 773 800	child's focus of attention;
+T2	HMM 825 850	child communication acts;
+T3	HMM 864 884	child communication.
+T4	HMM 934 984	children's prompted and spontaneous communication.
+T5	HMM 1058 1079	verbal responsiveness
+T6	HMM 1094 1132	language development and communication

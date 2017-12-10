@@ -1,0 +1,9 @@
+T1	HMM 770 817	PANSS, CGI, MADRS and neuropsychological tests.
+T2	HMM 862 874	active rTMS.
+T3	HMM 875 884	Sham rTMS
+T4	HMM 904 925	improvement over time
+T5	HMM 929 980	positive and negative subscales of PANSS and MADRS.
+T6	HMM 1059 1072	rating scales
+T7	HMM 1082 1108	positive subscale of PANSS
+T8	HMM 1168 1175	HF-rTMS
+T9	HMM 1190 1242	DLPCF affects the negative symptoms of schizophrenia

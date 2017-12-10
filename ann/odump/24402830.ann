@@ -1,0 +1,5 @@
+T1	HMM 955 987	progression-free survival (PFS).
+T2	HMM 1013 1046	overall survival (OS) and safety.
+T3	HMM 1204 1264	Patient demographics, stratification, and prognostic factors
+T4	HMM 1304 1314	Median PFS
+T5	HMM 1454 1463	Median OS

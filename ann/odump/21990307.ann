@@ -1,0 +1,13 @@
+T1	HMM 528 641	PGE(2), 13-hydroxy-octadecadienoic acids, and 5-, 12-, and 15-hydroxyeicosatetraenoic acid (5-, 12-, and 15-HETE)
+T2	HMM 779 801	Flexible sigmoidoscopy
+T3	HMM 931 948	eicosanoid levels
+T4	HMM 1075 1094	mean percent change
+T5	HMM 1138 1149	eicosanoids
+T6	HMM 1215 1244	mean percent change in PGE(2)
+T7	HMM 1260 1266	5-HETE
+T8	HMM 1323 1330	12-HETE
+T9	HMM 1346 1353	15-HETE
+T10	HMM 1379 1401	free arachidonic acid.
+T11	HMM 1457 1477	total adverse events
+T12	HMM 1571 1588	eicosanoid levels
+T13	HMM 1676 1695	tolerable and safe.

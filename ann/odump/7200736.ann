@@ -1,0 +1,9 @@
+T1	HMM 68 79	Hypotension
+T2	HMM 258 284	systolic arterial pressure
+T3	HMM 424 438	blood pressure
+T4	HMM 494 504	Heart rate
+T5	HMM 560 579	pre-ejection period
+T6	HMM 584 609	left ventricular ejection
+T7	HMM 633 647	Renal function
+T8	HMM 699 709	Blood loss
+T9	HMM 817 834	arterial pressure

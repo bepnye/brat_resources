@@ -1,0 +1,14 @@
+T1	Treatment 20 69	calcineurin inhibitors and everolimus monotherapy
+T2	Treatment 189 286	early withdrawal of cyclosporine (CsA) followed by the initiation of everolimus (Evr) monotherapy
+T3	Treatment 457 460	CsA
+T4	Treatment 514 541	Evr in combination with CsA
+T5	Treatment 581 608	Evr monotherapy (Evr group)
+T6	Treatment 626 676	CsA with/without mycophenolate mofetil (CsA group)
+T7	Treatment 757 761	(Evr
+T8	Treatment 770 773	CsA
+T9	Treatment 827 830	Evr
+T10	Treatment 861 864	CsA
+T11	Treatment 1058 1061	Evr
+T12	Treatment 1230 1233	the
+T13	Treatment 1316 1329	withdrawal of
+T14	Treatment 1334 1361	followed by Evr monotherapy

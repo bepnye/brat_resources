@@ -1,0 +1,4 @@
+T1	HMM 476 597	Carotid radial pulse wave velocity (crPWV), carotid femoral PWV (cfPWV), carotid artery dorsalis pedis PWV (cdPWV) and NC
+T2	HMM 776 781	trend
+T3	HMM 785 807	cfPWV, cdPWV and crPWV
+T4	HMM 907 939	hypertension status and NC level

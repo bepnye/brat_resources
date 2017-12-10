@@ -1,0 +1,7 @@
+T1	HMM 572 586	no improvement
+T2	HMM 627 660	frequency of induction resistance
+T3	HMM 675 727	rate of complete remission or restored chronic phase
+T4	HMM 752 760	survival
+T5	HMM 778 801	Blast expression of Pgp
+T6	HMM 812 815	LRP
+T7	HMM 874 887	rate of CR/CP

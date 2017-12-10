@@ -1,0 +1,7 @@
+T1	HMM 603 620	asthmatic attacks
+T2	HMM 672 693	Respiratory variables
+T3	HMM 740 764	asthma symptoms declined
+T4	HMM 876 900	cardiovascular condition
+T5	HMM 992 1015	exercise-induced asthma
+T6	HMM 1123 1146	exercise-induced asthma
+T7	HMM 1244 1251	effects

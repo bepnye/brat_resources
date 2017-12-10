@@ -1,0 +1,15 @@
+T1	Treatment 0 48	Sodium bicarbonate, N-acetylcysteine, and saline
+T2	Treatment 196 216	coronary procedures.
+T3	Treatment 411 429	sodium bicarbonate
+T4	Treatment 471 555	combination of N-acetylcysteine (NAC) plus sodium chloride and sodium chloride alone
+T5	Treatment 823 901	infusion of sodium bicarbonate, sodium chloride, sodium chloride plus oral NAC
+T6	Treatment 1230 1248	sodium bicarbonate
+T7	Treatment 1339 1357	sodium bicarbonate
+T8	Treatment 1385 1406	sodium chloride alone
+T9	Treatment 1460 1471	combination
+T10	Treatment 1591 1609	sodium bicarbonate
+T11	Treatment 1624 1639	sodium chloride
+T12	Treatment 1711 1729	sodium bicarbonate
+T13	Treatment 1778 1802	sodium chloride infusion
+T14	Treatment 1815 1862	Combination therapy of NAC plus sodium chloride
+T15	Treatment 1916 1938	sodium chloride alone.

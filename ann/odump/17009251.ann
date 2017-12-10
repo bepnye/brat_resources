@@ -1,0 +1,9 @@
+T1	HMM 159 178	arthroplasty rates.
+T2	HMM 944 980	hospitalizations, and arthroplasties
+T3	HMM 1000 1016	procedure codes.
+T4	HMM 1017 1031	Arthroplasties
+T5	HMM 1344 1369	rates of any arthroplasty
+T6	HMM 1682 1700	total arthroplasty
+T7	HMM 1747 1761	individual hip
+T8	HMM 1804 1808	knee
+T9	HMM 1848 1863	arthroplasties.

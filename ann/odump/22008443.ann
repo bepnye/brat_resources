@@ -1,0 +1,10 @@
+T1	HMM 10 35	ischemic postconditioning
+T2	HMM 301 322	myocardial protection
+T3	HMM 434 459	ischemic postconditioning
+T4	HMM 463 501	protection against myocardial ischemia
+T5	HMM 922 940	Cardiac troponin I
+T6	HMM 1202 1228	postoperative peak release
+T7	HMM 1377 1403	lower peak inotropic score
+T8	HMM 1507 1526	0.0001), extubation
+T9	HMM 1582 1607	0.0002) and length of ICU
+T10	HMM 1684 1704	had a higher cardiac

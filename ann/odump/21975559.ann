@@ -1,0 +1,10 @@
+T1	HMM 268 301	lumbar spine bone mineral density
+T2	HMM 446 490	lumbar spine (LS) bone mineral density (BMD)
+T3	HMM 667 670	BMD
+T4	HMM 734 740	LS BMD
+T5	HMM 1347 1363	increased LS BMD
+T6	HMM 1539 1551	increased LS
+T7	HMM 1794 1813	increased total hip
+T8	HMM 1866 1872	not LS
+T9	HMM 2002 2016	significant LS
+T10	HMM 2201 2214	increasing LS

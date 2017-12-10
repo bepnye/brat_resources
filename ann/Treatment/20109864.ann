@@ -1,0 +1,19 @@
+T1	Treatment 0 51	Catheter ablation of stable ventricular tachycardia
+T2	Treatment 59 72	defibrillator
+T3	Treatment 297 341	implantable cardioverter defibrillator (ICD)
+T4	Treatment 549 566	catheter ablation
+T5	Treatment 1040 1135	receive catheter ablation and an ICD (ablation group, n=54) or ICD alone (control group, n=56).
+T6	Treatment 1570 1585	(ablation group
+T7	Treatment 1593 1600	control
+T8	Treatment 1892 1906	ablation group
+T9	Treatment 1994 2007	control group
+T10	Treatment 2107 2121	ablation group
+T11	Treatment 2137 2150	control group
+T12	Treatment 2411 2426	(ablation group
+T13	Treatment 2434 2447	control group
+T14	Treatment 2492 2501	(ablation
+T15	Treatment 2515 2522	control
+T16	Treatment 2552 2576	Prophylactic VT ablation
+T17	Treatment 2584 2610	defibrillator implantation
+T18	Treatment 2732 2762	Prophylactic catheter ablation
+T19	Treatment 2819 2845	cardioverter defibrillator

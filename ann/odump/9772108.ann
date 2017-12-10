@@ -1,0 +1,8 @@
+T1	HMM 466 498	Electromyographic (EMG) activity
+T2	HMM 763 788	amplitude of the movement
+T3	HMM 899 912	peak velocity
+T4	HMM 1142 1153	EMG pattern
+T5	HMM 1181 1204	step-tracking movement.
+T6	HMM 1215 1242	initial agonist burst (AG1)
+T7	HMM 1311 1333	antagonist burst (ANT)
+T8	HMM 1564 1576	EMG response

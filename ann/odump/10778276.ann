@@ -1,0 +1,6 @@
+T1	HMM 213 233	aggressive reactions
+T2	HMM 262 276	fist clenching
+T3	HMM 292 316	indicator of aggression.
+T4	HMM 888 951	autonomic arousal, as measured by photoplethysmographic sensors
+T5	HMM 1047 1066	speed of clenching.
+T6	HMM 1112 1137	tendencies to aggression.

@@ -1,0 +1,9 @@
+T1	HMM 97 125	long-term radiologic outcome
+T2	HMM 342 369	development of joint damage
+T3	HMM 430 465	evaluate the radiologic progression
+T4	HMM 1023 1034	radiographs
+T5	HMM 1058 1092	analyzed by using the Larsen score
+T6	HMM 1365 1377	Larsen score
+T7	HMM 1627 1642	erosive changes
+T8	HMM 1751 1773	radiologic progression
+T9	HMM 1861 1888	long-term radiologic damage

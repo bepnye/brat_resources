@@ -1,0 +1,23 @@
+Adult
+Aged
+Antineoplastic Agents
+Benzimidazoles
+Carcinoma, Renal Cell
+Disease-Free Survival
+Female
+France
+Humans
+Indoles
+Kidney Neoplasms
+Male
+Middle Aged
+Niacinamide
+Phenylurea Compounds
+Protein Kinase Inhibitors
+Pyrroles
+Quinolones
+Salvage Therapy
+Sirolimus
+TOR Serine-Threonine Kinases
+Treatment Failure
+Treatment Outcome

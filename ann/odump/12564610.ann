@@ -1,0 +1,15 @@
+T1	HMM 971 985	well tolerated
+T2	HMM 1001 1020	notable differences
+T3	HMM 1033 1075	incidence of tremor and taste of treatment
+T4	HMM 1201 1223	serious adverse events
+T5	HMM 1311 1360	clinically significant abnormal laboratory values
+T6	HMM 1364 1383	overall differences
+T7	HMM 1443 1480	no clinically significant differences
+T8	HMM 1518 1555	cardiac variables, or in vital signs.
+T9	HMM 1560 1579	secondary variables
+T10	HMM 1587 1609	no notable differences
+T11	HMM 1626 1689	lung function, exacerbations or health-related quality of life.
+T12	HMM 1790 1840	reduced rescue medication usage at all timepoints.
+T13	HMM 1915 1929	well tolerated
+T14	HMM 1935 1960	lack of sustained benefit
+T15	HMM 1973 2010	large-scale clinical efficacy studies

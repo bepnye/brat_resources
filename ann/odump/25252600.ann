@@ -1,0 +1,5 @@
+T1	HMM 612 615	MVO
+T2	HMM 1539 1556	infarct size (IS)
+T3	HMM 1743 1850	MVO (hypoenhancement within infarct core) on CMRI, angiographic markers of microvascular perfusion and MACE
+T4	HMM 2540 2544	CMRI
+T5	HMM 2554 2564	IS and MVO

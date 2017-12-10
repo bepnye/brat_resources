@@ -1,0 +1,11 @@
+Aged
+Cardiomyopathy, Dilated
+Echocardiography, Stress
+Female
+Humans
+Male
+Middle Aged
+Prognosis
+Prospective Studies
+ROC Curve
+Survival Rate

@@ -1,0 +1,9 @@
+T1	HMM 728 816	v1.0 quit-success genotype score, level of dependence and precessation smoking reduction
+T2	HMM 1037 1103	self-reported abstinence and end-expired air carbon monoxide (CO).
+T3	HMM 1120 1137	Affymetrix arrays
+T4	HMM 1186 1222	10-wk continuous smoking abstinence.
+T5	HMM 1223 1281	NRT dose, level of nicotine dependence and genotype scores
+T6	HMM 1292 1323	significant interactive effects
+T7	HMM 1348 1369	Successful abstinence
+T8	HMM 1392 1405	CO reductions
+T9	HMM 1526 1591	levels of nicotine dependence, genotype scores and CO monitoring.

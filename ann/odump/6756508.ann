@@ -1,0 +1,5 @@
+T1	HMM 324 337	effectiveness
+T2	HMM 369 390	therapeutic advantage
+T3	HMM 664 692	complete or partial response
+T4	HMM 729 744	Response status
+T5	HMM 918 964	development of progressive disease or survival

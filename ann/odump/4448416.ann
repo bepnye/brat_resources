@@ -1,0 +1,14 @@
+T1	HMM 55 77	haemorrhagic diathesis
+T2	HMM 81 107	fulminant hepatic failure.
+T3	HMM 183 198	hepatic failure
+T4	HMM 402 406	died
+T5	HMM 413 427	major bleeding
+T6	HMM 544 552	bleeding
+T7	HMM 569 578	survived.
+T8	HMM 600 625	intravascular coagulation
+T9	HMM 942 960	factor VIII levels
+T10	HMM 1109 1126	prothrombin ratio
+T11	HMM 1242 1251	factor II
+T12	HMM 1290 1306	factors IX and X
+T13	HMM 1363 1372	factor IX
+T14	HMM 1412 1437	intravascular coagulation

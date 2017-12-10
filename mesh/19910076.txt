@@ -1,0 +1,18 @@
+Adult
+Aged
+Anemia
+Antineoplastic Combined Chemotherapy Protocols
+Carcinoma, Non-Small-Cell Lung
+Cisplatin
+Clinical Protocols
+Disease Progression
+Female
+Humans
+Lung Neoplasms
+Male
+Middle Aged
+Neutropenia
+Quality of Life
+Survival Analysis
+Taxoids
+Vinblastine

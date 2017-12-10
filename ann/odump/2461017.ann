@@ -1,0 +1,9 @@
+T1	HMM 0 6	Safety
+T2	HMM 11 19	efficacy
+T3	HMM 104 114	thrombosis
+T4	HMM 609 643	phlebographically verified thrombi
+T5	HMM 651 673	bleeding complications
+T6	HMM 899 925	thromboprophylactic effect
+T7	HMM 1098 1122	over-all thrombosis rate
+T8	HMM 1233 1285	bleeding complications, deaths or pulmonary embolism
+T9	HMM 1317 1369	Peroperative blood loss and transfusion requirements

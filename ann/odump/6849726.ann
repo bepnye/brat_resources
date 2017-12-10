@@ -1,0 +1,7 @@
+T1	HMM 80 116	analgesia, respiration and sedation.
+T2	HMM 220 292	analgesia or antinociceptive activity, respiratory effects and sedation.
+T3	HMM 411 435	antinociceptive activity
+T4	HMM 458 474	marked sedation.
+T5	HMM 546 575	analgesic action of morphine.
+T6	HMM 670 690	significant sedation
+T7	HMM 742 780	pain threshold or ventilatory response

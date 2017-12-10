@@ -1,0 +1,5 @@
+T1	HMM 667 709	snoring loudness and duration in the home.
+T2	HMM 995 1030	mean postoperative Snore Index (SI)
+T3	HMM 1062 1064	SI
+T4	HMM 1199 1214	fall in the SI.
+T5	HMM 1286 1319	effectiveness of snoring surgery.

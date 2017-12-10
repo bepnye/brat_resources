@@ -1,0 +1,12 @@
+T1	HMM 270 288	beneficial effects
+T2	HMM 541 560	Detailed assessment
+T3	HMM 564 618	drug safety, biochemical and haematological parameters
+T4	HMM 624 632	efficacy
+T5	HMM 855 877	tolerate metronidazole
+T6	HMM 889 901	side effects
+T7	HMM 905 921	lack of efficacy
+T8	HMM 1039 1099	overall improvement in articular index and morning stiffness
+T9	HMM 1114 1125	improvement
+T10	HMM 1129 1167	laboratory indices of disease activity
+T11	HMM 1228 1256	disease modifying properties
+T12	HMM 1265 1284	unacceptably toxic.

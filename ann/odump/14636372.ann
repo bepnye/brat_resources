@@ -1,0 +1,7 @@
+T1	HMM 0 19	Prophylactic effect
+T2	HMM 716 723	relapse
+T3	HMM 750 757	relapse
+T4	HMM 794 813	prophylactic effect
+T5	HMM 842 855	[Cox's F-test
+T6	HMM 870 881	survival in
+T7	HMM 954 974	prophylactic effects

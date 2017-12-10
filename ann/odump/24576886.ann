@@ -1,0 +1,8 @@
+T1	HMM 166 185	efficacy and safety
+T2	HMM 754 882	slit-lamp characteristics of the corneal ulceration, corrected distance visual acuity, duration until healing, and complications
+T3	HMM 1060 1078	time until healing
+T4	HMM 1202 1243	healing, corrected distance visual acuity
+T5	HMM 1333 1374	The corneal ulceration's width and length
+T6	HMM 1485 1518	demonstrated corneal perforation;
+T7	HMM 1680 1708	the time to corneal healing;
+T8	HMM 1812 1854	perforation or recurrence of the infection

@@ -1,0 +1,16 @@
+T1	HMM 22 39	coagulation index
+T2	HMM 202 235	different anticoagulation systems
+T3	HMM 359 374	anticoagulation
+T4	HMM 806 974	coagulation changes of prothrombin time (PT), PTA, thrombin time (TT), activated partial thromboplastin time (APTT) and international normalized ratio (INR) dynamically
+T5	HMM 996 1046	as line / filter coagulation, rupture and bleeding
+T6	HMM 1167 1182	in PT, PTA, INR
+T7	HMM 1247 1283	in APTT and TT and fibrinogen (Fbg).
+T8	HMM 1284 1302	APTT and TT levels
+T9	HMM 1559 1572	the Fbg level
+T10	HMM 1817 1837	A curve was observed
+T11	HMM 1911 1929	of severe bleeding
+T12	HMM 1982 1996	was terminated
+T13	HMM 2005 2027	of degree III clotting
+T14	HMM 2200 2295	of blood platelet count (BPC), fibrin degradation products (FDP), D-dimer and clinical symptoms
+T15	HMM 2451 2488	the disorder of hypercoagulable state
+T16	HMM 2650 2670	of blood coagulation

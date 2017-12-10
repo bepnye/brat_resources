@@ -1,0 +1,7 @@
+T1	HMM 456 482	glomerular filtration rate
+T2	HMM 590 607	renal plasma flow
+T3	HMM 676 693	lithium clearance
+T4	HMM 758 790	fractional proximal reabsorption
+T5	HMM 865 902	fractional distal sodium reabsorption
+T6	HMM 1229 1250	blood glucose control
+T7	HMM 1406 1432	glomerular filtration rate

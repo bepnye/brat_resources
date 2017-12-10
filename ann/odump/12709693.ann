@@ -1,0 +1,11 @@
+T1	HMM 819 847	Cardiorespiratory parameters
+T2	HMM 852 868	bispectral index
+T3	HMM 947 996	Numerical Pain Rating Scale (NRS); recovery level
+T4	HMM 1001 1033	return of psychomotor efficiency
+T5	HMM 1073 1086	Aldrete scale
+T6	HMM 1093 1151	Modified Post Anesthesia Discharge Scoring (MPADS) system.
+T7	HMM 1327 1347	colonoscopy painless
+T8	HMM 1390 1418	average pain intensity score
+T9	HMM 1566 1585	maximum MPADS score
+T10	HMM 1693 1766	mean arterial pressure and heart rate and signs of respiratory depression
+T11	HMM 1897 1992	analgesia, satisfactory hemodynamic stability, minor respiratory depression, and rapid recovery

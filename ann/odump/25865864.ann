@@ -1,0 +1,8 @@
+T1	HMM 0 10	Fall rates
+T2	HMM 925 941	health behaviour
+T3	HMM 1268 1311	patient rate of falls per 1000 patient-days
+T4	HMM 1320 1360	proportion of patients who were fallers.
+T5	HMM 1674 1679	falls
+T6	HMM 1803 1823	p=0·003), injurious
+T7	HMM 1929 1938	p=0·006)
+T8	HMM 2121 2143	significant difference

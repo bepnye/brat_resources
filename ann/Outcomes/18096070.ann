@@ -1,0 +1,14 @@
+T1	Outcomes 4 10	effect
+T2	Outcomes 52 80	plasma acetate concentration
+T3	Outcomes 85 100	acid-base state
+T4	Outcomes 401 417	acid-base status
+T5	Outcomes 501 521	Jugular venous blood
+T6	Outcomes 1003 1028	profound plasma alkalosis
+T7	Outcomes 1049 1060	plasma [H+]
+T8	Outcomes 1075 1100	plasma [TCO2] and [HCO3-]
+T9	Outcomes 1153 1169	plasma alkalosis
+T10	Outcomes 1187 1192	[SID]
+T11	Outcomes 1273 1279	[Atot]
+T12	Outcomes 1298 1302	[PP]
+T13	Outcomes 1331 1347	plasma [acetate]
+T14	Outcomes 1369 1386	acidifying effect

@@ -1,0 +1,28 @@
+T1	HMM 0 27	[Intra-uterine insemination
+T2	HMM 44 68	ovarian hyperstimulation
+T3	HMM 84 104	expectant management
+T4	HMM 133 145	subfertility
+T5	HMM 209 240	Intrauterine insemination (IUI)
+T6	HMM 246 287	controlled ovarian hyperstimulation (COH)
+T7	HMM 350 375	unexplained subfertility.
+T8	HMM 440 471	increase in chance of pregnancy
+T9	HMM 583 586	IUI
+T10	HMM 592 595	COH
+T11	HMM 608 628	expectant management
+T12	HMM 645 669	unexplained subfertility
+T13	HMM 705 735	spontaneous ongoing pregnancy.
+T14	HMM 806 830	unexplained subfertility
+T15	HMM 854 883	spontaneous ongoing pregnancy
+T16	HMM 942 945	IUI
+T17	HMM 951 954	COH
+T18	HMM 1044 1078	ongoing pregnancy within 6 months.
+T19	HMM 1358 1361	IUI
+T20	HMM 1367 1370	COH
+T21	HMM 1382 1403	expectant management.
+T22	HMM 1551 1560	conceived
+T23	HMM 1591 1598	ongoing
+T24	HMM 1684 1698	twin pregnancy
+T25	HMM 1758 1782	twins and one a triplet.
+T26	HMM 1829 1841	IUI with COH
+T27	HMM 1858 1882	unexplained subfertility
+T28	HMM 1930 1950	Expectant management

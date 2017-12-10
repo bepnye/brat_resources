@@ -1,0 +1,19 @@
+T1	HMM 455 468	CD19+ B cells
+T2	HMM 628 641	CD19+ B cells
+T3	HMM 1075 1088	CD19+ B cells
+T4	HMM 1178 1214	levels of circulating CD19+ B cells.
+T5	HMM 1228 1256	total CD19+ blood population
+T6	HMM 1363 1380	CD19+ blood cells
+T7	HMM 1609 1622	CD19+ B cells
+T8	HMM 1742 1760	CD19+ B-cell level
+T9	HMM 1795 1813	clinical stage III
+T10	HMM 1905 1915	CD19 cells
+T11	HMM 1920 1943	longer overall survival
+T12	HMM 1975 1986	CD19 levels
+T13	HMM 2033 2053	event-free survival.
+T14	HMM 2114 2125	CD19 values
+T15	HMM 2211 2249	number of deaths related to infections
+T16	HMM 2532 2554	levels of CD19+ cells.
+T17	HMM 2574 2591	CD19+ cell levels
+T18	HMM 2747 2768	blood levels of CD19+
+T19	HMM 2822 2832	CD19+ cell

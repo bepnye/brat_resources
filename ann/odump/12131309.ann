@@ -1,0 +1,12 @@
+T1	HMM 110 149	infectious or hemorrhagic complications
+T2	HMM 440 479	infectious or hemorrhagic complications
+T3	HMM 762 800	amount of rectal and urethral bleeding
+T4	HMM 828 851	infection after biopsy.
+T5	HMM 864 891	amount of urethral bleeding
+T6	HMM 932 947	Rectal bleeding
+T7	HMM 1012 1022	High fever
+T8	HMM 1144 1185	Bacteriuria in post-biopsy urine cultures
+T9	HMM 1359 1377	urethral bleeding.
+T10	HMM 1425 1440	rectal bleeding
+T11	HMM 1507 1518	bacteriuria
+T12	HMM 1569 1599	High fever and hospitalization

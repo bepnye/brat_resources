@@ -1,0 +1,7 @@
+T1	HMM 168 184	symptom distress
+T2	HMM 828 930	Symptom Distress Scale (SDS), Revised Piper Fatigue Scale (PFS), and the State Anxiety Inventory (SAI)
+T3	HMM 1341 1349	decrease
+T4	HMM 1357 1360	SAI
+T5	HMM 1489 1507	SDS or PFS values.
+T6	HMM 1544 1561	improved symptoms
+T7	HMM 1742 1755	cybersickness

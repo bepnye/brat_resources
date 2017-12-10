@@ -1,0 +1,9 @@
+T1	HMM 39 50	inattention
+T2	HMM 55 68	hyperactivity
+T3	HMM 206 219	hyperactivity
+T4	HMM 1047 1195	Swanson, Nolan, and Pelham Questionnaire revised for DSM-IV (ADHD and ODD scales) and the Children's Yale-Brown Obsessive Compulsive Scales for PDD.
+T5	HMM 1318 1347	Hyperactivity and impulsivity
+T6	HMM 1367 1379	inattention.
+T7	HMM 1418 1461	ODD or stereotyped and repetitive behavior.
+T8	HMM 1559 1567	efficacy
+T9	HMM 1581 1594	ADHD symptoms

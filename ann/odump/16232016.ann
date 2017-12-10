@@ -1,0 +1,8 @@
+T1	HMM 1156 1162	weight
+T2	HMM 1237 1267	mean +/- SD triglyceride level
+T3	HMM 1401 1421	triglyceride levels.
+T4	HMM 1434 1450	phase separation
+T5	HMM 1541 1569	layering out of the emulsion
+T6	HMM 1574 1587	agglutination
+T7	HMM 1607 1612	clots
+T8	HMM 1832 1879	layering out, agglutination, and clot formation

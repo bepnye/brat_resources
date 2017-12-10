@@ -1,0 +1,6 @@
+T1	HMM 481 489	Efficacy
+T2	HMM 534 570	immune function (IgA, IgG, CD3, CD4)
+T3	HMM 633 638	cured
+T4	HMM 764 784	total effective rate
+T5	HMM 917 926	cure rate
+T6	HMM 1031 1085	serum IgA, IgG, CD3, CD4, and CD4/CD8, lower serum IgE

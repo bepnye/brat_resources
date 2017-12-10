@@ -1,0 +1,15 @@
+T1	HMM 0 8	Efficacy
+T2	HMM 181 189	efficacy
+T3	HMM 352 360	efficacy
+T4	HMM 365 377	tolerability
+T5	HMM 677 710	frequency of severe exacerbations
+T6	HMM 762 863	respiratory symptoms, forced expiratory volume in 1 s (FEV(1)), shuttle walking test distance and St.
+T7	HMM 864 905	George's Respiratory Questionnaire scores
+T8	HMM 934 963	total number of exacerbations
+T9	HMM 1066 1140	number of patients experiencing at least one exacerbation during the study
+T10	HMM 1199 1233	type 3 Anthonisens's exacerbations
+T11	HMM 1383 1427	dyspnea, cough, sputum amount and purulence.
+T12	HMM 1428 1434	FEV(1)
+T13	HMM 1508 1566	area under the FEV(1)-time curve during the 6-month period
+T14	HMM 1704 1755	shuttle walking test distance and scores of the St.
+T15	HMM 1756 1790	George's Respiratory Questionnaire

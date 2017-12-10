@@ -1,0 +1,9 @@
+T1	HMM 166 179	fracture risk
+T2	HMM 815 832	homogeneity index
+T3	HMM 996 1008	failure load
+T4	HMM 1126 1154	average reconstruction error
+T5	HMM 1289 1304	The correlation
+T6	HMM 1308 1337	the FE predicted failure load
+T7	HMM 1343 1372	the experimental failure load
+T8	HMM 1610 1635	shows encouraging results
+T9	HMM 1639 1680	estimating patient-specific failure loads

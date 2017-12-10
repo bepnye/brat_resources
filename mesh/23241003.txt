@@ -1,0 +1,17 @@
+Adult
+Blood Pressure
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Monitoring
+Exercise Tolerance
+Female
+Heart Failure, Systolic
+Humans
+Hypertension, Pulmonary
+Male
+Middle Aged
+Phosphodiesterase 5 Inhibitors
+Piperazines
+Purines
+Sulfones
+Treatment Outcome

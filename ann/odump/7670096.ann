@@ -1,0 +1,8 @@
+T1	HMM 1422 1435	GM-CSF levels
+T2	HMM 1635 1660	grade III or IV toxicity.
+T3	HMM 1736 1779	circulating absolute neutrophil count (ANC)
+T4	HMM 2024 2027	ANC
+T5	HMM 2135 2164	absolute monocyte count (AMC)
+T6	HMM 2320 2347	day 7 and 8 platelet count.
+T7	HMM 2420 2464	bone marrow neutrophil storage pool (BM NSP)
+T8	HMM 2537 2572	Neutrophil C3bi receptor expression

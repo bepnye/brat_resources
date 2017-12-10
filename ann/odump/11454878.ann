@@ -1,0 +1,11 @@
+T1	HMM 146 154	efficacy
+T2	HMM 159 165	safety
+T3	HMM 806 845	overall progression-free survival rates
+T4	HMM 895 917	overall response rates
+T5	HMM 986 1015	Median overall survival times
+T6	HMM 1175 1200	progression-free survival
+T7	HMM 1278 1294	overall survival
+T8	HMM 1522 1549	Severe hematologic toxicity
+T9	HMM 1647 1690	growth factor or blood product utilization.
+T10	HMM 1717 1725	efficacy
+T11	HMM 1737 1743	safety

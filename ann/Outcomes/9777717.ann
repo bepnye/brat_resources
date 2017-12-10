@@ -1,0 +1,16 @@
+T1	Outcomes 18 69	safety, immunogenicity, and pharmacokinetic profile
+T2	Outcomes 512 583	safety and pharmacokinetics (serum concentrations of rabies antibodies)
+T3	Outcomes 1474 1500	pharmacokinetic parameters
+T4	Outcomes 1574 1598	relative bioavailability
+T5	Outcomes 1622 1638	absorption rates
+T6	Outcomes 1714 1728	antibody level
+T7	Outcomes 1794 1827	geometric mean titer (GMT) values
+T8	Outcomes 1985 2008	evolution of GMT values
+T9	Outcomes 2240 2257	safety evaluation
+T10	Outcomes 2304 2352	serum samples for anti-rabies antibody titration
+T11	Outcomes 2417 2434	serious reactions
+T12	Outcomes 2484 2560	immediate (anaphylactic type) or delayed (serum sickness) allergic reactions
+T13	Outcomes 2610 2622	GMT profiles
+T14	Outcomes 2705 2731	protective antibody titers
+T15	Outcomes 2939 2949	GMT values
+T16	Outcomes 3170 3188	antibody responses

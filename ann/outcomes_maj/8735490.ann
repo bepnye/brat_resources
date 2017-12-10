@@ -1,0 +1,9 @@
+T1	Outcomes 173 181	accuracy
+T2	Outcomes 430 459	Field placement errors (FPEs)
+T3	Outcomes 589 629	overall treatment simulator differences,
+T4	Outcomes 634 666	number of error free treatments,
+T5	Outcomes 671 704	mean treatment-simulator position
+T6	Outcomes 928 947	mean absolute error
+T7	Outcomes 1953 1960	outcome
+T8	Outcomes 2018 2026	accurate
+T9	Outcomes 2060 2077	Systematic errors

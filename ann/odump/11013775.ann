@@ -1,0 +1,5 @@
+T1	HMM 571 617	Pain intensity (rest and passive mobilisation)
+T2	HMM 704 774	use of rescue medication (piritramide by patient controlled analgesia)
+T3	HMM 798 812	pain reduction
+T4	HMM 849 872	Piritramide consumption
+T5	HMM 1095 1112	analgesic effect.

@@ -1,0 +1,5 @@
+T1	HMM 68 93	chronic fatigue syndrome.
+T2	HMM 172 197	chronic fatigue syndrome.
+T3	HMM 775 908	The self rated clinical global impression change score, "very much better" or "much better" being considered as clinically important.
+T4	HMM 1260 1301	Fatigue, functional capacity, and fitness
+T5	HMM 1658 1664	better

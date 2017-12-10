@@ -1,0 +1,16 @@
+Acetates
+Adolescent
+Adult
+Anti-Asthmatic Agents
+Asthma
+Chronic Disease
+Double-Blind Method
+Drug Evaluation
+Female
+Forced Expiratory Volume
+Humans
+Male
+Middle Aged
+Peak Expiratory Flow Rate
+Quinolines
+Treatment Outcome

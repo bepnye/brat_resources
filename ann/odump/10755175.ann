@@ -1,0 +1,12 @@
+T1	HMM 48 55	autism:
+T2	HMM 179 185	autism
+T3	HMM 267 380	parent and teacher ratings of behavior, direct observational recordings, IQ, language, and social/adaptive tests.
+T4	HMM 381 404	Significant differences
+T5	HMM 451 556	superior on parent-rated measures of hyperactivity and on direct observational measures of ear-occlusion.
+T6	HMM 557 571	No differences
+T7	HMM 589 612	teacher-rated measures.
+T8	HMM 613 671	Children's IQs and language comprehension did not increase
+T9	HMM 677 753	adaptive/social behavior scores and expressive language quotients decreased.
+T10	HMM 789 819	unable to report in retrospect
+T11	HMM 881 883	No
+T12	HMM 919 957	benefiting clinically or educationally

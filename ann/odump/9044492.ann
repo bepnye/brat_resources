@@ -1,0 +1,6 @@
+T1	HMM 0 17	Airway management
+T2	HMM 681 697	LMA successfully
+T3	HMM 808 818	successful
+T4	HMM 867 898	Skill performance and retention
+T5	HMM 998 1009	performance
+T6	HMM 1127 1136	effective

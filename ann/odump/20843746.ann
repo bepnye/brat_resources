@@ -1,0 +1,14 @@
+T1	HMM 568 615	on serum concentrations of FSH immunoreactivity
+T2	HMM 640 725	the number and size of growing follicles, and inhibin B and oestradiol concentrations
+T3	HMM 780 814	The rate of follicular development
+T4	HMM 998 1029	The number of follicles ⩾11mm
+T5	HMM 1262 1313	The rise of inhibin B and oestradiol concentrations
+T6	HMM 2070 2082	stimulation.
+T7	HMM 2083 2119	Serum levels of FSH immunoreactivity
+T8	HMM 2176 2234	the number and size of growing follicles and serum inhibin
+T9	HMM 2237 2266	and oestradiol concentrations
+T10	HMM 2322 2332	analysis).
+T11	HMM 2333 2366	Serum FSH immunoreactivity levels
+T12	HMM 2641 2678	in a similar growth rate of follicles
+T13	HMM 2688 2723	slightly higher number of follicles
+T14	HMM 2870 2901	induced pharmacodynamic effects

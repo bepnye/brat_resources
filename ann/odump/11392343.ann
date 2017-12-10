@@ -1,0 +1,9 @@
+T1	HMM 222 250	behavioral disturbances--for
+T2	HMM 260 294	hyperactivity and irritability--in
+T3	HMM 555 647	Aberrant Behavior Checklist-Community Version (ABC-CV) and Clinical Global Impressions (CGI)
+T4	HMM 939 1000	parent-rated ABC-CV ratings of irritability and hyperactivity
+T5	HMM 1215 1240	ABC-CVs for hyperactivity
+T6	HMM 1293 1313	inappropriate speech
+T7	HMM 1343 1360	CGI scale ratings
+T8	HMM 1526 1543	behavioral change
+T9	HMM 1570 1620	clinician-rated improvements in behavioral ratings

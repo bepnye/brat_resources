@@ -1,0 +1,10 @@
+T1	HMM 0 23	Maternal erythropoietin
+T2	HMM 201 233	maternal erythropoietin response
+T3	HMM 466 521	Serial hemoglobin, hematocrit, and serum erythropoietin
+T4	HMM 589 603	Serum ferritin
+T5	HMM 715 730	mean hemoglobin
+T6	HMM 865 884	mean serum ferritin
+T7	HMM 1042 1072	mean hemoglobin and hematocrit
+T8	HMM 1196 1230	mean maternal serum erythropoietin
+T9	HMM 1333 1367	mean cord blood hematologic values
+T10	HMM 1411 1440	Maternal serum erythropoietin

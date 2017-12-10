@@ -1,0 +1,13 @@
+T1	HMM 505 555	induced sputum, bronchial biopsies, bronchial wash
+T2	HMM 560 582	bronchoalveolar lavage
+T3	HMM 945 966	airway responsiveness
+T4	HMM 971 993	asthma quality of life
+T5	HMM 1063 1099	absence of eosinophils in the mucosa
+T6	HMM 1224 1253	subepithelial layer thickness
+T7	HMM 1406 1423	mast cell numbers
+T8	HMM 1600 1611	improvement
+T9	HMM 1615 1634	methacholine PC(20)
+T10	HMM 1720 1742	asthma quality of life
+T11	HMM 1942 1961	airway eosinophilia
+T12	HMM 1970 1999	subepithelial layer thickness
+T13	HMM 2011 2043	short-term response to treatment

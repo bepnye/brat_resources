@@ -1,0 +1,10 @@
+T1	Treatment 0 26	Clofarabine ± fludarabine
+T2	Treatment 46 47	.
+T3	Treatment 48 56	busulfan
+T4	Treatment 158 165	of i.v.
+T5	Treatment 166 201	busulfan (Bu) and fludarabine (Flu)
+T6	Treatment 450 485	supplant Flu with clofarabine (Clo)
+T7	Treatment 994 1003	I-Clo:Flu
+T8	Treatment 1072 1091	IV-single-agent Clo
+T9	Treatment 3075 3090	efficacy of Clo
+T10	Treatment 3094 3106	Flu with i.v

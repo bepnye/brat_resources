@@ -1,0 +1,13 @@
+Adult
+Aged
+Breast
+Breast Neoplasms
+Dose-Response Relationship, Radiation
+Female
+Humans
+Middle Aged
+Prospective Studies
+Radiotherapy Dosage
+Radiotherapy, Adjuvant
+Time Factors
+Tomography, X-Ray Computed

@@ -1,0 +1,16 @@
+Adult
+Aged
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Humans
+Injections, Intravenous
+Lidocaine
+Liver
+Liver Cirrhosis
+Liver Failure
+Liver Function Tests
+Male
+Middle Aged
+Predictive Value of Tests
+Reference Values

@@ -1,0 +1,15 @@
+Acute Disease
+Adult
+Angina, Unstable
+Blood Platelets
+Blood Viscosity
+Chronic Disease
+Coronary Artery Disease
+Female
+Heart Failure
+Humans
+Male
+Middle Aged
+Myocardial Infarction
+Platelet Aggregation Inhibitors
+Pyridines

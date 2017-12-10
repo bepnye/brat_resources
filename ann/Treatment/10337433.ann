@@ -1,0 +1,21 @@
+T1	Treatment 26 57	olopatadine ophthalmic solution
+T2	Treatment 72 101	ketorolac ophthalmic solution
+T3	Treatment 230 261	olopatadine ophthalmic solution
+T4	Treatment 274 303	ketorolac ophthalmic solution
+T5	Treatment 365 376	Olopatadine
+T6	Treatment 514 523	Ketorolac
+T7	Treatment 980 991	olopatadine
+T8	Treatment 1007 1014	placebo
+T9	Treatment 1044 1053	ketorolac
+T10	Treatment 1069 1076	placebo
+T11	Treatment 1411 1430	alternate treatment
+T12	Treatment 1446 1453	placebo
+T13	Treatment 1580 1591	Olopatadine
+T14	Treatment 1698 1705	placebo
+T15	Treatment 1762 1771	Ketorolac
+T16	Treatment 1863 1871	placebo.
+T17	Treatment 1872 1883	Olopatadine
+T18	Treatment 1934 1943	ketorolac
+T19	Treatment 2064 2073	ketorolac
+T20	Treatment 2178 2189	olopatadine
+T21	Treatment 2362 2372	ketorolac.

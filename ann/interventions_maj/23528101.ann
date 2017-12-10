@@ -1,0 +1,8 @@
+T1	Intervention 48 67	routine prophylaxis
+T2	Intervention 72 139	on-demand treatment with sucrose-formulated recombinant factor VIII
+T3	Intervention 214 233	routine prophylaxis
+T4	Intervention 238 257	on-demand treatment
+T5	Intervention 263 283	factor VIII products
+T6	Intervention 553 601	sucrose-formulated recombinant FVIII (rFVIII-FS)
+T7	Intervention 951 972	rFVIII-FS prophylaxis
+T8	Intervention 1009 1032	or on-demand treatment.

@@ -1,0 +1,7 @@
+T1	HMM 47 65	autistic disorder:
+T2	HMM 874 959	Clinical Global Impressions (CGI) and the Children's Psychiatric Rating Scale (CPRS).
+T3	HMM 984 1002	symptom reduction.
+T4	HMM 1123 1126	CGI
+T5	HMM 1180 1198	CPRS Autism Factor
+T6	HMM 1247 1274	drowsiness and weight gain.
+T7	HMM 1339 1348	treatment

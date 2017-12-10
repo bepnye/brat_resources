@@ -1,0 +1,21 @@
+Adult
+Analgesia, Patient-Controlled
+Analgesics, Opioid
+Analysis of Variance
+Anesthetics, Local
+Bupivacaine
+Cholecystectomy
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Humans
+Injections, Intraperitoneal
+Laparoscopy
+Male
+Middle Aged
+Morphine
+Pain Measurement
+Pain, Postoperative
+Prospective Studies
+Time Factors
+Treatment Outcome

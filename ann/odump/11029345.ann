@@ -1,0 +1,8 @@
+T1	HMM 33 50	depressant effect
+T2	HMM 1042 1063	Hemodynamic responses
+T3	HMM 1230 1301	systemic vascular resistance (SVR) and increases in cardiac output (Q).
+T4	HMM 1302 1326	Myocardial contractility
+T5	HMM 1485 1507	Mean arterial pressure
+T6	HMM 1522 1554	mean pulmonary arterial pressure
+T7	HMM 1755 1807	myocardial contractility and hemodynamic alterations
+T8	HMM 2004 2020	airway pressures

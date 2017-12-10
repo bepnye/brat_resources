@@ -1,0 +1,17 @@
+Acetaminophen
+Adult
+Aged
+Analgesics
+Chronic Disease
+Codeine
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Humans
+Hydrocodone
+Ibuprofen
+Male
+Middle Aged
+Pain
+Pain Measurement
+Placebos

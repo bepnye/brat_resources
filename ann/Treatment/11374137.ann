@@ -1,0 +1,13 @@
+T1	Treatment 15 46	video assisted thoracic surgery
+T2	Treatment 283 314	insertion of a chest tube (ICT)
+T3	Treatment 405 439	video assisted thoracoscopy (VATS)
+T4	Treatment 671 683	ICT or VATS.
+T5	Treatment 688 691	ICT
+T6	Treatment 764 768	VATS
+T7	Treatment 808 811	ICT
+T8	Treatment 875 879	VATS
+T9	Treatment 927 930	ICT
+T10	Treatment 1057 1061	VATS
+T11	Treatment 1107 1110	ICT
+T12	Treatment 1115 1119	VATS
+T13	Treatment 1185 1189	VATS

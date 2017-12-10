@@ -1,0 +1,9 @@
+T1	HMM 317 335	analgesic effects.
+T2	HMM 340 356	analgesic effect
+T3	HMM 680 778	Postoperative pain (visual analog pain scale; VAS) and opiate analgesic requirements (ketobemidon)
+T4	HMM 863 867	pain
+T5	HMM 968 971	VAS
+T6	HMM 988 1021	requirements of opioid analgesics
+T7	HMM 1106 1131	drug-related side effects
+T8	HMM 1190 1230	potent and long-lasting analgesic effect
+T9	HMM 1538 1582	lower pain assessment and opioid consumption

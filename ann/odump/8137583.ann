@@ -1,0 +1,5 @@
+T1	HMM 0 28	Intraperitoneal distribution
+T2	HMM 522 532	loculation
+T3	HMM 661 694	free intraperitoneal distribution
+T4	HMM 842 858	pseudoloculation
+T5	HMM 1040 1043	IDI

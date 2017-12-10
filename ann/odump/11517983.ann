@@ -1,0 +1,6 @@
+T1	HMM 677 688	Anaesthesia
+T2	HMM 725 780	mean (sd) end tidal isoflurane concentration (per cent)
+T3	HMM 802 828	light surgical anaesthesia
+T4	HMM 958 992	mean (sd) arterial pressure (mmHg)
+T5	HMM 1159 1207	heart rate, recovery time or quality of recovery
+T6	HMM 1339 1350	anaesthesia

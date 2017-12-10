@@ -1,0 +1,10 @@
+T1	HMM 32 68	myocardial relaxation responsiveness
+T2	HMM 742 765	renal blood flow (RBF).
+T3	HMM 818 875	diastolic function (myocardial relaxation velocities [E']
+T4	HMM 910 945	RBF (para-aminohippurate clearance)
+T5	HMM 1030 1033	RBF
+T6	HMM 1198 1223	E' and RBF responsiveness
+T7	HMM 1331 1342	LS response
+T8	HMM 1563 1603	myocardial relaxation and responsiveness
+T9	HMM 1680 1699	diastolic function.
+T10	HMM 1769 1791	myocardial relaxation.

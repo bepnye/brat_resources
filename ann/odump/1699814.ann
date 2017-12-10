@@ -1,0 +1,6 @@
+T1	HMM 175 192	clinical efficacy
+T2	HMM 536 550	responder rate
+T3	HMM 638 659	flushing and headache
+T4	HMM 701 710	mortality
+T5	HMM 749 764	amputation rate
+T6	HMM 942 956	ulcer healing.

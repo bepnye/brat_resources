@@ -1,0 +1,7 @@
+T1	HMM 561 567	safety
+T2	HMM 625 637	tolerability
+T3	HMM 748 754	safety
+T4	HMM 1027 1053	tolerability of rotigotine
+T5	HMM 1227 1249	nausea and/or vomiting
+T6	HMM 1390 1409	side-effect profile
+T7	HMM 1506 1527	adverse event profile

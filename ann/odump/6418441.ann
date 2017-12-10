@@ -1,0 +1,9 @@
+T1	HMM 358 380	breathlessness at rest
+T2	HMM 402 428	breathlessness on exertion
+T3	HMM 456 472	quality of sleep
+T4	HMM 520 559	morning peak expiratory flow rate value
+T5	HMM 687 708	treatment preferences
+T6	HMM 769 793	usage of bronchodilators
+T7	HMM 950 962	side-effects
+T8	HMM 1128 1146	asthmatic symptoms
+T9	HMM 1173 1227	amount of concomitant bronchodilator therapy required.

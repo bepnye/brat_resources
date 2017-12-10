@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Bone Density Conservation Agents
+Bone Neoplasms
+Breast Neoplasms
+Diphosphonates
+Dose-Response Relationship, Drug
+Female
+Humans
+Imidazoles
+Infusions, Intravenous
+Middle Aged
+Neoplasm Staging
+Prognosis
+Survival Rate
+Treatment Outcome

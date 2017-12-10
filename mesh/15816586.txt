@@ -1,0 +1,17 @@
+Adult
+Analgesia
+Anesthesia, General
+Blood Glucose
+Female
+Hemodynamics
+Humans
+Immunity
+Immunoglobulin A
+Intraoperative Period
+Male
+Middle Aged
+Music
+Oxygen Consumption
+Postoperative Care
+Stress, Physiological
+Treatment Outcome

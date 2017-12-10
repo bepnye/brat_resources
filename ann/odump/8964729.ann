@@ -1,0 +1,8 @@
+T1	HMM 788 802	endurance time
+T2	HMM 909 990	ratio of high- to low-frequency power of the diaphragmatic electromyogram (EMGdi)
+T3	HMM 1070 1075	EMGdi
+T4	HMM 1169 1222	PI,mmax and maximal transdiaphragmatic pressure (Pdi)
+T5	HMM 1287 1322	intensity of the IES rose with time
+T6	HMM 1420 1432	ratio of Pdi
+T7	HMM 1541 1600	superimposed Pdi twitch and Pdi twitch of relaxed diaphragm
+T8	HMM 1619 1688	value of (1-superimposed Pdi twitch/Pdi twitch of relaxed diaphragm).

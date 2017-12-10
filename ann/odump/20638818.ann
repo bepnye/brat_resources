@@ -1,0 +1,10 @@
+T1	HMM 911 955	cellular apoptosis and proliferative ability
+T2	HMM 975 1019	apoptotic index (AI) and an MIB-1 index (MI)
+T3	HMM 1079 1087	AI or MI
+T4	HMM 1129 1131	AI
+T5	HMM 1135 1156	gastric cancer tissue
+T6	HMM 1235 1249	MI of Group FC
+T7	HMM 1384 1405	proliferative potency
+T8	HMM 1426 1435	apoptosis
+T9	HMM 1497 1518	proliferative potency
+T10	HMM 1533 1551	cellular apoptosis

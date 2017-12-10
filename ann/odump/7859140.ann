@@ -1,0 +1,11 @@
+T1	HMM 0 34	Safety and efficacy of thymopentin
+T2	HMM 618 710	CD4 cell counts, serum p24, serum immune complex dissociated (ICD) p24, and safety variables
+T3	HMM 986 1006	AIDS or death events
+T4	HMM 1165 1214	AIDS-related complex (ARC), AIDS, or death events
+T5	HMM 1362 1382	AIDS or death events
+T6	HMM 1459 1485	ARC, AIDS, or death events
+T7	HMM 1629 1661	CD4 counts or p24 antigen levels
+T8	HMM 1681 1709	clinical adverse experiences
+T9	HMM 1713 1738	laboratory abnormalities.
+T10	HMM 1827 1867	AIDS or death and to ARC, AIDS, or death
+T11	HMM 2127 2144	adverse reactions

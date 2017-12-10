@@ -1,0 +1,9 @@
+T1	HMM 125 144	safety and efficacy
+T2	HMM 753 784	Rates of serious adverse events
+T3	HMM 829 847	serious infections
+T4	HMM 891 897	cancer
+T5	HMM 941 951	and deaths
+T6	HMM 1121 1135	response rates
+T7	HMM 1309 1314	Doses
+T8	HMM 1442 1456	safety profile
+T9	HMM 1502 1525	rates of adverse events

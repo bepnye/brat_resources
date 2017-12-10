@@ -1,0 +1,8 @@
+T1	HMM 913 942	rate of virologic suppression
+T2	HMM 1118 1155	percentage of patients with HIV-1 RNA
+T3	HMM 1248 1275	median change from baseline
+T4	HMM 1279 1289	CD4 counts
+T5	HMM 1398 1486	virologic failure, clinical disease progression, or a drug-related serious adverse event
+T6	HMM 1505 1539	Self-reported medication adherence
+T7	HMM 1600 1621	virologic suppression
+T8	HMM 1713 1724	suppression

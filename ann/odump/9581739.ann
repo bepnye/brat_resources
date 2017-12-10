@@ -1,0 +1,8 @@
+T1	HMM 463 486	defibrillation efficacy
+T2	HMM 1010 1026	Delivered energy
+T3	HMM 1034 1058	defibrillation threshold
+T4	HMM 1212 1222	thresholds
+T5	HMM 1330 1350	Leading edge voltage
+T6	HMM 1367 1382	shock impedance
+T7	HMM 1458 1470	peak current
+T8	HMM 1559 1593	defibrillation energy requirements

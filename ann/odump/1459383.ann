@@ -1,0 +1,4 @@
+T1	HMM 797 828	dry or only mildly incontinent;
+T2	HMM 833 860	mean number of wet episodes
+T3	HMM 915 933	improved or cured.
+T4	HMM 1150 1157	treated

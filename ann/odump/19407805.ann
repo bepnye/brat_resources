@@ -1,0 +1,11 @@
+T1	HMM 11 25	blood pressure
+T2	HMM 300 319	blood pressure (BP)
+T3	HMM 489 502	ambulatory BP
+T4	HMM 862 864	BP
+T5	HMM 954 967	Ambulatory BP
+T6	HMM 1086 1099	ambulatory BP
+T7	HMM 1224 1257	systolic (SBP)/diastolic BP (DBP)
+T8	HMM 1304 1319	heart rate (HR)
+T9	HMM 1335 1337	BP
+T10	HMM 1593 1595	BP
+T11	HMM 1782 1792	BP control

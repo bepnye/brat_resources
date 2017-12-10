@@ -1,0 +1,13 @@
+T1	Treatment 0 26	Continuous event recorders
+T2	Treatment 231 264	Continuous event recorders (CERs)
+T3	Treatment 469 472	CER
+T4	Treatment 612 615	CER
+T5	Treatment 678 693	usual care (UC)
+T6	Treatment 924 927	CER
+T7	Treatment 982 984	UC
+T8	Treatment 1026 1029	CER
+T9	Treatment 1040 1042	UC
+T10	Treatment 1078 1080	UC
+T11	Treatment 1143 1146	CER
+T12	Treatment 1245 1248	CER
+T13	Treatment 1318 1320	UC

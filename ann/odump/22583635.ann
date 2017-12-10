@@ -1,0 +1,5 @@
+T1	HMM 22 47	bladder cancer recurrence
+T2	HMM 249 275	long-term recurrence rate.
+T3	HMM 1062 1087	Median time to recurrence
+T4	HMM 1186 1211	intravesical therapy rate
+T5	HMM 1484 1527	long-term bladder cancer time to recurrence

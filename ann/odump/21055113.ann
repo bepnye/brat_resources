@@ -1,0 +1,5 @@
+T1	HMM 817 909	wound dehiscence or wound infection that the perineal wound should be reopened for drainage.
+T2	HMM 944 990	delayed healing wound with seroma or hematoma.
+T3	HMM 1309 1316	healing
+T4	HMM 1501 1532	incidence of major complication
+T5	HMM 1668 1695	rate of minor complications

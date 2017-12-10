@@ -1,0 +1,13 @@
+T1	HMM 83 91	survival
+T2	HMM 100 118	cancer recurrence.
+T3	HMM 194 211	cancer recurrence
+T4	HMM 216 233	reduced survival.
+T5	HMM 570 616	Five-year survival and cancer recurrence rates
+T6	HMM 663 686	location of recurrence.
+T7	HMM 736 749	survival rate
+T8	HMM 834 850	recurrence rates
+T9	HMM 939 961	difference in survival
+T10	HMM 1053 1089	difference in cancer recurrence rate
+T11	HMM 1210 1227	Local recurrences
+T12	HMM 1410 1454	long-term survival and/or cancer recurrence.
+T13	HMM 1588 1603	recurrence rate

@@ -1,0 +1,10 @@
+T1	HMM 0 14	Social support
+T2	HMM 19 29	abstinence
+T3	HMM 165 176	abstinence;
+T4	HMM 875 889	social support
+T5	HMM 1009 1047	abstinence-specific structural support
+T6	HMM 1140 1268	negative abstinence-specific functional support (Complaints about Drug Use, Drug Exposure, and Demoralization) predicted cocaine
+T7	HMM 1278 1296	opiate abstinence.
+T8	HMM 1323 1338	general support
+T9	HMM 1377 1387	abstinence
+T10	HMM 1518 1548	rates of cocaine use disorders

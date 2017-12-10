@@ -1,0 +1,13 @@
+T1	Treatment 105 115	enoxaparin
+T2	Treatment 121 130	warfarin.
+T3	Treatment 185 206	fixed-dose enoxaparin
+T4	Treatment 211 233	adjusted dose warfarin
+T5	Treatment 497 616	enoxaparin (30 mg subcutaneously every 12 hours) or adjusted-dose warfarin (international normalized ratio, 2.0 to 3.0)
+T6	Treatment 893 901	warfarin
+T7	Treatment 972 982	enoxaparin
+T8	Treatment 1066 1076	enoxaparin
+T9	Treatment 1112 1120	warfarin
+T10	Treatment 1147 1157	enoxaparin
+T11	Treatment 1267 1275	warfarin
+T12	Treatment 1562 1572	enoxaparin
+T13	Treatment 1618 1626	warfarin

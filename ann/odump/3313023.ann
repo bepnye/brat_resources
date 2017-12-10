@@ -1,0 +1,7 @@
+T1	HMM 15 23	migraine
+T2	HMM 623 652	attack frequency and duration
+T3	HMM 754 795	reduction of attack frequency or symptoms
+T4	HMM 942 960	Migraine frequency
+T5	HMM 1012 1020	Duration
+T6	HMM 1081 1104	slight body weight gain
+T7	HMM 1108 1122	abdominal pain

@@ -1,0 +1,24 @@
+Adenocarcinoma
+Adenocarcinoma, Bronchiolo-Alveolar
+Adult
+Aged
+Aged, 80 and over
+Antibodies, Monoclonal
+Antibodies, Monoclonal, Humanized
+Antineoplastic Combined Chemotherapy Protocols
+Carcinoma, Large Cell
+Carcinoma, Non-Small-Cell Lung
+Disease-Free Survival
+Female
+Glutamates
+Guanine
+Humans
+Lung Neoplasms
+Male
+Middle Aged
+Neoplasm Recurrence, Local
+Neoplasm Staging
+Quinazolines
+Survival Rate
+Taxoids
+Treatment Outcome

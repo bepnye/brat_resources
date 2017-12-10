@@ -1,0 +1,10 @@
+T1	HMM 208 217	infection
+T2	HMM 563 613	Injury Severity Score and degree of contamination.
+T3	HMM 866 934	Incidence of major infection, death related to infection, and death.
+T4	HMM 943 958	Infection rates
+T5	HMM 1064 1070	deaths
+T6	HMM 1082 1091	infection
+T7	HMM 1144 1150	deaths
+T8	HMM 1193 1205	early deaths
+T9	HMM 1264 1269	death
+T10	HMM 1711 1728	infection-related

@@ -1,0 +1,13 @@
+T1	Treatment 21 62	self-expanding nitinol stent implantation
+T2	Treatment 70 89	balloon angioplasty
+T3	Treatment 230 245	stent placement
+T4	Treatment 388 486	conventional balloon angioplasty (percutaneous transluminal angioplasty [PTA]) and stent placement
+T5	Treatment 868 883	IntraCoil stent
+T6	Treatment 887 891	PTA.
+T7	Treatment 1093 1142	conventional balloon angioplasty, stent placement
+T8	Treatment 1359 1374	IntraCoil stent
+T9	Treatment 1390 1393	PTA
+T10	Treatment 1892 1897	stent
+T11	Treatment 1951 1954	PTA
+T12	Treatment 1999 2002	PTA
+T13	Treatment 2008 2038	provisional stent implantation

@@ -1,0 +1,7 @@
+T1	HMM 889 941	anthropometric, nutritional, and hormonal biomarkers
+T2	HMM 1027 1066	Serum-free estradiol and estrone levels
+T3	HMM 1115 1152	Serum hormone-binding globulin levels
+T4	HMM 1258 1272	Free estradiol
+T5	HMM 1379 1386	Estrone
+T6	HMM 1556 1583	mean menstrual cycle length
+T7	HMM 1785 1815	mean follicular phase increase

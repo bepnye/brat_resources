@@ -1,0 +1,21 @@
+Acute Disease
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Brain Ischemia
+Cardiovascular Physiological Phenomena
+Dose-Response Relationship, Drug
+Drug Tolerance
+Excitatory Amino Acid Antagonists
+Female
+Humans
+Male
+Middle Aged
+Mortality
+Neuroprotective Agents
+Pyridines
+Receptors, N-Methyl-D-Aspartate
+Software Design
+Stroke
+Treatment Outcome

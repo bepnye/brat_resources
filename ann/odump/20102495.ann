@@ -1,0 +1,11 @@
+T1	HMM 69 95	exercise-induced gastritis
+T2	HMM 187 213	exercise-induced gastritis
+T3	HMM 874 892	Mucosal appearance
+T4	HMM 1163 1181	Mucosal appearance
+T5	HMM 1286 1339	clinically relevant, exercise-induced gastric lesions
+T6	HMM 1473 1481	severity
+T7	HMM 1514 1524	prevalence
+T8	HMM 1557 1573	gastric lesions.
+T9	HMM 1672 1704	exercise-induced gastric lesions
+T10	HMM 1757 1766	gastritis
+T11	HMM 1857 1890	stress-associated gastric disease

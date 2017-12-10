@@ -1,0 +1,5 @@
+T1	Intervention 714 735	alkalinized lidocaine
+T2	Intervention 767 794	standard general anesthesia
+T3	Intervention 1111 1135	low-flow anesthesia only
+T4	Intervention 1155 1210	low-flow anesthesia with additional reflective blankets
+T5	Intervention 1233 1283	low-flow anesthesia with active forced-air warming

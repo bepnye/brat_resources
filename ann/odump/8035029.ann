@@ -1,0 +1,6 @@
+T1	HMM 333 367	number and character of each stool
+T2	HMM 384 432	stool specimens for weight and oocyst excretion.
+T3	HMM 473 489	oocyst excretion
+T4	HMM 547 563	Oocyst excretion
+T5	HMM 713 728	Stool frequency
+T6	HMM 855 906	stool weight, stool character, and Karnofsky score.

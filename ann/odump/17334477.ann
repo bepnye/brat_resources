@@ -1,0 +1,7 @@
+T1	HMM 814 828	well tolerated
+T2	HMM 833 854	fewer adverse effects
+T3	HMM 871 900	tumor regressed significantly
+T4	HMM 905 953	volume reduction rate of individual tumor nodule
+T5	HMM 1059 1080	volume reduction rate
+T6	HMM 1146 1161	tumor shrinkage
+T7	HMM 1195 1212	number of nodules

@@ -1,0 +1,6 @@
+T1	HMM 39 67	infants' level of attention.
+T2	HMM 115 133	level of attention
+T3	HMM 601 642	duration of time spent examining objects.
+T4	HMM 647 683	overall duration of infant attention
+T5	HMM 848 856	attended
+T6	HMM 1046 1093	child's spontaneous tendency to focus attention

@@ -1,0 +1,25 @@
+Adult
+Aged
+Aged, 80 and over
+Anemia
+Antineoplastic Combined Chemotherapy Protocols
+Asthenia
+Disease Progression
+Disease-Free Survival
+Double-Blind Method
+Drug Administration Schedule
+Drug Resistance, Neoplasm
+Fatigue
+Humans
+Indoles
+Kaplan-Meier Estimate
+Lymphopenia
+Male
+Middle Aged
+Neoplasm Metastasis
+Orchiectomy
+Prednisone
+Prostatic Neoplasms
+Pyrroles
+Taxoids
+Treatment Outcome

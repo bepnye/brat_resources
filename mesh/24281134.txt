@@ -1,0 +1,20 @@
+Aged
+Blood Pressure
+Creatinine
+Diagnostic Tests, Routine
+Female
+Heart Failure
+Humans
+Kidney
+Male
+Middle Aged
+Patient Discharge
+Patient Readmission
+Predictive Value of Tests
+Purinergic P1 Receptor Antagonists
+Serum Albumin
+Sodium
+Survival Rate
+Treatment Outcome
+Urea
+Xanthines

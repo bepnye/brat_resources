@@ -1,0 +1,7 @@
+T1	HMM 64 68	pain
+T2	HMM 190 208	cancer pain relief
+T3	HMM 980 984	pain
+T4	HMM 1167 1217	Average visual analogue scale (VAS) report of pain
+T5	HMM 1441 1456	pain and nausea
+T6	HMM 1570 1600	cancer treatment-related pain;
+T7	HMM 1705 1717	pain relief.

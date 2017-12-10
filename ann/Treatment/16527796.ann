@@ -1,0 +1,7 @@
+T1	Treatment 0 59	Nasotracheal intubation under curve-tipped suction catheter
+T2	Treatment 100 129	Nasotracheal intubation (NTI)
+T3	Treatment 312 351	curve-tipped suction catheter (CTSC) to
+T4	Treatment 450 454	NTI.
+T5	Treatment 506 542	NTI under CTSC guidance (G[+] group)
+T6	Treatment 792 817	NTI without CTSC guidance
+T7	Treatment 1529 1572	Nasotracheal intubation under CTSC guidance

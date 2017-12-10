@@ -1,0 +1,6 @@
+T1	HMM 15 30	transfer factor
+T2	HMM 71 125	Transfer factor of the lung for carbon monoxide (TLCO)
+T3	HMM 573 598	Exhalation TLCO (TLCO,ex)
+T4	HMM 621 687	standard (Jones and Meade) 10 second breath holding TLCO (TLCO,bh)
+T5	HMM 927 935	relation
+T6	HMM 1173 1210	comparable pathophysiological factors

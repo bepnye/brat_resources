@@ -1,0 +1,7 @@
+T1	HMM 23 32	hypoxemia
+T2	HMM 161 198	hypoxemia and hemodynamic instability
+T3	HMM 648 708	duration of hypoxemia (transcutaneous partial pressure of O2
+T4	HMM 739 771	arterial blood oxygen saturation
+T5	HMM 975 1073	arterial blood pressure, heart rate, or plasma beta-endorphin, cortisol, and glucose concentration
+T6	HMM 1309 1330	duration of hypoxemia
+T7	HMM 1350 1358	distress

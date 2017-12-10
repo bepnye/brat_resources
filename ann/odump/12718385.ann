@@ -1,0 +1,11 @@
+T1	HMM 196 204	efficacy
+T2	HMM 209 221	side effects
+T3	HMM 599 634	Disease recurrence and side effects
+T4	HMM 680 702	interval to recurrence
+T5	HMM 796 815	time to recurrence.
+T6	HMM 954 969	recurrence rate
+T7	HMM 1098 1129	median recurrence-free survival
+T8	HMM 1238 1254	recurrence rates
+T9	HMM 1348 1362	response rates
+T10	HMM 1391 1403	side effects
+T11	HMM 1570 1595	efficacy and side effects

@@ -1,0 +1,12 @@
+T1	HMM 864 878	Blood pressure
+T2	HMM 901 951	automatic oscillometric technique, heart rate (HR)
+T3	HMM 978 995	oxygen saturation
+T4	HMM 1032 1050	cardiac output (Q)
+T5	HMM 1178 1264	arterial systolic (SAP) and diastolic (DAP) blood pressure, Q, and stroke volume (SV).
+T6	HMM 1265 1267	HR
+T7	HMM 1279 1313	Systemic vascular resistance (SVR)
+T8	HMM 1364 1375	SAP and DAP
+T9	HMM 1414 1418	SVR.
+T10	HMM 1419 1421	HR
+T11	HMM 1438 1440	SV
+T12	HMM 1505 1586	apnea occurring for more than 30 seconds, involuntary movements, limb hypertonus)

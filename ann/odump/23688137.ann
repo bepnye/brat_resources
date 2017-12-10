@@ -1,0 +1,5 @@
+T1	HMM 55 62	autism:
+T2	HMM 781 799	Severity of autism
+T3	HMM 822 851	Childhood Autism Rating Scale
+T4	HMM 1120 1150	clear improvement in cognition
+T5	HMM 1549 1592	ameliorating some of the symptoms of autism

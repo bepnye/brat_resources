@@ -1,0 +1,10 @@
+T1	HMM 666 672	alone.
+T2	HMM 673 698	Probing bone levels (PBL)
+T3	HMM 731 762	and probing pocket depths (PPD)
+T4	HMM 922 929	groups.
+T5	HMM 930 937	Healing
+T6	HMM 1148 1159	in mean PPD
+T7	HMM 1199 1206	gain in
+T8	HMM 1263 1267	mean
+T9	HMM 1313 1319	mm and
+T10	HMM 1383 1412	greater PPD reduction and PBL

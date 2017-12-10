@@ -1,0 +1,12 @@
+T1	HMM 37 57	inflammatory markers
+T2	HMM 73 93	depressive symptoms:
+T3	HMM 472 491	depressive symptoms
+T4	HMM 946 979	self-reported depressive symptoms
+T5	HMM 1158 1177	immune cell numbers
+T6	HMM 1335 1476	change in depressive symptoms, pain, or fatigue predicted change in white blood cell count, neutrophil count, or the helper/suppressor ratio.
+T7	HMM 1524 1585	depressive symptoms, pain, fatigue, and inflammation markers.
+T8	HMM 1623 1635	inflammation
+T9	HMM 1790 1809	depressive symptoms
+T10	HMM 1905 1924	depressive symptoms
+T11	HMM 1948 1961	inflammation.
+T12	HMM 2008 2046	depressive symptoms, pain, and fatigue

@@ -1,0 +1,10 @@
+T1	HMM 26 49	morbidity and mortality
+T2	HMM 406 429	morbidity and mortality
+T3	HMM 823 849	clinical response on day 7
+T4	HMM 909 967	parasitological response by day 10 and mortality at day 8.
+T5	HMM 1311 1320	diarrhoea
+T6	HMM 1447 1455	C parvum
+T7	HMM 1460 1470	eradicated
+T8	HMM 1644 1648	died
+T9	HMM 1849 1863	adverse events
+T10	HMM 1956 2023	resolution of diarrhoea, parasitological eradication, and mortality

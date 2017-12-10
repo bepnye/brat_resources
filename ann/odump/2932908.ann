@@ -1,0 +1,4 @@
+T1	HMM 296 311	bowel carcinoma
+T2	HMM 317 330	response rate
+T3	HMM 402 417	median survival
+T4	HMM 517 550	vomiting and hematologic toxicity

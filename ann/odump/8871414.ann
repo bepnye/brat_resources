@@ -1,0 +1,11 @@
+T1	HMM 242 250	efficacy
+T2	HMM 292 303	depression.
+T3	HMM 427 469	behavioral activation (BA) component of CT
+T4	HMM 542 565	automatic thoughts (AT)
+T5	HMM 613 624	core schema
+T6	HMM 880 923	complete treatment produced better outcomes
+T7	HMM 1081 1090	effective
+T8	HMM 1100 1126	altering negative thinking
+T9	HMM 1138 1173	dysfunctional attributional styles.
+T10	HMM 1183 1202	attributional style
+T11	HMM 1233 1262	short- and long-term outcomes

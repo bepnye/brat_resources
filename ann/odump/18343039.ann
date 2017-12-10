@@ -1,0 +1,11 @@
+T1	HMM 64 79	spatial ability
+T2	HMM 227 235	estrogen
+T3	HMM 240 255	spatial ability
+T4	HMM 726 880	Sex hormones - 17beta-estradiol, luteinizing hormone (LH), follicle-stimulating hormone (FSH), prolactin, testosterone, and dehydroepiandrosterone sulfate
+T5	HMM 1041 1111	spatial orientation, spatial visualization, and flexibility of closure
+T6	HMM 1179 1187	estrogen
+T7	HMM 1192 1207	spatial ability
+T8	HMM 1272 1312	high levels of testosterone, LH, and FSH
+T9	HMM 1362 1384	flexibility of closure
+T10	HMM 1529 1537	estrogen
+T11	HMM 1542 1557	spatial ability

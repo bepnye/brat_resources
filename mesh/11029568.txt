@@ -1,0 +1,24 @@
+Adrenergic alpha-Agonists
+Adult
+Analgesia, Epidural
+Analgesia, Obstetrical
+Analgesics, Opioid
+Anesthetics, Local
+Apgar Score
+Blood Pressure
+Bupivacaine
+Chi-Square Distribution
+Clonidine
+Consciousness
+Double-Blind Method
+Female
+Fentanyl
+Heart Rate
+Heart Rate, Fetal
+Humans
+Labor, Obstetric
+Pain Measurement
+Pregnancy
+Sensation
+Statistics, Nonparametric
+Time Factors

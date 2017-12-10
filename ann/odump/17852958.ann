@@ -1,0 +1,12 @@
+T1	HMM 80 83	ADL
+T2	HMM 99 128	self-reported health problems
+T3	HMM 329 361	activities of daily living (ADL)
+T4	HMM 929 938	ADL level
+T5	HMM 973 986	visual acuity
+T6	HMM 1056 1060	ADL.
+T7	HMM 1061 1075	General health
+T8	HMM 1190 1212	fewer health problems.
+T9	HMM 1238 1278	fewer reports of tiredness and dizziness
+T10	HMM 1392 1411	disablement process
+T11	HMM 1483 1492	ADL level
+T12	HMM 1500 1538	reducing self-reported health problems

@@ -1,0 +1,6 @@
+T1	HMM 603 638	clinical evaluation, CKMB data, ECG
+T2	HMM 762 860	reduction of angina crisis number, duration, intensity and the number of sublingual nitrates doses
+T3	HMM 903 922	SAP, DAP, HR and RR
+T4	HMM 1024 1034	reductions
+T5	HMM 1038 1053	SAP, DAP and HR
+T6	HMM 1080 1133	CKMB data, ECG alterations and coronary arteriography

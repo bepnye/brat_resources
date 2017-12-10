@@ -1,0 +1,10 @@
+T1	Treatment 19 108	induction gemcitabine or paclitaxel plus carboplatin followed by paclitaxel consolidation
+T2	Treatment 166 281	gemcitabine plus carboplatin (GC) or paclitaxel plus carboplatin (TC) induction regimens with or without paclitaxel
+T3	Treatment 405 420	GC (gemcitabine
+T4	Treatment 450 466	plus carboplatin
+T5	Treatment 507 521	TC (paclitaxel
+T6	Treatment 534 556	plus carboplatin AUC 6
+T7	Treatment 679 689	paclitaxel
+T8	Treatment 1266 1279	for GC and TC
+T9	Treatment 1664 1678	CONCLUSIONS GC
+T10	Treatment 1700 1707	over TC

@@ -1,0 +1,9 @@
+T1	HMM 0 6	Safety
+T2	HMM 99 125	cardiovascular event rates
+T3	HMM 1032 1054	Unadjusted odds ratios
+T4	HMM 1142 1238	definitive events (death, nonfatal myocardial infarction or stroke, revascularization procedure)
+T5	HMM 1272 1318	all events (definitive plus increased angina).
+T6	HMM 1323 1360	odds ratio for nifedipine monotherapy
+T7	HMM 1569 1627	odds ratio for nifedipine in combination with another drug
+T8	HMM 1775 1848	Differences in odds ratio for nifedipine monotherapy and combined therapy
+T9	HMM 1957 2009	safety of sustained- and extended-release nifedipine

@@ -1,0 +1,12 @@
+T1	Outcomes 299 333	neutropenia and neutropenic fever.
+T2	Outcomes 618 641	average leukocyte count
+T3	Outcomes 706 845	response rates, other acute hematotoxicity, acute infection rate, hospital admission, remission duration, event-free, and overall survival.
+T4	Outcomes 885 909	average leukocyte count.
+T5	Outcomes 910 923	Response rate
+T6	Outcomes 1071 1085	response rates
+T7	Outcomes 1189 1213	grade 3+4 leukocytopenia
+T8	Outcomes 1228 1249	grade 3+4 neutropenia
+T9	Outcomes 1264 1279	acute infection
+T10	Outcomes 1294 1309	hospitalization
+T11	Outcomes 1328 1347	erythrocyte support
+T12	Outcomes 1452 1473	toxicity and efficacy

@@ -1,0 +1,10 @@
+T1	HMM 1542 1570	Bronchoalveolar lavage (BAL)
+T2	HMM 1651 1797	measurement of total protein, ceruloplasmin, and transferrin, total neutrophil count, IL-8, IL-6, tumor necrosis factor-alpha, and leukotriene B4.
+T3	HMM 1798 1809	Oxygenation
+T4	HMM 1911 1938	BALF ceruloplasmin and IL-8
+T5	HMM 2004 2065	BALF levels of total protein, neutrophils, and leukotriene B4
+T6	HMM 2169 2188	BALF levels of IL-6
+T7	HMM 2271 2303	BALF tumor necrosis factor-alpha
+T8	HMM 2416 2427	oxygenation
+T9	HMM 2580 2590	neutrophil
+T10	HMM 2673 2684	leukotriene

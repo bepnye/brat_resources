@@ -1,0 +1,8 @@
+T1	HMM 24 41	clinical efficacy
+T2	HMM 55 61	nausea
+T3	HMM 66 75	vomiting.
+T4	HMM 133 141	vomiting
+T5	HMM 164 171	nausea.
+T6	HMM 487 493	Nausea
+T7	HMM 664 672	Vomiting
+T8	HMM 978 1025	postoperative nausea and postoperative vomiting

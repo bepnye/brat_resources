@@ -1,0 +1,9 @@
+T1	HMM 266 281	5-year survival
+T2	HMM 1132 1242	mean survival, hazard ratio, 1-year survival, quality of life scores, and hematologic and blood chemical data.
+T3	HMM 1355 1371	operative death.
+T4	HMM 1468 1483	1-year survival
+T5	HMM 1506 1524	mean survival time
+T6	HMM 1558 1570	hazard ratio
+T7	HMM 1619 1640	quality of life score
+T8	HMM 1644 1659	laboratory data
+T9	HMM 1681 1689	diarrhea

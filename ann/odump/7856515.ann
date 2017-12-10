@@ -1,0 +1,7 @@
+T1	HMM 62 77	effective dose.
+T2	HMM 106 128	adverse health effects
+T3	HMM 708 726	oronasal breathing
+T4	HMM 902 921	oronasal breathing.
+T5	HMM 1082 1095	lower airways
+T6	HMM 1236 1272	duration of oronasal breathing (tON)
+T7	HMM 1299 1391	ventilation rate during oronasal breathing (VE(ON)); inhaled hydrogen ion concentration [H+]

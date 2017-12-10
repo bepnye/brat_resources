@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Age Factors
+Body Mass Index
+Diabetes Mellitus, Type 1
+Diabetic Diet
+Female
+Hemoglobin A, Glycosylated
+Humans
+Lipids
+Male
+Sex Factors
+Smoking

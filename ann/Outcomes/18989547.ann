@@ -1,0 +1,7 @@
+T1	Outcomes 301 406	time on mechanical ventilation, duration of weaning and length of stay in a pediatric intensive care unit
+T2	Outcomes 869 896	oxygenation and ventilation
+T3	Outcomes 1030 1146	age, sex, indication for MV, PRISM score, Comfort scale, use of sedatives or ventilation and oxygenation parameters.
+T4	Outcomes 1151 1168	median time on MV
+T5	Outcomes 1279 1298	duration of weaning
+T6	Outcomes 1356 1379	length of hospital stay
+T7	Outcomes 1577 1627	MV, duration of weaning or time spent in the PICU.

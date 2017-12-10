@@ -1,0 +1,19 @@
+Adult
+Aged
+Analysis of Variance
+Angiotensin-Converting Enzyme Inhibitors
+Apolipoproteins
+Arteriosclerosis
+Atenolol
+Blood Pressure
+Female
+Heart Rate
+Humans
+Hypertension
+Lipids
+Lipoproteins
+Male
+Middle Aged
+Organophosphorus Compounds
+Phosphatidylcholine-Sterol O-Acyltransferase
+Proline

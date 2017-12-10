@@ -1,0 +1,7 @@
+T1	HMM 38 61	soft-tissue rheumatism:
+T2	HMM 87 125	electrical stimulation and suggestion.
+T3	HMM 531 559	pain at rest and on movement
+T4	HMM 629 643	each treatment
+T5	HMM 688 700	improvement;
+T6	HMM 784 793	symptoms.
+T7	HMM 950 968	therapeutic effect

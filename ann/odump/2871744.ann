@@ -1,0 +1,6 @@
+T1	HMM 856 866	heart rate
+T2	HMM 1007 1044	incidence of congestive heart failure
+T3	HMM 1159 1171	infarct size
+T4	HMM 1200 1313	serum CK-MB, planimetry of infarct area on technetium pyrophosphate myocardial scintigrams or R-wave measurements
+T5	HMM 1413 1422	mortality
+T6	HMM 1676 1688	infarct size

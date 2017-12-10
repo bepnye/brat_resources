@@ -1,0 +1,7 @@
+T1	HMM 967 1003	(gastric metaplasia in the duodenum)
+T2	HMM 1245 1279	Gastric metaplasia in the duodenum
+T3	HMM 1542 1553	sensitivity
+T4	HMM 1568 1579	specificity
+T5	HMM 1594 1613	predictive accuracy
+T6	HMM 1628 1666	relative risk of the predicted outcome
+T7	HMM 1824 1842	gastric metaplasia

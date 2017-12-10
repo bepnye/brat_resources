@@ -1,0 +1,15 @@
+T1	HMM 11 44	heart rate and forearm blood flow
+T2	HMM 153 186	heart rate and forearm blood flow
+T3	HMM 456 474	forearm blood flow
+T4	HMM 570 589	heart rate response
+T5	HMM 654 673	forearm blood flow.
+T6	HMM 714 734	heart rate responses
+T7	HMM 758 787	forearm blood flow responses.
+T8	HMM 864 908	heart rate and forearm blood flow responses.
+T9	HMM 923 941	forearm blood flow
+T10	HMM 982 993	heart rate.
+T11	HMM 1036 1056	heart rate responses
+T12	HMM 1120 1149	forearm blood flow responses.
+T13	HMM 1171 1189	forearm blood flow
+T14	HMM 1421 1431	heart rate
+T15	HMM 1490 1509	forearm blood flow.

@@ -1,0 +1,11 @@
+T1	HMM 180 243	rates of in vitro oocyte maturation, fertilization and cleavage
+T2	HMM 256 292	implantation rate and pregnancy rate
+T3	HMM 1324 1367	percentage of oocytes reaching metaphase II
+T4	HMM 1536 1578	rates of oocyte fertilization and cleavage
+T5	HMM 1604 1615	pregnancies
+T6	HMM 1667 1687	clinical pregnancies
+T7	HMM 1787 1800	implantations
+T8	HMM 1816 1842	healthy singleton children
+T9	HMM 1853 1857	born
+T10	HMM 1904 1925	spontaneous abortions
+T11	HMM 2085 2172	maturational potential of the oocytes and the implantation rate of the cleaved embryos.

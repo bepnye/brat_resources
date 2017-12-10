@@ -1,0 +1,3 @@
+T1	HMM 789 806	risk of infection
+T2	HMM 921 947	hospitalized significantly
+T3	HMM 1147 1218	infection rates, drug toxicity, duration of hospitalization, and costs.

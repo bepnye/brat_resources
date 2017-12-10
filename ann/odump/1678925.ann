@@ -1,0 +1,6 @@
+T1	HMM 717 731	blood pressure
+T2	HMM 800 846	sitting diastolic blood pressure from baseline
+T3	HMM 1039 1062	antihypertensive effect
+T4	HMM 1118 1165	standing diastolic blood pressure from baseline
+T5	HMM 1383 1401	serum lipid levels
+T6	HMM 1623 1632	tolerated

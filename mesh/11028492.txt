@@ -1,0 +1,20 @@
+Adult
+Anticoagulants
+Blood Flow Velocity
+Drug Therapy, Combination
+Female
+Follow-Up Studies
+Heparin
+Humans
+Infusions, Intravenous
+Male
+Middle Aged
+Phlebography
+Plasminogen Activators
+Safety
+Streptokinase
+Thrombolytic Therapy
+Tissue Plasminogen Activator
+Ultrasonography, Doppler, Color
+Urokinase-Type Plasminogen Activator
+Venous Thrombosis

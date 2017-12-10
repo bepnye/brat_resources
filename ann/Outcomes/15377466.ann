@@ -1,0 +1,19 @@
+T1	Outcomes 437 445	outcome.
+T2	Outcomes 455 521	failure to respond, delayed responses, partial responses, relapses
+T3	Outcomes 526 538	early deaths
+T4	Outcomes 666 693	reduce these complications.
+T5	Outcomes 1102 1110	response
+T6	Outcomes 1150 1176	early deaths, blood counts
+T7	Outcomes 1194 1203	survival.
+T8	Outcomes 1224 1233	responses
+T9	Outcomes 1253 1268	absent, partial
+T10	Outcomes 1274 1282	complete
+T11	Outcomes 1513 1517	died
+T12	Outcomes 1549 1572	peripheral blood counts
+T13	Outcomes 1680 1697	Neutrophil counts
+T14	Outcomes 1752 1767	platelet counts
+T15	Outcomes 1818 1836	actuarial survival
+T16	Outcomes 1973 1992	reduce early deaths
+T17	Outcomes 2011 2034	peripheral blood counts
+T18	Outcomes 2039 2047	survival
+T19	Outcomes 2068 2081	response rate

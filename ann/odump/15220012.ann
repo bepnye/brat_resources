@@ -1,0 +1,9 @@
+T1	HMM 1780 1801	reductions in HbA(1c)
+T2	HMM 1923 1930	HbA(1c)
+T3	HMM 2142 2145	FPG
+T4	HMM 2270 2318	insulin sensitivity (reduced insulin resistance)
+T5	HMM 2355 2368	HOMA-S values
+T6	HMM 2579 2588	tolerated
+T7	HMM 2629 2645	peripheral edema
+T8	HMM 2737 2758	hypoglycemic episodes
+T9	HMM 2815 2826	weight gain

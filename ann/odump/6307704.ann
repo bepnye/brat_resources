@@ -1,0 +1,12 @@
+T1	HMM 0 13	Bronchoscopic
+T2	HMM 78 112	small cell bronchogenic carcinoma.
+T3	HMM 173 206	small cell bronchogenic carcinoma
+T4	HMM 352 365	abnormalities
+T5	HMM 373 377	site
+T6	HMM 394 400	tumour
+T7	HMM 415 492	nodular elevations, narrowing of bronchi and/or fibrous strands or membranes.
+T8	HMM 605 617	bronchoscopy
+T9	HMM 665 672	nodules
+T10	HMM 709 739	Persistent bronchial narrowing
+T11	HMM 866 880	scar formation
+T12	HMM 921 949	post-treatment abnormalities

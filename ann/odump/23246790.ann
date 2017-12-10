@@ -1,0 +1,13 @@
+T1	HMM 15 95	reach and attrition between Web-based and print-delivered tailored interventions
+T2	HMM 598 657	user characteristics related to participation and attrition
+T3	HMM 1724 1744	user characteristics
+T4	HMM 1788 1800	dropout rate
+T5	HMM 1880 1905	higher participation rate
+T6	HMM 2204 2216	dropout rate
+T7	HMM 2350 2383	intention to be physically active
+T8	HMM 2411 2418	dropout
+T9	HMM 2474 2486	dropout rate
+T10	HMM 2615 2646	tailored physical activity (PA)
+T11	HMM 2965 2977	dropout rate
+T12	HMM 3101 3114	dropout rates
+T13	HMM 3201 3216	rate of dropout

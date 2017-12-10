@@ -1,0 +1,6 @@
+T1	HMM 903 922	no myelosuppression
+T2	HMM 935 966	mild gastrointestinal symptoms.
+T3	HMM 1081 1118	shrinkage of tumor in the X-ray films
+T4	HMM 1190 1215	histopathological changes
+T5	HMM 1313 1398	excessive keratinization in the squamous component of the esophageal cancerous tissue
+T6	HMM 1439 1526	incidence of degeneration and necrosis in the squamous epithelium adjacent to carcinoma

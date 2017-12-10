@@ -1,0 +1,5 @@
+T1	Treatment 0 13	Immunotherapy
+T2	Treatment 20 23	BCG
+T3	Treatment 232 250	chemotherapy alone
+T4	Treatment 264 320	chemotherapy plus Bacille Calmette-Guérin vaccine (BCG)
+T5	Treatment 1415 1421	of BCG

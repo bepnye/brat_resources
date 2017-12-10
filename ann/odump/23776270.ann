@@ -1,0 +1,10 @@
+T1	HMM 32 70	productive performance and egg quality
+T2	HMM 313 352	productive performance and egg quality.
+T3	HMM 501 538	feed intake, egg weight, and egg mass
+T4	HMM 567 581	egg production
+T5	HMM 616 643	feed conversion ratio (FCR)
+T6	HMM 737 739	BW
+T7	HMM 896 930	shell thickness and shell strength
+T8	HMM 960 990	albumen height and Haugh units
+T9	HMM 1204 1214	yolk color
+T10	HMM 1374 1385	egg quality

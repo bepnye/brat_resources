@@ -1,0 +1,7 @@
+T1	HMM 0 25	Comparative effectiveness
+T2	HMM 876 1017	was 2-year incidence of major adverse cardiac events, defined as CAD death or hospitalization for an acute coronary syndrome or heart failure
+T3	HMM 1101 1112	to ETT, ECG
+T4	HMM 1199 1223	the exercise MPI results
+T5	HMM 1344 1375	in major adverse cardiac events
+T6	HMM 1433 1457	ETT, index testing costs
+T7	HMM 1575 1613	the cumulative diagnostic cost savings

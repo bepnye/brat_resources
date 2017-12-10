@@ -1,0 +1,8 @@
+T1	HMM 335 361	catheter-related infection
+T2	HMM 1028 1044	culture results.
+T3	HMM 1151 1185	incidence of catheter colonization
+T4	HMM 1214 1231	incidence density
+T5	HMM 1308 1346	catheter-related bloodstream infection
+T6	HMM 1372 1389	incidence density
+T7	HMM 1456 1477	catheter colonization
+T8	HMM 1846 1873	catheter-related infection.

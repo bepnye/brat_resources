@@ -1,0 +1,15 @@
+T1	HMM 967 1007	survival, toxicity, and overall response
+T2	HMM 1668 1682	hematotoxicity
+T3	HMM 1700 1708	Toxicity
+T4	HMM 1758 1781	grade 3 or 4 leukopenia
+T5	HMM 1794 1824	grade 3 or 4 thrombocytopenia;
+T6	HMM 1836 1846	leukopenia
+T7	HMM 1862 1879	thrombocytopenia.
+T8	HMM 1884 1897	response rate
+T9	HMM 1970 1992	hematological toxicity
+T10	HMM 2037 2047	leukopenia
+T11	HMM 2099 2107	response
+T12	HMM 2124 2140	thrombocytopenia
+T13	HMM 2286 2311	steep dose-response curve
+T14	HMM 2358 2374	myelosuppression
+T15	HMM 2389 2407	Rates of responses

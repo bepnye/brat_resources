@@ -1,0 +1,20 @@
+Adult
+Aged
+Arrhythmias, Cardiac
+Brain Diseases
+Cardiovascular Diseases
+Clinical Trials as Topic
+Creatine Kinase
+Double-Blind Method
+Electrocardiography
+Female
+Humans
+Injections, Intramuscular
+Lidocaine
+Male
+Middle Aged
+Myocardial Infarction
+Random Allocation
+Tachycardia
+Time Factors
+Ventricular Fibrillation

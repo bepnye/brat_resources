@@ -1,0 +1,10 @@
+T1	HMM 71 83	body weight.
+T2	HMM 590 610	Dietary compensation
+T3	HMM 656 667	body weight
+T4	HMM 879 907	highest dietary compensation
+T5	HMM 922 947	significant weight change
+T6	HMM 1053 1071	lower compensation
+T7	HMM 1076 1099	significant weight gain
+T8	HMM 1170 1217	incomplete dietary compensation and weight gain
+T9	HMM 1581 1603	problematic for weight
+T10	HMM 1768 1782	promote weight

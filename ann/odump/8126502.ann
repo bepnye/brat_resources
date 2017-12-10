@@ -1,0 +1,6 @@
+T1	HMM 91 138	motor response to acute treatment with levodopa
+T2	HMM 296 311	bioavailability
+T3	HMM 791 833	duration of the motor response to levodopa
+T4	HMM 901 931	Plasma levodopa concentrations
+T5	HMM 990 1024	latency to onset of motor response
+T6	HMM 1118 1156	prolonging the duration of the benefit

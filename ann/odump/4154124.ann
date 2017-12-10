@@ -1,0 +1,5 @@
+T1	HMM 459 493	simple test of blood coagulability
+T2	HMM 632 652	normal coagulability
+T3	HMM 781 796	normal clotting
+T4	HMM 837 858	Local tissue swelling
+T5	HMM 891 905	local necrosis

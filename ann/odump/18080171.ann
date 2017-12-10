@@ -1,0 +1,13 @@
+T1	HMM 162 195	safety, efficacy and tolerability
+T2	HMM 472 496	Behavioral Rating Scales
+T3	HMM 550 567	Safety assessment
+T4	HMM 577 710	vital signs, electrocardiogram, electroencephalogram, adverse events, laboratory tests, extrapyramidal symptoms and the side effects.
+T5	HMM 834 941	Ritvo-Freeman Real Life Rating Scale (RF-RLRS), sensory motor (subscale I) and language (subscale V) scores
+T6	HMM 1077 1180	Aberrant Behavior Checklist (ABC) and Turgay DSM-IV Pervasive Developmental Disorder (PDD) scale scores
+T7	HMM 1238 1247	prolactin
+T8	HMM 1280 1311	alanine amino transferase (ALT)
+T9	HMM 1360 1396	Sensory motor behaviors (subscale I)
+T10	HMM 1401 1409	language
+T11	HMM 1439 1489	RF-RLRS sensory motor and language subscale scores
+T12	HMM 1658 1707	behavioral symptoms, impulsivity, language skills
+T13	HMM 1713 1738	impaired social relations

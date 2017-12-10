@@ -1,0 +1,5 @@
+T1	Treatment 0 18	Patient navigation
+T2	Treatment 353 375	lay patient navigators
+T3	Treatment 757 795	navigation and no-navigation (control)
+T4	Treatment 1126 1144	Patient navigation
+T5	Treatment 1557 1575	Patient navigation

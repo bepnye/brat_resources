@@ -1,0 +1,19 @@
+T1	HMM 25 47	hospitalization burden
+T2	HMM 177 189	CV mortality
+T3	HMM 229 245	quality of life.
+T4	HMM 339 347	efficacy
+T5	HMM 396 435	cardiovascular Hospitalization or death
+T6	HMM 679 697	CV hospitalization
+T7	HMM 706 722	clinical benefit
+T8	HMM 745 787	number and duration of CV hospitalizations
+T9	HMM 1061 1105	reduced the risk of first CV hospitalization
+T10	HMM 1156 1178	non-CV hospitalization
+T11	HMM 1236 1255	CV hospitalizations
+T12	HMM 1261 1271	AF-related
+T13	HMM 1299 1312	hospital stay
+T14	HMM 1445 1458	hospital stay
+T15	HMM 1549 1579	reduced total hospitalizations
+T16	HMM 1646 1709	first AF/atrial flutter recurrence and CV hospitalization/death
+T17	HMM 1724 1746	Hospitalization burden
+T18	HMM 1957 1975	CV hospitalization
+T19	HMM 1990 2012	hospitalization burden

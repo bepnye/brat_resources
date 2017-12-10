@@ -1,0 +1,9 @@
+T1	HMM 114 122	Efficacy
+T2	HMM 127 133	safety
+T3	HMM 445 504	endpoint change in Aberrant Behavior Checklist-Irritability
+T4	HMM 660 674	(-3.5 [10.7]).
+T5	HMM 675 758	Clinical Global Impressions-Severity and Children's Yale-Brown Obsessive Compulsive
+T6	HMM 840 854	ABC-I results.
+T7	HMM 855 889	Somnolence, sedation and increased
+T8	HMM 948 955	groups.
+T9	HMM 956 974	Overall, increased

@@ -1,0 +1,9 @@
+T1	HMM 46 54	efficacy
+T2	HMM 58 75	behavior training
+T3	HMM 1295 1313	therapeutic effect
+T4	HMM 1318 1372	developing level of autism children with CARS and PEP.
+T5	HMM 1385 1405	total effective rate
+T6	HMM 1507 1518	CARS scores
+T7	HMM 1652 1662	PEP scores
+T8	HMM 1792 1850	scores of cognitive understanding and cognitive expression
+T9	HMM 2071 2130	enhancing cognition understanding and cognition expression.

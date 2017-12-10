@@ -1,0 +1,5 @@
+T1	HMM 745 754	satisfied
+T2	HMM 846 853	dropout
+T3	HMM 912 930	training attrition
+T4	HMM 1034 1087	acceptance-satisfaction and dropout attrition-provide
+T5	HMM 1199 1217	training attrition

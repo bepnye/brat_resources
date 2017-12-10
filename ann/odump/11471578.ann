@@ -1,0 +1,7 @@
+T1	HMM 61 82	symptomatic treatment
+T2	HMM 252 264	pain relief;
+T3	HMM 1138 1157	WOMAC questionnaire
+T4	HMM 1254 1266	WOMAC scores
+T5	HMM 1368 1380	WOMAC score)
+T6	HMM 1546 1558	WOMAC scores
+T7	HMM 1951 1960	effective

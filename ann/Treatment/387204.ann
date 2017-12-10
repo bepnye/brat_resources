@@ -1,0 +1,12 @@
+T1	Treatment 19 34	mitomycin-C vs.
+T2	Treatment 35 65	5 FU infusion with methyl-CCNU
+T3	Treatment 326 369	5-fluorouracil 96-hour continuous infusions
+T4	Treatment 382 420	bolus mitomycin-C or oral methyl-CCNU.
+T5	Treatment 421 448	Mitomycin-C and methyl-CCNU
+T6	Treatment 490 516	5 FU-mitomycin combination
+T7	Treatment 622 666	combination of infusion 5 FU and methyl-CCNU
+T8	Treatment 871 885	5 FU-mitomycin
+T9	Treatment 927 943	5 FU-METHYL-CCNU
+T10	Treatment 1055 1066	methyl-CCNU
+T11	Treatment 1127 1136	mitomycin
+T12	Treatment 1299 1312	5 FU infusion

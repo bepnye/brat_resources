@@ -1,0 +1,10 @@
+T1	HMM 0 20	Incidence of puberty
+T2	HMM 269 277	puberty.
+T3	HMM 475 481	weight
+T4	HMM 1014 1021	heavier
+T5	HMM 1248 1255	puberty
+T6	HMM 1925 1937	weight gains
+T7	HMM 1960 1971	Pubertal BW
+T8	HMM 2134 2154	incidence of puberty
+T9	HMM 2370 2377	puberty
+T10	HMM 2488 2508	incidence of puberty

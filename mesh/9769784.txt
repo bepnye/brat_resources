@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols
+Carcinoma, Transitional Cell
+Cisplatin
+Doxorubicin
+Drug Administration Schedule
+Epirubicin
+Female
+Granulocyte Colony-Stimulating Factor
+Humans
+Male
+Methotrexate
+Middle Aged
+Urologic Neoplasms
+Vinblastine

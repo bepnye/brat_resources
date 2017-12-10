@@ -1,0 +1,5 @@
+T1	HMM 113 121	efficacy
+T2	HMM 448 471	3-year overall survival
+T3	HMM 508 535	3-year locoregional control
+T4	HMM 574 602	3-year disease free survival
+T5	HMM 714 777	overall survival, loco-regional control, disease free survival.

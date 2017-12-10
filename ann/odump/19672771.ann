@@ -1,0 +1,12 @@
+T1	HMM 299 333	neutropenia and neutropenic fever.
+T2	HMM 618 641	average leukocyte count
+T3	HMM 706 845	response rates, other acute hematotoxicity, acute infection rate, hospital admission, remission duration, event-free, and overall survival.
+T4	HMM 885 909	average leukocyte count.
+T5	HMM 910 923	Response rate
+T6	HMM 1071 1085	response rates
+T7	HMM 1189 1213	grade 3+4 leukocytopenia
+T8	HMM 1228 1249	grade 3+4 neutropenia
+T9	HMM 1264 1279	acute infection
+T10	HMM 1294 1309	hospitalization
+T11	HMM 1328 1347	erythrocyte support
+T12	HMM 1452 1473	toxicity and efficacy

@@ -1,0 +1,4 @@
+T1	HMM 1251 1299	recurrence of cryptococcal infection at any site
+T2	HMM 1483 1513	recurrent meningeal infections
+T3	HMM 1683 1707	recurrence-free survival
+T4	HMM 1931 1952	Survival and toxicity

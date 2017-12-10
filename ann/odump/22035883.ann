@@ -1,0 +1,6 @@
+T1	HMM 727 751	The overall success rate
+T2	HMM 819 866	The duration of follow up until negative β-hCG
+T3	HMM 970 1009	of β-hCG and gestational mass diameter
+T4	HMM 1026 1049	with successful outcome
+T5	HMM 1122 1138	the success rate
+T6	HMM 1215 1240	groups in adverse effects

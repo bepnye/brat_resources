@@ -1,0 +1,11 @@
+T1	HMM 852 872	T and free- T levels
+T2	HMM 898 918	metabolic parameters
+T3	HMM 933 974	Homeostasis Model Assessment (HOMA) index
+T4	HMM 986 1018	waist circumference and fat mass
+T5	HMM 1047 1122	International Index of Erectile Function-5 and Aging Males' Symptoms scores
+T6	HMM 1200 1220	T and free- T levels
+T7	HMM 1236 1256	metabolic parameters
+T8	HMM 1271 1281	HOMA-index
+T9	HMM 1293 1312	waist circumference
+T10	HMM 1323 1331	fat mass
+T11	HMM 1710 1718	T levels

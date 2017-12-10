@@ -1,0 +1,7 @@
+T1	HMM 651 741	total American Urological Association (AUA) symptom score and maximum urinary flow (Qmax).
+T2	HMM 770 787	AUA symptom score
+T3	HMM 914 918	Qmax
+T4	HMM 995 1019	significant improvements
+T5	HMM 1224 1233	tolerated
+T6	HMM 1281 1304	orthostatic hypotension
+T7	HMM 1323 1341	Vital sign changes

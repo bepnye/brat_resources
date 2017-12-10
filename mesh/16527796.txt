@@ -1,0 +1,10 @@
+Adult
+Catheterization
+Epistaxis
+Equipment Design
+Female
+Humans
+Intubation, Intratracheal
+Male
+Suction
+Treatment Outcome

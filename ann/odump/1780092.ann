@@ -1,0 +1,9 @@
+T1	HMM 23 31	efficacy
+T2	HMM 39 48	tolerance
+T3	HMM 159 167	efficacy
+T4	HMM 172 184	tolerability
+T5	HMM 528 581	anti-inflammatory, analgesic and antipyretic activity
+T6	HMM 641 683	typical symptoms of the inflammatory state
+T7	HMM 745 786	speed and duration of therapeutic action.
+T8	HMM 805 818	effectiveness
+T9	HMM 823 835	tolerability

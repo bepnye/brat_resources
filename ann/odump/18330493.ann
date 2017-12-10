@@ -1,0 +1,10 @@
+T1	HMM 621 649	flow-mediated dilation (FMD)
+T2	HMM 654 699	isosorbide dinitrate (ISDN)-mediated dilation
+T3	HMM 859 905	clinical characteristics, endothelial function
+T4	HMM 910 931	inflammatory markers.
+T5	HMM 970 973	FMD
+T6	HMM 1099 1121	ISDN-mediated dilation
+T7	HMM 1213 1237	reduced malondialdehyde.
+T8	HMM 1248 1270	myeloperoxidase levels
+T9	HMM 1441 1466	CRP nor fibrinogen levels
+T10	HMM 1619 1702	oxidative stress, improves endothelial function, ameliorates myeloperoxidase levels

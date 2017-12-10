@@ -1,0 +1,12 @@
+T1	Treatment 10 33	total androgen ablation
+T2	Treatment 263 289	radical prostatectomy (RP)
+T3	Treatment 611 648	"neoadjuvant" hormonal therapy (NHT).
+T4	Treatment 857 880	total androgen ablation
+T5	Treatment 1002 1071	radical retropubic prostatectomy and bilateral pelvic node dissection
+T6	Treatment 1492 1515	total androgen ablation
+T7	Treatment 1522 1526	NHT)
+T8	Treatment 1718 1741	total androgen ablation
+T9	Treatment 2017 2036	neoadjuvant therapy
+T10	Treatment 2061 2084	immediate surgery alone
+T11	Treatment 2709 2742	total androgen ablation before RP
+T12	Treatment 2964 2967	NHT

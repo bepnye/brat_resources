@@ -1,0 +1,11 @@
+T1	HMM 36 58	postoperative bleeding
+T2	HMM 245 252	effects
+T3	HMM 685 709	Postoperative blood loss
+T4	HMM 733 763	Transfusions of blood products
+T5	HMM 860 876	hematocrit value
+T6	HMM 1004 1026	postoperative bleeding
+T7	HMM 1147 1173	inhibition of fibrinolysis
+T8	HMM 1247 1269	postoperative bleeding
+T9	HMM 1479 1502	postoperative bleeding.
+T10	HMM 1633 1655	postoperative bleeding
+T11	HMM 1670 1682	fibrinolysis

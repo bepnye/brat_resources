@@ -1,0 +1,10 @@
+T1	HMM 127 141	schizophrenia.
+T2	HMM 661 695	time to all-cause discontinuation.
+T3	HMM 1232 1243	psychiatric
+T4	HMM 1599 1625	delirium/sedation syndrome
+T5	HMM 1658 1672	olanzapine LAI
+T6	HMM 1682 1692	olanzapine
+T7	HMM 1708 1717	effective
+T8	HMM 1727 1736	tolerated
+T9	HMM 1785 1799	schizophrenia.
+T10	HMM 1800 1825	Treatment discontinuation

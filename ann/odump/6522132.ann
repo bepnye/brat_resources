@@ -1,0 +1,7 @@
+T1	HMM 37 55	cognitive function
+T2	HMM 125 143	cognitive function
+T3	HMM 285 299	blood pressure
+T4	HMM 431 446	cognitive tests
+T5	HMM 574 598	blood pressure reduction
+T6	HMM 662 684	arithmetic performance
+T7	HMM 728 746	cognitive function

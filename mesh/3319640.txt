@@ -1,0 +1,15 @@
+Adult
+Blood Pressure
+Body Weight
+Cholesterol
+Clinical Trials as Topic
+Double-Blind Method
+Humans
+Hypertension
+Lipids
+Lipoproteins
+Middle Aged
+Nicardipine
+Propranolol
+Random Allocation
+Triglycerides

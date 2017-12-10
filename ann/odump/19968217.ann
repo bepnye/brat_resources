@@ -1,0 +1,10 @@
+T1	HMM 23 52	postoperative hip precautions
+T2	HMM 1132 1190	time-points at which the patient first drove and ambulated
+T3	HMM 1276 1287	dislocation
+T4	HMM 1341 1366	ambulate with only a cane
+T5	HMM 1376 1390	without a cane
+T6	HMM 1405 1419	without a limp
+T7	HMM 1440 1445	drove
+T8	HMM 1463 1479	Pace of recovery
+T9	HMM 1586 1602	pace of recovery
+T10	HMM 1654 1679	increasing complications.

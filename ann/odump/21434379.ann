@@ -1,0 +1,5 @@
+T1	HMM 861 870	frequency
+T2	HMM 875 954	severity of esophageal symptoms, extraesophageal syndrome, functional dyspepsia
+T3	HMM 1009 1044	degree of esophageal mucosal injury
+T4	HMM 1215 1287	relief of heartburn, regurgitation, chronic cough, sore throat, and EBS.
+T5	HMM 1448 1506	esophageal, extraesophageal syndrome, functional dyspepsia

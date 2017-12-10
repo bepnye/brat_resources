@@ -1,0 +1,12 @@
+T1	HMM 42 48	safety
+T2	HMM 53 61	efficacy
+T3	HMM 528 534	safety
+T4	HMM 539 551	tolerability
+T5	HMM 882 906	dose limiting toxicities
+T6	HMM 969 988	safety and efficacy
+T7	HMM 1222 1230	toxicity
+T8	HMM 1318 1326	toxicity
+T9	HMM 1410 1423	response rate
+T10	HMM 1439 1462	Median overall survival
+T11	HMM 1697 1719	Dose limiting toxicity
+T12	HMM 1789 1811	dose limiting toxicity

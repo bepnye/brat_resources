@@ -1,0 +1,24 @@
+Angiogenesis Inhibitors
+Antineoplastic Combined Chemotherapy Protocols
+Breast Neoplasms
+Chi-Square Distribution
+Disease-Free Survival
+Drug Synergism
+Epirubicin
+Female
+Humans
+Immunohistochemistry
+Italy
+Kaplan-Meier Estimate
+Neoplasm Staging
+Neovascularization, Pathologic
+Proportional Hazards Models
+Prospective Studies
+Risk Assessment
+Risk Factors
+Tamoxifen
+Time Factors
+Tissue Array Analysis
+Treatment Outcome
+Vascular Endothelial Growth Factor A
+Vascular Endothelial Growth Factor Receptor-2

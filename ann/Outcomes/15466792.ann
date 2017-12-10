@@ -1,0 +1,14 @@
+T1	Outcomes 0 17	In-hospital costs
+T2	Outcomes 207 213	safety
+T3	Outcomes 218 226	efficacy
+T4	Outcomes 357 371	hospital costs
+T5	Outcomes 901 913	resource use
+T6	Outcomes 918 927	cost data
+T7	Outcomes 1159 1176	clinical outcomes
+T8	Outcomes 1191 1251	procedure duration, equipment costs, and physician services.
+T9	Outcomes 1265 1287	initial hospital costs
+T10	Outcomes 1555 1572	clinical outcomes
+T11	Outcomes 1587 1610	initial treatment costs
+T12	Outcomes 1699 1716	clinical outcomes
+T13	Outcomes 1781 1794	initial costs
+T14	Outcomes 1825 1841	follow-up costs.

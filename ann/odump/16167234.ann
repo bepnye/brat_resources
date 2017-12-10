@@ -1,0 +1,12 @@
+T1	HMM 55 76	postoperative fatigue
+T2	HMM 81 99	nutritional status
+T3	HMM 214 232	nutritional status
+T4	HMM 237 258	postoperative fatigue
+T5	HMM 508 635	Nitrogen balance,serum total protein, albumin, prealbumin, transferrin, retinol binding protein and postoperative fatigue score
+T6	HMM 696 735	cumulative postoperative fatigue scores
+T7	HMM 865 890	positive nitrogen balance
+T8	HMM 1000 1027	cumulative nitrogen balance
+T9	HMM 1091 1157	elevation of serum total protein, albumin, prealbumin, transferrin
+T10	HMM 1282 1320	serum level of retinol binding protein
+T11	HMM 1450 1477	postoperative fatigue score
+T12	HMM 1494 1512	nutritional status

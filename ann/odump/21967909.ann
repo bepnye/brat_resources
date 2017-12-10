@@ -1,0 +1,7 @@
+T1	HMM 4 17	effectiveness
+T2	HMM 22 26	cost
+T3	HMM 30 45	passive warming
+T4	HMM 315 328	effectiveness
+T5	HMM 656 740	patients' temperatures on their arrival in the PACU and at 30 minutes after arrival.
+T6	HMM 765 777	temperatures
+T7	HMM 925 946	change in temperature

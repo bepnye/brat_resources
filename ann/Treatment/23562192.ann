@@ -1,0 +1,14 @@
+T1	Treatment 119 136	montelukast alone
+T2	Treatment 160 173	desloratadine
+T3	Treatment 177 192	levocetirizine.
+T4	Treatment 608 656	desloratadine, levocetirizine, montelukast alone
+T5	Treatment 664 676	combination.
+T6	Treatment 734 752	placebo-controlled
+T7	Treatment 845 889	montelukast and/or levocetirizine or placebo
+T8	Treatment 928 960	montelukast and/or desloratadine
+T9	Treatment 964 971	placebo
+T10	Treatment 1294 1320	montelukast/levocetirizine
+T11	Treatment 1326 1337	montelukast
+T12	Treatment 1391 1405	levocetirizine
+T13	Treatment 1508 1533	desloratadine/montelukast
+T14	Treatment 1774 1785	montelukast

@@ -1,0 +1,6 @@
+T1	HMM 145 164	cardiac output (CO)
+T2	HMM 669 671	CO
+T3	HMM 786 805	Mean cardiac output
+T4	HMM 832 841	hypoxemia
+T5	HMM 968 979	heart rate.
+T6	HMM 998 1012	cardiac output

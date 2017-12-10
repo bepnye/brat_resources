@@ -1,0 +1,20 @@
+Adult
+Aged
+Aged, 80 and over
+Anastomosis, Surgical
+Cellulose, Oxidized
+Colostomy
+Female
+Humans
+Ileostomy
+Male
+Middle Aged
+Occlusive Dressings
+Povidone-Iodine
+Prospective Studies
+Skin
+Subcutaneous Tissue
+Surgical Sponges
+Surgical Stomas
+Surgical Wound Infection
+Young Adult

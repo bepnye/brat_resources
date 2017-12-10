@@ -1,0 +1,12 @@
+T1	Treatment 40 89	one-handed and two-handed ventilation techniques.
+T2	Treatment 140 201	one- vs two-handed compressions of a manual resuscitation bag
+T3	Treatment 401 484	one- followed by two-handed compression or two- followed by one-handed compression.
+T4	Treatment 720 730	one-handed
+T5	Treatment 760 783	two-handed compressions
+T6	Treatment 903 913	one-handed
+T7	Treatment 918 928	two-handed
+T8	Treatment 1076 1107	one- vs two-handed compressions
+T9	Treatment 1174 1183	two hands
+T10	Treatment 1230 1239	one hand.
+T11	Treatment 1364 1367	one
+T12	Treatment 1380 1390	two hands.

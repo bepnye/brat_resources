@@ -1,0 +1,22 @@
+Adult
+Aged
+Bone Neoplasms
+Breast Neoplasms
+Diphosphonates
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Administration Schedule
+Female
+Humans
+Imidazoles
+Infusions, Intravenous
+Japan
+Middle Aged
+Neoplasm Invasiveness
+Neoplasm Staging
+Prognosis
+Proportional Hazards Models
+Reference Values
+Risk Assessment
+Survival Analysis
+Treatment Outcome

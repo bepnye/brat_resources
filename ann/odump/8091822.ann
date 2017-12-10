@@ -1,0 +1,21 @@
+T1	HMM 5 25	anti-ischemic effect
+T2	HMM 241 262	antiischemic effects.
+T3	HMM 339 347	ischemia
+T4	HMM 395 415	antiischemic effects
+T5	HMM 435 453	relief of symptoms
+T6	HMM 468 481	ST-depression
+T7	HMM 507 529	myocardial wall motion
+T8	HMM 560 637	pathologically elevated filling pressure, amelioration of coronary blood flow
+T9	HMM 654 674	myocard scintigraphy
+T10	HMM 679 691	washout time
+T11	HMM 786 823	ischemia-caused mitral regurgitation.
+T12	HMM 955 973	peripheral effects
+T13	HMM 1043 1063	antiischemic effects
+T14	HMM 1101 1119	synergistic action
+T15	HMM 1144 1172	Negative dromotropic effects
+T16	HMM 1283 1303	antiischemic effects
+T17	HMM 1334 1351	Holter monitoring
+T18	HMM 1405 1418	ST-depression
+T19	HMM 1497 1547	number and duration of episodes of silent ischemia
+T20	HMM 1586 1607	symptomatic episodes.
+T21	HMM 1644 1665	proarrhythmic effects

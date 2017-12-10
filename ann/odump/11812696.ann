@@ -1,0 +1,8 @@
+T1	HMM 548 649	Intraoperative conditions, recovery times, postanesthesia recovery scores, and postoperative outcomes
+T2	HMM 665 690	Intraoperative conditions
+T3	HMM 859 886	extubation and orientation.
+T4	HMM 920 956	shorter time to straight leg raising
+T5	HMM 1009 1019	ambulation
+T6	HMM 1134 1152	postoperative pain
+T7	HMM 1212 1233	effective alternative
+T8	HMM 1557 1570	recovery time

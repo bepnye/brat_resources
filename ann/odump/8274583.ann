@@ -1,0 +1,7 @@
+T1	HMM 0 22	Noradrenergic response
+T2	HMM 118 137	Adrenergic response
+T3	HMM 455 520	norepinephrine (NE) and 3-methoxy-4-hydroxy-phenyl glycol (MHPG).
+T4	HMM 566 592	baseline NE concentrations
+T5	HMM 608 664	NE area under the plasma concentration versus time curve
+T6	HMM 758 769	Baseline NE
+T7	HMM 808 818	NE AUC0-90

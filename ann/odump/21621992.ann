@@ -1,0 +1,9 @@
+T1	HMM 726 736	abstinence
+T2	HMM 788 814	mean changes from baseline
+T3	HMM 818 891	post-bronchodilator forced expired volume in 1 s (FEV(1)) and CCQ scores.
+T4	HMM 892 912	Change from baseline
+T5	HMM 936 942	FEV(1)
+T6	HMM 1091 1146	Mean change from baseline at Week 12 in CCQ Total Score
+T7	HMM 1350 1371	continuous abstinence
+T8	HMM 1428 1447	post-bronchodilator
+T9	HMM 1518 1534	CCQ Total Scores

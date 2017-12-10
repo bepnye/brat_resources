@@ -1,0 +1,14 @@
+T1	Intervention 26 33	placebo
+T2	Intervention 109 122	dexamethasone
+T3	Intervention 533 546	dexamethasone
+T4	Intervention 550 557	placebo
+T5	Intervention 745 758	dexamethasone
+T6	Intervention 796 803	placebo
+T7	Intervention 890 901	granisetron
+T8	Intervention 906 936	dexamethasone pre-chemotherapy
+T9	Intervention 946 957	granisetron
+T10	Intervention 1149 1189	fluorouracil/epirubicin/cyclophosphamide
+T11	Intervention 1206 1235	doxorubicin/cyclophosphamide.
+T12	Intervention 1425 1439	dexamethasone;
+T13	Intervention 1808 1821	dexamethasone
+T14	Intervention 1825 1832	placebo

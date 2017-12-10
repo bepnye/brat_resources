@@ -1,0 +1,16 @@
+T1	HMM 85 102	essential tremor.
+T2	HMM 124 145	essential tremor (ET)
+T3	HMM 276 284	efficacy
+T4	HMM 289 301	tolerability
+T5	HMM 359 362	ET.
+T6	HMM 412 414	ET
+T7	HMM 590 626	Fahn-Tolosa-Marin (FTM) rating scale
+T8	HMM 674 714	Clinical Global Impression (CGI-C) scale
+T9	HMM 858 893	FTM total score or its subsections.
+T10	HMM 894 910	Tremor amplitude
+T11	HMM 1167 1173	tremor
+T12	HMM 1234 1240	tremor
+T13	HMM 1356 1389	(fatigue, headache, paresthesias)
+T14	HMM 1467 1489	clinical rating scales
+T15	HMM 1555 1565	tolerated.
+T16	HMM 1596 1612	tremor amplitude

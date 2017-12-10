@@ -1,0 +1,11 @@
+T1	HMM 85 113	left ventricular hypertrophy
+T2	HMM 183 211	left ventricular hypertrophy
+T3	HMM 390 410	cardiac performance.
+T4	HMM 614 633	Mann-Whitney U-test
+T5	HMM 684 711	measured cardiac parameters
+T6	HMM 814 841	left ventricular parameters
+T7	HMM 903 942	left ventricular end-diastolic diameter
+T8	HMM 973 988	Mean blood flow
+T9	HMM 1174 1202	changes in cardiac structure
+T10	HMM 1264 1275	access flow
+T11	HMM 1487 1504	cardiac function.

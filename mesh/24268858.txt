@@ -1,0 +1,25 @@
+Adult
+Aged
+Angiogenesis Inhibitors
+Antibodies, Monoclonal, Humanized
+Central Serous Chorioretinopathy
+Chronic Disease
+Coloring Agents
+Double-Blind Method
+Female
+Fluorescein Angiography
+Humans
+Indocyanine Green
+Intravitreal Injections
+Laser Therapy, Low-Level
+Male
+Middle Aged
+Photochemotherapy
+Photosensitizing Agents
+Porphyrins
+Prospective Studies
+Retina
+Subretinal Fluid
+Tomography, Optical Coherence
+Treatment Outcome
+Visual Acuity

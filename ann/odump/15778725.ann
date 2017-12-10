@@ -1,0 +1,7 @@
+T1	HMM 405 483	regimen-related toxicity, engraftment, supportive care, response and survival.
+T2	HMM 786 795	reduction
+T3	HMM 803 833	median grade of oral mucositis
+T4	HMM 859 908	frequency of severe (WHO grades 3 or 4) mucositis
+T5	HMM 1042 1051	post-ASCT
+T6	HMM 1236 1285	median progression-free or overall survival times
+T7	HMM 1420 1477	frequency and severity of therapy-induced oral mucositis.

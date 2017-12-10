@@ -1,0 +1,15 @@
+T1	HMM 84 137	blood pressure, plasma lipid profile and diet pattern
+T2	HMM 597 641	lower diastolic and systolic blood pressures
+T3	HMM 688 694	effect
+T4	HMM 707 790	plasma triglycerides, cholesterol, HDL-cholesterol and gamma-glutamyltranspeptidase
+T5	HMM 835 874	plasma free-EPA increased significantly
+T6	HMM 900 943	plasma free-arachidonic acid (AA) decreased
+T7	HMM 972 1012	plasma free essential fatty acid changed
+T8	HMM 1044 1078	HDL:cholesterol increased slightly
+T9	HMM 1083 1100	non-significantly
+T10	HMM 1109 1117	increase
+T11	HMM 1121 1133	EPA and DHA.
+T12	HMM 1137 1156	significant changes
+T13	HMM 1160 1185	diet pattern or body mass
+T14	HMM 1190 1199	observed.
+T15	HMM 1356 1378	lowering of plasma AA.

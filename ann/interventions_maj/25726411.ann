@@ -1,0 +1,9 @@
+T1	Intervention 82 93	regadenoson
+T2	Intervention 110 135	single photon emission CT
+T3	Intervention 547 573	rest and regadenoson SPECT
+T4	Intervention 589 677	regadenoson CTP and rest CTP (and coronary CT angiography [CTA]) (CTA; same acquisition)
+T5	Intervention 690 705	regadenoson CTP
+T6	Intervention 710 718	rest CTP
+T7	Intervention 724 728	CTA)
+T8	Intervention 744 748	rest
+T9	Intervention 753 770	regadenoson SPECT

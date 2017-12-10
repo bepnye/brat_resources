@@ -1,0 +1,10 @@
+T1	HMM 31 61	blood loss and range of motion
+T2	HMM 172 202	blood loss and range of motion
+T3	HMM 561 567	fully.
+T4	HMM 568 804	Perioperative blood loss, hidden blood loss, knee swelling, ecchymosis, analgesia requirements, range of motion (ROM), fixed flexion deformity (FFD), straight-leg raising action, and postoperative complications within 6 weeks of surgery
+T5	HMM 858 933	The postoperative hidden blood loss, knee swelling, and scope of ecchymosis
+T6	HMM 1009 1048	and ROM and straight-leg raising action
+T7	HMM 1155 1219	in perioperative blood loss, the amount of morphine used, or FFD
+T8	HMM 1257 1282	in ROM and FFD at 6 weeks
+T9	HMM 1453 1475	mitigate knee swelling
+T10	HMM 1488 1512	other beneficial results

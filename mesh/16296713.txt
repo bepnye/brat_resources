@@ -1,0 +1,15 @@
+Adult
+Aged
+Amlodipine
+Blood Pressure
+Calcium Channel Blockers
+Drug Administration Schedule
+Female
+Heart Rate
+Humans
+Male
+Middle Aged
+Myocardial Ischemia
+Nitroglycerin
+Treatment Outcome
+Vasodilator Agents

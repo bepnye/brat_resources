@@ -1,0 +1,9 @@
+T1	HMM 0 9	Detection
+T2	HMM 13 62	recurrent or persistent nasopharyngeal carcinomas
+T3	HMM 1010 1054	sensitivity, specificity, and accuracy of CT
+T4	HMM 1075 1084	recurrent
+T5	HMM 1163 1218	sensitivity, specificity, and accuracy of Tc-MIBI SPECT
+T6	HMM 1261 1310	sensitivity, specificity, and accuracy of FDG-PET
+T7	HMM 1442 1480	sensitivity, specificity, and accuracy
+T8	HMM 1782 1807	recurrent or residual NPC
+T9	HMM 1904 1912	accuracy

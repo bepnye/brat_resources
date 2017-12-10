@@ -1,0 +1,13 @@
+T1	HMM 10 41	5α-reductase type 2 expression
+T2	HMM 123 162	with decreased tumor cell proliferation
+T3	HMM 165 222	Tumor cell proliferation and progression of breast cancer
+T4	HMM 693 704	the effects
+T5	HMM 716 899	the expression of enzymes involved in intratumoral androgen production including 17β-hydroxysteroid dehydrogenase type 5 (17βHSD5), 5α-reductase types 1 and 2 (5αRed1 and 5αRed2)
+T6	HMM 903 940	well as androgen receptor (AR) levels
+T7	HMM 960 1032	findings with therapeutic responses including Ki67 labeling index (Ki67)
+T8	HMM 1238 1274	status of 17βHSD5, 5αRed1, 5αRed2
+T9	HMM 1354 1383	increments of 5αRed2 as well
+T10	HMM 1427 1438	group whose
+T11	HMM 1543 1563	increment of 5αRed2
+T12	HMM 1600 1610	associated
+T13	HMM 1677 1699	that increased 5αRed2

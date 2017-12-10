@@ -1,0 +1,3 @@
+T1	HMM 686 710	Forced expiratory volume
+T2	HMM 860 878	airway obstruction
+T3	HMM 939 973	Airway responsiveness to histamine

@@ -1,0 +1,8 @@
+T1	HMM 35 83	therapeutic benefit and increase of the toxicity
+T2	HMM 316 323	benefit
+T3	HMM 984 1019	peak expiratory flow, FEV1, and FVC
+T4	HMM 1133 1148	adverse effects
+T5	HMM 1643 1666	respiratory obstruction
+T6	HMM 1713 1731	theophylline level
+T7	HMM 1941 1949	toxicity
+T8	HMM 1962 1970	efficacy

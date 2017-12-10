@@ -1,0 +1,4 @@
+T1	HMM 485 503	Exercise tolerance
+T2	HMM 531 575	exercise duration before the onset of angina
+T3	HMM 606 624	Maximal heart rate
+T4	HMM 787 805	exercise tolerance

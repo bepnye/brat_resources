@@ -1,0 +1,8 @@
+T1	HMM 537 554	primary end point
+T2	HMM 583 626	114-day grades 2-4 acute GVHD-free survival
+T3	HMM 805 820	Grades 2-4 GVHD
+T4	HMM 888 923	Neutrophil and platelet engraftment
+T5	HMM 1010 1033	Oropharyngeal mucositis
+T6	HMM 1075 1112	Oral Mucositis Assessment Scale score
+T7	HMM 1152 1160	toxicity
+T8	HMM 1174 1242	Chronic GVHD, relapse-free survival, and overall survival at 2 years

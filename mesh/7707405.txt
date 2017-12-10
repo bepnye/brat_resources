@@ -1,0 +1,15 @@
+Aged
+Brain Neoplasms
+Carcinoma, Small Cell
+Cranial Irradiation
+Disease-Free Survival
+Female
+Humans
+Lung Neoplasms
+Male
+Middle Aged
+Prospective Studies
+Radiotherapy Dosage
+Remission Induction
+Survival Analysis
+Treatment Outcome

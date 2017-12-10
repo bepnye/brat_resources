@@ -1,0 +1,4 @@
+T1	HMM 0 22	Hepatobiliary response
+T2	HMM 640 766	total and conjugated bilirubin, alkaline phosphatase, alanine aminotransferase, aspartate amino transferase and cholinesterase
+T3	HMM 855 896	gamma-glutamyl transferase (GGT) activity
+T4	HMM 1176 1200	changes in enzyme levels

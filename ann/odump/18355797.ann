@@ -1,0 +1,13 @@
+T1	HMM 0 20	Resource utilization
+T2	HMM 25 39	economic costs
+T3	HMM 177 197	resource utilization
+T4	HMM 202 223	direct economic costs
+T5	HMM 690 740	Resource utilization, procedures, and direct costs
+T6	HMM 859 924	in-patient hospital stay (number of admissions or length of stay)
+T7	HMM 1037 1093	average number of dressing changes performed per patient
+T8	HMM 1202 1229	outpatient treatment visits
+T9	HMM 1301 1332	average direct cost per patient
+T10	HMM 1467 1504	average total cost to achieve healing
+T11	HMM 1706 1726	resource utilization
+T12	HMM 1741 1763	proportion of patients
+T13	HMM 1793 1819	lower overall cost of care

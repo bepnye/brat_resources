@@ -1,0 +1,7 @@
+T1	HMM 94 102	otorrhea
+T2	HMM 670 697	Physician-observed otorrhea
+T3	HMM 832 840	otorrhea
+T4	HMM 987 1046	rate of clinically diagnosed otitis media (OM) and effusion
+T5	HMM 1115 1169	early post-operative otorrhea, clinically diagnosed OM
+T6	HMM 1174 1182	effusion
+T7	HMM 1233 1241	otorrhea

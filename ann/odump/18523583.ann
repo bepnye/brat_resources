@@ -1,0 +1,6 @@
+T1	HMM 1110 1113	HRV
+T2	HMM 1117 1124	hormone
+T3	HMM 1276 1289	baseline HRV.
+T4	HMM 1404 1442	time and frequency domain measurements
+T5	HMM 1503 1518	antidepressants
+T6	HMM 1572 1599	parasympathetic index rMSSD

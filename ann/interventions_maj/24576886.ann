@@ -1,0 +1,11 @@
+T1	Intervention 0 8	Collagen
+T2	Intervention 28 64	photoactivated riboflavin (PACK-CXL)
+T3	Intervention 189 225	corneal collagen cross-linking (CXL)
+T4	Intervention 231 321	photoactivated riboflavin (photoactivated chromophore for infectious keratitis [PACK]-CXL)
+T5	Intervention 577 633	PACK-CXL treatment in addition to antimicrobial therapy.
+T6	Intervention 700 726	only antimicrobial therapy
+T7	Intervention 1109 1117	PACK-CXL
+T8	Intervention 1265 1273	PACK-CXL
+T9	Intervention 1589 1597	PACK-CXL
+T10	Intervention 1617 1659	Corneal CXL with photoactivated riboflavin
+T11	Intervention 1902 1910	PACK-CXL

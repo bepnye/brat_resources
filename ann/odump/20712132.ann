@@ -1,0 +1,10 @@
+T1	HMM 49 81	acute abacterial otitis externa.
+T2	HMM 445 476	reduction of pain and swelling.
+T3	HMM 591 622	acute abacterial otitis externa
+T4	HMM 1023 1088	earache, itching, otorrhea, hearing impairment, and "clogged ear"
+T5	HMM 1258 1274	overall symptoms
+T6	HMM 1328 1354	mild reduction of symptoms
+T7	HMM 1479 1514	baseline-adjusted symptom sum score
+T8	HMM 1799 1823	No severe adverse events
+T9	HMM 1839 1853	adverse events
+T10	HMM 2046 2070	safe, and cost-effective

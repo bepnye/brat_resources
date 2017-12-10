@@ -1,0 +1,10 @@
+T1	Treatment 14 91	adaptive pacing therapy, cognitive behaviour therapy, graded exercise therapy
+T2	Treatment 97 120	specialist medical care
+T3	Treatment 210 243	cognitive behaviour therapy (CBT)
+T4	Treatment 248 277	graded exercise therapy (GET)
+T5	Treatment 426 432	pacing
+T6	Treatment 437 460	specialist health care.
+T7	Treatment 659 848	six secondary-care clinics in the UK and randomly allocated by computer-generated sequence to receive specialist medical care (SMC) alone or with adaptive pacing therapy (APT), CBT, or GET.
+T8	Treatment 879 888	(measured
+T9	Treatment 1360 1466	longitudinal regression models to compare SMC alone with other treatments, APT with CBT, and APT with GET.
+T10	Treatment 1773 1782	SMC-alone

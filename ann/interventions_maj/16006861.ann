@@ -1,0 +1,5 @@
+T1	Intervention 38 103	transperitoneal versus retroperitoneal laparoscopic adrenalectomy
+T2	Intervention 164 212	transperitoneal laparoscopic adrenalectomy (TLA)
+T3	Intervention 216 264	retroperitoneal laparoscopic adrenalectomy (RLA)
+T4	Intervention 477 480	TLA
+T5	Intervention 486 492	or RLA

@@ -1,0 +1,10 @@
+T1	HMM 168 180	osteoporosis
+T2	HMM 257 264	effects
+T3	HMM 314 340	bone mineral density (BMD)
+T4	HMM 477 504	BMD of the lumbar vertebrae
+T5	HMM 521 553	dual-energy X-ray absorptiometry
+T6	HMM 623 636	change in BMD
+T7	HMM 738 758	annual change in BMD
+T8	HMM 967 980	change in BMD
+T9	HMM 1100 1103	BMD
+T10	HMM 1297 1306	bone loss

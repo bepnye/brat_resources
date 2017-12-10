@@ -1,0 +1,24 @@
+Adult
+Aged
+Anti-Bacterial Agents
+Antioxidants
+Ascorbic Acid
+Biopsy
+Cell Transformation, Neoplastic
+Disease Progression
+Drug Therapy, Combination
+Female
+Gastritis, Atrophic
+Helicobacter Infections
+Helicobacter pylori
+Humans
+Logistic Models
+Male
+Middle Aged
+Precancerous Conditions
+Remission, Spontaneous
+Risk
+Stomach
+Stomach Neoplasms
+Treatment Outcome
+beta Carotene

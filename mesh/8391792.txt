@@ -1,0 +1,15 @@
+Acute Disease
+Adult
+Aged
+Aged, 80 and over
+Female
+Heparin
+Heparin, Low-Molecular-Weight
+Humans
+Infusions, Intravenous
+Injections, Subcutaneous
+Male
+Middle Aged
+Recurrence
+Thrombophlebitis
+Treatment Outcome

@@ -1,0 +1,16 @@
+Adult
+Amides
+Analgesia, Epidural
+Analgesics
+Female
+Fentanyl
+Gastrectomy
+Humans
+Infusions, Intravenous
+Interleukin-6
+Male
+Middle Aged
+Morphine
+Pain, Postoperative
+Stomach Neoplasms
+Treatment Outcome

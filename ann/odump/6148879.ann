@@ -1,0 +1,11 @@
+T1	HMM 40 56	pharmacokinetics
+T2	HMM 61 96	clinical effects in thyrotoxicosis.
+T3	HMM 142 179	pharmacokinetics and clinical effects
+T4	HMM 490 560	degree of beta blockade and amelioration of symptoms of thyrotoxicosis
+T5	HMM 669 712	Trough and peak serum levels of propranolol
+T6	HMM 837 853	pharmacokinetics
+T7	HMM 932 972	trough levels of propranolol and nadolol
+T8	HMM 1018 1054	derived creatinine clearance values.
+T9	HMM 1087 1101	thyrotoxicosis
+T10	HMM 1241 1251	convenient
+T11	HMM 1271 1282	compliance.

@@ -1,0 +1,5 @@
+T1	HMM 97 108	red lesions
+T2	HMM 564 591	vasculature and red lesions
+T3	HMM 1107 1118	red lesions
+T4	HMM 1141 1152	sensitivity
+T5	HMM 1287 1298	Performance

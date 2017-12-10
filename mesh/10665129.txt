@@ -1,0 +1,15 @@
+Adult
+Aged
+Area Under Curve
+Bronchi
+Bronchodilator Agents
+Drug Therapy, Combination
+Ethanolamines
+Female
+Forced Expiratory Volume
+Humans
+Ipratropium
+Lung Diseases, Obstructive
+Male
+Middle Aged
+Single-Blind Method

@@ -1,0 +1,9 @@
+T1	HMM 43 58	cuffs--efficacy
+T2	HMM 161 172	performance
+T3	HMM 182 195	cuff pressure
+T4	HMM 579 592	cuff pressure
+T5	HMM 1005 1018	cuff pressure
+T6	HMM 1078 1091	cuff pressure
+T7	HMM 1269 1282	cuff pressure
+T8	HMM 1621 1651	reliable cuff pressure release
+T9	HMM 1701 1714	cuff pressure

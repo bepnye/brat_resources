@@ -1,0 +1,9 @@
+T1	HMM 14 31	antihypertensives
+T2	HMM 64 76	Hypertension
+T3	HMM 158 193	postoperative myocardial infraction
+T4	HMM 197 226	bleeding, Hemodynamic effects
+T5	HMM 652 676	Hemodynamic measurements
+T6	HMM 817 839	Mean arterial pressure
+T7	HMM 939 949	heart rate
+T8	HMM 1113 1132	hemodynamic effects
+T9	HMM 1233 1299	myocardial performance and more effective control of hypertension.

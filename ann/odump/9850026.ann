@@ -1,0 +1,5 @@
+T1	HMM 1486 1544	progression rate and freedom from treatment failure (FFTF)
+T2	HMM 1608 1626	24-month FFTF rate
+T3	HMM 1702 1721	progressive disease
+T4	HMM 1765 1788	Differences in survival
+T5	HMM 1838 1872	acute toxicity of baseline BEACOPP

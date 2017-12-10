@@ -1,0 +1,16 @@
+Adult
+Aged
+Anesthetics, Intravenous
+Anesthetics, Local
+Female
+Hospitals, University
+Humans
+Laryngeal Masks
+Lidocaine
+Male
+Middle Aged
+Pain
+Propofol
+Prospective Studies
+Single-Blind Method
+Young Adult

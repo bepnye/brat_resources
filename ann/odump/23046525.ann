@@ -1,0 +1,7 @@
+T1	HMM 850 953	tumor response defined by ≥ 50% reduction in serum CA125 from baseline sustained for at least 28 days
+T2	HMM 1134 1142	in CA125
+T3	HMM 1275 1318	no symptomatic VTE or major bleeding events
+T4	HMM 1353 1368	experienced VTE
+T5	HMM 1451 1541	of D-dimer and thrombin-antithrombin, and higher levels of tissue factor pathway inhibitor
+T6	HMM 1587 1594	is safe
+T7	HMM 1599 1613	well tolerated

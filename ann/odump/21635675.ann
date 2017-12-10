@@ -1,0 +1,9 @@
+T1	HMM 21 28	effects
+T2	HMM 164 204	glucose tolerance and insulin resistance
+T3	HMM 640 685	The amount of glucose infused at steady-state
+T4	HMM 689 718	maintain stable blood glucose
+T5	HMM 835 873	clamp, whole body glucose disposal (M)
+T6	HMM 1054 1055	2
+T7	HMM 1159 1172	and M/I ratio
+T8	HMM 1239 1272	The insulin sensitivity index, Si
+T9	HMM 1535 1563	impaired insulin sensitivity

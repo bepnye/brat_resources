@@ -1,0 +1,8 @@
+T1	HMM 25 54	chronic tension-type headache
+T2	HMM 155 192	chronic tension-type headache (CTTH).
+T3	HMM 777 873	CTTH score (including the score of headache attack frequency and the score of headache severity)
+T4	HMM 943 951	efficacy
+T5	HMM 989 999	CTTH score
+T6	HMM 1069 1105	score in the sticking needling group
+T7	HMM 1199 1213	effective rate
+T8	HMM 1452 1507	reducing the pain attack frequency and severity of CTTH

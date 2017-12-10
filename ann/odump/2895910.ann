@@ -1,0 +1,4 @@
+T1	HMM 606 693	posterior retinal detachment, retinal fold involving the macula, or retrolental tissue.
+T2	HMM 774 793	unfavorable outcome
+T3	HMM 945 969	unexpected complications
+T4	HMM 1033 1041	efficacy

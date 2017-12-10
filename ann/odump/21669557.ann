@@ -1,0 +1,13 @@
+T1	HMM 73 117	ST-segment depression on electrocardiograms.
+T2	HMM 309 316	effects
+T3	HMM 668 689	ST-segment depression
+T4	HMM 703 732	heart rate variability (HRV).
+T5	HMM 1199 1224	HRV and ST-segment values
+T6	HMM 1263 1284	ST-segment depression
+T7	HMM 1333 1349	Personal fine PM
+T8	HMM 1384 1405	(PM₂.₅] exposures
+T9	HMM 1461 1478	RESULTS PM₂.₅
+T10	HMM 1706 1731	0.08-0.90) for ST-segment
+T11	HMM 1851 1861	associated
+T12	HMM 1935 1971	occurrence of nonspecific ST-segment
+T13	HMM 2021 2064	exposures affect ventricular repolarization

@@ -1,0 +1,4 @@
+T1	Intervention 29 71	preoperative to perioperative chemotherapy
+T2	Intervention 212 278	preoperative (PRE) as opposed to perioperative (PERI) chemotherapy
+T3	Intervention 516 537	gemcitabine-cisplatin
+T4	Intervention 550 572	paclitaxel-carboplatin

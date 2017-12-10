@@ -1,0 +1,5 @@
+T1	HMM 0 17	Exercise capacity
+T2	HMM 1223 1230	resting
+T3	HMM 1263 1276	peak exercise
+T4	HMM 1305 1316	heart rates
+T5	HMM 1386 1403	exercise capacity

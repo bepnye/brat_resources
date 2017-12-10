@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents
+Carcinoma
+Doxorubicin
+Female
+Humans
+Liposomes
+Middle Aged
+Neoplasm Recurrence, Local
+Ovarian Neoplasms
+Polyethylene Glycols
+Sickness Impact Profile
+Survival Analysis
+Topotecan

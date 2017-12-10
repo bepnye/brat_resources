@@ -1,0 +1,11 @@
+T1	Outcomes 0 16	Atrioventricular
+T2	Outcomes 182 209	risk of developing AV block
+T3	Outcomes 706 717	PQ interval
+T4	Outcomes 780 843	atrial stimulus-Q intervals at pacing rates of 100 and 120 bpm.
+T5	Outcomes 848 870	occurrence of AV block
+T6	Outcomes 970 981	PQ interval
+T7	Outcomes 1015 1068	atrial stimulus-Q intervals or Wenckebach block point
+T8	Outcomes 1141 1162	grade 2 to 3 AV block
+T9	Outcomes 1249 1274	right bundle-branch block
+T10	Outcomes 1342 1384	PQ interval and atrial stimulus-Q interval
+T11	Outcomes 1555 1559	safe

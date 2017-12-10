@@ -1,0 +1,12 @@
+T1	Outcomes 9 29	benefit/disadvantage
+T2	Outcomes 468 481	effectiveness
+T3	Outcomes 567 589	hematopoietic recovery
+T4	Outcomes 1844 1852	survived
+T5	Outcomes 1864 1943	median numbers of transfused mononuclear cells (MNC), CD34(+) cells, and CFU-GM
+T6	Outcomes 2274 2342	time to achieve an absolute neutrophil count (ANC) of >0.5 x 10(9)/L
+T7	Outcomes 2542 2566	duration of febrile days
+T8	Outcomes 2648 2682	platelet recovery to >20 x 10(9)/L
+T9	Outcomes 2882 2917	platelet transfusion-dependent days
+T10	Outcomes 3051 3071	engraftment kinetics
+T11	Outcomes 3241 3265	recovery of granulocytes
+T12	Outcomes 3297 3319	recovery of platelets.

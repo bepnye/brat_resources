@@ -1,0 +1,9 @@
+T1	HMM 232 262	Interleukin-1 beta (IL-1 beta)
+T2	HMM 460 481	interleukin-1 (IL-1).
+T3	HMM 535 544	IL-1 beta
+T4	HMM 998 1047	biochemical measures or liver histological stage.
+T5	HMM 1079 1115	serum bilirubin and histologic stage
+T6	HMM 1136 1156	alkaline phosphatase
+T7	HMM 1200 1222	synthesis of IL-1 beta
+T8	HMM 1565 1597	IL-2-induced IL-1 beta synthesis
+T9	HMM 1659 1690	S epidermidis-induced IL-1 beta

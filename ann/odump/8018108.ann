@@ -1,0 +1,9 @@
+T1	HMM 665 680	Citrated plasma
+T2	HMM 738 749	tPA release
+T3	HMM 816 842	daily dietary fiber intake
+T4	HMM 966 1014	PAI-1 activities, cholesterol and triglycerides.
+T5	HMM 1019 1042	tPA mass concentrations
+T6	HMM 1087 1101	tPA activities
+T7	HMM 1126 1161	von Willebrand factor (vWF) levels.
+T8	HMM 1610 1613	tPA
+T9	HMM 1734 1750	PAI-1 activities

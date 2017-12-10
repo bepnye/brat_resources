@@ -1,0 +1,9 @@
+T1	Treatment 408 435	Three Component Model (3CM)
+T2	Treatment 442 452	usual care
+T3	Treatment 689 723	usual care or usual care plus 3CM.
+T4	Treatment 1013 1024	usual care.
+T5	Treatment 1050 1053	3CM
+T6	Treatment 1068 1094	telephone care management.
+T7	Treatment 1118 1150	supervision from a psychiatrist.
+T8	Treatment 1430 1433	3CM
+T9	Treatment 1561 1564	3CM

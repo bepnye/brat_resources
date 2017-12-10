@@ -1,0 +1,7 @@
+T1	HMM 64 77	mood symptoms
+T2	HMM 156 168	mood effects
+T3	HMM 677 734	mood and physical symptoms noted on a daily rating scale.
+T4	HMM 749 766	physical symptoms
+T5	HMM 888 901	mood symptoms
+T6	HMM 989 1012	positive mood symptoms.
+T7	HMM 1029 1055	mood and physical symptoms

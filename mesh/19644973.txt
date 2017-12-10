@@ -1,0 +1,16 @@
+Adenocarcinoma
+Aged
+Female
+Humans
+Kaplan-Meier Estimate
+Laparoscopy
+Length of Stay
+Lymph Node Excision
+Lymphatic Metastasis
+Male
+Neoadjuvant Therapy
+Neoplasm Recurrence, Local
+Postoperative Complications
+Prospective Studies
+Rectal Neoplasms
+Reoperation

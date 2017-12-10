@@ -1,0 +1,7 @@
+T1	Treatment 33 72	ischemic and anesthetic preconditioning
+T2	Treatment 188 218	Ischemic preconditioning (IPC)
+T3	Treatment 223 255	anesthetic preconditioning (APC)
+T4	Treatment 506 534	intermittent clamping (INT).
+T5	Treatment 674 878	IPC (10 minutes of inflow occlusion followed by 10 minutes of reperfusion before liver transection), APC (sevoflurane administration for 20 minutes before liver transection), and INT (no preconditioning).
+T6	Treatment 1871 1895	protocols of IPC and APC
+T7	Treatment 1965 1968	INT

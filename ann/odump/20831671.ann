@@ -1,0 +1,13 @@
+T1	HMM 57 99	acute and prolonged diarrhoea in children:
+T2	HMM 237 242	acute
+T3	HMM 256 265	prolonged
+T4	HMM 273 288	days) diarrhoea
+T5	HMM 669 735	system, diarrhoeal morbidity data (severity, duration, compliance)
+T6	HMM 801 841	analysing cumulative probability of cure
+T7	HMM 845 902	testing Cox proportional hazards models and relative risk
+T8	HMM 917 951	The cumulative probability of cure
+T9	HMM 1021 1031	both acute
+T10	HMM 1079 1102	and prolonged diarrhoea
+T11	HMM 1136 1187	The recovery rates of children with acute diarrhoea
+T12	HMM 1448 1469	higher recovery rates
+T13	HMM 1635 1657	diet hastened recovery

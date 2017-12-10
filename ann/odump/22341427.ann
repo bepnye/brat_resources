@@ -1,0 +1,5 @@
+T1	HMM 765 766	.
+T2	HMM 767 781	Mortality risk
+T3	HMM 916 926	with death
+T4	HMM 1112 1122	with death
+T5	HMM 1257 1272	better survival

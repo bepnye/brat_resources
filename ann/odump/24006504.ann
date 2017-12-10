@@ -1,0 +1,8 @@
+T1	HMM 630 715	bladder recurrence-free survival rates and factors associated with bladder recurrence
+T2	HMM 805 828	positive urine cytology
+T3	HMM 847 857	recurrence
+T4	HMM 1216 1231	urine cytology.
+T5	HMM 1315 1326	recurrences
+T6	HMM 1493 1523	recurrence-free survival rates
+T7	HMM 1685 1740	recurrent tumor around cystotomy or in the bladder neck
+T8	HMM 1968 1991	bladder recurrence rate

@@ -1,0 +1,9 @@
+T1	Treatment 19 46	beclomethasone dipropionate
+T2	Treatment 150 188	oral beclomethasone dipropionate (BDP)
+T3	Treatment 466 474	oral BDP
+T4	Treatment 631 658	Study drug (BDP or placebo)
+T5	Treatment 821 835	glucocorticoid
+T6	Treatment 928 931	BDP
+T7	Treatment 979 986	placebo
+T8	Treatment 1208 1242	hematopoietic cell transplantation
+T9	Treatment 1442 1468	myeloablative conditioning

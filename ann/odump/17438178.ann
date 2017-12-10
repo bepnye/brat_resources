@@ -1,0 +1,10 @@
+T1	HMM 960 1043	median pain score, ulcer size, number of ulcers, or total number of ulcer episodes.
+T2	HMM 1087 1096	less pain
+T3	HMM 1110 1134	smaller and fewer ulcers
+T4	HMM 1192 1206	no improvement
+T5	HMM 1272 1292	more ulcer-free days
+T6	HMM 1333 1355	differences were small
+T7	HMM 1370 1400	exception of median ulcer size
+T8	HMM 1412 1451	did not reach statistical significance.
+T9	HMM 1452 1467	Adverse effects
+T10	HMM 1505 1532	not significantly different

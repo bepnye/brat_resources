@@ -1,0 +1,6 @@
+T1	HMM 194 223	radiation-induced skin injury
+T2	HMM 624 643	Acute skin toxicity
+T3	HMM 886 933	reduce acute skin toxicity or symptom severity.
+T4	HMM 994 1022	develop acute skin toxicity.
+T5	HMM 1054 1076	skin reaction toxicity
+T6	HMM 1287 1310	skin reaction severity.

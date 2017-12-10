@@ -1,0 +1,14 @@
+T1	HMM 4 10	effect
+T2	HMM 52 80	plasma acetate concentration
+T3	HMM 85 100	acid-base state
+T4	HMM 401 417	acid-base status
+T5	HMM 501 521	Jugular venous blood
+T6	HMM 1003 1028	profound plasma alkalosis
+T7	HMM 1049 1060	plasma [H+]
+T8	HMM 1075 1100	plasma [TCO2] and [HCO3-]
+T9	HMM 1153 1169	plasma alkalosis
+T10	HMM 1187 1192	[SID]
+T11	HMM 1273 1279	[Atot]
+T12	HMM 1298 1302	[PP]
+T13	HMM 1331 1347	plasma [acetate]
+T14	HMM 1369 1386	acidifying effect

@@ -1,0 +1,16 @@
+T1	HMM 815 825	heart rate
+T2	HMM 862 873	heart rates
+T3	HMM 884 890	higher
+T4	HMM 976 998	ECG signs of ischaemia
+T5	HMM 1040 1087	severe hypotension associated with tachycardia.
+T6	HMM 1102 1105	SVR
+T7	HMM 1185 1188	MAP
+T8	HMM 1200 1215	well tolerated;
+T9	HMM 1250 1269	severe hypotension.
+T10	HMM 1337 1340	MAP
+T11	HMM 1423 1450	overall haemodynamic course
+T12	HMM 1514 1534	stable haemodynamics
+T13	HMM 1624 1635	tachycardic
+T14	HMM 1688 1739	elevations in diastolic and mean arterial pressures
+T15	HMM 1841 1872	PCWP; mean PA pressures and CVP
+T16	HMM 1883 1893	increased.

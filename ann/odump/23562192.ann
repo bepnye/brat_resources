@@ -1,0 +1,12 @@
+T1	HMM 0 70	Nasal eosinophilia and serum soluble intercellular adhesion molecule 1
+T2	HMM 426 494	nasal eosinophilia and serum soluble ICAM-1 (sICAM-1) concentrations
+T3	HMM 510 524	nasal symptoms
+T4	HMM 982 1049	Nasal eosinophilia and concentration of sICAM-1 in peripheral blood
+T5	HMM 1201 1231	sICAM-1 and nasal eosinophilia
+T6	HMM 1259 1286	severity of nasal symptoms.
+T7	HMM 1348 1366	nasal eosinophilia
+T8	HMM 1431 1438	sICAM-1
+T9	HMM 1591 1598	sICAM-1
+T10	HMM 1607 1628	influx of eosinophils
+T11	HMM 1694 1708	nasal symptoms
+T12	HMM 1833 1864	sICAM-1 and nasal eosinophilia.

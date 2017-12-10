@@ -1,0 +1,19 @@
+T1	HMM 42 49	anxiety
+T2	HMM 53 68	quality of life
+T3	HMM 150 157	anxiety
+T4	HMM 171 192	quality of life (QoL)
+T5	HMM 354 357	QoL
+T6	HMM 362 370	anxiety.
+T7	HMM 395 402	anxiety
+T8	HMM 407 430	health-related (HR)-QoL
+T9	HMM 701 767	State-Trait Anxiety Inventory (STAI) and the Short Form-36 (SF-36)
+T10	HMM 872 879	anxiety
+T11	HMM 884 893	lower QoL
+T12	HMM 955 972	cardiac diagnoses
+T13	HMM 1094 1109	QoL improvement
+T14	HMM 1119 1126	anxiety
+T15	HMM 1154 1171	Type of diagnosis
+T16	HMM 1279 1286	anxiety
+T17	HMM 1290 1294	QoL.
+T18	HMM 1355 1372	cardiac diagnosis
+T19	HMM 1394 1419	psychological well-being.

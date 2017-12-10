@@ -1,0 +1,23 @@
+T1	Treatment 11 55	formoterol, salmeterol or oxitropium bromide
+T2	Treatment 79 89	salbutamol
+T3	Treatment 140 185	formoterol, oxitropium bromide, or salmeterol
+T4	Treatment 235 245	salbutamol
+T5	Treatment 400 524	received 24 microg formoterol, 50 microg salmeterol, 200 microg oxitropium bromide, or placebo on four non-consecutive days.
+T6	Treatment 525 544	Spirometric testing
+T7	Treatment 650 660	salbutamol
+T8	Treatment 670 781	constructed using doses of 100, 100, 200 microg and 400 microg--that is, a total cumulative dose of 800 microg.
+T9	Treatment 882 904	Formoterol, salmeterol
+T10	Treatment 909 927	oxitropium bromide
+T11	Treatment 1023 1030	placebo
+T12	Treatment 1055 1062	placebo
+T13	Treatment 1069 1079	formoterol
+T14	Treatment 1086 1096	salmeterol
+T15	Treatment 1103 1121	oxitropium bromide
+T16	Treatment 1270 1278	placebo:
+T17	Treatment 1309 1320	formoterol:
+T18	Treatment 1351 1362	salmeterol:
+T19	Treatment 1393 1412	oxitropium bromide:
+T20	Treatment 1584 1629	formoterol, salmeterol, or oxitropium bromide
+T21	Treatment 1644 1652	placebo.
+T22	Treatment 1726 1771	formoterol, salmeterol, or oxitropium bromide
+T23	Treatment 1849 1859	salbutamol

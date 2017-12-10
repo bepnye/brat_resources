@@ -1,0 +1,11 @@
+T1	HMM 14 51	spinal anesthesia-induced hypotension
+T2	HMM 297 334	spinal anesthesia-induced hypotension
+T3	HMM 458 520	incidence and frequency of hypotension and vasopressor therapy
+T4	HMM 898 909	Hypotension
+T5	HMM 954 977	systolic blood pressure
+T6	HMM 1061 1090	absolute systolic BP readings
+T7	HMM 1175 1199	incidence of hypotension
+T8	HMM 1256 1312	incidence of ephedrine use, incidence of nausea/vomiting
+T9	HMM 1318 1348	median total dose of ephedrine
+T10	HMM 1517 1528	hypotension
+T11	HMM 1532 1560	need for vasopressor therapy

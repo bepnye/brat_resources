@@ -1,0 +1,8 @@
+T1	HMM 38 73	food intake and energy expenditure.
+T2	HMM 372 419	food intake, energy expenditure and body weight
+T3	HMM 890 906	Body-weight loss
+T4	HMM 1068 1087	total energy intake
+T5	HMM 1131 1192	macronutrient composition, hunger, satiety and hedonic scores
+T6	HMM 1223 1241	Energy expenditure
+T7	HMM 1290 1402	sleeping and resting metabolic rate, diet-induced thermogenesis, activity-induced energy expenditure and 24 h RQ
+T8	HMM 1534 1580	food intake, energy expenditure or body weight

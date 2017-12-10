@@ -1,0 +1,5 @@
+T1	HMM 983 1057	better rate of complete response, fewer nodes, and better overall response
+T2	HMM 1115 1192	3-year disease-free survival, progression free survival, and overall survival
+T3	HMM 1259 1274	quality of life
+T4	HMM 1354 1369	quality of life
+T5	HMM 1443 1466	acute and late toxicity

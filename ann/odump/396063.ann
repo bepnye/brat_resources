@@ -1,0 +1,11 @@
+T1	HMM 271 295	Blood pressure behaviour
+T2	HMM 520 552	blood pressure or plasma volume.
+T3	HMM 599 613	blood pressure
+T4	HMM 670 684	Cardiac output
+T5	HMM 753 767	cardiac output
+T6	HMM 923 964	myocardial or venous angiotensin effects.
+T7	HMM 1029 1043	blood pressure
+T8	HMM 1120 1137	heart rate effect
+T9	HMM 1167 1223	Blood pressure and total peripheral resistance responses
+T10	HMM 1280 1290	heart rate
+T11	HMM 1295 1309	cardiac output

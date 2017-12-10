@@ -1,0 +1,15 @@
+T1	Outcomes 189 282	area under the plasma concentration-time curve (AUC), the maximum plasma concentration (Cmax)
+T2	Outcomes 288 332	the time to reach peak concentration (Tmax).
+T3	Outcomes 513 516	AUC
+T4	Outcomes 704 707	AUC
+T5	Outcomes 884 887	AUC
+T6	Outcomes 1002 1014	Cmax or Tmax
+T7	Outcomes 1199 1203	Cmax
+T8	Outcomes 1208 1212	Tmax
+T9	Outcomes 1260 1281	plateau concentration
+T10	Outcomes 1447 1466	AUC, Tmax, and Cmax
+T11	Outcomes 1610 1616	5h AUC
+T12	Outcomes 1688 1695	AUCinf.
+T13	Outcomes 1824 1890	confidence intervals, probability values, and nonparametric tests.
+T14	Outcomes 1909 1936	single-point short-term AUC
+T15	Outcomes 2016 2035	AUC, Cmax, and Tmax

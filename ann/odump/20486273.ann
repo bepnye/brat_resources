@@ -1,0 +1,14 @@
+T1	HMM 0 19	Efficacy and safety
+T2	HMM 31 54	blood pressure lowering
+T3	HMM 135 154	efficacy and safety
+T4	HMM 158 181	blood pressure lowering
+T5	HMM 401 420	efficacy and safety
+T6	HMM 432 455	blood pressure lowering
+T7	HMM 740 799	composite of major macrovascular and microvascular disease.
+T8	HMM 1054 1078	relative risk reductions
+T9	HMM 1087 1155	primary outcome, major macrovascular disease, death and renal events
+T10	HMM 1262 1277	primary outcome
+T11	HMM 1467 1479	tolerability
+T12	HMM 1623 1637	blood pressure
+T13	HMM 1661 1665	risk
+T14	HMM 1854 1867	side effects.

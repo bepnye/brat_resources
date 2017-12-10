@@ -1,0 +1,4 @@
+T1	HMM 458 573	Duration of anesthesia, time to emergence, orientation, length of stay in the surgical unit, and hospital discharge
+T2	HMM 593 639	emergence, length of stay, and discharge times
+T3	HMM 891 911	postoperative cough.
+T4	HMM 984 994	anesthesia

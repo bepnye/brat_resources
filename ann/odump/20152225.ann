@@ -1,0 +1,11 @@
+T1	HMM 30 46	cardiac function
+T2	HMM 68 90	left atrial remodeling
+T3	HMM 1111 1185	left atrial volume, left ventricular (LV) end-systolic volume, and LV mass
+T4	HMM 1210 1227	Ejection fraction
+T5	HMM 1319 1348	Interventricular dyssynchrony
+T6	HMM 1460 1510	echocardiographic changes; heart rate distribution
+T7	HMM 1590 1674	6-minute walk distance, quality-of-life score, and New York Heart Association class.
+T8	HMM 1746 1773	left atrial volume, LV mass
+T9	HMM 1779 1808	worsening of LV contractility
+T10	HMM 1951 1969	structural changes
+T11	HMM 2000 2030	wider heart rate distribution.

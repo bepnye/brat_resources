@@ -1,0 +1,11 @@
+T1	HMM 220 283	response rate, time to disease progression, or overall survival
+T2	HMM 1112 1121	survival;
+T3	HMM 1137 1160	assessable for response
+T4	HMM 1173 1182	toxicity.
+T5	HMM 1183 1199	Myelosuppression
+T6	HMM 1204 1211	greater
+T7	HMM 1222 1241	Objective responses
+T8	HMM 1403 1429	median time to progression
+T9	HMM 1474 1495	median survival times
+T10	HMM 1619 1640	2-year survival rates
+T11	HMM 1744 1784	time to progression and overall survival

@@ -1,0 +1,10 @@
+T1	HMM 62 86	gingivitis in pregnancy.
+T2	HMM 165 236	gingival inflammation during the fourth and eighth months of pregnancy.
+T3	HMM 627 667	fasting serum and red cell folate levels
+T4	HMM 687 698	oral status
+T5	HMM 713 794	plaque index (P1I), a gingival index (GI), and gingival exudate flow meter (GEF).
+T6	HMM 857 872	dietary folate.
+T7	HMM 966 976	GI and P1I
+T8	HMM 990 1001	GI and GEF.
+T9	HMM 1002 1004	GI
+T10	HMM 1435 1450	gingival health

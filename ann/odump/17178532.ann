@@ -1,0 +1,14 @@
+T1	HMM 44 63	nutritional balance
+T2	HMM 158 207	tantrums, aggression, or self-injurious behaviour
+T3	HMM 252 264	weight gain.
+T4	HMM 293 327	Food Frequency Questionnaire (FFQ)
+T5	HMM 527 581	mean intakes for macronutrients, vitamins and minerals
+T6	HMM 691 714	individual deficiencies
+T7	HMM 736 753	intake of calcium
+T8	HMM 778 794	pantothenic acid
+T9	HMM 806 815	vitamin D
+T10	HMM 915 933	increase in weight
+T11	HMM 941 969	increase in vitamin K intake
+T12	HMM 1153 1173	nutritional balance.
+T13	HMM 1250 1270	significantly affect
+T14	HMM 1275 1294	nutritional balance

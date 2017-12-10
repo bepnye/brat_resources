@@ -1,0 +1,22 @@
+Adult
+Aged
+Aged, 80 and over
+Arm
+Chemotherapy, Cancer, Regional Perfusion
+Cytokines
+Female
+Histiocytoma, Benign Fibrous
+Humans
+Interferon-gamma
+Interleukin-6
+Interleukin-8
+Leg
+Leiomyosarcoma
+Male
+Melanoma
+Melphalan
+Middle Aged
+Receptors, Tumor Necrosis Factor
+Sarcoma, Ewing
+Skin Neoplasms
+Tumor Necrosis Factor-alpha

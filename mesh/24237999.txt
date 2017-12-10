@@ -1,0 +1,24 @@
+Adult
+Aged
+Antirheumatic Agents
+Arthritis, Rheumatoid
+Australia
+Chi-Square Distribution
+Drug Therapy, Combination
+Europe
+Female
+Humans
+Immunoglobulin G
+Israel
+Kaplan-Meier Estimate
+Male
+Methotrexate
+Middle Aged
+Prospective Studies
+Receptors, Tumor Necrosis Factor
+Registries
+Remission Induction
+Severity of Illness Index
+Time Factors
+Treatment Outcome
+United States

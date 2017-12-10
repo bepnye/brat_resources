@@ -1,0 +1,8 @@
+T1	HMM 1092 1123	5-year cause specific survivals
+T2	HMM 1256 1277	5-year survival rates
+T3	HMM 1510 1539	Five-year local failure rates
+T4	HMM 1686 1718	Moderate-to-severe complications
+T5	HMM 1853 1885	bladder and rectal complications
+T6	HMM 1934 1954	Severe complications
+T7	HMM 2091 2095	dead
+T8	HMM 2132 2260	statistically significant differences between 2 treatment schedules in survival rates, failure patterns and complications rates.

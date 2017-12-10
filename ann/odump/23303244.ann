@@ -1,0 +1,6 @@
+T1	HMM 12 47	noninvasive haemoglobin measurement
+T2	HMM 135 146	haemoglobin
+T3	HMM 446 457	haemoglobin
+T4	HMM 948 983	acetate, pulse oximetry haemoglobin
+T5	HMM 1111 1156	solution decreased pulse oximetry haemoglobin
+T6	HMM 1374 1460	between all 956 pairs of pulse oximetry haemoglobin concentration and true haemoglobin

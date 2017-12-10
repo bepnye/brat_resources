@@ -1,0 +1,8 @@
+T1	HMM 88 102	schizophrenia.
+T2	HMM 697 719	overall symptomatology
+T3	HMM 730 752	number needed to treat
+T4	HMM 764 771	insight
+T5	HMM 794 804	depression
+T6	HMM 863 870	Insight
+T7	HMM 971 989	suicidal ideation.
+T8	HMM 1035 1057	safely and effectively

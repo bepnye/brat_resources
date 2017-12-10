@@ -1,0 +1,8 @@
+T1	Outcomes 992 1013	complete remission (C
+T2	Outcomes 1030 1048	partial remission,
+T3	Outcomes 1057 1075	failed to respond,
+T4	Outcomes 1088 1092	died
+T5	Outcomes 1225 1256	survival time to failure (TTF),
+T6	Outcomes 1261 1282	time to relapse (TTR)
+T7	Outcomes 1524 1532	Toxicity
+T8	Outcomes 1722 1733	neutropenia

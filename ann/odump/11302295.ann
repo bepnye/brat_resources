@@ -1,0 +1,14 @@
+T1	HMM 72 90	two-year survival.
+T2	HMM 158 167	mortality
+T3	HMM 259 278	mortality reduction
+T4	HMM 344 369	cardiovascular mortality.
+T5	HMM 434 458	cardiovascular mortality
+T6	HMM 1113 1138	cardiovascular mortality.
+T7	HMM 1147 1175	Risk of cardiovascular death
+T8	HMM 1257 1278	cardiovascular deaths
+T9	HMM 1340 1364	The cardiovascular death
+T10	HMM 1421 1551	depression, previous myocardial infarction, low ejection fraction, decreased heart rate variability, and ventricular ectopic beats
+T11	HMM 1605 1632	risk of all-cause mortality
+T12	HMM 1711 1717	deaths
+T13	HMM 1749 1755	deaths
+T14	HMM 1845 1865	cardiovascular death

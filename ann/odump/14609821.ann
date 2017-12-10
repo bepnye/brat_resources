@@ -1,0 +1,6 @@
+T1	HMM 172 210	persistent corneal epithelial defects.
+T2	HMM 302 332	persistent epithelial defects.
+T3	HMM 869 910	Rate of healing of the epithelial defects
+T4	HMM 1121 1166	decrease in the size of the epithelial defect
+T5	HMM 1333 1362	complete re-epithelialisation
+T6	HMM 1582 1641	faster healing of the persistent corneal epithelial defects

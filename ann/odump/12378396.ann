@@ -1,0 +1,5 @@
+T1	HMM 412 422	restenosis
+T2	HMM 441 462	inflammatory response
+T3	HMM 999 1016	stent positioning
+T4	HMM 1181 1203	rate of cardiac events
+T5	HMM 1244 1266	hyperplastic response.

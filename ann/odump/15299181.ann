@@ -1,0 +1,9 @@
+T1	HMM 230 248	3-yr survival rate
+T2	HMM 754 777	complete response rates
+T3	HMM 857 915	median time to progression (TTP) and overall survival (OS)
+T4	HMM 1004 1014	median TTP
+T5	HMM 1102 1111	median OS
+T6	HMM 1221 1226	alive
+T7	HMM 1366 1396	severe hematological toxicity.
+T8	HMM 1403 1425	severe nausea/vomiting
+T9	HMM 1590 1617	3-yr survival and median OS

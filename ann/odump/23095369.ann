@@ -1,0 +1,7 @@
+T1	HMM 59 78	ovulation induction
+T2	HMM 1191 1210	ovulation induction
+T3	HMM 1226 1234	follicle
+T4	HMM 1241 1273	mm, pre-ovulatory estradiol (E 2
+T5	HMM 1290 1326	and mid-luteal phase progesterone (P
+T6	HMM 1374 1468	included E 2 levels/follicle at mid-cycle, number of follicles at mid-cycle and pregnancy rate
+T7	HMM 1835 1869	FSH-induced follicular development

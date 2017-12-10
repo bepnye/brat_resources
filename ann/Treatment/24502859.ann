@@ -1,0 +1,9 @@
+T1	Treatment 71 83	aripiprazole
+T2	Treatment 248 260	aripiprazole
+T3	Treatment 268 275	placebo
+T4	Treatment 431 449	placebo-controlled
+T5	Treatment 858 870	aripiprazole
+T6	Treatment 1195 1237	continue aripiprazole or switch to placebo
+T7	Treatment 1449 1481	between aripiprazole and placebo
+T8	Treatment 1600 1611	for placebo
+T9	Treatment 2040 2072	between aripiprazole and placebo

@@ -1,0 +1,4 @@
+T1	HMM 0 14	Injection pain
+T2	HMM 182 186	pain
+T3	HMM 473 499	reducing pain on injection
+T4	HMM 572 581	effective

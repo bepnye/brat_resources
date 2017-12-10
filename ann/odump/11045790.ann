@@ -1,0 +1,9 @@
+T1	HMM 738 771	abnormal cytological examinations
+T2	HMM 858 896	proportion of DNA aneuploid histograms
+T3	HMM 1081 1099	response biomarker
+T4	HMM 1195 1219	Recurrence-free survival
+T5	HMM 1391 1408	dark adaptability
+T6	HMM 1482 1514	mild dermatological alterations.
+T7	HMM 1579 1599	content distribution
+T8	HMM 1608 1638	morphology of urothelial cells
+T9	HMM 1676 1700	Recurrence-free survival

@@ -1,0 +1,8 @@
+T1	HMM 26 32	effect
+T2	HMM 151 175	clinical curative effect
+T3	HMM 366 380	nerve function
+T4	HMM 599 631	treatment, nerve function defect
+T5	HMM 731 756	Treatment effective rates
+T6	HMM 852 919	reduce the GBS patients' blood immunoglobulin IgG, IgA, IgM, C3 and
+T7	HMM 992 998	group.
+T8	HMM 999 1006	Fib and

@@ -1,0 +1,7 @@
+T1	HMM 0 38	Absence of cervical radiation myelitis
+T2	HMM 243 280	risk of developing radiation myelitis
+T3	HMM 1039 1067	cervical radiation myelitis.
+T4	HMM 1131 1163	potentially contributing factors
+T5	HMM 1171 1203	occurrence of radiation myelitis
+T6	HMM 1213 1288	interfraction interval, cord length, and administration of concurrent CDDP.
+T7	HMM 1500 1548	risks of developing cervical radiation myelitis.

@@ -1,0 +1,19 @@
+Adenocarcinoma
+Adolescent
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Cisplatin
+Deoxycytidine
+Disease-Free Survival
+Drug Administration Schedule
+Female
+Fluorouracil
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Neoplasm Staging
+Pancreatic Neoplasms
+Survival Rate
+Young Adult

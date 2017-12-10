@@ -1,0 +1,12 @@
+T1	HMM 53 72	nonaccidental falls
+T2	HMM 183 188	falls
+T3	HMM 432 437	falls
+T4	HMM 603 623	non-accidental fall.
+T5	HMM 762 807	number of falls during one year of follow-up.
+T6	HMM 954 991	Falls (without loss of consciousness)
+T7	HMM 1186 1190	fall
+T8	HMM 1266 1281	Syncopal events
+T9	HMM 1355 1370	syncopal events
+T10	HMM 1376 1384	falls-28
+T11	HMM 1432 1448	Injurious events
+T12	HMM 1571 1585	non-accidental

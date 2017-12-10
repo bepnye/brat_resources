@@ -1,0 +1,10 @@
+T1	HMM 138 158	occupational asthma.
+T2	HMM 235 267	enhances allergic sensitization.
+T3	HMM 405 424	severity of asthma.
+T4	HMM 530 553	Specific IgE against FA
+T5	HMM 617 630	questionnaire
+T6	HMM 656 751	clinical features of their asthma, their living conditions, and symptoms of mucosal irritation.
+T7	HMM 790 805	FA-specific IgE
+T8	HMM 951 1008	severe asthma and frequent symptoms of mucosal irritation
+T9	HMM 1028 1085	mild asthma and only rare symptoms of mucosal irritation.
+T10	HMM 1116 1133	IgE sensitization

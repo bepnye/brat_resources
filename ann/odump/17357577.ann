@@ -1,0 +1,9 @@
+T1	HMM 638 740	mastalgia, mammary tension, presence of nodules, nipple secretion, and the presence of adverse events.
+T2	HMM 813 823	Mastodinia
+T3	HMM 946 955	Mastalgia
+T4	HMM 1050 1061	Galactorrea
+T5	HMM 1142 1149	nodules
+T6	HMM 1245 1281	Ultrasound evaluation of the nodules
+T7	HMM 1340 1356	Prolactin levels
+T8	HMM 1551 1577	presence of adverse events
+T9	HMM 1665 1692	fribrocystic breast disease

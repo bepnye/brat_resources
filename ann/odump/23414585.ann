@@ -1,0 +1,15 @@
+T1	HMM 290 308	cell proliferation
+T2	HMM 313 322	survival.
+T3	HMM 397 405	efficacy
+T4	HMM 410 416	safety
+T5	HMM 1226 1258	median progression-free survival
+T6	HMM 1309 1325	overall survival
+T7	HMM 1537 1569	Median progression-free survival
+T8	HMM 1751 1752	.
+T9	HMM 1753 1769	However, overall
+T10	HMM 1992 2027	grade 3 or higher adverse event was
+T11	HMM 2126 2140	placebo group.
+T12	HMM 2141 2155	Hyperglycaemia
+T13	HMM 2297 2311	placebo group.
+T14	HMM 2312 2327	Serious adverse
+T15	HMM 2616 2631	did not improve

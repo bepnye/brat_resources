@@ -1,0 +1,12 @@
+T1	HMM 547 583	Complete ophthalmologic examinations
+T2	HMM 686 844	logarithm of minimum angle of resolution (logMAR) best-corrected visual acuity (BCVA), central macular thickness (CMT) shown by optical coherence tomography-3
+T3	HMM 869 899	Baseline BCVA (logMAR) and CMT
+T4	HMM 1096 1100	BCVA
+T5	HMM 1152 1155	CMT
+T6	HMM 1218 1222	BCVA
+T7	HMM 1266 1272	logMAR
+T8	HMM 1277 1280	CMT
+T9	HMM 1369 1373	BCVA
+T10	HMM 1384 1387	CMT
+T11	HMM 1481 1485	BCVA
+T12	HMM 1498 1501	CMT

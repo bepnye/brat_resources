@@ -1,0 +1,9 @@
+Adult
+Cholinesterase Inhibitors
+Female
+Humans
+Male
+Myasthenia Gravis
+Neuromuscular Nondepolarizing Agents
+Pyridostigmine Bromide
+Vecuronium Bromide

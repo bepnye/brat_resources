@@ -1,0 +1,8 @@
+T1	HMM 791 813	cellular immune status
+T2	HMM 832 860	quantitative flow cytometry.
+T3	HMM 935 975	absolute number of immunocompetent cells
+T4	HMM 1017 1030	T lymphocytes
+T5	HMM 1053 1072	helper/inducer type
+T6	HMM 1086 1121	cytotoxic and natural killer cells.
+T7	HMM 1164 1197	activation state of T lymphocytes
+T8	HMM 1215 1227	side effects

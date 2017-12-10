@@ -1,0 +1,19 @@
+T1	HMM 0 41	Pharmacokinetic-pharmacodynamic modelling
+T2	HMM 114 149	pharmacokinetic and pharmacodynamic
+T3	HMM 692 715	pharmacokinetic profile
+T4	HMM 783 806	concentration-time data
+T5	HMM 909 930	Plasma concentrations
+T6	HMM 1214 1245	typical pharmacokinetic profile
+T7	HMM 1371 1400	pharmacodynamic relationships
+T8	HMM 1434 1466	bilastine plasma concentrations.
+T9	HMM 1495 1546	concentration that produced 50% inhibition (IC(50))
+T10	HMM 1635 1656	plasma concentrations
+T11	HMM 1977 2003	plasma peak concentrations
+T12	HMM 2061 2077	maximal response
+T13	HMM 2272 2314	inhibitory bilastine plasma concentrations
+T14	HMM 2333 2356	input response function
+T15	HMM 2554 2629	apparent zero-order rate constant for flare or wheal spontaneous appearance
+T16	HMM 2643 2701	first-order rate constant for flare or wheal disappearance
+T17	HMM 2715 2738	bilastine IC(50) values
+T18	HMM 2992 3023	bilastine plasma concentrations
+T19	HMM 3191 3212	plasma concentrations

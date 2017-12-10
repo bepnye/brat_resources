@@ -1,0 +1,6 @@
+T1	HMM 167 185	duration of labour
+T2	HMM 217 235	need for analgesia
+T3	HMM 264 302	incidence of fetal heart abnormalities
+T4	HMM 376 388	Apgar scores
+T5	HMM 514 548	augmentations with oxytocic drugs.
+T6	HMM 606 622	third stage loss

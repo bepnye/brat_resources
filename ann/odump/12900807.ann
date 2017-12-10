@@ -1,0 +1,8 @@
+T1	HMM 851 888	Proteinuria and urinary NAG excretion
+T2	HMM 1091 1142	urinary protein excretion and NAG-creatinine ratios
+T3	HMM 1308 1345	proteinuria and urinary NAG excretion
+T4	HMM 1415 1436	urinary NAG excretion
+T5	HMM 1471 1485	duration of DM
+T6	HMM 1512 1523	proteinuria
+T7	HMM 1558 1579	Urinary NAG excretion
+T8	HMM 1738 1775	proteinuria and urinary NAG excretion

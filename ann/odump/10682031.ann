@@ -1,0 +1,5 @@
+T1	HMM 147 178	renal and respiratory tolerance
+T2	HMM 724 754	Respiratory tolerance was good
+T3	HMM 780 802	No acute renal failure
+T4	HMM 874 883	extubated
+T5	HMM 959 963	died

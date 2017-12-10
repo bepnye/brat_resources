@@ -1,0 +1,16 @@
+T1	HMM 299 363	hepatic, renal functions, haemodynamics and perioperative course
+T2	HMM 535 573	End tidal D or S adjusted with Entropy
+T3	HMM 583 672	Haemodynamics monitored with invasive blood pressure and trans-oesophageal Doppler (TED).
+T4	HMM 673 794	Liver and kidney function tests, blood Glutathione-S-transferase (GST), urinary microalbuminuria (Microalb) were assayed.
+T5	HMM 795 853	Extubation time and anaesthetic consumption were recorded.
+T6	HMM 862 929	Systemic vascular resistance (SVR) post-resection and stroke volume
+T7	HMM 1054 1067	respectively.
+T8	HMM 1068 1101	Doppler corrected flow time (FTc)
+T9	HMM 1176 1233	regarding hepatic and renal functions, and urine Microalb
+T10	HMM 1320 1330	found with
+T11	HMM 1424 1446	a higher D consumption
+T12	HMM 1473 1501	P = 0.102), cost in Egyptian
+T13	HMM 1569 1583	LE, P < 0.01).
+T14	HMM 1584 1599	Extubation time
+T15	HMM 1788 1821	with respect to liver and kidneys
+T16	HMM 1852 1907	preserve better the haemodynamic parameters and enhance

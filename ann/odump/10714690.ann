@@ -1,0 +1,3 @@
+T1	HMM 767 809	Blood pressure, heart rate, and pupil size
+T2	HMM 896 989	differences in pupil size or blood pressure (systolic, diastolic, or mean arterial pressures)
+T3	HMM 1021 1032	Pulse rates

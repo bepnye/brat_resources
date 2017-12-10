@@ -1,0 +1,12 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Breast Neoplasms
+Cyclophosphamide
+Doxorubicin
+Epirubicin
+Female
+Fluorouracil
+Humans
+Middle Aged
+Neoplasm Metastasis

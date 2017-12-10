@@ -1,0 +1,13 @@
+T1	HMM 63 69	miosis
+T2	HMM 230 239	mydriasis
+T3	HMM 274 301	postoperative inflammation.
+T4	HMM 617 635	Pupillary diameter
+T5	HMM 685 705	Inflammatory indices
+T6	HMM 808 830	decrease in pupil size
+T7	HMM 1084 1106	anterior chamber cells
+T8	HMM 1111 1129	redness in the eye
+T9	HMM 1196 1218	anterior chamber flare
+T10	HMM 1316 1320	pain
+T11	HMM 1414 1435	maintaining mydriasis
+T12	HMM 1470 1488	postoperative pain
+T13	HMM 1493 1515	anterior chamber flare

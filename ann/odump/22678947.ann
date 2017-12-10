@@ -1,0 +1,12 @@
+T1	HMM 252 264	memory loss.
+T2	HMM 298 306	efficacy
+T3	HMM 363 390	memory support system (MSS)
+T4	HMM 592 663	Measures of adherence, activities of daily living, and emotional impact
+T5	HMM 853 862	adherence
+T6	HMM 918 961	Functional ability and memory self-efficacy
+T7	HMM 1022 1050	Change in functional ability
+T8	HMM 1220 1224	mood
+T9	HMM 1304 1320	caregiver burden
+T10	HMM 1413 1473	activities of daily living and sense of memory self-efficacy
+T11	HMM 1689 1702	Improved mood
+T12	HMM 1747 1782	worsening sense of caregiver burden

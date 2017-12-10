@@ -1,0 +1,13 @@
+T1	HMM 0 6	Safety
+T2	HMM 550 556	safety
+T3	HMM 1049 1099	adverse events, laboratory tests, and vital signs.
+T4	HMM 1262 1276	adverse events
+T5	HMM 1382 1417	incidence of related adverse events
+T6	HMM 1491 1505	adverse events
+T7	HMM 1536 1544	symptoms
+T8	HMM 1560 1636	injection/infusion site, dizziness, pruritus, headache, fatigue, and nausea.
+T9	HMM 1637 1659	Serious adverse events
+T10	HMM 1747 1777	Serious related adverse events
+T11	HMM 1870 1884	blood pressure
+T12	HMM 2026 2035	tolerated
+T13	HMM 2046 2060	safety profile

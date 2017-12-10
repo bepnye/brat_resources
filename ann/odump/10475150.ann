@@ -1,0 +1,12 @@
+T1	HMM 59 78	melatonin secretion
+T2	HMM 282 302	melatonin secretion.
+T3	HMM 352 371	melatonin secretion
+T4	HMM 430 459	nocturnal melatonin secretion
+T5	HMM 836 855	melatonin secretion
+T6	HMM 927 957	urinary excretion of melatonin
+T7	HMM 1024 1036	GH secretion
+T8	HMM 1264 1293	nocturnal melatonin secretion
+T9	HMM 1324 1354	Urinary excretion of melatonin
+T10	HMM 1387 1400	GH secretion.
+T11	HMM 1405 1437	total nocturnal secretion of TSH
+T12	HMM 1807 1861	nocturnal secretion and urinary excretion of melatonin

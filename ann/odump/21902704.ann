@@ -1,0 +1,6 @@
+T1	HMM 0 7	Effects
+T2	HMM 205 209	pain
+T3	HMM 925 934	prepared.
+T4	HMM 935 1050	The intensity of pain was scored based on 10-point VAS before and after treatment for up to 24 h postoperatively.
+T5	HMM 1051 1091	Data were submitted to repeated analysis
+T6	HMM 1172 1201	administration, the intensity

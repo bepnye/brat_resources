@@ -1,0 +1,9 @@
+T1	Treatment 23 126	concurrent gemcitabine and cisplatin with or without sequential chemotherapy with gemcitabine/cisplatin
+T2	Treatment 130 178	chemoradiotherapy with concurrent 5-fluorouracil
+T3	Treatment 572 584	radiotherapy
+T4	Treatment 628 642	5-fluorouracil
+T5	Treatment 680 692	radiotherapy
+T6	Treatment 708 730	concurrent gemcitabine
+T7	Treatment 751 760	cisplatin
+T8	Treatment 820 890	same concurrent treatment followed by sequential full-dose gemcitabine
+T9	Treatment 911 920	cisplatin

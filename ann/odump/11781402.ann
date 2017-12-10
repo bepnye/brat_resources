@@ -1,0 +1,10 @@
+T1	HMM 181 200	MRI-evident lesions
+T2	HMM 888 920	Scoring of neurologic disability
+T3	HMM 1010 1050	number of new active MRI-evident lesions
+T4	HMM 1108 1150	other MRI measures and clinical endpoints.
+T5	HMM 1178 1196	new active lesions
+T6	HMM 1559 1577	new active lesions
+T7	HMM 1683 1697	active lesions
+T8	HMM 1874 1888	active lesions
+T9	HMM 2183 2213	new active MRI-evident lesions
+T10	HMM 2266 2285	new active lesions.

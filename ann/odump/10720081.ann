@@ -1,0 +1,9 @@
+T1	HMM 0 29	Growth hormone (GH) responses
+T2	HMM 1477 1655	hypothalamic-pituitary-adrenal axis [urinary free cortisol (UFC) excretion, serum cortisol at 0800 h, plasma ACTH at 0800 h, morning cortisol after overnight 1 mg dexamethasone].
+T3	HMM 1683 1739	abnormalities of the hypothalamic-pituitary-adrenal axis
+T4	HMM 1751 1788	borderline or increased UFC excretion
+T5	HMM 2172 2215	UFC excretion and lower ACTH concentrations
+T6	HMM 2235 2266	GH release after GHRH treatment
+T7	HMM 2569 2629	GH peaks after GHRH plus arginine and after GHRH plus saline
+T8	HMM 2952 2963	GH response
+T9	HMM 3000 3022	somatostatinergic tone

@@ -1,0 +1,12 @@
+T1	HMM 4 43	efficacy, safety and cost-effectiveness
+T2	HMM 608 618	percentage
+T3	HMM 622 639	patients who quit
+T4	HMM 684 702	cost-effectiveness
+T5	HMM 762 821	rate of symptom relief and the improvement of symptom score
+T6	HMM 883 912	weekly average number of days
+T7	HMM 1295 1299	quit
+T8	HMM 1360 1376	(P = 0.065).
+T9	HMM 1377 1395	Cost-effectiveness
+T10	HMM 1552 1575	achieved symptom relief
+T11	HMM 1616 1632	is a good option
+T12	HMM 1679 1721	its cost-effectiveness and speed of action

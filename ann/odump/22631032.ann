@@ -1,0 +1,14 @@
+T1	HMM 0 10	Evaluation
+T2	HMM 152 179	pharmacokinetic interaction
+T3	HMM 378 405	pharmacodynamic interaction
+T4	HMM 484 506	antiplatelet activity.
+T5	HMM 816 886	aspirin reactivity units (ARU, as measured by the VerifyNow ASA assay)
+T6	HMM 1193 1343	antiplatelet activity of ASA, as assessed by ARU ratio relative to baseline in the VerifyNow ASA assay; suppression of serum thromboxane B(2) (TXB(2))
+T7	HMM 1597 1609	achieved ARU
+T8	HMM 1668 1699	(baseline) platelet aggregation
+T9	HMM 1830 1853	of platelet aggregation
+T10	HMM 1953 1973	reduced serum TXB(2)
+T11	HMM 2019 2041	of serum TXB(2) levels
+T12	HMM 2141 2155	well tolerated
+T13	HMM 2168 2198	No pharmacodynamic interaction
+T14	HMM 2259 2279	to platelet function

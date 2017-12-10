@@ -1,0 +1,12 @@
+Adult
+Aged
+Cholesterol
+Female
+Hemostasis
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypertriglyceridemia
+Male
+Middle Aged
+Simvastatin
+Triglycerides

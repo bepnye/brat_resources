@@ -1,0 +1,13 @@
+Adult
+Aged
+Computers
+Diagnosis, Computer-Assisted
+Female
+Humans
+Male
+Middle Aged
+Osteoarthritis
+Pain Measurement
+Reproducibility of Results
+Severity of Illness Index
+Software

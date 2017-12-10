@@ -1,0 +1,7 @@
+T1	HMM 14 33	efficacy and safety
+T2	HMM 123 142	efficacy and safety
+T3	HMM 632 640	efficacy
+T4	HMM 777 808	terms of clinical success rates
+T5	HMM 1020 1039	clinical cure rates
+T6	HMM 1134 1173	Adverse events, mostly gastrointestinal
+T7	HMM 1582 1592	tolerated.

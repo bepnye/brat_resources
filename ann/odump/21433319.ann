@@ -1,0 +1,14 @@
+T1	HMM 55 63	efficacy
+T2	HMM 68 74	safety
+T3	HMM 180 188	efficacy
+T4	HMM 193 199	safety
+T5	HMM 479 499	symptoms progression
+T6	HMM 504 519	quality of life
+T7	HMM 540 573	questionnaires IPSS and QoL (BS).
+T8	HMM 614 625	PA symptoms
+T9	HMM 684 687	QoL
+T10	HMM 798 815	urinary flow rate
+T11	HMM 839 856	urinary flow rate
+T12	HMM 868 888	size of the prostate
+T13	HMM 944 947	PSA
+T14	HMM 1104 1117	side effects.

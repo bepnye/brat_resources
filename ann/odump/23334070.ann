@@ -1,0 +1,12 @@
+T1	HMM 830 844	well tolerated
+T2	HMM 853 891	drug-attributed serious adverse events
+T3	HMM 924 1009	were upper respiratory tract infection, headache, and back pain, all mild to moderate
+T4	HMM 1046 1078	a mild hypersensitivity reaction
+T5	HMM 1108 1173	demonstrated slight enlargement of a preexisting midbrain lesion.
+T6	HMM 1174 1231	Electrocardiography and laboratory values (including CSF)
+T7	HMM 1266 1326	new microhemorrhage, vasogenic edema, or meningoencephalitis
+T8	HMM 1425 1477	the area under the plasma concentration-time profile
+T9	HMM 1582 1583	.
+T10	HMM 1584 1607	Mean terminal half-life
+T11	HMM 1663 1702	measurable CSF ponezumab concentrations
+T12	HMM 1797 1809	and mean CSF

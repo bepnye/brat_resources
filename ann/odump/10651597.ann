@@ -1,0 +1,11 @@
+T1	HMM 308 318	disability
+T2	HMM 1333 1495	Distance walked in 6 minutes and sum of the function, pain, and stiffness subscores of the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC).
+T3	HMM 1714 1752	6-minute walk distance and WOMAC score
+T4	HMM 1856 1879	6-minute walk distances
+T5	HMM 1906 1918	WOMAC scores
+T6	HMM 2064 2092	distance walked in 6 minutes
+T7	HMM 2226 2238	WOMAC scores
+T8	HMM 2383 2426	baseline WOMAC scores and walking distance;
+T9	HMM 2520 2538	knee arthroplasty.
+T10	HMM 2623 2642	functional benefits
+T11	HMM 2726 2748	surgical intervention.

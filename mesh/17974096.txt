@@ -1,0 +1,20 @@
+Acute Disease
+Adolescent
+Adult
+Aged
+Glycine
+Humans
+Interleukin-8
+Leukocyte Elastase
+Leukocytes
+Middle Aged
+Oxygen
+Pulmonary Circulation
+Pulmonary Surfactant-Associated Protein D
+Respiration, Artificial
+Serine Proteinase Inhibitors
+Sulfonamides
+Survival Analysis
+Systemic Inflammatory Response Syndrome
+Treatment Outcome
+Tumor Necrosis Factor-alpha

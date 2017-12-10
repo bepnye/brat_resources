@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Agents
+Benzamides
+Dose-Response Relationship, Drug
+Female
+Humans
+Leukemia, Myeloid, Chronic-Phase
+Male
+Middle Aged
+Piperazines
+Protein Kinase Inhibitors
+Protein-Tyrosine Kinases
+Pyrimidines
+Treatment Outcome
+Young Adult

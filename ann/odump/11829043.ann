@@ -1,0 +1,11 @@
+T1	HMM 21 27	effect
+T2	HMM 190 243	anxiety level and self-reported quality of life (QoL)
+T3	HMM 641 843	Chinese State-Trait Anxiety Inventory (C-STAI), the Quality of Life Index for Colostomy (QoL-Colostomy) and the Hong Kong Chinese version of the World Health Organisation Quality of Life Scale (WHOQoL).
+T4	HMM 912 924	C-STAI score
+T5	HMM 954 966	WHOQoL score
+T6	HMM 1036 1042	WHOQoL
+T7	HMM 1082 1110	physical health/independence
+T8	HMM 1115 1140	general perception of QoL
+T9	HMM 1212 1225	QoL-Colostomy
+T10	HMM 1372 1387	quality of life
+T11	HMM 1401 1414	state anxiety

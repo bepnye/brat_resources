@@ -1,0 +1,4 @@
+T1	HMM 704 836	analgetics, lung function, operation duration, amount of insufflated gas, intraperitoneal pH-values and post-operative complications
+T2	HMM 1042 1086	pH-value or different insufflation pressures
+T3	HMM 1333 1347	pains increase
+T4	HMM 1421 1426	pains

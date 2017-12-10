@@ -1,0 +1,14 @@
+T1	Intervention 55 67	radiotherapy
+T2	Intervention 72 98	trans-oral robotic surgery
+T3	Intervention 358 383	Primary radiotherapy (RT)
+T4	Intervention 480 503	concurrent chemotherapy
+T5	Intervention 608 640	Transoral robotic surgery (TORS)
+T6	Intervention 1033 1046	chemotherapy)
+T7	Intervention 1051 1079	TORS (± adjuvant [chemo] RT)
+T8	Intervention 1443 1461	RT ± chemotherapy)
+T9	Intervention 1473 1499	TORS ± adjuvant [chemo] RT
+T10	Intervention 1550 1552	RT
+T11	Intervention 1595 1621	concurrent chemoradiation.
+T12	Intervention 1654 1658	TORS
+T13	Intervention 1670 1697	selective neck dissections,
+T14	Intervention 1795 1834	adjuvant radiotherapy +/- chemotherapy.

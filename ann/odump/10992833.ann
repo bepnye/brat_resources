@@ -1,0 +1,12 @@
+T1	HMM 0 54	Onset/offset characteristics and intubating conditions
+T2	HMM 115 176	onset and offset of action and tracheal intubating conditions
+T3	HMM 629 653	Neuromuscular monitoring
+T4	HMM 733 742	lag times
+T5	HMM 778 791	maximum block
+T6	HMM 818 847	intubating conditions at 60 s
+T7	HMM 959 969	onset time
+T8	HMM 1058 1081	degree of block at 60 s
+T9	HMM 1148 1156	recovery
+T10	HMM 1393 1398	onset
+T11	HMM 1408 1429	intubating conditions
+T12	HMM 1443 1457	recovery times

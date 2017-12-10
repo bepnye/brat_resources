@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Agents
+BCG Vaccine
+Central Nervous System Diseases
+Clinical Trials as Topic
+Drug Therapy, Combination
+Female
+Humans
+Leukemia, Myeloid, Acute
+Male
+Middle Aged
+Remission, Spontaneous
+Time Factors

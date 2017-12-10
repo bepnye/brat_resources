@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Aged
+Confidentiality
+Emergency Service, Hospital
+Female
+Humans
+Male
+Middle Aged
+Patient Admission
+Patient Satisfaction
+Privacy
+Questionnaires
+Wales

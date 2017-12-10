@@ -1,0 +1,8 @@
+T1	HMM 196 240	skeletal muscle total creatine (TCr) content
+T2	HMM 245 289	creatine transporter (CreaT) gene expression
+T3	HMM 604 620	Basal muscle TCr
+T4	HMM 677 687	Muscle TCr
+T5	HMM 819 840	CreaT gene expression
+T6	HMM 924 942	muscle TCr content
+T7	HMM 960 968	capacity
+T8	HMM 1007 1035	Muscle CreaT gene expression

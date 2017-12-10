@@ -1,0 +1,11 @@
+T1	HMM 591 600	tolerated
+T2	HMM 654 703	correlation of plasma drug levels with inhibition
+T3	HMM 804 813	CETP mass
+T4	HMM 873 888	CETP inhibition
+T5	HMM 967 991	Total plasma cholesterol
+T6	HMM 1047 1055	nonHDL-C
+T7	HMM 1092 1127	low-density lipoprotein cholesterol
+T8	HMM 1149 1173	Apolipoprotein A-I and E
+T9	HMM 1219 1223	apoB
+T10	HMM 1265 1290	Cholesteryl ester content
+T11	HMM 1305 1317	triglyceride

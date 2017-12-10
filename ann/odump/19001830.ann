@@ -1,0 +1,17 @@
+T1	HMM 27 78	bone remodeling and coronary calcification--results
+T2	HMM 205 227	vascular calcification
+T3	HMM 344 366	coronary calcification
+T4	HMM 377 392	bone histology.
+T5	HMM 702 728	intact parathyroid hormone
+T6	HMM 777 802	bone alkaline phosphatase
+T7	HMM 847 864	deoxypyridinoline
+T8	HMM 914 935	lower LDL cholesterol
+T9	HMM 980 990	Phosphorus
+T10	HMM 1039 1046	calcium
+T11	HMM 1098 1104	levels
+T12	HMM 1136 1151	CAC progression
+T13	HMM 1179 1206	bone histological diagnosis
+T14	HMM 1346 1361	bone resorption
+T15	HMM 1513 1532	bone formation rate
+T16	HMM 1732 1747	CAC progression
+T17	HMM 1762 1777	bone remodeling

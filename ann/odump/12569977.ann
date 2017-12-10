@@ -1,0 +1,6 @@
+T1	HMM 1172 1301	Blood and sputum eosinophils and serum levels of eosinophil cationic protein (ECP) and intercellular adhesion molecule-1 (ICAM-1)
+T2	HMM 1465 1482	FEV1 and Mth-PD20
+T3	HMM 1503 1511	Mth-DRS.
+T4	HMM 1516 1564	number of patients presenting a level of plateau
+T5	HMM 1707 1723	serum ECP levels
+T6	HMM 1875 1930	Mth-DRS values, sputum eosinophils and serum ECP levels

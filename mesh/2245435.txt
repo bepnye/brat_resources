@@ -1,0 +1,18 @@
+Adult
+Aged
+Anticholesteremic Agents
+Cholesterol
+Female
+Gemfibrozil
+Humans
+Hydrochlorothiazide
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypercholesterolemia
+Hypertension
+Lipoproteins, HDL
+Lipoproteins, LDL
+Lovastatin
+Male
+Middle Aged
+Simvastatin
+Triglycerides

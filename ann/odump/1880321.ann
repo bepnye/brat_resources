@@ -1,0 +1,9 @@
+T1	HMM 136 156	steroid requirements
+T2	HMM 491 562	Symptom scores, peak flow rates, spirometry, and beta-agonist frequency
+T3	HMM 789 814	daily steroid requirement
+T4	HMM 835 864	Symptom scores and spirometry
+T5	HMM 955 977	Complications from MTX
+T6	HMM 1001 1036	anorexia, alopecia, and stomatitis.
+T7	HMM 1041 1054	complications
+T8	HMM 1238 1257	steroid requirement
+T9	HMM 1320 1352	reduction in steroid requirement

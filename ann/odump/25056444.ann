@@ -1,0 +1,12 @@
+T1	HMM 64 74	analgesia.
+T2	HMM 109 123	pain reduction
+T3	HMM 218 228	analgesia.
+T4	HMM 308 325	placebo analgesia
+T5	HMM 467 471	pain
+T6	HMM 835 839	pain
+T7	HMM 948 952	pain
+T8	HMM 978 1004	McGill Pain Questionnaire.
+T9	HMM 1142 1151	less pain
+T10	HMM 1282 1291	with pain
+T11	HMM 1328 1354	difference in pain reports
+T12	HMM 1490 1512	the experience of pain

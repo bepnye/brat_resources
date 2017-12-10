@@ -1,0 +1,11 @@
+T1	Outcomes 0 14	Therapy effect
+T2	Outcomes 337 348	TP53 status
+T3	Outcomes 516 527	TP53 status
+T4	Outcomes 695 711	Therapy response
+T5	Outcomes 802 824	positive response rate
+T6	Outcomes 974 995	relapse-free survival
+T7	Outcomes 1116 1154	sequence alterations in the TP53 gene.
+T8	Outcomes 1160 1181	relapse-free survival
+T9	Outcomes 1218 1234	TP53 alterations
+T10	Outcomes 1463 1481	TP53 tumour status
+T11	Outcomes 1486 1495	prognosis

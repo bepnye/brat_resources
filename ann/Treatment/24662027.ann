@@ -1,0 +1,15 @@
+T1	Treatment 0 54	Pegylated feline granulocyte colony-stimulating factor
+T2	Treatment 146 191	granulocyte-colony stimulating factor (G-CSF)
+T3	Treatment 196 245	off-label use of commercial human G-CSF (HuG-CSF)
+T4	Treatment 319 336	HuG-CSF treatment
+T5	Treatment 582 592	PegFeG-CSF
+T6	Treatment 605 623	FeG-CSF or HuG-CSF
+T7	Treatment 737 744	FeG-CSF
+T8	Treatment 793 800	HuG-CSF
+T9	Treatment 864 877	of PegFeG-CSF
+T10	Treatment 967 978	of FeG-CSF.
+T11	Treatment 979 989	PegFeG-CSF
+T12	Treatment 1178 1197	all HuG-CSF-treated
+T13	Treatment 1359 1374	when PegFeG-CSF
+T14	Treatment 1399 1419	with HuG-CSF-induced
+T15	Treatment 1480 1496	Thus, PegFeG-CSF

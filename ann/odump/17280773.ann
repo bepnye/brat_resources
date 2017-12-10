@@ -1,0 +1,10 @@
+T1	HMM 112 128	efficacy, safety
+T2	HMM 144 160	quality of sleep
+T3	HMM 926 951	number of nocturnal voids
+T4	HMM 1066 1096	mean number of nocturnal voids
+T5	HMM 1193 1227	duration of the first sleep period
+T6	HMM 1304 1320	Quality of sleep
+T7	HMM 1441 1455	Adverse events
+T8	HMM 1552 1561	treatment
+T9	HMM 1599 1626	nocturnal voiding frequency
+T10	HMM 1692 1705	sleep quality

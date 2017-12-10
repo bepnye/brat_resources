@@ -1,0 +1,13 @@
+T1	HMM 405 448	higher levels of biomarkers of inflammation
+T2	HMM 453 467	myocyte injury
+T3	HMM 694 785	B-type natriuretic peptide (BNP), C-reactive protein (CRP), and tumor necrosis factor (TNF)
+T4	HMM 836 848	Endothelin-1
+T5	HMM 1092 1095	BNP
+T6	HMM 1204 1207	CRP
+T7	HMM 1319 1339	apparent temperature
+T8	HMM 1458 1468	higher BNP
+T9	HMM 1515 1535	apparent temperature
+T10	HMM 1599 1602	CRP
+T11	HMM 1626 1650	with TNF or endothelin-1
+T12	HMM 1767 1786	between temperature
+T13	HMM 1791 1858	both BNP and CRP-predictors of heart failure prognosis and severity

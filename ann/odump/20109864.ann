@@ -1,0 +1,6 @@
+T1	HMM 1335 1399	time to first recurrence of VT or ventricular fibrillation (VF).
+T2	HMM 1843 1873	Time to recurrence of VT or VF
+T3	HMM 2063 2071	survival
+T4	HMM 2082 2090	VT or VF
+T5	HMM 2273 2282	no deaths
+T6	HMM 2470 2474	died

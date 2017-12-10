@@ -1,0 +1,11 @@
+T1	Intervention 178 209	Time in therapeutic range (TTR)
+T2	Intervention 214 250	international normalized ratio (INR)
+T3	Intervention 602 617	anticoagulation
+T4	Intervention 882 888	stroke
+T5	Intervention 922 930	bleeding
+T6	Intervention 997 1000	TTR
+T7	Intervention 1009 1015	stroke
+T8	Intervention 1145 1151	stroke
+T9	Intervention 1318 1326	bleeding
+T10	Intervention 1424 1427	TTR
+T11	Intervention 1551 1555	TTR,

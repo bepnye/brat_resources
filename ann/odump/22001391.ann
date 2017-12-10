@@ -1,0 +1,4 @@
+T1	HMM 742 751	toxicity.
+T2	HMM 752 760	Total CR
+T3	HMM 890 898	response
+T4	HMM 992 1027	that AMLs with a RASGRP1/APTX ratio

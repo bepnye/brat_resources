@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Antineoplastic Combined Chemotherapy Protocols
+Bone Neoplasms
+Child
+Child, Preschool
+Cisplatin
+Disease-Free Survival
+Doxorubicin
+Female
+Humans
+Ifosfamide
+Infant
+Lung Neoplasms
+Male
+Methotrexate
+Neoplasm Recurrence, Local
+Osteosarcoma
+Survival Rate

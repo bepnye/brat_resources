@@ -1,0 +1,29 @@
+Administration, Cutaneous
+Administration, Oral
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Anti-Bacterial Agents
+Bicyclo Compounds, Heterocyclic
+Cephalexin
+Child
+Child, Preschool
+Dermatitis
+Dermatitis, Atopic
+Double-Blind Method
+Female
+Follow-Up Studies
+Humans
+Infant
+Infant, Newborn
+Male
+Methicillin Resistance
+Middle Aged
+Ointments
+Skin Diseases, Infectious
+Staphylococcal Skin Infections
+Staphylococcus aureus
+Streptococcal Infections
+Streptococcus pyogenes
+Treatment Outcome

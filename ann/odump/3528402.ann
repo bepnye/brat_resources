@@ -1,0 +1,5 @@
+T1	HMM 275 293	objective response
+T2	HMM 356 383	median duration of response
+T3	HMM 531 554	Overall median survival
+T4	HMM 670 678	Toxicity
+T5	HMM 732 768	both treatments were well tolerated.

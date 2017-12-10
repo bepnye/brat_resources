@@ -1,0 +1,7 @@
+T1	HMM 430 449	psychotic symptoms.
+T2	HMM 514 537	extrapyramidal symptoms
+T3	HMM 604 632	neuroendocrinological effect
+T4	HMM 681 703	plasma prolactin level
+T5	HMM 737 759	plasma cortisol level.
+T6	HMM 914 944	chronic schizophrenic patients
+T7	HMM 967 994	extrapyramidal side effects

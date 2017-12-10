@@ -1,0 +1,16 @@
+T1	Treatment 29 94	paroxetine, pentoxifylline, riluzole, pramipexole and venlafaxine
+T2	Treatment 196 261	paroxetine, pentoxifylline, riluzole, venlafaxine and pramipexole
+T3	Treatment 356 374	placebo-controlled
+T4	Treatment 739 756	active medication
+T5	Treatment 760 767	placebo
+T6	Treatment 800 832	cognitive behavioral counseling.
+T7	Treatment 872 897	antidepressant paroxetine
+T8	Treatment 917 959	phosphodiesterase inhibitor pentoxifylline
+T9	Treatment 984 1020	glutamate release inhibitor riluzole
+T10	Treatment 1054 1080	antidepressant venlafaxine
+T11	Treatment 1104 1132	dopamine agonist pramipexole
+T12	Treatment 1609 1617	placebo.
+T13	Treatment 1675 1689	pentoxifylline
+T14	Treatment 1814 1828	pentoxyfylline
+T15	Treatment 2040 2047	placebo
+T16	Treatment 2245 2309	paroxetine, pentoxifylline, riluzole, venlafaxine or pramipexole

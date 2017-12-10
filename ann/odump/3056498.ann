@@ -1,0 +1,8 @@
+T1	HMM 90 113	climacteric complaints.
+T2	HMM 543 560	clinical efficacy
+T3	HMM 602 620	vasomotor symptoms
+T4	HMM 685 696	endometrium
+T5	HMM 725 734	biopsies.
+T6	HMM 735 761	Irregular uterine bleeding
+T7	HMM 1021 1043	climacteric complaints
+T8	HMM 1096 1113	clinical efficacy

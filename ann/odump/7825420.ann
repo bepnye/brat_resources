@@ -1,0 +1,8 @@
+T1	HMM 844 865	intraocular pressure.
+T2	HMM 882 913	mean daily intraocular pressure
+T3	HMM 1001 1032	mean daily intraocular pressure
+T4	HMM 1135 1148	Adverse event
+T5	HMM 1298 1312	adverse events
+T6	HMM 1371 1385	adverse events
+T7	HMM 1430 1437	burning
+T8	HMM 1480 1520	blurring of vision and light sensitivity

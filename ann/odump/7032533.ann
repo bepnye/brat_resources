@@ -1,0 +1,13 @@
+T1	HMM 398 417	blood triglycerides
+T2	HMM 470 487	blood cholesterol
+T3	HMM 592 621	pre-beta-lipoprotein fraction
+T4	HMM 805 825	platelet aggregation
+T5	HMM 983 1025	platelet adhesiveness nor aggregation rate
+T6	HMM 1035 1044	Tolerance
+T7	HMM 1116 1138	palpebral xanthelasmas
+T8	HMM 1231 1240	heartburn
+T9	HMM 1301 1316	urticarial rash
+T10	HMM 1480 1524	renal, hepatic or hematological malfunctions
+T11	HMM 1594 1610	GOT, GPT and LDH
+T12	HMM 1721 1749	type IV hyperlipoproteinemia
+T13	HMM 1801 1820	thromboembolic risk

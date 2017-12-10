@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Aged
+Clavicle
+Disability Evaluation
+Female
+Fracture Fixation, Intramedullary
+Fracture Healing
+Fractures, Bone
+Fractures, Ununited
+Humans
+Male
+Middle Aged
+Orthotic Devices
+Patient Satisfaction
+Postoperative Complications
+Treatment Outcome
+Young Adult

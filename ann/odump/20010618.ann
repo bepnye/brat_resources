@@ -1,0 +1,7 @@
+T1	HMM 788 808	less titration steps
+T2	HMM 945 952	BP goal
+T3	HMM 1126 1142	BP control rates
+T4	HMM 1155 1199	reductions in both systolic and diastolic BP
+T5	HMM 1378 1394	drug-related AEs
+T6	HMM 1659 1686	early, improved BP efficacy
+T7	HMM 1700 1712	tolerability

@@ -1,0 +1,9 @@
+T1	HMM 79 108	electrocardiographic effects.
+T2	HMM 507 529	cardiac safety profile
+T3	HMM 1253 1285	prolongation of the QTc interval
+T4	HMM 1337 1393	frequency of overall electrocardiographic abnormalities.
+T5	HMM 1397 1440	ventricular or supraventricular tachycardia
+T6	HMM 1466 1494	electrocardiographic results
+T7	HMM 1609 1630	plasma concentrations
+T8	HMM 1786 1814	electrocardiographic effects
+T9	HMM 1858 1875	cardiac function.

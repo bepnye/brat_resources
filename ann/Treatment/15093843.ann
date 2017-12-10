@@ -1,0 +1,14 @@
+T1	Treatment 0 28	Calcium chloride before i.v.
+T2	Treatment 29 38	diltiazem
+T3	Treatment 82 91	Diltiazem
+T4	Treatment 278 295	diltiazem-induced
+T5	Treatment 537 563	calcium chloride (CaCl(2))
+T6	Treatment 638 647	diltiazem
+T7	Treatment 872 879	CaCl(2)
+T8	Treatment 919 927	placebo.
+T9	Treatment 960 969	diltiazem
+T10	Treatment 1046 1053	placebo
+T11	Treatment 1058 1067	diltiazem
+T12	Treatment 1148 1155	placebo
+T13	Treatment 1707 1714	CaCl(2)
+T14	Treatment 1736 1745	diltiazem

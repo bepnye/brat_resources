@@ -1,0 +1,11 @@
+T1	HMM 435 450	calorific value
+T2	HMM 639 660	total ultrafiltration
+T3	HMM 835 856	equal ultrafiltration
+T4	HMM 893 929	Equilibration of creatinine and urea
+T5	HMM 945 965	creatinine clearance
+T6	HMM 1091 1112	Blood glycerol levels
+T7	HMM 1399 1409	haemolysis
+T8	HMM 1419 1431	toxic effect
+T9	HMM 1466 1491	blood glucose and insulin
+T10	HMM 1569 1667	Circulating levels of lactate, pyruvate, alanine, non-esterified fatty acids and the ketone bodies
+T11	HMM 1844 1868	circulating lipid levels

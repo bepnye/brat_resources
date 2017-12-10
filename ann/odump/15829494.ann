@@ -1,0 +1,10 @@
+T1	HMM 471 497	antitumor activity of TMZ.
+T2	HMM 1062 1077	Tumor responses
+T3	HMM 1187 1219	median time to progression (TTP)
+T4	HMM 1273 1301	median overall survival (OS)
+T5	HMM 1399 1435	objective response rates, TTP and OS
+T6	HMM 1521 1619	anemia, leukopenia, neutropenia, thrombocytopenia, fatigue, constipation and arthralgias/myalgias.
+T7	HMM 1649 1669	grade 3 and 4 emesis
+T8	HMM 1706 1722	No clear benefit
+T9	HMM 1735 1761	response rates, median TTP
+T10	HMM 1884 1905	grade 3 and 4 emesis.

@@ -1,0 +1,19 @@
+Adult
+Chorionic Gonadotropin
+Estradiol
+Female
+Fertility Agents, Female
+Humans
+Infertility
+Infertility, Female
+Insemination, Artificial
+Male
+Menotropins
+Oogenesis
+Organ Size
+Ovarian Follicle
+Ovulation Induction
+Pregnancy
+Pregnancy Rate
+Therapeutic Equivalency
+Young Adult

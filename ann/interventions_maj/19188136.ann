@@ -1,0 +1,10 @@
+T1	Intervention 54 86	carboplatin/paclitaxel/cetuximab
+T2	Intervention 210 219	cetuximab
+T3	Intervention 261 283	paclitaxel/carboplatin
+T4	Intervention 442 451	cetuximab
+T5	Intervention 505 515	paclitaxel
+T6	Intervention 529 549	mg/m(2))/carboplatin
+T7	Intervention 592 601	cetuximab
+T8	Intervention 615 625	paclitaxel
+T9	Intervention 676 687	carboplatin
+T10	Intervention 865 874	cetuximab

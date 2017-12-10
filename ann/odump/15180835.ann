@@ -1,0 +1,5 @@
+T1	HMM 68 92	prethreshold retinopathy
+T2	HMM 200 245	prethreshold retinopathy of prematurity (ROP)
+T3	HMM 744 765	Regression of the ROP
+T4	HMM 821 838	Regression of ROP
+T5	HMM 932 935	ROP

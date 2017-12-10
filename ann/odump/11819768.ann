@@ -1,0 +1,5 @@
+T1	HMM 230 244	gastric cancer
+T2	HMM 817 901	gastric cancer, precancerous lesions (dysplasia, adenoma), other cancers, and death.
+T3	HMM 1157 1162	cured
+T4	HMM 1332 1374	gastric cancer or any precancerous lesion.
+T5	HMM 1405 1447	study endpoints other than gastric cancer.

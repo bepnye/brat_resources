@@ -1,0 +1,9 @@
+T1	Treatment 0 35	Moclobemide, imipramine and placebo
+T2	Treatment 75 86	Moclobemide
+T3	Treatment 105 115	imipramine
+T4	Treatment 120 127	placebo
+T5	Treatment 207 316	moclobemide (25 patients) was 300 mg daily for the first 5 days, after which it could be increased to 600 mg.
+T6	Treatment 317 441	Imipramine (25 patients) was given in a dosage starting with 33 mg and gradually increased to 100 mg/day in the first 5 days
+T7	Treatment 507 515	placebo.
+T8	Treatment 773 784	Moclobemide
+T9	Treatment 811 821	imipramine

@@ -1,0 +1,19 @@
+Adult
+Aged
+Chronic Disease
+Female
+Humans
+Low Back Pain
+Male
+Middle Aged
+Pain Measurement
+Patient Satisfaction
+Physical Therapy Modalities
+Probability
+Recovery of Function
+Reference Values
+Sensitivity and Specificity
+Severity of Illness Index
+Spinal Fusion
+Sweden
+Treatment Outcome

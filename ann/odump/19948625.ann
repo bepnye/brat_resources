@@ -1,0 +1,11 @@
+T1	HMM 33 45	irritability
+T2	HMM 153 183	short-term efficacy and safety
+T3	HMM 220 232	irritability
+T4	HMM 726 837	Aberrant Behavior Checklist irritability subscale and the Clinical Global Impression-Improvement score (CGI-I).
+T5	HMM 838 861	Safety and tolerability
+T6	HMM 1009 1064	Aberrant Behavior Checklist irritability subscale score
+T7	HMM 1261 1272	CGI-I score
+T8	HMM 1333 1350	residual symptoms
+T9	HMM 1388 1409	Discontinuation rates
+T10	HMM 1496 1535	Extrapyramidal symptom-related AE rates
+T11	HMM 1621 1632	weight gain

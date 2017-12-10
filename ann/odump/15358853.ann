@@ -1,0 +1,11 @@
+T1	HMM 602 648	Physician confidence in the treatment decision
+T2	HMM 737 756	dichotomous outcome
+T3	HMM 799 821	Mean confidence scores
+T4	HMM 826 860	additional imaging recommendations
+T5	HMM 1098 1132	additional imaging recommendations
+T6	HMM 1249 1288	No statistically significant difference
+T7	HMM 1363 1385	lower confidence score
+T8	HMM 1632 1642	confidence
+T9	HMM 1660 1670	confidence
+T10	HMM 1679 1704	No significant difference
+T11	HMM 1849 1870	mean confidence score

@@ -1,0 +1,8 @@
+T1	HMM 188 299	serum prostate-specific antigen (PSA), digital rectal examination (DRE), and transrectal ultrasonography (TRUS)
+T2	HMM 975 984	serum PSA
+T3	HMM 997 1016	sensitive technique
+T4	HMM 1041 1071	risk of having prostate cancer
+T5	HMM 1206 1221	serum PSA alone
+T6	HMM 1351 1365	estimated cost
+T7	HMM 1417 1424	curable
+T8	HMM 1565 1609	morbidity and mortality from prostate cancer

@@ -1,0 +1,11 @@
+T1	Treatment 0 59	Photodynamic therapy with 5-aminolaevulinic acid or placebo
+T2	Treatment 141 265	Photodynamic therapy (PDT) with topical 5-aminolaevulinic acid (ALA) followed by irradiation with incoherent light (ALA-PDT)
+T3	Treatment 543 669	ALA-PDT or placebo-PDT interventions combined with standard treatment encompassing paring followed by a keratolytic (Verucid).
+T4	Treatment 1167 1174	ALA-PDT
+T5	Treatment 1192 1204	placebo-PDT.
+T6	Treatment 1275 1282	ALA-PDT
+T7	Treatment 1446 1453	ALA-PDT
+T8	Treatment 1500 1511	placebo-PDT
+T9	Treatment 1708 1715	ALA-PDT
+T10	Treatment 1782 1793	placebo-PDT
+T11	Treatment 1839 1850	placebo-PDT

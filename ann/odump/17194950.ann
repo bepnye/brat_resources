@@ -1,0 +1,5 @@
+T1	HMM 101 151	anxiety, perceived pain, and patient satisfaction.
+T2	HMM 251 258	anxiety
+T3	HMM 263 277	perceived pain
+T4	HMM 688 725	postprocedure anxiety or pain rating.
+T5	HMM 814 864	anxiety, perceived pain, or satisfaction with care

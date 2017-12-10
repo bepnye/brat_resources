@@ -1,0 +1,11 @@
+T1	HMM 39 58	EPA and DHA intake.
+T2	HMM 119 130	EPA and DHA
+T3	HMM 145 194	relative concentrations in red blood cells (RBC).
+T4	HMM 649 689	between intake of EPA, DHA and EPA + DHA
+T5	HMM 700 734	corresponding concentration in RBC
+T6	HMM 818 867	of EPA+DHA intake and RBC EPA + DHA concentration
+T7	HMM 1147 1184	predicted RBC EPA + DHA concentration
+T8	HMM 1367 1389	of EPA and DHA intakes
+T9	HMM 1423 1447	their RBC concentrations
+T10	HMM 1486 1511	between EPA + DHA intakes
+T11	HMM 1622 1655	with RBC EPA + DHA concentrations

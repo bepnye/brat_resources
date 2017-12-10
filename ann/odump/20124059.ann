@@ -1,0 +1,8 @@
+T1	HMM 223 237	rehabilitation
+T2	HMM 522 537	gait kinematics
+T3	HMM 1144 1148	gait
+T4	HMM 1462 1511	velocity, cadence, step length, and stride length
+T5	HMM 1557 1572	range of motion
+T6	HMM 1786 1801	range of motion
+T7	HMM 1877 1888	pelvic tilt
+T8	HMM 1970 1988	Trendelenburg gait

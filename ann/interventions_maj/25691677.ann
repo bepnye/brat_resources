@@ -1,0 +1,13 @@
+T1	Intervention 60 88	Androgen-Deprivation Therapy
+T2	Intervention 94 106	Radiotherapy
+T3	Intervention 114 142	Androgen-Deprivation Therapy
+T4	Intervention 228 245	radiotherapy (RT)
+T5	Intervention 255 289	androgen-deprivation therapy (ADT)
+T6	Intervention 832 835	ADT
+T7	Intervention 848 855	ADT+RT.
+T8	Intervention 1164 1171	ADT+RT.
+T9	Intervention 1352 1358	ADT+RT
+T10	Intervention 1492 1494	RT
+T11	Intervention 1498 1501	ADT
+T12	Intervention 1558 1564	ADT+RT
+T13	Intervention 1718 1720	RT

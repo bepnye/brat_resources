@@ -1,0 +1,16 @@
+T1	Treatment 24 35	ranibizumab
+T2	Treatment 195 206	ranibizumab
+T3	Treatment 214 252	verteporfin photodynamic therapy (PDT)
+T4	Treatment 512 523	ranibizumab
+T5	Treatment 550 567	sham PDT or PDT +
+T6	Treatment 576 591	sham injection.
+T7	Treatment 592 626	Photodynamic therapy (or sham PDT)
+T8	Treatment 1002 1013	ranibizumab
+T9	Treatment 1030 1033	PDT
+T10	Treatment 1247 1258	ranibizumab
+T11	Treatment 1269 1272	PDT
+T12	Treatment 1287 1298	Ranibizumab
+T13	Treatment 1313 1316	PDT
+T14	Treatment 1446 1449	PDT
+T15	Treatment 1458 1469	ranibizumab
+T16	Treatment 1542 1554	ranibizumab.

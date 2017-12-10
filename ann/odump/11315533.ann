@@ -1,0 +1,11 @@
+T1	HMM 69 76	Dropout
+T2	HMM 239 263	dropout rate of children
+T3	HMM 545 565	overall dropout rate
+T4	HMM 575 582	Dropout
+T5	HMM 695 720	younger and less educated
+T6	HMM 724 755	poorer rating by the clinicians
+T7	HMM 777 828	parental dissatisfaction with the treatment service
+T8	HMM 833 862	perception that the treatment
+T9	HMM 1016 1036	overall dropout rate
+T10	HMM 1188 1238	parental perception of a less organised treatment.
+T11	HMM 1255 1262	dropout

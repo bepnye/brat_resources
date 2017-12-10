@@ -1,0 +1,5 @@
+T1	HMM 69 90	deep vein thrombosis.
+T2	HMM 595 619	Significant thrombolysis
+T3	HMM 891 905	major bleeding
+T4	HMM 935 954	blood transfusions.
+T5	HMM 955 1000	Minor bleeding and slight rise in temperature

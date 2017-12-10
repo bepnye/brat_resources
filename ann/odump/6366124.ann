@@ -1,0 +1,23 @@
+T1	HMM 0 21	Histologic conversion
+T2	HMM 698 725	complete response rate (CR)
+T3	HMM 754 767	achieved a CR
+T4	HMM 779 788	relapsed.
+T5	HMM 833 845	achieve a CR
+T6	HMM 849 862	achieved a CR
+T7	HMM 873 882	relapsed.
+T8	HMM 883 904	Histologic conversion
+T9	HMM 1044 1073	actuarial risk for conversion
+T10	HMM 1092 1099	greater
+T11	HMM 1119 1161	median time to documentation of conversion
+T12	HMM 1177 1188	most common
+T13	HMM 1197 1218	histologic conversion
+T14	HMM 1244 1265	histiocytic lymphoma.
+T15	HMM 1277 1298	histologic conversion
+T16	HMM 1332 1360	aggressive clinical behavior
+T17	HMM 1386 1401	median survival
+T18	HMM 1408 1418	conversion
+T19	HMM 1467 1480	achieved a CR
+T20	HMM 1487 1497	conversion
+T21	HMM 1509 1546	favorable outcome (actuarial survival
+T22	HMM 1573 1585	risk factors
+T23	HMM 1600 1621	histologic conversion

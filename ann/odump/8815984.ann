@@ -1,0 +1,4 @@
+T1	HMM 563 571	efficacy
+T2	HMM 774 791	mean healing time
+T3	HMM 958 984	number of wound infections
+T4	HMM 1272 1282	expensive.

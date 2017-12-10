@@ -1,0 +1,6 @@
+T1	HMM 705 740	Clinical cure 30 days after therapy
+T2	HMM 799 838	clinical and microbiological cure rates
+T3	HMM 919 932	clinical cure
+T4	HMM 1024 1037	Clinical cure
+T5	HMM 1204 1243	Clinical and microbiological cure rates
+T6	HMM 1444 1457	clinical cure

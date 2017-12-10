@@ -1,0 +1,4 @@
+T1	HMM 38 60	painful osteoarthritis
+T2	HMM 219 231	chronic pain
+T3	HMM 587 689	daily levels of pain, analgesic requirements, palpation tenderness and isokinetic quadriceps strength.
+T4	HMM 756 806	daily level of pain and consumption of analgesics.

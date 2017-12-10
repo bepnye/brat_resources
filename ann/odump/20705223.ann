@@ -1,0 +1,16 @@
+T1	HMM 173 193	endothelial function
+T2	HMM 229 252	Endothelial dysfunction
+T3	HMM 352 372	endothelial function
+T4	HMM 682 749	Endothelial function (brachial artery flow-mediated dilation [FMD])
+T5	HMM 1113 1151	total, visceral, and subcutaneous fat.
+T6	HMM 1152 1196	Blood pressure and overnight polysomnography
+T7	HMM 1236 1239	FMD
+T8	HMM 1282 1285	FMD
+T9	HMM 1470 1473	FMD
+T10	HMM 1494 1511	visceral fat gain
+T11	HMM 1547 1568	subcutaneous fat gain
+T12	HMM 1679 1699	endothelial function
+T13	HMM 1735 1750	blood pressure.
+T14	HMM 1751 1771	Endothelial function
+T15	HMM 1810 1847	visceral rather than subcutaneous fat
+T16	HMM 1857 1881	endothelial dysfunction.

@@ -1,0 +1,11 @@
+T1	HMM 253 266	effectiveness
+T2	HMM 577 691	proportion of eligible (aged </= 80 and symptom onset </= 6 hours) stroke patients referred to a stroke unit (SU).
+T3	HMM 692 747	Intention to treat (ITT) and per-protocol (PP) analyses
+T4	HMM 768 784	risk ratios (RR)
+T5	HMM 919 930	assistance;
+T6	HMM 980 1001	admitted to hospitals
+T7	HMM 1041 1059	confirmed strokes.
+T8	HMM 1076 1093	confirmed strokes
+T9	HMM 1194 1196	SU
+T10	HMM 1638 1664	efficiency and feasibility
+T11	HMM 1791 1806	quality of care

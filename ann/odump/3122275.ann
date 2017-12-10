@@ -1,0 +1,7 @@
+T1	HMM 11 22	misoprostol
+T2	HMM 264 275	misoprostol
+T3	HMM 615 645	peripheral vascular resistance
+T4	HMM 926 1014	leg blood flow volume and a corresponding increase in leg peripheral vascular resistance
+T5	HMM 1092 1102	heart rate
+T6	HMM 1225 1244	adverse experiences
+T7	HMM 1344 1376	vasoconstrictive or vasodilative

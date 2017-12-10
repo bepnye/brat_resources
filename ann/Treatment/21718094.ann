@@ -1,0 +1,10 @@
+T1	Treatment 0 20	Insulin pump therapy
+T2	Treatment 302 331	starting insulin pump therapy
+T3	Treatment 345 399	with standard multiple daily insulin injections (MDIs)
+T4	Treatment 461 542	comparing MDI therapy with continuous subcutaneous insulin therapy (pump therapy)
+T5	Treatment 1005 1017	with therapy
+T6	Treatment 1081 1096	of pump therapy
+T7	Treatment 1346 1369	in insulin pump-treated
+T8	Treatment 1436 1452	and pump-treated
+T9	Treatment 1569 1592	of insulin pump therapy
+T10	Treatment 1760 1775	of pump therapy

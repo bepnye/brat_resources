@@ -1,0 +1,7 @@
+T1	HMM 649 798	gastrointestinal function, APACHE II scores, the levels of plasma IL-6, IL-11, C-reactive proteins (CRP) and the liver and kidney functional measures
+T2	HMM 888 981	period of abdominal pain and the fastest recovery from abnormal bowel movement and high fever
+T3	HMM 1137 1154	APACHE II scores.
+T4	HMM 1217 1280	white blood cell (WBC) counts and levels of plasma CRP and IL-6
+T5	HMM 1300 1323	levels of plasma IL-11.
+T6	HMM 1391 1416	liver and kidney function
+T7	HMM 1447 1538	levels of plasma alanine aminotransferase, aspartate aminotransferase, and creatinine (Cr).

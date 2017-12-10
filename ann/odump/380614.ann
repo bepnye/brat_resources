@@ -1,0 +1,8 @@
+T1	HMM 0 31	Clofibrate and diabetes control
+T2	HMM 375 420	reduce fasting or post-prandial blood glucose
+T3	HMM 426 442	24 h glycosuria;
+T4	HMM 475 513	M-value, an index of diabetes control.
+T5	HMM 558 574	diabetes control
+T6	HMM 595 610	24 h glycosuria
+T7	HMM 642 650	M-value.
+T8	HMM 744 762	plasma fibrinogen.

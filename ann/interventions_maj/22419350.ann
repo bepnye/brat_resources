@@ -1,0 +1,7 @@
+T1	Intervention 26 41	tranexamic acid
+T2	Intervention 156 171	tranexamic acid
+T3	Intervention 381 391	tranexamic
+T4	Intervention 647 671	intraoperative dose (IO)
+T5	Intervention 711 747	additional preoperative dose (POIO),
+T6	Intervention 752 789	additional postoperative dose (IOPO),
+T7	Intervention 798 813	all three doses

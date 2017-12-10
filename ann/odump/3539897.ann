@@ -1,0 +1,12 @@
+T1	HMM 37 46	morbidity
+T2	HMM 152 161	morbidity
+T3	HMM 302 317	Acute reactions
+T4	HMM 444 468	reactions in the bladder
+T5	HMM 532 560	Severe acute bowel reactions
+T6	HMM 681 695	Late reactions
+T7	HMM 737 773	Severe late reactions in the bladder
+T8	HMM 1020 1075	disparity in the degree of early and late complications
+T9	HMM 1096 1106	RBE values
+T10	HMM 1143 1160	bladder morbidity
+T11	HMM 1165 1174	RBE value
+T12	HMM 1301 1311	RBE values

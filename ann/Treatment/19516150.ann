@@ -1,0 +1,25 @@
+T1	Treatment 0 29	Aerobic and strength training
+T2	Treatment 151 160	nutrition
+T3	Treatment 165 216	combination of aerobic and strength training (CAST)
+T4	Treatment 335 344	nutrition
+T5	Treatment 350 354	CAST
+T6	Treatment 478 492	nutrition only
+T7	Treatment 504 513	nutrition
+T8	Treatment 519 536	strength training
+T9	Treatment 662 663	C
+T10	Treatment 673 674	N
+T11	Treatment 685 691	N + ST
+T12	Treatment 704 712	N + CAST
+T13	Treatment 756 795	modified carbohydrate nutrition classes
+T14	Treatment 823 829	N + ST
+T15	Treatment 835 861	received strength training
+T16	Treatment 885 893	N + CAST
+T17	Treatment 903 949	a combination of strength and aerobic training
+T18	Treatment 1636 1644	N + CAST
+T19	Treatment 1686 1692	N + ST
+T20	Treatment 1783 1784	N
+T21	Treatment 1816 1824	N + CAST
+T22	Treatment 1880 1884	CAST
+T23	Treatment 1909 1918	nutrition
+T24	Treatment 1928 1937	nutrition
+T25	Treatment 1943 1960	strength training

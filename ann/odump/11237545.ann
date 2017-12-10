@@ -1,0 +1,11 @@
+T1	HMM 109 127	vasovagal syncope.
+T2	HMM 675 753	production of symptoms (syncope, pre-syncope) with development of hypotension.
+T3	HMM 803 837	sensitivity of glyceryl trinitrate
+T4	HMM 853 870	vasovagal syncope
+T5	HMM 937 947	tolerated.
+T6	HMM 948 972	Isoprenaline sensitivity
+T7	HMM 986 997	specificity
+T8	HMM 1003 1015	Side-effects
+T9	HMM 1091 1169	development of hypertension or tachycardia and intolerable flushing or nausea.
+T10	HMM 1221 1230	effective
+T11	HMM 1287 1349	vasovagal syncope and has a lower incidence of adverse events.

@@ -1,0 +1,10 @@
+T1	HMM 292 355	plasma bradykinin (BK), substance P and prostaglandin E2 (PGE2)
+T2	HMM 623 706	Serum concentrations of total drug (enalapril + enalaprilat, its active metabolite)
+T3	HMM 790 807	serum enalaprilat
+T4	HMM 908 927	Blood pressure 24 h
+T5	HMM 1006 1015	Plasma BK
+T6	HMM 1126 1135	plasma BK
+T7	HMM 1254 1263	plasma BK
+T8	HMM 1278 1292	adverse effect
+T9	HMM 1327 1354	Plasma substance P and PGE2
+T10	HMM 1581 1586	cough

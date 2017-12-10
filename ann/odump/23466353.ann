@@ -1,0 +1,4 @@
+T1	HMM 250 275	efficacy and tolerability
+T2	HMM 771 785	clinical signs
+T3	HMM 854 888	number of positive fungal cultures
+T4	HMM 931 943	tolerability

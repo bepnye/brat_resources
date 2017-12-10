@@ -1,0 +1,6 @@
+T1	HMM 698 782	high-density lipoprotein (HDL)- and low-density lipoprotein (LDL)-cholesterol levels
+T2	HMM 870 922	other lipid, hemostatic and carbohydrate parameters.
+T3	HMM 957 972	HDL-cholesterol
+T4	HMM 988 1003	LDL-cholesterol
+T5	HMM 1071 1105	blood glucose and C-peptide levels
+T6	HMM 1227 1271	lipid, hemostatic or carbohydrate parameters

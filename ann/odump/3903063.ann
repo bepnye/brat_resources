@@ -1,0 +1,10 @@
+T1	HMM 1143 1150	failure
+T2	HMM 1156 1161	death
+T3	HMM 1196 1204	relapsed
+T4	HMM 1387 1393	deaths
+T5	HMM 1457 1480	nonlymphocytic leukemia
+T6	HMM 1573 1638	the actuarial probabilities for survival and freedom from relapse
+T7	HMM 1811 1843	number of cycles of chemotherapy
+T8	HMM 1860 1903	Bone growth defects related to radiotherapy
+T9	HMM 2024 2044	mediastinal relapse.
+T10	HMM 2045 2056	Azoospermia

@@ -1,0 +1,15 @@
+Adult
+Blood Glucose
+C-Peptide
+Cholesterol
+Diabetes Mellitus
+Diabetes Mellitus, Type 2
+Drug Administration Schedule
+Drug Therapy, Combination
+Glyburide
+Hemoglobin A, Glycosylated
+Humans
+Insulin
+Lipoproteins
+Obesity
+Triglycerides

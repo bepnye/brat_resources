@@ -1,0 +1,8 @@
+T1	Treatment 50 77	plasmakinetic vaporesection
+T2	Treatment 82 118	conventional transurethral resection
+T3	Treatment 147 197	Plasmakinetic vaporesection of the prostate (PKVP)
+T4	Treatment 520 575	standard transurethral resection of the prostate (TURP)
+T5	Treatment 764 768	PKVP
+T6	Treatment 772 777	TURP.
+T7	Treatment 1717 1721	PKVP
+T8	Treatment 1765 1769	TURP

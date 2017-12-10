@@ -1,0 +1,18 @@
+Adult
+Aged
+Antimetabolites, Antineoplastic
+Antineoplastic Agents, Alkylating
+Antineoplastic Combined Chemotherapy Protocols
+Colorectal Neoplasms
+Disease-Free Survival
+Female
+Fluorouracil
+Hematologic Diseases
+Humans
+Ifosfamide
+Leucovorin
+Male
+Middle Aged
+Neoplasm Staging
+Survival Analysis
+Treatment Outcome

@@ -1,0 +1,9 @@
+T1	HMM 310 332	effect on blood lipids
+T2	HMM 598 607	increased
+T3	HMM 612 639	DHA concentration in plasma
+T4	HMM 668 700	proportion in erythrocyte lipids
+T5	HMM 733 817	serum total cholesterol, LDL cholesterol, and plasma apolipoprotein B concentrations
+T6	HMM 981 1019	LDL cholesterol:apolipoprotein B ratio
+T7	HMM 1104 1125	increase in LDL size.
+T8	HMM 1126 1176	Plasma lathosterol and plant sterol concentrations
+T9	HMM 1260 1285	increases LDL cholesterol

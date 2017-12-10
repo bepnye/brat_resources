@@ -1,0 +1,13 @@
+T1	HMM 57 104	control of blood pressure and total cholesterol
+T2	HMM 654 697	blood pressure (BP), total cholesterol (TC)
+T3	HMM 703 725	both BP and TC (BP/TC)
+T4	HMM 1532 1601	proportions of patients achieving BP, TC, and BP/TC therapeutic goals
+T5	HMM 1932 1954	mean BP and TC values.
+T6	HMM 1955 1979	BP was assessed manually
+T7	HMM 2159 2161	TC
+T8	HMM 2226 2247	enzymatic dry method.
+T9	HMM 2674 2702	goals for BP, TC, and BP/TC.
+T10	HMM 2869 2881	goals for BP
+T11	HMM 2910 2912	TC
+T12	HMM 2945 2950	BP/TC
+T13	HMM 3166 3183	BP, TC, and BP/TC

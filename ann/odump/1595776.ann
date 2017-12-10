@@ -1,0 +1,8 @@
+T1	HMM 21 43	obese type 2 diabetes:
+T2	HMM 143 158	type 2 diabetes
+T3	HMM 175 188	effectiveness
+T4	HMM 862 885	glycosylated hemoglobin
+T5	HMM 1005 1009	used
+T6	HMM 1023 1030	insulin
+T7	HMM 1113 1146	Fasting serum free insulin values
+T8	HMM 1286 1297	Weight gain

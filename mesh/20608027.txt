@@ -1,0 +1,11 @@
+Adult
+Chronic Disease
+Disease Progression
+Enzyme-Linked Immunosorbent Assay
+Heart Failure
+Humans
+Male
+Middle Aged
+Natriuretic Peptide, Brain
+Oxidative Stress
+Severity of Illness Index

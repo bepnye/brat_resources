@@ -1,0 +1,6 @@
+T1	HMM 737 761	probabilities of relapse
+T2	HMM 853 914	actuarial probabilities of survival and relapse-free survival
+T3	HMM 1050 1102	4-year probabilities of transplant-related mortality
+T4	HMM 1155 1220	probability of moderate to severe acute graft-versus-host disease
+T5	HMM 1305 1324	relapse probability
+T6	HMM 1411 1428	improved survival

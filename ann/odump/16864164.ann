@@ -1,0 +1,9 @@
+T1	HMM 775 800	loco-regional recurrences
+T2	HMM 935 953	distant metastases
+T3	HMM 1055 1079	recurrence-free survival
+T4	HMM 1092 1108	Overall survival
+T5	HMM 1356 1391	recurrence-free or overall survival
+T6	HMM 1426 1461	risk of a second primary malignancy
+T7	HMM 1549 1568	second lung cancers
+T8	HMM 1599 1631	cumulative incidence at 20 years
+T9	HMM 1763 1788	loco-regional recurrences

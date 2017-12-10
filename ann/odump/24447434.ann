@@ -1,0 +1,7 @@
+T1	HMM 32 52	tamoxifen resistance
+T2	HMM 298 322	anti-estrogen resistance
+T3	HMM 952 982	intrinsic tamoxifen resistance
+T4	HMM 1385 1413	for recurrence free interval
+T5	HMM 1427 1447	assess hazard ratios
+T6	HMM 1716 1741	with tamoxifen resistance
+T7	HMM 2040 2069	decreased risk for recurrence

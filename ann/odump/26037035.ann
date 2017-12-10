@@ -1,0 +1,10 @@
+T1	HMM 1109 1153	of insulin aspart and blood glucose in serum
+T2	HMM 1167 1188	endpoint insulin Tmax
+T3	HMM 1247 1273	significantly shorter Tmax
+T4	HMM 1307 1340	smaller intra-subject variability
+T5	HMM 1441 1463	secondary PK endpoints
+T6	HMM 1503 1512	findings.
+T7	HMM 1513 1543	Postprandial glycemic response
+T8	HMM 1788 1823	reduced time for insulin absorption
+T9	HMM 1829 1859	less intra-subject variability
+T10	HMM 1864 1887	lower glycemic response

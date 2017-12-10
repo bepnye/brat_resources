@@ -1,0 +1,6 @@
+T1	HMM 27 66	tolerability and bacteriologic outcomes
+T2	HMM 607 640	safety, tolerability and outcomes
+T3	HMM 795 821	Treatment completion rates
+T4	HMM 1056 1073	treatment failure
+T5	HMM 1252 1265	adverse event
+T6	HMM 1500 1525	tolerated treatment well.

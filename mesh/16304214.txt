@@ -1,0 +1,21 @@
+Adult
+Aged
+Antihypertensive Agents
+Blood Pressure
+Cardiac Output
+Coronary Artery Bypass
+Coronary Artery Disease
+Diltiazem
+Female
+Heart Rate
+Humans
+Infusions, Intravenous
+Male
+Middle Aged
+Nitroglycerin
+Nitroprusside
+Oxygen
+Oxygen Consumption
+Treatment Outcome
+Vascular Resistance
+Vasodilator Agents

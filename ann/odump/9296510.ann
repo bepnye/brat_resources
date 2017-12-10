@@ -1,0 +1,11 @@
+T1	HMM 443 470	leakage and stricture rates
+T2	HMM 895 921	mean total operating times
+T3	HMM 1107 1138	vivo proximal resection margins
+T4	HMM 1211 1224	Leakage rates
+T5	HMM 1264 1279	hospital deaths
+T6	HMM 1295 1328	leakage or anastomotic recurrence
+T7	HMM 1419 1440	anastomotic stricture
+T8	HMM 1559 1588	difference in stricture rates
+T9	HMM 1641 1663	Anastomotic recurrence
+T10	HMM 1765 1769	safe
+T11	HMM 1814 1834	stricture formation.

@@ -1,0 +1,13 @@
+Adult
+Aged
+Antineoplastic Agents
+Carboplatin
+Cisplatin
+Combined Modality Therapy
+Female
+Head and Neck Neoplasms
+Humans
+Male
+Middle Aged
+Survival Analysis
+Treatment Outcome

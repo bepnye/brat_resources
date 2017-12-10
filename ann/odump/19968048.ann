@@ -1,0 +1,5 @@
+T1	HMM 523 538	Sleep variables
+T2	HMM 550 644	sleep duration, sleep-onset time, sleep-onset latency time, and the number of night awakenings
+T3	HMM 1215 1240	mean night sleep duration
+T4	HMM 1303 1327	mean sleep-onset latency
+T5	HMM 1371 1392	mean sleep-onset time

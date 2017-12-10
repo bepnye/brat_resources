@@ -1,0 +1,17 @@
+T1	HMM 27 59	distant metastasis and mortality
+T2	HMM 757 787	tumor nuclei staining positive
+T3	HMM 848 885	per-sample mean intensity score (MIS)
+T4	HMM 964 986	overall mortality (OM)
+T5	HMM 1054 1113	distant metastasis (DM) and cause-specific mortality (CSM).
+T6	HMM 1203 1222	MDM2 overexpression
+T7	HMM 1252 1254	DM
+T8	HMM 1288 1308	Ki-67 overexpression
+T9	HMM 1338 1340	DM
+T10	HMM 1354 1357	CSM
+T11	HMM 1375 1377	OM
+T12	HMM 1389 1407	P53 overexpression
+T13	HMM 1437 1439	OM
+T14	HMM 1487 1524	overexpression of both Ki-67 and MDM2
+T15	HMM 1560 1597	significantly increased failure rates
+T16	HMM 1669 1701	MDM2 and Ki-67 expression levels
+T17	HMM 1732 1764	distant metastasis and mortality

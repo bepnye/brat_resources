@@ -1,0 +1,20 @@
+Adult
+Aged
+Aortic Valve
+Aortic Valve Insufficiency
+Aortic Valve Stenosis
+Blood Pressure
+Cardiac Catheterization
+Cardiac Volume
+Cardiomegaly
+Cineangiography
+Female
+Follow-Up Studies
+Heart Function Tests
+Heart Valve Prosthesis
+Hemodynamics
+Humans
+Male
+Middle Aged
+Prosthesis Design
+Random Allocation

@@ -1,0 +1,13 @@
+T1	Outcomes 0 6	Effect
+T2	Outcomes 41 60	cardiac arrhythmias
+T3	Outcomes 211 234	ventricular arrhythmias
+T4	Outcomes 440 511	Clinical, biochemical, and 48-hour ambulatory electrocardiographic data
+T5	Outcomes 554 588	Signal-averaged electrocardiograms
+T6	Outcomes 633 668	Average LV posterior wall thickness
+T7	Outcomes 763 791	Systolic blood pressure (BP)
+T8	Outcomes 952 967	Serum potassium
+T9	Outcomes 1105 1139	ventricular premature contractions
+T10	Outcomes 1245 1268	ventricular tachycardia
+T11	Outcomes 1318 1353	signal-averaged electrocardiography
+T12	Outcomes 1514 1537	ventricular arrhythmias
+T13	Outcomes 1541 1588	signal-averaged electrocardiographic variables.

@@ -1,0 +1,15 @@
+Acute Disease
+Adolescent
+Aminoacridines
+Amsacrine
+Antineoplastic Agents
+Child
+Drug Administration Schedule
+Drug Evaluation
+Heart Diseases
+Humans
+Infection
+Leukemia
+Leukemia, Lymphoid
+Pancytopenia
+Random Allocation

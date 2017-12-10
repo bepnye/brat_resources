@@ -1,0 +1,16 @@
+Biopsy
+Cholesterol
+Cholesterol, HDL
+Cholesterol, LDL
+Cholesterol, VLDL
+Double-Blind Method
+Drug Administration Schedule
+Endometrium
+Estradiol
+Female
+Flushing
+Humans
+Middle Aged
+Norgestrel
+Postmenopause
+Triglycerides

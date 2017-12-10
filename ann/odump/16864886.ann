@@ -1,0 +1,19 @@
+T1	HMM 64 132	reduces parasite burden and improves feedlot and carcass performance
+T2	HMM 438 474	parasite burden, feedlot performance
+T3	HMM 480 512	carcass merit of feedlot cattle.
+T4	HMM 567 612	fewer (P = 0.02) cattle retreated for disease
+T5	HMM 621 664	fewer (P = 0.06) worm eggs per fecal sample
+T6	HMM 756 763	more DM
+T7	HMM 769 780	greater ADG
+T8	HMM 787 807	heavier at slaughter
+T9	HMM 817 834	heavier carcasses
+T10	HMM 911 936	more (P = 0.07) carcasses
+T11	HMM 945 965	USDA Prime or Choice
+T12	HMM 1047 1090	fewer (P < 0.01) worm eggs per fecal sample
+T13	HMM 1126 1188	numbers of adult and larval Cooperia and Trichostrongylus spp.
+T14	HMM 1189 1211	in the small intestine
+T15	HMM 1319 1321	DM
+T16	HMM 1450 1461	greater ADG
+T17	HMM 1588 1603	parasite burden
+T18	HMM 1608 1634	increased feed intake, ADG
+T19	HMM 1640 1654	carcass weight

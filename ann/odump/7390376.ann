@@ -1,0 +1,5 @@
+T1	HMM 181 190	analgesia
+T2	HMM 249 280	identical analgetic efficiency.
+T3	HMM 284 304	adverse side effects
+T4	HMM 412 433	obstetrical analgesia
+T5	HMM 459 477	inhibitory effects

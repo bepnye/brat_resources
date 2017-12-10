@@ -1,0 +1,20 @@
+Adult
+Blood Glucose
+Blood Pressure
+Ear, Middle
+Fatty Acids, Nonesterified
+Female
+Hormones
+Humans
+Hypotension, Controlled
+Isoflurane
+Lactates
+Lactic Acid
+Male
+Middle Aged
+Nitroprusside
+Pyruvates
+Pyruvic Acid
+Trimethaphan
+Uric Acid
+Vasodilator Agents

@@ -1,0 +1,8 @@
+T1	HMM 28 61	quality of bone apatite crystals:
+T2	HMM 337 363	mean rate of substitutions
+T3	HMM 646 769	crystallinity, apparent length and width/thickness of crystals, interplanar distances, and lattice parameters of unit cells
+T4	HMM 930 944	not influenced
+T5	HMM 952 966	presence of Sr
+T6	HMM 976 983	similar
+T7	HMM 1046 1094	mean rate of substitutions of calcium by Sr ions
+T8	HMM 1130 1162	quality of bone apatite crystals

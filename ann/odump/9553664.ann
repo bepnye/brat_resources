@@ -1,0 +1,4 @@
+T1	HMM 843 853	Lymphedema
+T2	HMM 896 967	circumference measurements between affected and normal limbs ('delta').
+T3	HMM 1118 1132	response rates
+T4	HMM 1281 1304	decrease in delta value

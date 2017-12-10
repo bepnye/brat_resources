@@ -1,0 +1,10 @@
+T1	HMM 201 226	healing and complications
+T2	HMM 657 716	Nonunions, time to fracture healing, and rate of malunions.
+T3	HMM 729 761	average time to fracture healing
+T4	HMM 910 919	nonunions
+T5	HMM 976 1041	healed after dynamization by removing static interlocking screws.
+T6	HMM 1069 1073	heal
+T7	HMM 1225 1234	malunions
+T8	HMM 1264 1273	malunions
+T9	HMM 1457 1500	rates of secondary operations and malunions
+T10	HMM 1535 1559	time to fracture healing

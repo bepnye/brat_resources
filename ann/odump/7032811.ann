@@ -1,0 +1,8 @@
+T1	HMM 56 70	blood pressure
+T2	HMM 75 112	intralymphocytic sodium concentration
+T3	HMM 472 495	intralymphocytic sodium
+T4	HMM 513 527	blood pressure
+T5	HMM 624 639	blood pressure.
+T6	HMM 719 776	intralymphocytic sodium concentration and blood pressure.
+T7	HMM 889 900	natriuresis
+T8	HMM 909 932	intralymphocytic sodium

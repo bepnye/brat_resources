@@ -1,0 +1,11 @@
+T1	HMM 758 762	Pain
+T2	HMM 1019 1023	pain
+T3	HMM 1176 1222	side-effect profiles and patient satisfaction.
+T4	HMM 1235 1254	median time from ED
+T5	HMM 1341 1360	mean NRS pain score
+T6	HMM 1466 1494	mean decrease in pain scores
+T7	HMM 1509 1513	pain
+T8	HMM 1742 1756	No differences
+T9	HMM 1771 1808	side effects or patient satisfaction.
+T10	HMM 1838 1863	decreased NRS pain scores
+T11	HMM 1976 1996	superior pain relief

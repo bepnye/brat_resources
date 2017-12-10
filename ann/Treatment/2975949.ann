@@ -1,0 +1,15 @@
+T1	Treatment 18 26	warfarin
+T2	Treatment 296 304	warfarin
+T3	Treatment 324 332	warfarin
+T4	Treatment 350 357	control
+T5	Treatment 573 581	Warfarin
+T6	Treatment 796 805	verapamil
+T7	Treatment 810 833	other antianginal drugs
+T8	Treatment 861 901	Low molecular weight dextran and heparin
+T9	Treatment 938 945	heparin
+T10	Treatment 1169 1177	warfarin
+T11	Treatment 1467 1474	control
+T12	Treatment 1775 1783	warfarin
+T13	Treatment 1871 1880	verapamil
+T14	Treatment 1885 1893	warfarin
+T15	Treatment 1913 1920	aspirin

@@ -1,0 +1,16 @@
+T1	HMM 856 883	score of symptoms and signs
+T2	HMM 940 947	vertigo
+T3	HMM 976 994	neck-shoulder pain
+T4	HMM 1012 1020	headache
+T5	HMM 1038 1053	nausea-vomiting
+T6	HMM 1071 1081	ear noises
+T7	HMM 1099 1126	positive neck rotation test
+T8	HMM 1166 1173	vertigo
+T9	HMM 1201 1219	neck-shoulder pain
+T10	HMM 1237 1245	headache
+T11	HMM 1263 1278	nausea-vomiting
+T12	HMM 1296 1306	ear noises
+T13	HMM 1324 1351	positive neck rotation test
+T14	HMM 1369 1432	Cervical artery spasm index and atlantoaxial displacement index
+T15	HMM 1466 1493	cervical artery spasm index
+T16	HMM 1544 1575	atlantoaxial displacement index

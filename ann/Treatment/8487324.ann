@@ -1,0 +1,12 @@
+T1	Treatment 0 40	Recombinant human erythropoietin therapy
+T2	Treatment 534 575	Recombinant human erythropoietin (rHuEPO)
+T3	Treatment 981 1012	cyclic combination chemotherapy
+T4	Treatment 1137 1143	rHuEPO
+T5	Treatment 1158 1165	placebo
+T6	Treatment 1343 1349	rHuEPO
+T7	Treatment 1456 1462	rHuEPO
+T8	Treatment 1734 1748	rHuEPO-treated
+T9	Treatment 1787 1802	placebo-treated
+T10	Treatment 2227 2241	rHuEPO-treated
+T11	Treatment 2337 2351	rHuEPO-treated
+T12	Treatment 2712 2718	rHuEPO

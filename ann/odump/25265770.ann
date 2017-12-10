@@ -1,0 +1,5 @@
+T1	HMM 579 743	Data regarding demographic, effectiveness of FNB, time to first pain, time to first analgesic, pain scores, morphine use, and recovery of sensory and motor function
+T2	HMM 767 808	Median time to first morphine requirement
+T3	HMM 901 911	Pain score
+T4	HMM 1086 1094	morphine
+T5	HMM 1224 1326	effectiveness of FNB, time to first pain, morphine consumption, and recovery of sensorimotor function.

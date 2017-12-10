@@ -1,0 +1,10 @@
+T1	Treatment 11 48	proton stereotactic body radiotherapy
+T2	Treatment 109 146	Stereotactic body radiotherapy (SBRT)
+T3	Treatment 306 310	SBRT
+T4	Treatment 365 380	20, 30, or 40Gy
+T5	Treatment 566 584	photon-based SBRT.
+T6	Treatment 657 668	photon SBRT
+T7	Treatment 876 897	generated proton SBRT
+T8	Treatment 1035 1046	proton SBRT
+T9	Treatment 1534 1557	standpoint, proton SBRT
+T10	Treatment 1665 1679	to photon SBRT

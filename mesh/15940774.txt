@@ -1,0 +1,19 @@
+Acetaminophen
+Adult
+Analgesics, Non-Narcotic
+Cyclooxygenase Inhibitors
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Humans
+Lactones
+Male
+Middle Aged
+Osteoarthritis, Knee
+Pain
+Pain Measurement
+Pyrazoles
+Severity of Illness Index
+Sulfonamides
+Sulfones
+Treatment Outcome

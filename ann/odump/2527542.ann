@@ -1,0 +1,5 @@
+T1	HMM 61 75	blood pressure
+T2	HMM 80 94	renal function
+T3	HMM 514 551	systolic and diastolic blood pressure
+T4	HMM 639 664	antihypertensive activity
+T5	HMM 967 1037	plasma renin activity (PRA) and urinary prostaglandin excretion (PGE2)

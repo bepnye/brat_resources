@@ -1,0 +1,26 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols
+Bleomycin
+DNA, Viral
+Dacarbazine
+Doxorubicin
+Epstein-Barr Virus Infections
+Etoposide
+Female
+Herpesvirus 4, Human
+Hodgkin Disease
+Humans
+Male
+Mechlorethamine
+Middle Aged
+Neoadjuvant Therapy
+North America
+Prednisone
+Prognosis
+Sensitivity and Specificity
+Vinblastine
+Vincristine
+Young Adult

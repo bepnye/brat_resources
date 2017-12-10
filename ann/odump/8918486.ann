@@ -1,0 +1,10 @@
+T1	HMM 396 422	local control or survival.
+T2	HMM 985 1017	occurrence of distant metastases
+T3	HMM 1097 1113	first recurrence
+T4	HMM 1195 1214	pelvic relapse rate
+T5	HMM 1477 1493	hazard reduction
+T6	HMM 1633 1649	overall survival
+T7	HMM 1659 1665	effect
+T8	HMM 1744 1758	pelvic control
+T9	HMM 1871 1888	overall survival.
+T10	HMM 1939 1945	effect

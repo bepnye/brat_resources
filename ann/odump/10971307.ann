@@ -1,0 +1,7 @@
+T1	HMM 179 186	effects
+T2	HMM 750 845	Arginine-vasopressin (AVP), atrial natriuretic peptide (alpha-hANP), endothelin (ET-1) and cAMP
+T3	HMM 918 954	Cmax values of asimadoline in plasma
+T4	HMM 1115 1191	blood pressure, heart rate, GFR or urine electrolyte excretion, urine volume
+T5	HMM 1367 1371	CH2O
+T6	HMM 1467 1484	Urinary excretion
+T7	HMM 1673 1683	Plasma AVP

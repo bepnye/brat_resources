@@ -1,0 +1,16 @@
+Adult
+Aged
+Androstanols
+Anesthetics, Inhalation
+Anesthetics, Intravenous
+Electromyography
+Enflurane
+Female
+Humans
+Intubation, Intratracheal
+Male
+Middle Aged
+Neuromuscular Nondepolarizing Agents
+Propofol
+Single-Blind Method
+Vecuronium Bromide

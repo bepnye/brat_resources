@@ -1,0 +1,16 @@
+T1	HMM 228 246	antitumor activity
+T2	HMM 251 257	safety
+T3	HMM 813 838	Grades 3 and 4 toxicities
+T4	HMM 888 899	neutropenia
+T5	HMM 907 914	fatigue
+T6	HMM 925 935	neuropathy
+T7	HMM 949 981	ixabepilone arm, and neutropenia
+T8	HMM 989 1008	febrile neutropenia
+T9	HMM 1015 1022	fatigue
+T10	HMM 1029 1039	neuropathy
+T11	HMM 1050 1060	thrombosis
+T12	HMM 1123 1148	prostate-specific antigen
+T13	HMM 1363 1380	partial responses
+T14	HMM 1538 1583	Time to prostate-specific antigen progression
+T15	HMM 1790 1804	well tolerated
+T16	HMM 1813 1831	antitumor activity

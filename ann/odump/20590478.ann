@@ -1,0 +1,8 @@
+T1	HMM 51 69	smoking cessation.
+T2	HMM 306 324	smoking cessation.
+T3	HMM 619 637	smoking abstinence
+T4	HMM 671 699	expired air carbon monoxide.
+T5	HMM 964 974	abstinence
+T6	HMM 1059 1078	withdrawal symptoms
+T7	HMM 1105 1121	Abstinence rates
+T8	HMM 1332 1342	abstinence

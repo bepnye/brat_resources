@@ -1,0 +1,12 @@
+T1	Outcomes 364 372	efficacy
+T2	Outcomes 377 386	tolerance
+T3	Outcomes 557 578	response and toxicity
+T4	Outcomes 610 618	toxicity
+T5	Outcomes 629 658	overall response rate (CR+PR)
+T6	Outcomes 729 755	mean duration of remission
+T7	Outcomes 807 825	mean survival time
+T8	Outcomes 875 895	WHO grade 4 toxicity
+T9	Outcomes 984 998	cardiotoxicity
+T10	Outcomes 1026 1031	death
+T11	Outcomes 1093 1112	antitumor activity.
+T12	Outcomes 1113 1121	Toxicity

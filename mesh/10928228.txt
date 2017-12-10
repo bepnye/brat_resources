@@ -1,0 +1,11 @@
+Absorptiometry, Photon
+Aged
+Bone Density
+Confidence Intervals
+Double-Blind Method
+Female
+Femur
+Hip
+Humans
+Male
+Osteoporosis

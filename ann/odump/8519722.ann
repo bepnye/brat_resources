@@ -1,0 +1,9 @@
+T1	HMM 1194 1209	adverse effects
+T2	HMM 1259 1277	median pain scores
+T3	HMM 1310 1321	pain relief
+T4	HMM 1342 1393	mean required post-operative fentanyl infusion rate
+T5	HMM 1431 1452	plasma concentrations
+T6	HMM 1520 1533	infusion rate
+T7	HMM 1571 1592	plasma concentrations
+T8	HMM 1650 1690	Respiratory and cardiovascular functions
+T9	HMM 1715 1780	incidence of nausea, pruritus, and periods of drowsiness or sleep

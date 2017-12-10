@@ -1,0 +1,5 @@
+T1	HMM 35 54	serum liver enzymes
+T2	HMM 186 281	serum liver enzyme levels [alanine aminotransferase (ALT) and gamma-glutamyl transferase (GGT)]
+T3	HMM 508 532	serum ALT and GGT levels
+T4	HMM 557 567	ALT values
+T5	HMM 772 795	mean ALT and GGT levels

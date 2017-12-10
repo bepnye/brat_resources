@@ -1,0 +1,16 @@
+Adult
+Blood Glucose
+Diabetes Mellitus, Type 1
+Drug Administration Schedule
+Female
+Glycemic Index
+Humans
+Infant, Newborn
+Infusions, Subcutaneous
+Injections, Subcutaneous
+Insulin
+Pregnancy
+Pregnancy Outcome
+Pregnancy in Diabetics
+Retrospective Studies
+Treatment Outcome

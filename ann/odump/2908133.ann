@@ -1,0 +1,9 @@
+T1	HMM 26 34	anxiety:
+T2	HMM 523 566	total Hamilton Anxiety Rating Scale (HAM-A)
+T3	HMM 785 804	Italian HAM-A scale
+T4	HMM 816 853	4-point scale (patient's assessment).
+T5	HMM 956 980	percentage of responders
+T6	HMM 1142 1153	HAM-A score
+T7	HMM 1349 1362	4-point scale
+T8	HMM 1469 1481	Tolerability
+T9	HMM 1568 1584	severe headache.

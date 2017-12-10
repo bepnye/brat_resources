@@ -1,0 +1,14 @@
+T1	HMM 96 100	pain
+T2	HMM 189 197	efficacy
+T3	HMM 309 313	pain
+T4	HMM 1160 1174	degree of pain
+T5	HMM 1290 1304	pain intensity
+T6	HMM 1607 1618	pain relief
+T7	HMM 1709 1750	reduction in pain 7 days after treatment;
+T8	HMM 1796 1813	increase in pain.
+T9	HMM 1814 1824	VAS values
+T10	HMM 1872 1901	Poor results (no improvement)
+T11	HMM 1964 1976	good results
+T12	HMM 2059 2074	adverse effects
+T13	HMM 2141 2145	pain
+T14	HMM 2195 2206	pain relief

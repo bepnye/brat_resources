@@ -1,0 +1,8 @@
+T1	HMM 554 646	Chalazion resolution, pain, satisfaction and inconvenience experienced because of treatments
+T2	HMM 804 820	resolution rates
+T3	HMM 1091 1102	Pain scores
+T4	HMM 1208 1245	Inconvenience experienced by patients
+T5	HMM 1382 1409	Patient satisfaction scores
+T6	HMM 1896 1916	patient satisfaction
+T7	HMM 1926 1930	pain
+T8	HMM 1935 1957	patient inconvenience.

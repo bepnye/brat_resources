@@ -1,0 +1,6 @@
+T1	HMM 143 160	clinical response
+T2	HMM 838 866	peripheral blast cell counts
+T3	HMM 881 914	percentages of bone marrow blasts
+T4	HMM 981 998	second remission.
+T5	HMM 1004 1019	time to relapse
+T6	HMM 1077 1103	5-year event-free survival

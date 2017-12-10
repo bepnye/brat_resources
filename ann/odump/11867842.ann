@@ -1,0 +1,6 @@
+T1	HMM 35 46	iron stores
+T2	HMM 536 599	infant's hemoglobin and serum ferritin 3 months after delivery.
+T3	HMM 832 871	mean infant ferritin and Hb at 3 months
+T4	HMM 1036 1038	Hb
+T5	HMM 1226 1232	anemia
+T6	HMM 1360 1378	Iron stores and Hb

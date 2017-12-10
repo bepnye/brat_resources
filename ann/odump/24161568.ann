@@ -1,0 +1,6 @@
+T1	HMM 268 304	effect of radiotherapy fraction size
+T2	HMM 308 325	clinical outcomes
+T3	HMM 831 870	local progression-free survival (LPFS).
+T4	HMM 950 954	LPFS
+T5	HMM 1067 1083	toxicity profile
+T6	HMM 1169 1173	LPFS

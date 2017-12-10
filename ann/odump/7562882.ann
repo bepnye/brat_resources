@@ -1,0 +1,14 @@
+T1	HMM 35 49	insulin action
+T2	HMM 499 526	whole body glucose disposal
+T3	HMM 531 551	substrate oxidation.
+T4	HMM 552 559	Changes
+T5	HMM 563 582	morning SBP and DBP
+T6	HMM 651 678	whole body glucose disposal
+T7	HMM 741 773	non-oxidative glucose metabolism
+T8	HMM 839 870	fasting plasma potassium levels
+T9	HMM 917 920	SBP
+T10	HMM 972 975	DBP
+T11	HMM 1101 1132	fasting plasma potassium levels
+T12	HMM 1153 1180	decline in mean arterial BP
+T13	HMM 1254 1265	arterial BP
+T14	HMM 1270 1298	improves insulin sensitivity

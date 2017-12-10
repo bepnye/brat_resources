@@ -1,0 +1,4 @@
+T1	HMM 448 473	Systolic and diastolic BP
+T2	HMM 701 713	diastolic BP
+T3	HMM 890 898	BP goal.
+T4	HMM 903 915	side effects

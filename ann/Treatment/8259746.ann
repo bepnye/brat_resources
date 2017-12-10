@@ -1,0 +1,8 @@
+T1	Treatment 25 34	labetalol
+T2	Treatment 38 49	hydralazine
+T3	Treatment 215 239	labetalol or hydralazine
+T4	Treatment 381 410	labetalol treatment (Group A)
+T5	Treatment 421 456	hydralazine treatment (Group B) and
+T6	Treatment 469 550	received both drugs due to poor blood pressure control with a single drug therapy
+T7	Treatment 1501 1512	hydralazine
+T8	Treatment 1516 1526	labetalol.

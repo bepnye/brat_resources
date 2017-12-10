@@ -1,0 +1,6 @@
+T1	HMM 398 409	pain relief
+T2	HMM 1204 1232	change in self-reported pain
+T3	HMM 1245 1266	visual analogue scale
+T4	HMM 1344 1444	VAS change scores at 10, 60, 90 and 120 min, analgesia use, mode of birth and maternal satisfaction.
+T5	HMM 1584 1591	the VAS
+T6	HMM 1747 1771	primary (VAS pain score)

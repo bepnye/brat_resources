@@ -1,0 +1,5 @@
+T1	HMM 10 37	pharmacokinetic interaction
+T2	HMM 272 307	pharmacokinetics of the CYP3A probe
+T3	HMM 740 780	clearance and peak and systemic exposure
+T4	HMM 898 928	pharmacokinetics of midazolam.
+T5	HMM 1186 1230	disposition of the CYP3A substrate midazolam

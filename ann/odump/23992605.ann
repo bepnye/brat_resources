@@ -1,0 +1,5 @@
+T1	HMM 96 121	post thrombotic syndrome.
+T2	HMM 306 336	pain, edema, hyperpigmentation
+T3	HMM 341 352	ulceration.
+T4	HMM 449 478	Villalta-Prandoni scale (VPS)
+T5	HMM 483 520	Venous Clinical Severity Score (VCSS)

@@ -1,0 +1,5 @@
+T1	Intervention 104 112	abacavir
+T2	Intervention 139 154	efavirenz (EFV)
+T3	Intervention 159 168	indinavir
+T4	Intervention 361 368	placebo
+T5	Intervention 401 455	EFV plus indinavir (EFV+IDV) vs. EFV+IDV plus abacavir

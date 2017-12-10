@@ -1,0 +1,9 @@
+T1	HMM 85 108	in-vitro fertilization.
+T2	HMM 544 567	serum oestradiol levels
+T3	HMM 696 705	follicles
+T4	HMM 769 776	oocytes
+T5	HMM 831 850	fertilization rates
+T6	HMM 972 987	cleavage rates.
+T7	HMM 992 1022	pregnancy rate/embryo transfer
+T8	HMM 1266 1306	ovarian hyperstimulation syndrome (OHSS)
+T9	HMM 1416 1446	pregnancy and livebirth rates.

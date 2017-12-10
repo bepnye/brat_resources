@@ -1,0 +1,5 @@
+T1	Treatment 23 70	PVB, VAB-6, BVP regimen versus PEB chemotherapy
+T2	Treatment 220 243	PVB, VAB-6, BVP regimen
+T3	Treatment 254 334	without etoposide versus PEB chemotherapy (bleomycin, etoposide and cisplatinum)
+T4	Treatment 1306 1318	chemotherapy
+T5	Treatment 1371 1378	surgery

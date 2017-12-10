@@ -1,0 +1,3 @@
+T1	HMM 1324 1374	duration of antibiotic therapy and hospitalization
+T2	HMM 1552 1577	negative clinical effects
+T3	HMM 1586 1609	cost of hospitalization

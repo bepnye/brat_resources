@@ -1,0 +1,7 @@
+T1	HMM 0 26	Postoperative pain control
+T2	HMM 225 268	effectiveness of postoperative pain control
+T3	HMM 588 614	visual analogue pain scale
+T4	HMM 661 665	pain
+T5	HMM 766 784	patient preference
+T6	HMM 935 939	pain
+T7	HMM 988 1021	side-effects or adverse reactions

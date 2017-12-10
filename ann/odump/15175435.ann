@@ -1,0 +1,7 @@
+T1	HMM 622 639	overall survival.
+T2	HMM 666 774	progression-free survival, the response rate, the duration of the response, safety, and the quality of life.
+T3	HMM 787 814	median duration of survival
+T4	HMM 1003 1047	median duration of progression-free survival
+T5	HMM 1310 1341	median duration of the response
+T6	HMM 1510 1530	Grade 3 hypertension
+T7	HMM 1837 1845	survival

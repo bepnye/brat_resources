@@ -1,0 +1,5 @@
+T1	HMM 0 22	Genital responsiveness
+T2	HMM 887 916	vaginal pulse amplitude (VPA)
+T3	HMM 923 952	vaginal photoplethysmography.
+T4	HMM 1029 1049	mean and maximum VPA
+T5	HMM 1069 1082	VPA response.

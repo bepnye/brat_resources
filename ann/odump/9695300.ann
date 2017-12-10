@@ -1,0 +1,5 @@
+T1	HMM 838 933	Respiratory rate, heart rate, oxygen saturation and presence of cyanosis, wheezing, retractions
+T2	HMM 1009 1026	respiratory score
+T3	HMM 1186 1196	Heart rate
+T4	HMM 1225 1242	Oxygen saturation
+T5	HMM 1346 1364	effective and safe

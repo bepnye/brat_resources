@@ -1,0 +1,9 @@
+T1	Treatment 0 23	Theta burst stimulation
+T2	Treatment 160 180	cortical stimulation
+T3	Treatment 532 561	theta burst stimulation (TBS)
+T4	Treatment 584 623	transcranial magnetic stimulation (TMS)
+T5	Treatment 733 736	TBS
+T6	Treatment 771 785	inhibitory TBS
+T7	Treatment 887 896	sham TBS.
+T8	Treatment 897 900	TBS
+T9	Treatment 1007 1011	TBS.

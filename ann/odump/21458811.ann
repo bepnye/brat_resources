@@ -1,0 +1,7 @@
+T1	HMM 584 595	lumbar pain
+T2	HMM 610 624	Pain intensity
+T3	HMM 638 656	functional ability
+T4	HMM 776 790	pain intensity
+T5	HMM 822 840	functional ability
+T6	HMM 934 948	pain intensity
+T7	HMM 961 979	functional ability

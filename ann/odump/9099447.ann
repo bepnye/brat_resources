@@ -1,0 +1,15 @@
+T1	HMM 189 282	area under the plasma concentration-time curve (AUC), the maximum plasma concentration (Cmax)
+T2	HMM 288 332	the time to reach peak concentration (Tmax).
+T3	HMM 513 516	AUC
+T4	HMM 704 707	AUC
+T5	HMM 884 887	AUC
+T6	HMM 1002 1014	Cmax or Tmax
+T7	HMM 1199 1203	Cmax
+T8	HMM 1208 1212	Tmax
+T9	HMM 1260 1281	plateau concentration
+T10	HMM 1447 1466	AUC, Tmax, and Cmax
+T11	HMM 1610 1616	5h AUC
+T12	HMM 1688 1695	AUCinf.
+T13	HMM 1824 1890	confidence intervals, probability values, and nonparametric tests.
+T14	HMM 1909 1936	single-point short-term AUC
+T15	HMM 2016 2035	AUC, Cmax, and Tmax

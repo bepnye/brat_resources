@@ -1,0 +1,10 @@
+T1	HMM 421 437	major depression
+T2	HMM 445 454	dysthymia
+T3	HMM 985 1004	depressive symptoms
+T4	HMM 1038 1093	Patient Health Questionnaire-9 (PHQ-9) depression scale
+T5	HMM 1236 1247	PHQ-9 score
+T6	HMM 1404 1441	greater rates of depression treatment
+T7	HMM 1503 1534	better quality-of-life outcomes
+T8	HMM 1640 1649	emotional
+T9	HMM 1715 1725	functional
+T10	HMM 1795 1814	physical well-being

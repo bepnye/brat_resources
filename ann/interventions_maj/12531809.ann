@@ -1,0 +1,15 @@
+T1	Intervention 0 31	Dexamethasone versus prednisone
+T2	Intervention 61 87	intravenous mercaptopurine
+T3	Intervention 273 283	prednisone
+T4	Intervention 288 310	oral 6-mercaptopurine.
+T5	Intervention 365 378	dexamethasone
+T6	Intervention 384 394	prednisone
+T7	Intervention 403 447	intravenous (IV) over oral 6-mercaptopurine,
+T8	Intervention 579 592	dexamethasone
+T9	Intervention 597 617	IV 6-mercaptopurine.
+T10	Intervention 738 751	dexamethasone
+T11	Intervention 818 828	prednisone
+T12	Intervention 907 926	IV 6-mercaptopurine
+T13	Intervention 1076 1093	6-mercaptopurine.
+T14	Intervention 1150 1163	dexamethasone
+T15	Intervention 1212 1241	Intrathecal (IT) methotrexate

@@ -1,0 +1,8 @@
+T1	HMM 179 187	outcomes
+T2	HMM 835 956	probing depth reduction (PD), horizontal clinical attachment level (CAL-h) gain, and increase in gingival recession (GR).
+T3	HMM 961 1008	vertical clinical attachment level (CAL-v) gain
+T4	HMM 1148 1160	PD reduction
+T5	HMM 1201 1211	CAL-v gain
+T6	HMM 1255 1266	GR increase
+T7	HMM 1329 1360	closure of the furcation defect
+T8	HMM 1378 1428	superior horizontal clinical attachment level gain

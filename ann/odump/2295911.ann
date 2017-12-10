@@ -1,0 +1,10 @@
+T1	HMM 236 245	frequency
+T2	HMM 249 280	occult testicular leukemia (TL)
+T3	HMM 298 325	disease-free survival (DFS)
+T4	HMM 1051 1059	relapsed
+T5	HMM 1138 1143	died.
+T6	HMM 1226 1254	developed isolated overt TL.
+T7	HMM 1255 1282	DFS after testicular biopsy
+T8	HMM 1287 1307	significantly better
+T9	HMM 1633 1679	subsequent bone marrow (BM) relapse and death.
+T10	HMM 1750 1769	higher salvage rate

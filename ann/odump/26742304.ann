@@ -1,0 +1,12 @@
+T1	HMM 130 141	labour pain
+T2	HMM 340 351	labor pain.
+T3	HMM 1463 1620	The visual analogue scale (VAS), stage and manner of labor, Apgar score of newborn, neonatal weights, oxytocin dosage, postpartum hemorrhage and side effects
+T4	HMM 1774 1783	VAS score
+T5	HMM 1906 1922	analgesic effect
+T6	HMM 2292 2308	neonatal weights
+T7	HMM 2367 2391	rate of cesarean section
+T8	HMM 2559 2572	used oxytocin
+T9	HMM 2655 2676	postpartum hemorrhage
+T10	HMM 2738 2779	itching, uroschesis and neonatal asphyxia
+T11	HMM 2800 2842	nausea and vomiting and neonatal asphyxia.
+T12	HMM 2858 2870	side-effects

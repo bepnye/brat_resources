@@ -1,0 +1,4 @@
+T1	HMM 493 505	initial cure
+T2	HMM 526 541	definitive cure
+T3	HMM 669 687	abatement of fever
+T4	HMM 697 724	complete spleen regression.

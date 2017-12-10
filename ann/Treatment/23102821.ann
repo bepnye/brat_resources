@@ -1,0 +1,7 @@
+T1	Treatment 42 57	pharmacotherapy
+T2	Treatment 62 75	psychotherapy
+T3	Treatment 773 812	12-week open-label antidepressant trial
+T4	Treatment 919 1076	ongoing medication algorithm alone, medication plus cognitive behavioral analysis system of psychotherapy, or medication plus brief supportive psychotherapy.
+T5	Treatment 1373 1399	psychotherapy + medication
+T6	Treatment 1441 1451	medication
+T7	Treatment 1760 1776	pharmacotherapy.

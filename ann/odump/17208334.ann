@@ -1,0 +1,9 @@
+T1	HMM 39 47	efficacy
+T2	HMM 52 58	safety
+T3	HMM 356 375	efficacy and safety
+T4	HMM 727 764	investigator's global acne assessment
+T5	HMM 800 867	reduction in inflammatory, noninflammatory, and total lesion counts
+T6	HMM 910 936	inflammatory lesion counts
+T7	HMM 1124 1134	hemoglobin
+T8	HMM 1216 1230	Adverse events
+T9	HMM 1505 1518	acne vulgaris

@@ -1,0 +1,20 @@
+Adult
+Antineoplastic Agents, Hormonal
+Breast Neoplasms
+Carcinoma, Ductal, Breast
+Carcinoma, Lobular
+Cell Proliferation
+Chemotherapy, Adjuvant
+Female
+Humans
+Ki-67 Antigen
+Lymphatic Metastasis
+Middle Aged
+Mitotic Index
+Neoplasm Staging
+Premenopause
+Receptors, Estrogen
+Survival Analysis
+Tamoxifen
+Treatment Outcome
+Tumor Markers, Biological

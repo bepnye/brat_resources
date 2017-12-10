@@ -1,0 +1,14 @@
+T1	HMM 401 419	appropriate volume
+T2	HMM 424 439	needle location
+T3	HMM 507 513	effect
+T4	HMM 517 537	associated variables
+T5	HMM 549 594	knee circumference, body mass index, and sex.
+T6	HMM 1270 1293	average body mass index
+T7	HMM 1327 1359	diagnose 50% of the arthrotomies
+T8	HMM 1401 1462	volumes that were needed in order to effectively diagnose 75%
+T9	HMM 1489 1501	arthrotomies
+T10	HMM 1552 1665	mean volumes of injected fluid needed for a positive result at the inferomedial and superomedial needle locations
+T11	HMM 1757 1855	no correlation between necessary injection volume and sex, body mass index, or knee circumference.
+T12	HMM 2009 2040	inferomedial injection location
+T13	HMM 2050 2074	significantly less fluid
+T14	HMM 2082 2113	superomedial injection location

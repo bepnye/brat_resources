@@ -1,0 +1,11 @@
+Adolescent
+Adult
+Echocardiography, Transesophageal
+Embolism, Fat
+Female
+Femoral Fractures
+Fracture Fixation, Intramedullary
+Humans
+Intraoperative Complications
+Male
+Pulmonary Embolism

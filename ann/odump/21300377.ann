@@ -1,0 +1,10 @@
+T1	HMM 35 68	remission of psychotic depression
+T2	HMM 192 210	treatment outcomes
+T3	HMM 314 321	outcome
+T4	HMM 432 458	outcome of pharmacotherapy
+T5	HMM 768 776	outcomes
+T6	HMM 874 893	high remission rate
+T7	HMM 1048 1066	low remission rate
+T8	HMM 1208 1226	low remission rate
+T9	HMM 1425 1456	impact of prior pharmacotherapy
+T10	HMM 1460 1478	treatment outcomes

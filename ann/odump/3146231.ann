@@ -1,0 +1,7 @@
+T1	HMM 108 174	frequency of headache, nausea, vomiting, and analgesic requirement
+T2	HMM 387 406	Nausea and vomiting
+T3	HMM 538 559	frequency of headache
+T4	HMM 603 639	postoperative analgesic requirements
+T5	HMM 704 728	Postoperative complaints
+T6	HMM 862 883	analgesic requirement
+T7	HMM 960 969	vomiting.

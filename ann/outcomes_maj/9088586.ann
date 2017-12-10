@@ -1,0 +1,10 @@
+T1	Outcomes 878 902	pulmonary artery pressur
+T2	Outcomes 905 919	cardiac output
+T3	Outcomes 930 965	pulmonary vascular resistance (PVR)
+T4	Outcomes 975 1002	Plasma renin activity (PRA)
+T5	Outcomes 1187 1190	PVR
+T6	Outcomes 1406 1424	delta-PVR response
+T7	Outcomes 1428 1438	hypoxaemia
+T8	Outcomes 1619 1651	systemic haemodynamic parameters
+T9	Outcomes 1758 1787	pulmonary vascular resistance
+T10	Outcomes 1820 1858	hypoxaemic pulmonary vascular response

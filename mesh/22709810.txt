@@ -1,0 +1,16 @@
+Body Mass Index
+Breast Neoplasms
+Colorectal Neoplasms
+Diet
+Female
+Food Habits
+Humans
+Linear Models
+Male
+Neoplasm Recurrence, Local
+Overweight
+Principal Component Analysis
+Prostatic Neoplasms
+Rural Population
+Survivors
+Urban Population

@@ -1,0 +1,6 @@
+T1	HMM 867 884	complete response
+T2	HMM 911 927	partial response
+T3	HMM 961 969	CR rates
+T4	HMM 1427 1447	3 year survival rate
+T5	HMM 1513 1555	incidence of myelosuppression and alopecia
+T6	HMM 1593 1603	neuropathy

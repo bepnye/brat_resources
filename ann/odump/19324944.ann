@@ -1,0 +1,5 @@
+T1	HMM 107 125	glucose tolerance.
+T2	HMM 722 729	glucose
+T3	HMM 801 808	insulin
+T4	HMM 956 1002	insulin or glucose area under the curve values
+T5	HMM 1102 1131	glucose and insulin responses

@@ -1,0 +1,6 @@
+T1	HMM 717 750	geometric mean fold-rises (GMFRs)
+T2	HMM 767 798	Mean postvaccination IgA ratios
+T3	HMM 981 1029	≥ 2-fold increase in strain-specific IgA ratio
+T4	HMM 1052 1063	recipients.
+T5	HMM 1064 1069	GMFRs
+T6	HMM 1340 1399	the mean postvaccination strain-specific to total IgA ratio

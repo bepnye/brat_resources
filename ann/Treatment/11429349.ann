@@ -1,0 +1,9 @@
+T1	Treatment 40 48	propofol
+T2	Treatment 58 79	with and without EDTA
+T3	Treatment 278 294	EDTA to propofol
+T4	Treatment 414 452	induction of anesthesia with halothane
+T5	Treatment 508 569	received propofol without EDTA (n = 33) or propofol with EDTA
+T6	Treatment 782 800	Propofol with EDTA
+T7	Treatment 873 899	Propofol and propofol EDTA
+T8	Treatment 1365 1369	EDTA
+T9	Treatment 1477 1491	EDTA, propofol

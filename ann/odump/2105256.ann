@@ -1,0 +1,7 @@
+T1	HMM 41 59	short-term outcome
+T2	HMM 63 96	severely malnourished cirrhotics.
+T3	HMM 951 974	Total enteral nutrition
+T4	HMM 984 993	tolerated
+T5	HMM 1023 1054	Serum albumin and Child's score
+T6	HMM 1115 1151	Mortality rate while in the hospital
+T7	HMM 1311 1338	short-term clinical outcome

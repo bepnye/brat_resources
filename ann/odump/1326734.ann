@@ -1,0 +1,12 @@
+T1	HMM 364 372	efficacy
+T2	HMM 377 386	tolerance
+T3	HMM 557 578	response and toxicity
+T4	HMM 610 618	toxicity
+T5	HMM 629 658	overall response rate (CR+PR)
+T6	HMM 729 755	mean duration of remission
+T7	HMM 807 825	mean survival time
+T8	HMM 875 895	WHO grade 4 toxicity
+T9	HMM 984 998	cardiotoxicity
+T10	HMM 1026 1031	death
+T11	HMM 1093 1112	antitumor activity.
+T12	HMM 1113 1121	Toxicity

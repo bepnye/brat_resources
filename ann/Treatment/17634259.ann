@@ -1,0 +1,15 @@
+T1	Treatment 0 17	Protein ingestion
+T2	Treatment 166 203	carbohydrate and/or protein ingestion
+T3	Treatment 221 229	exercise
+T4	Treatment 487 506	resistance exercise
+T5	Treatment 541 637	carbohydrate with or without 0.3 g x kg(-1) protein hydrolysate (CHO+PRO and CHO, respectively).
+T6	Treatment 638 653	Muscle biopsies
+T7	Treatment 869 891	4E-BP1 phosphorylation
+T8	Treatment 931 934	CHO
+T9	Treatment 970 977	CHO+PRO
+T10	Treatment 1329 1342	CHO treatment
+T11	Treatment 1424 1431	CHO+PRO
+T12	Treatment 1538 1545	CHO+PRO
+T13	Treatment 1554 1557	CHO
+T14	Treatment 1640 1647	CHO+PRO
+T15	Treatment 1676 1679	CHO

@@ -1,0 +1,6 @@
+T1	Treatment 0 27	Statin treatment withdrawal
+T2	Treatment 247 285	statin pretreatment and its withdrawal
+T3	Treatment 444 450	statin
+T4	Treatment 494 615	statin withdrawal for the first 3 days after admission (n = 46) or to immediately receive atorvastatin 20 mg/day (n = 43)
+T5	Treatment 1216 1237	non-statin-withdrawal
+T6	Treatment 1245 1251	Statin

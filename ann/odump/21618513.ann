@@ -1,0 +1,7 @@
+T1	HMM 52 81	colorectal adenoma recurrence
+T2	HMM 212 232	colorectal neoplasms
+T3	HMM 506 524	adenoma recurrence
+T4	HMM 661 691	colorectal adenoma recurrence.
+T5	HMM 782 800	adenoma recurrence
+T6	HMM 1030 1060	colorectal adenoma recurrence;
+T7	HMM 1106 1132	risk of adenoma recurrence

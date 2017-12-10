@@ -1,0 +1,12 @@
+T1	HMM 306 321	growth velocity
+T2	HMM 369 384	growth velocity
+T3	HMM 678 693	height velocity
+T4	HMM 706 726	total gain of height
+T5	HMM 984 1024	Height velocity HV and total height gain
+T6	HMM 1088 1131	HV and HV standard deviation score HV-SDSCA
+T7	HMM 1272 1319	gain in height standard deviation score H-SDSCA
+T8	HMM 1383 1398	gain in H-SDSCA
+T9	HMM 1490 1496	height
+T10	HMM 1563 1586	rate of bone maturation
+T11	HMM 1713 1719	growth
+T12	HMM 1811 1837	overall gain in height SDS

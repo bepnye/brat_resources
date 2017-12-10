@@ -1,0 +1,6 @@
+T1	HMM 43 70	generalized osteoarthritis:
+T2	HMM 208 235	hip or knee osteoarthritis.
+T3	HMM 1153 1262	daily functioning during the first year after the treatment, assessed on the Health Assessment Questionnaire.
+T4	HMM 1286 1358	health related quality of life, specific complaints, fatigue, and costs.
+T5	HMM 1359 1420	Illness cognitions, global perceived effect and self-efficacy
+T6	HMM 1704 1727	costs and effectiveness

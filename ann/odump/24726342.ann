@@ -1,0 +1,19 @@
+T1	HMM 48 82	specific airway resistance changes
+T2	HMM 442 490	that specific airway resistance changes (ΔsRAW)
+T3	HMM 595 658	underwent dyspnea evaluation (VAS score) and pulmonary function
+T4	HMM 744 790	RESULTS Spirographic and ΔsRAW-based criteria
+T5	HMM 836 849	respectively.
+T6	HMM 850 856	ΔsRAW
+T7	HMM 873 917	changes of intrathoracic gas volume (ΔITGV)
+T8	HMM 927 952	p<0.001), residual volume
+T9	HMM 969 977	p<0.001)
+T10	HMM 994 1002	p=0.001)
+T11	HMM 1023 1038	p<0.001), while
+T12	HMM 1046 1061	correlated only
+T13	HMM 1116 1124	in terms
+T14	HMM 1128 1144	ΔITGV (p=0.002)
+T15	HMM 1151 1160	(p=0.023)
+T16	HMM 1213 1233	stratified according
+T17	HMM 1301 1330	bronchodilators, ΔsRAW-based
+T18	HMM 1341 1372	is preferable to FEV1-FVC-based
+T19	HMM 1394 1435	closely related to bronchodilator-induced

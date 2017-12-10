@@ -1,0 +1,22 @@
+Administration, Intravesical
+Adult
+Aged
+Antineoplastic Agents
+Carcinoma, Transitional Cell
+Doxorubicin
+Female
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Neoplasm Recurrence, Local
+Neoplasm Seeding
+Nephrectomy
+Odds Ratio
+Risk Assessment
+Risk Factors
+Secondary Prevention
+Ureter
+Urinary Bladder Neoplasms
+Urine
+Urologic Neoplasms

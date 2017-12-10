@@ -1,0 +1,9 @@
+T1	HMM 332 353	global brain dynamics
+T2	HMM 626 671	changes in directionality of information flow
+T3	HMM 770 788	brain oscillations
+T4	HMM 1188 1233	changes in the coupling of brain oscillations
+T5	HMM 1557 1595	anterior-to-posterior transfer entropy
+T6	HMM 1692 1713	anterior-to-posterior
+T7	HMM 1718 1756	posterior-to-anterior transfer entropy
+T8	HMM 1876 1896	temporary disruption
+T9	HMM 1900 1918	neural hierarchies

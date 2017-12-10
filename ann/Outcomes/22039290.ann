@@ -1,0 +1,14 @@
+T1	Outcomes 103 134	pharmacokinetic/pharmacodynamic
+T2	Outcomes 285 296	wakefulness
+T3	Outcomes 314 334	excessive sleepiness
+T4	Outcomes 351 376	shift work disorder (SWD)
+T5	Outcomes 443 464	plasma concentrations
+T6	Outcomes 532 573	Pooled Multiple Sleep Latency Test (MSLT)
+T7	Outcomes 798 829	pharmacokinetic/pharmacodynamic
+T8	Outcomes 847 873	plasma drug concentrations
+T9	Outcomes 928 949	pharmacokinetic model
+T10	Outcomes 956 989	nonlinear mixed-effects modeling.
+T11	Outcomes 1020 1040	plasma concentration
+T12	Outcomes 1150 1161	armodafinil
+T13	Outcomes 1202 1231	placebo-subtracted MSLT times
+T14	Outcomes 1357 1391	consistently increased wakefulness

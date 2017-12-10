@@ -1,0 +1,6 @@
+T1	HMM 73 93	patient satisfaction
+T2	HMM 516 533	long-term benefit
+T3	HMM 829 878	interview by an independent, masked investigator.
+T4	HMM 955 979	outcome of their surgery
+T5	HMM 1078 1099	visual analogue scale
+T6	HMM 1396 1416	overall satisfaction

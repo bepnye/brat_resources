@@ -1,0 +1,14 @@
+T1	HMM 604 613	anabolism
+T2	HMM 874 1000	Circulating insulin, C-peptide, GH, IGF-I, bioavailable IGF-I, IGF-binding protein (IGFBP)-1, IGFBP-3, and acid-labile subunit
+T3	HMM 1096 1104	cortisol
+T4	HMM 1110 1118	glucagon
+T5	HMM 1180 1189	C-peptide
+T6	HMM 1285 1299	circulating GH
+T7	HMM 1323 1341	bioavailable IGF-I
+T8	HMM 1374 1381	IGFBP-3
+T9	HMM 1399 1418	acid-labile subunit
+T10	HMM 1449 1456	IGFBP-1
+T11	HMM 1476 1497	urea/creatinine ratio
+T12	HMM 1568 1575	IGFBP-1
+T13	HMM 1675 1696	cortisol and glucagon
+T14	HMM 1783 1819	catabolic state of critical illness.

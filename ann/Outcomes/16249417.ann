@@ -1,0 +1,8 @@
+T1	Outcomes 50 75	surgical wound infection:
+T2	Outcomes 209 234	surgical wound infection.
+T3	Outcomes 1038 1072	Any surgical site infection (SSI);
+T4	Outcomes 1101 1222	return of bowel function and ability to tolerate solid food, ambulation, suture removal, and duration of hospitalization.
+T5	Outcomes 1332 1355	Surgical site infection
+T6	Outcomes 1472 1483	risk of SSI
+T7	Outcomes 1937 1961	risk of wound infection.
+T8	Outcomes 2032 2035	SSI

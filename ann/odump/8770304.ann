@@ -1,0 +1,6 @@
+T1	HMM 994 1167	quality of pain control, the amount and character of the drain fluid, incidence of nausea and vomiting, length of stay in the postoperative care unit, and amount of morphine
+T2	HMM 1294 1317	quality of pain control
+T3	HMM 1399 1418	incidence of nausea
+T4	HMM 1470 1482	drain output
+T5	HMM 1625 1634	effective
+T6	HMM 1642 1650	efficacy

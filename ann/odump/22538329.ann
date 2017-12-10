@@ -1,0 +1,14 @@
+T1	HMM 48 88	progression of coronary atherosclerosis:
+T2	HMM 191 211	atheroma progression
+T3	HMM 563 582	disease progression
+T4	HMM 724 739	atheroma burden
+T5	HMM 928 929	.
+T6	HMM 930 978	Clinical characteristics and disease progression
+T7	HMM 1106 1142	with spotty calcification were older
+T8	HMM 1240 1270	a history of diabetes mellitus
+T9	HMM 1295 1320	and myocardial infarction
+T10	HMM 1356 1418	lower on-treatment high-density lipoprotein cholesterol levels
+T11	HMM 1517 1554	greater percent atheroma volume (PAV)
+T12	HMM 1591 1623	0.001) and total atheroma volume
+T13	HMM 1729 1764	associated with greater progression
+T14	HMM 2094 2130	and diffuse coronary atherosclerosis

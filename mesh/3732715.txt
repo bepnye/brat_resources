@@ -1,0 +1,17 @@
+Adult
+Angina Pectoris
+Benzazepines
+Blood Pressure
+Cardiac Pacing, Artificial
+Coronary Vessels
+Diltiazem
+Electrocardiography
+Exercise Test
+Female
+Heart Rate
+Humans
+Male
+Middle Aged
+Propranolol
+Random Allocation
+Syndrome

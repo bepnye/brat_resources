@@ -1,0 +1,19 @@
+Adult
+Aged
+Aged, 80 and over
+Antibodies, Monoclonal, Murine-Derived
+Antineoplastic Combined Chemotherapy Protocols
+Cyclophosphamide
+Doxorubicin
+Female
+Gene Expression Regulation, Neoplastic
+Humans
+Lymphoma, Large B-Cell, Diffuse
+Male
+Middle Aged
+Prednisone
+Retrospective Studies
+South Africa
+Tissue Array Analysis
+Tumor Markers, Biological
+Vincristine

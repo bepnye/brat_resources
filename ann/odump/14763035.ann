@@ -1,0 +1,12 @@
+T1	HMM 621 640	blood pressure (BP)
+T2	HMM 757 791	aortic and large-artery compliance
+T3	HMM 796 848	arterial wave reflections [pulse wave velocity (PWV)
+T4	HMM 853 899	augmentation index (AI) application tonometry]
+T5	HMM 904 929	cardiac echocardiography.
+T6	HMM 957 1124	body weight, BP (mercury sphygmomanometer), serum creatinine, electrolytes, complete blood cell counts, urine volume, drainage volume, and weekly creatinine clearance.
+T7	HMM 1215 1240	Systolic and diastolic BP
+T8	HMM 1293 1297	LVMi
+T9	HMM 1475 1479	LVMi
+T10	HMM 1515 1518	PWV
+T11	HMM 1523 1525	AI
+T12	HMM 1566 1570	LVMi

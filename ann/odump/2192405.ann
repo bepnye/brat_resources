@@ -1,0 +1,8 @@
+T1	HMM 1428 1444	pin-prick method
+T2	HMM 1494 1508	Bromage scale.
+T3	HMM 1509 1538	Heart rate and blood pressure
+T4	HMM 1594 1614	latency of analgesia
+T5	HMM 2022 2052	duration of sensory anesthesia
+T6	HMM 2194 2221	two-segment regression time
+T7	HMM 2329 2360	total duration of sensory block
+T8	HMM 2671 2691	inadequate analgesia

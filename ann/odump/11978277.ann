@@ -1,0 +1,9 @@
+T1	HMM 48 74	symptomatic endometriosis:
+T2	HMM 799 829	Physical findings and symptoms
+T3	HMM 851 884	lumbar spine bone mineral density
+T4	HMM 962 999	Symptom and pelvic examination scores
+T5	HMM 1148 1168	endometriosis scores
+T6	HMM 1201 1233	Mean bone mineral density values
+T7	HMM 1309 1329	loss in bone density
+T8	HMM 1638 1649	pain relief
+T9	HMM 1654 1674	bone mineral density

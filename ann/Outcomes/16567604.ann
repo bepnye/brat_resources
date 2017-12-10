@@ -1,0 +1,7 @@
+T1	Outcomes 279 328	all-cause mortality and recurrent hospitalization
+T2	Outcomes 596 615	all-cause mortality
+T3	Outcomes 677 736	event-free survival from death or unplanned hospitalization
+T4	Outcomes 871 896	unplanned hospitalization
+T5	Outcomes 1073 1090	hospital activity
+T6	Outcomes 1222 1234	readmissions
+T7	Outcomes 1538 1562	recurrent hospital costs

@@ -1,0 +1,13 @@
+T1	HMM 239 247	response
+T2	HMM 1073 1099	basis of platelet response
+T3	HMM 1124 1178	for response to treatment (defined as a platelet count
+T4	HMM 1303 1327	was the odds of response
+T5	HMM 1692 1720	group responded to treatment
+T6	HMM 1805 1806	.
+T7	HMM 1807 1829	The odds of responding
+T8	HMM 2040 2081	eltrombopag reduced concomitant treatment
+T9	HMM 2166 2191	eltrombopag needed rescue
+T10	HMM 2294 2324	eltrombopag had thromboembolic
+T11	HMM 2457 2508	increases in alanine aminotransferase concentration
+T12	HMM 2588 2606	increases in total
+T13	HMM 2644 2672	placebo had serious bleeding

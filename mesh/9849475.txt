@@ -1,0 +1,13 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Cisplatin
+Combined Modality Therapy
+Cyclophosphamide
+Disease-Free Survival
+Drug Resistance, Neoplasm
+Female
+Humans
+Middle Aged
+Ovarian Neoplasms
+Treatment Outcome

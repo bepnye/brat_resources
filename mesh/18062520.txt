@@ -1,0 +1,14 @@
+Adult
+Aged
+Analgesics, Opioid
+Anesthesia, Conduction
+Drug Therapy, Combination
+Female
+Humans
+Hypnotics and Sedatives
+Male
+Meperidine
+Midazolam
+Middle Aged
+Prospective Studies
+Tramadol

@@ -1,0 +1,14 @@
+T1	HMM 45 52	effects
+T2	HMM 56 71	pain responses.
+T3	HMM 166 183	analgesic effects
+T4	HMM 504 568	Pain was assessed using the premature infant pain profile score.
+T5	HMM 569 587	Duration of crying
+T6	HMM 632 649	salivary cortisol
+T7	HMM 746 769	cried for a longer time
+T8	HMM 883 927	The mean premature infant pain profile score
+T9	HMM 947 971	was significantly higher
+T10	HMM 1040 1066	The mean salivary cortisol
+T11	HMM 1090 1115	also significantly higher
+T12	HMM 1191 1197	0.02).
+T13	HMM 1198 1228	No significant adverse effects
+T14	HMM 1383 1410	significant adverse effects

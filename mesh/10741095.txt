@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Aged
+Albuterol
+Anti-Asthmatic Agents
+Asthma
+Beclomethasone
+Bronchial Provocation Tests
+Bronchodilator Agents
+Drug Therapy, Combination
+Female
+Glucocorticoids
+Humans
+Male
+Middle Aged
+Nedocromil
+Peak Expiratory Flow Rate
+Time Factors

@@ -1,0 +1,9 @@
+T1	HMM 0 24	Injury and illness costs
+T2	HMM 302 328	cost effectiveness of CSF.
+T3	HMM 807 851	Annual occupational injury and illness costs
+T4	HMM 973 995	out-of-pocket expenses
+T5	HMM 1027 1081	combined costs of insurance and out-of-pocket expenses
+T6	HMM 1245 1296	annual occupational injury and illness cost savings
+T7	HMM 1366 1383	health care costs
+T8	HMM 1613 1630	health care costs
+T9	HMM 1699 1711	cost savings

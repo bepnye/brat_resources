@@ -1,0 +1,7 @@
+T1	HMM 854 879	intensity of chemotherapy
+T2	HMM 1036 1059	duration of neutropenia
+T3	HMM 1212 1231	pulmonary infection
+T4	HMM 1358 1377	pulmonary infection
+T5	HMM 1451 1520	incidence of ARDS due to pulmonary infection per chemotherapy session
+T6	HMM 1608 1661	incidence of ARDS due to pulmonary infection per case
+T7	HMM 1748 1822	incidence of ARDS due to pulmonary infection was higher in the G-CSF group

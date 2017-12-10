@@ -1,0 +1,17 @@
+T1	Treatment 53 72	rocuronium infusion
+T2	Treatment 80 102	propofol-nitrous oxide
+T3	Treatment 107 144	isoflurane-nitrous oxide anaesthesia.
+T4	Treatment 203 222	rocuronium infusion
+T5	Treatment 272 344	propofol-nitrous oxide and isoflurane (1 MAC)-nitrous oxide anaesthesia.
+T6	Treatment 424 456	closed-loop feedback controller.
+T7	Treatment 474 509	steady-state infusion of rocuronium
+T8	Treatment 548 575	corresponding concentration
+T9	Treatment 619 628	propofol.
+T10	Treatment 646 668	corresponding infusion
+T11	Treatment 775 785	isoflurane
+T12	Treatment 942 952	rocuronium
+T13	Treatment 995 1005	rocuronium
+T14	Treatment 1059 1071	anaesthesia;
+T15	Treatment 1145 1153	propofol
+T16	Treatment 1158 1180	isoflurane anaesthesia
+T17	Treatment 1261 1271	rocuronium

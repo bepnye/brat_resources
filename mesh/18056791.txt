@@ -1,0 +1,24 @@
+Absorptiometry, Photon
+Adult
+Amino Acids, Essential
+Blotting, Western
+Cross-Sectional Studies
+Dietary Carbohydrates
+Electrophoresis, Polyacrylamide Gel
+Exercise
+Glucose
+Humans
+Lactic Acid
+Leucine
+Male
+Muscle Proteins
+Muscle, Skeletal
+Oncogene Protein v-akt
+Phenylalanine
+Physical Fitness
+Protein Kinases
+Regional Blood Flow
+Ribosomal Protein S6 Kinases
+Signal Transduction
+TOR Serine-Threonine Kinases
+Tumor Suppressor Proteins

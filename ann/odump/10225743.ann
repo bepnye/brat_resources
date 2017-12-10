@@ -1,0 +1,4 @@
+T1	HMM 0 18	Blood purification
+T2	HMM 995 1003	efficacy
+T3	HMM 1169 1190	indications, efficacy
+T4	HMM 1196 1215	outcome parameters.

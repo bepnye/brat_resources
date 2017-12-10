@@ -1,0 +1,5 @@
+T1	HMM 144 152	efficacy
+T2	HMM 807 966	severity of SDB (polysomnography), subjective and objective loudness of snoring (visual analog scale and SNAP recording), sleepiness (Epworth Sleepiness Scale)
+T3	HMM 972 1013	anatomic changes (upper airway endoscopy)
+T4	HMM 1411 1418	snoring
+T5	HMM 1537 1544	snoring

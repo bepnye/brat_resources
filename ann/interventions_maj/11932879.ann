@@ -1,0 +1,15 @@
+T1	Intervention 32 45	cyclosporin A
+T2	Intervention 49 61	methotrexate
+T3	Intervention 206 225	cyclosporin A (CSA)
+T4	Intervention 229 247	methotrexate (MTX)
+T5	Intervention 484 487	CSA
+T6	Intervention 492 495	MTX
+T7	Intervention 1056 1059	CSA
+T8	Intervention 1070 1074	MTX.
+T9	Intervention 1154 1157	CSA
+T10	Intervention 1211 1215	MTX.
+T11	Intervention 1330 1334	MTX.
+T12	Intervention 1499 1502	MTX
+T13	Intervention 1892 1895	CSA
+T14	Intervention 1900 1903	MTX
+T15	Intervention 1941 1945	MTX.

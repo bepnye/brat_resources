@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aged
+Ammonia
+Blood Glucose
+Creatinine
+Female
+Glucagon
+Humans
+Insulin
+Intestines
+Male
+Methylhistidines
+Middle Aged
+Nitrogen
+Nutrition Disorders
+Parenteral Nutrition
+Proteins
+Surgical Procedures, Operative
+Urea

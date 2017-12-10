@@ -1,0 +1,11 @@
+T1	HMM 0 6	Effect
+T2	HMM 32 46	lactate levels
+T3	HMM 466 496	recovery from intense exercise
+T4	HMM 501 585	activity pattern, rate of perceived exertion (RPE), and blood lactate concentration.
+T5	HMM 739 848	The mean heart rate (HR), RPE, number of steps (determined by step counter), and blood lactate concentrations
+T6	HMM 1038 1049	the mean HR
+T7	HMM 1166 1194	increased voluntary activity
+T8	HMM 1230 1255	increased number of steps
+T9	HMM 1363 1378	number of steps
+T10	HMM 1442 1481	decrease in blood lactate concentration
+T11	HMM 1612 1620	decrease

@@ -1,0 +1,18 @@
+Adult
+Aged
+Colorectal Neoplasms
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Female
+Floxuridine
+Fluorouracil
+Humans
+Infusions, Intra-Arterial
+Infusions, Intravenous
+Leucovorin
+Liver Neoplasms
+Male
+Middle Aged
+Prospective Studies
+Survival Rate
+Treatment Outcome

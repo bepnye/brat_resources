@@ -1,0 +1,8 @@
+T1	HMM 372 393	oral cancer mortality
+T2	HMM 591 615	Compliance with referral
+T3	HMM 887 895	screened
+T4	HMM 1135 1155	chances of screening
+T5	HMM 1193 1223	living in high-size households
+T6	HMM 1309 1318	referral.
+T7	HMM 1450 1458	referral
+T8	HMM 1527 1547	comply with referral

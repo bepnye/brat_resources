@@ -1,0 +1,12 @@
+T1	HMM 34 76	thromboxane and prostaglandin biosynthesis
+T2	HMM 149 226	bradykinin-stimulated prostaglandin (PG) and on thromboxane (TX) biosynthesis
+T3	HMM 495 521	TXB2 was measured in serum
+T4	HMM 569 611	Aspirin inhibited bradykinin stimulated PG
+T5	HMM 663 686	Serum TXB2 remained low
+T6	HMM 696 718	PG synthesis recovered
+T7	HMM 828 851	Prostanoid biosynthesis
+T8	HMM 874 911	Biosynthesis of prostacyclin and TXA2
+T9	HMM 968 1023	measuring 2,3-dinor-6-oxo-PGF1 alpha and 2,3-dinor-TXB2
+T10	HMM 1167 1192	reduced urinary excretion
+T11	HMM 1248 1297	2,3-dinor-6-oxo-PGF1 alpha recovered more rapidly
+T12	HMM 1370 1422	rapidly synthesised in bradykinin-responsive tissues

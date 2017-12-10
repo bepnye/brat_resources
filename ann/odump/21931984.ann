@@ -1,0 +1,10 @@
+T1	HMM 790 811	Movement trajectories
+T2	HMM 897 945	accurate when binocular information was present.
+T3	HMM 994 1063	proportional rate control strategy rather than a constant τ strategy
+T4	HMM 1068 1090	the walk-to-reach task
+T5	HMM 1097 1161	used monocular and/or binocular τ information to guide the head
+T6	HMM 1183 1256	using relative disparity τ to guide the hand to final target acquisition
+T7	HMM 1403 1422	perform simulations
+T8	HMM 1479 1509	that proportional rate control
+T9	HMM 1531 1588	with head centric, then hand-centric τ-based information
+T10	HMM 1604 1610	moment

@@ -1,0 +1,7 @@
+T1	HMM 71 89	long-term survival
+T2	HMM 384 402	leucocyte-depleted
+T3	HMM 959 988	perioperative RBC transfusion
+T4	HMM 1011 1092	5-year overall survival rate of patients with any type of gastrointestinal cancer
+T5	HMM 1192 1226	5-year disease-free survival rates
+T6	HMM 1272 1288	recurrence rates
+T7	HMM 1386 1431	long-term survival and lower recurrence rates

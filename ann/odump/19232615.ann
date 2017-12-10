@@ -1,0 +1,17 @@
+T1	HMM 59 105	in-hospital mortality and neurological outcome
+T2	HMM 347 433	infection rate, days in NICU, in-hospital mortality and long-term neurological outcome
+T3	HMM 945 959	glucose levels
+T4	HMM 1214 1228	mortality rate
+T5	HMM 1282 1373	ICU infection rate, duration of ICU stay, in-hospital mortality rate and neurologic outcome
+T6	HMM 1539 1552	TISS-28 score
+T7	HMM 1570 1588	Glasgow Coma Score
+T8	HMM 1632 1655	Overall mortality rates
+T9	HMM 1759 1773	infection rate
+T10	HMM 1962 1979	days stay in NICU
+T11	HMM 2113 2134	in-hospital mortality
+T12	HMM 2319 2337	neurologic outcome
+T13	HMM 2351 2378	Glasgow Outcome Score (GOS)
+T14	HMM 2558 2573	Mortality rates
+T15	HMM 2707 2738	infection rate and days in NICU
+T16	HMM 2743 2776	improves the neurological outcome
+T17	HMM 2834 2855	in-hospital mortality

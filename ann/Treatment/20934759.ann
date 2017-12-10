@@ -1,0 +1,13 @@
+T1	Treatment 4 35	maximal double step length test
+T2	Treatment 156 182	maximal double step length
+T3	Treatment 224 254	maximal step length (MSL) test
+T4	Treatment 440 443	MSL
+T5	Treatment 654 657	MSL
+T6	Treatment 662 666	MDSL
+T7	Treatment 790 791	.
+T8	Treatment 792 804	MSL and MDSL
+T9	Treatment 933 942	(for MSL:
+T10	Treatment 953 962	for MDSL:
+T11	Treatment 1105 1106	.
+T12	Treatment 1107 1111	MDSL
+T13	Treatment 1273 1281	than MSL

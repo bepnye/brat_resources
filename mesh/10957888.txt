@@ -1,0 +1,10 @@
+Adult
+Anti-Bacterial Agents
+Clarithromycin
+Erythromycin
+Female
+Humans
+Male
+Pneumonia
+Radiography, Thoracic
+Roxithromycin

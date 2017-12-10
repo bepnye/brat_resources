@@ -1,0 +1,5 @@
+T1	HMM 25 34	adherence
+T2	HMM 439 488	prescription refill, pill count, and self-report.
+T3	HMM 646 656	pill count
+T4	HMM 719 752	self-reported skipping medication
+T5	HMM 1149 1166	healthy adherence

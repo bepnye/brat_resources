@@ -1,0 +1,12 @@
+T1	HMM 30 41	pain relief
+T2	HMM 95 113	analgesic efficacy
+T3	HMM 118 133	adverse effects
+T4	HMM 349 456	Analgesic efficacy, maternal side effects, changes in the blood pressure, heart rate, and duration of labor
+T5	HMM 523 534	pain relief
+T6	HMM 611 629	nausea and fatigue
+T7	HMM 698 747	decrease in systolic and diastolic blood pressure
+T8	HMM 756 778	increase in heart rate
+T9	HMM 899 934	duration of labor and Apgar scores.
+T10	HMM 966 989	respiratory depression.
+T11	HMM 1111 1129	analgesic efficacy
+T12	HMM 1151 1173	maternal side effects.

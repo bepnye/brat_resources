@@ -1,0 +1,24 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Breast Neoplasms
+Cohort Studies
+Combined Modality Therapy
+Double-Blind Method
+Drug Administration Schedule
+Female
+Graft Survival
+Granulocyte Colony-Stimulating Factor
+Granulocyte-Macrophage Colony-Stimulating Factor
+Hematopoietic Stem Cell Mobilization
+Humans
+Leukapheresis
+Lymphoma
+Male
+Middle Aged
+Multiple Myeloma
+Peripheral Blood Stem Cell Transplantation
+Recombinant Fusion Proteins
+Thrombopoietin
+Transplantation, Autologous
+Treatment Outcome

@@ -1,0 +1,6 @@
+T1	HMM 1022 1268	Cognitive development (Stanford-Binet Intelligence Scale), behavioral competence (Achebach Child Behavior Checklist), and health status (indexes summarizing reported morbidity, the Functional Status II (R) Scale, and General Health Ratings Index)
+T2	HMM 1278 1306	Cognitive development scores
+T3	HMM 1449 1467	neonatal morbidity
+T4	HMM 1594 1658	behavior, serious morbidity, functional status, or health rating
+T5	HMM 1763 1792	lower behavior problem scores
+T6	HMM 1881 1913	rates of less serious morbidity.

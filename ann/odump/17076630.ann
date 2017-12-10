@@ -1,0 +1,14 @@
+T1	HMM 125 164	ocular hemodynamics and visual function
+T2	HMM 345 393	retinal, choroidal, and retrobulbar hemodynamics
+T3	HMM 398 413	visual function
+T4	HMM 832 970	adverse events check, visual acuity, contrast sensitivity, blood pressure, heart rate, intraocular pressure (IOP), and fundus examination.
+T5	HMM 971 988	Ocular blood flow
+T6	HMM 1159 1162	IOP
+T7	HMM 1432 1488	central retinal artery end diastolic blood flow velocity
+T8	HMM 1514 1532	resistance to flow
+T9	HMM 1547 1623	Temporal posterior ciliary artery peak systolic and end diastolic velocities
+T10	HMM 1801 1818	ocular blood flow
+T11	HMM 1903 2045	adverse events, blood pressure, heart rate, visual acuity, contrast sensitivity scanning laser ophthalmoscopy, or Heidelberg Retinal Flowmeter
+T12	HMM 2152 2162	blood flow
+T13	HMM 2205 2208	IOP
+T14	HMM 2257 2272	Visual function

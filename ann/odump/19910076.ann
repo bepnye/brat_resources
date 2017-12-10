@@ -1,0 +1,20 @@
+T1	HMM 211 232	Quality of life (QoL)
+T2	HMM 698 723	symptoms control and type
+T3	HMM 750 762	side-effects
+T4	HMM 1013 1031	Health-related QoL
+T5	HMM 1101 1130	LC13 questionnaires, toxicity
+T6	HMM 1177 1195	objective response
+T7	HMM 1232 1250	QoL questionnaires
+T8	HMM 1448 1468	Global health status
+T9	HMM 1476 1495	EORTC QLQ-C30 scale
+T10	HMM 1500 1525	specific symptoms control
+T11	HMM 1637 1658	Emotional functioning
+T12	HMM 1716 1733	physical and role
+T13	HMM 1882 1884	PR
+T14	HMM 1958 1984	Median time-to-progression
+T15	HMM 2060 2083	median overall survival
+T16	HMM 2197 2221	Febrile neutropenia rate
+T17	HMM 2278 2284	anemia
+T18	HMM 2336 2374	Global and specific health-related QoL
+T19	HMM 2459 2541	Efficacy measures, overall response rate, time-to-progression and overall survival
+T20	HMM 2581 2618	severe anemia and febrile neutropenia

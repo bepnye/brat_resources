@@ -1,0 +1,7 @@
+T1	HMM 140 189	evaluation of intracranial arteriovenous contrast
+T2	HMM 254 359	difference in computed tomography (CT) attenuation values of the intracranial arterial and venous systems
+T3	HMM 843 986	Attenuation values of the bilateral internal carotid arteries (ICAs), basilar artery trunk, bilateral cavernous sinuses (CSs), and Galenic vein
+T4	HMM 1192 1214	arteriovenous contrast
+T5	HMM 1342 1350	CT value
+T6	HMM 1444 1459	ICA attenuation
+T7	HMM 1468 1494	intracavernous attenuation

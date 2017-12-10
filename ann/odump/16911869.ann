@@ -1,0 +1,16 @@
+T1	HMM 0 7	Cardiac
+T2	HMM 163 207	myocardial infarction and dysrhythmia events
+T3	HMM 834 853	proarrhythmic event
+T4	HMM 919 1009	postbaseline ventricular tachycardia events, postbaseline run of ventricular ectopic beats
+T5	HMM 1026 1049	relevant symptoms (e.g.
+T6	HMM 1050 1071	hypotension, syncope)
+T7	HMM 1079 1126	episode of ventricular flutter or fibrillation.
+T8	HMM 1324 1334	heart rate
+T9	HMM 1365 1411	number and rate of ventricular premature beats
+T10	HMM 1489 1519	ventricular tachycardia events
+T11	HMM 1601 1633	supraventricular premature beats
+T12	HMM 1710 1782	Vital signs and electrocardiogram data, including corrected QT intervals
+T13	HMM 1850 1882	overall adverse event experience
+T14	HMM 1975 2024	adverse events, infections and respiratory events
+T15	HMM 2086 2108	cardiac adverse events
+T16	HMM 2206 2232	good cardiovascular safety

@@ -1,0 +1,12 @@
+T1	HMM 29 40	Rehydration
+T2	HMM 119 130	rehydration
+T3	HMM 155 167	hypovolemia.
+T4	HMM 289 306	preoperative ORS.
+T5	HMM 620 632	remifentanil
+T6	HMM 722 739	acceleromyography
+T7	HMM 805 857	Cardiac index (CI) and stroke volume variation (SVV)
+T8	HMM 899 909	depression
+T9	HMM 913 928	onset time (OT)
+T10	HMM 949 973	twitch re-detection (TR)
+T11	HMM 1028 1031	ORS
+T12	HMM 1363 1383	of rocuronium effect

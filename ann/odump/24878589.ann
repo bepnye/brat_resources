@@ -1,0 +1,11 @@
+T1	HMM 64 88	upper-extremity function
+T2	HMM 92 108	subacute stroke:
+T3	HMM 409 421	arm function
+T4	HMM 425 440	chronic stroke.
+T5	HMM 546 558	arm function
+T6	HMM 563 571	capacity
+T7	HMM 949 1081	Fugl-Meyer assessment (FM), maximal reach distance, Stroke Upper Limb Capacity Scale (SULCS), and arm pain via Visual Analogue Scale
+T8	HMM 1175 1213	FM and SULCS scores and reach distance
+T9	HMM 1292 1296	pain
+T10	HMM 1350 1375	higher interest/enjoyment
+T11	HMM 1536 1561	arm function and activity

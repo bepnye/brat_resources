@@ -1,0 +1,13 @@
+T1	Intervention 0 28	Diode laser photocoagulation
+T2	Intervention 112 134	peripheral cryotherapy
+T3	Intervention 284 336	Argon laser indirect ophthalmoscope photocoagulation
+T4	Intervention 372 384	cryotherapy,
+T5	Intervention 575 591	ablative therapy
+T6	Intervention 751 763	diode laser,
+T7	Intervention 801 813	cryotherapy.
+T8	Intervention 1258 1270	cryotherapy,
+T9	Intervention 1383 1394	cryotherapy
+T10	Intervention 1438 1449	cryotherapy
+T11	Intervention 1705 1717	cryotherapy,
+T12	Intervention 1943 1959	retinal ablation
+T13	Intervention 1991 2002	cryotherapy

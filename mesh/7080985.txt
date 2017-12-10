@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Aged
+Cinoxacin
+Female
+Humans
+Male
+Middle Aged
+Nitrofurantoin
+Oxolinic Acid
+Pyridazines
+Random Allocation
+Urinary Tract Infections

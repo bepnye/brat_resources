@@ -1,0 +1,7 @@
+T1	HMM 234 267	risk of functional ovarian cysts.
+T2	HMM 604 626	follicular development
+T3	HMM 671 680	ovulation
+T4	HMM 737 823	relative risk (RR) of developing a follicular structure greater than 30 mm in diameter
+T5	HMM 972 1012	risk with the lower-dose monophasic pill
+T6	HMM 1128 1150	maximum ovulation rate
+T7	HMM 1338 1376	suppression of follicular development.

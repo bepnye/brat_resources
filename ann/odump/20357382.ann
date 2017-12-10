@@ -1,0 +1,9 @@
+T1	HMM 785 798	A1C reduction
+T2	HMM 901 904	A1C
+T3	HMM 1158 1168	A1C or FPG
+T4	HMM 1188 1198	A1C or FPG
+T5	HMM 1345 1356	A1C and FPG
+T6	HMM 1476 1503	serious hypoglycemic events
+T7	HMM 1544 1575	concurrent antidiabetic therapy
+T8	HMM 1595 1613	history of angina.
+T9	HMM 1694 1705	FPG and A1C

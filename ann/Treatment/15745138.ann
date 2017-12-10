@@ -1,0 +1,9 @@
+T1	Treatment 0 31	Online conductivity monitoring:
+T2	Treatment 81 112	reduced dialysate conductivity.
+T3	Treatment 114 158	Relatively low dialysate conductivity (Cndi)
+T4	Treatment 337 347	controlled
+T5	Treatment 357 375	reduction of Cndi.
+T6	Treatment 422 539	maintenance of Cndi at 13.6 mS/cm (equivalent to 135 mmol/L of Na+) or serial reduction of Cndi in steps of 0.2 mS/cm
+T7	Treatment 788 805	reduction of Cndi
+T8	Treatment 1129 1154	convective sodium removal
+T9	Treatment 1260 1277	Reduction in Cndi

@@ -1,0 +1,11 @@
+T1	Outcomes 234 243	mortality
+T2	Outcomes 248 257	morbidity
+T3	Outcomes 645 705	total cholesterol, low density lipoprotein (LDL) cholesterol
+T4	Outcomes 711 753	high density lipoprotein (HDL) cholesterol
+T5	Outcomes 805 821	adverse effects.
+T6	Outcomes 873 877	died
+T7	Outcomes 1027 1051	Noncardiovascular causes
+T8	Outcomes 1076 1082	deaths
+T9	Outcomes 1136 1157	Major coronary events
+T10	Outcomes 1286 1300	risk reduction
+T11	Outcomes 1520 1579	risk of undergoing myocardial revascularization procedures.

@@ -1,0 +1,6 @@
+T1	HMM 554 576	lipid efficacy, safety
+T2	HMM 581 593	tolerability
+T3	HMM 992 1026	percentage change in HDL-C levels.
+T4	HMM 1249 1278	percent atheroma volume (PAV)
+T5	HMM 1459 1514	lipid and inflammatory markers, safety and tolerability
+T6	HMM 1630 1649	cardiovascular risk

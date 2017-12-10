@@ -1,0 +1,7 @@
+T1	HMM 71 91	24-h intragastric pH
+T2	HMM 416 431	Intragastric pH
+T3	HMM 505 525	Mean intragastric pH
+T4	HMM 657 680	Mean % time pH>3 and >4
+T5	HMM 907 936	mean pH or % time pH>3 or >4.
+T6	HMM 1031 1046	intragastric pH
+T7	HMM 1063 1074	pH>3 and >4

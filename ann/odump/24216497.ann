@@ -1,0 +1,2 @@
+T1	HMM 909 996	direct systolic (SAP), diastolic (DAP), and mean arterial (MAP) blood pressure readings
+T2	HMM 1008 1210	heart rate (HR), cardiac output (CO), cardiac index (CI), systemic vascular resistance (SVR), systemic vascular resistance index (SVRI), stroke volume variation (SVV), and pulse pressure variation (PPV)

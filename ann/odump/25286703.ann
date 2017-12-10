@@ -1,0 +1,13 @@
+T1	HMM 582 641	VAS score, puncture time and one-time puncture success rate
+T2	HMM 661 696	VAS scores and pain remission rates
+T3	HMM 784 794	VAS scores
+T4	HMM 867 880	puncture time
+T5	HMM 1076 1088	success rate
+T6	HMM 1206 1218	success rate
+T7	HMM 1247 1277	one-time puncture success rate
+T8	HMM 1305 1316	significant
+T9	HMM 1344 1371	VAS and pain remission rate
+T10	HMM 1533 1542	reduction
+T11	HMM 1546 1556	VAS scores
+T12	HMM 1738 1761	overall remission rates
+T13	HMM 1840 1865	no significant difference

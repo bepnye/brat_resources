@@ -1,0 +1,6 @@
+T1	HMM 28 62	intravenous glucose tolerance test
+T2	HMM 198 253	insulin sensitivity (Si) and glucose effectiveness (Sg)
+T3	HMM 728 737	Si and Sg
+T4	HMM 1244 1267	resolution of Si and Sg
+T5	HMM 1328 1330	Si
+T6	HMM 1640 1642	Sg

@@ -1,0 +1,13 @@
+T1	HMM 178 201	quality of colonoscopy.
+T2	HMM 330 372	completion rate and cecal intubation time.
+T3	HMM 406 415	efficient
+T4	HMM 839 884	success rate and time required to reach cecum
+T5	HMM 1008 1030	Incomplete colonoscopy
+T6	HMM 1131 1164	overall cecal mean insertion time
+T7	HMM 1269 1304	regard to the cecal intubation rate
+T8	HMM 1337 1364	need for abdominal pressure
+T9	HMM 1396 1414	change of position
+T10	HMM 1456 1477	cecal intubation time
+T11	HMM 1617 1636	comparable outcomes
+T12	HMM 1676 1698	cecal intubation times
+T13	HMM 1914 1935	Cecal intubation time

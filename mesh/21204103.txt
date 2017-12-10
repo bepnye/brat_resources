@@ -1,0 +1,14 @@
+Adult
+Aged
+Antibodies, Monoclonal
+Antibodies, Monoclonal, Humanized
+Antirheumatic Agents
+Arthritis, Rheumatoid
+Female
+Humans
+Male
+Middle Aged
+Receptors, Interleukin-6
+Remission Induction
+Severity of Illness Index
+Treatment Outcome

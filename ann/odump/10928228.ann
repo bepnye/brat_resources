@@ -1,0 +1,14 @@
+T1	HMM 33 45	clinical use
+T2	HMM 600 613	total hip BMD
+T3	HMM 685 698	Total hip BMD
+T4	HMM 708 716	Neck BMD
+T5	HMM 726 742	Trochanteric BMD
+T6	HMM 790 815	rate of change in hip BMD
+T7	HMM 906 915	agreement
+T8	HMM 1008 1031	change in total hip BMD
+T9	HMM 1037 1046	agreement
+T10	HMM 1096 1140	standard error of the estimate of the change
+T11	HMM 1205 1240	error associated with this estimate
+T12	HMM 1314 1339	calculated total hip BMD.
+T13	HMM 1424 1437	total hip BMD
+T14	HMM 1531 1544	change in BMD

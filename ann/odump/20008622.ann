@@ -1,0 +1,8 @@
+T1	HMM 644 679	major molecular response (MMR) rate
+T2	HMM 731 781	MMR and complete cytogenetic response (CCyR) rates
+T3	HMM 883 886	MMR
+T4	HMM 982 985	MMR
+T5	HMM 1083 1087	CCyR
+T6	HMM 1207 1249	edema, gastrointestinal problems, and rash
+T7	HMM 1309 1343	Grades 3 to 4 hematologic toxicity
+T8	HMM 1500 1512	MMR and CCyR

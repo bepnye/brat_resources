@@ -1,0 +1,18 @@
+Adult
+Age of Onset
+Analysis of Variance
+Antidepressive Agents, Second-Generation
+Depressive Disorder
+Double-Blind Method
+Female
+Headache
+Hospitalization
+Humans
+Linear Models
+Male
+Nausea
+Placebos
+Psychiatric Status Rating Scales
+Severity of Illness Index
+Treatment Outcome
+Triazoles

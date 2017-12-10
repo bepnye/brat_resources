@@ -1,0 +1,12 @@
+Adult
+Aged
+C-Peptide
+Diabetes Mellitus, Type 2
+Female
+Glyburide
+Humans
+Insulin
+Male
+Metformin
+Middle Aged
+Time Factors

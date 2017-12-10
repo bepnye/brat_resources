@@ -1,0 +1,18 @@
+T1	HMM 83 111	opioid-induced constipation:
+T2	HMM 194 202	efficacy
+T3	HMM 224 245	quality of life (QOL)
+T4	HMM 315 342	opioid-induced constipation
+T5	HMM 358 410	safety and influence on analgesic effect of opioids.
+T6	HMM 723 938	Cleveland constipation score (CCS), numerical rating scale (NRS) of pain and Chinese version of European Organisation for Research and Treatment of Cancer, Quality of Life Questionnaire-C30 V3.0 (EORTC QLQ-C30 V3.0)
+T7	HMM 965 990	efficacy, pain controlled
+T8	HMM 995 1006	QOL status.
+T9	HMM 1034 1053	CCS score reduction
+T10	HMM 1058 1061	QOL
+T11	HMM 1120 1156	improvements of constipation and QOL
+T12	HMM 1236 1246	efficiency
+T13	HMM 1363 1373	NRS scores
+T14	HMM 1446 1472	drug-related adverse event
+T15	HMM 1549 1576	opioid-induced constipation
+T16	HMM 1589 1602	patients' QOL
+T17	HMM 1655 1682	analgesic effect of opioids
+T18	HMM 1697 1710	constipation.

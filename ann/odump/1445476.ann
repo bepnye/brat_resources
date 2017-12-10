@@ -1,0 +1,8 @@
+T1	HMM 24 44	therapeutic efficacy
+T2	HMM 716 784	maximum exercise time was evaluated using an exercise tolerance test
+T3	HMM 827 861	left ventricular ejection fraction
+T4	HMM 885 916	bidimensional echocardiography.
+T5	HMM 1063 1083	values of both tests
+T6	HMM 1190 1211	maximum exercise time
+T7	HMM 1260 1289	ventricular ejection fraction
+T8	HMM 1590 1603	efficaciously

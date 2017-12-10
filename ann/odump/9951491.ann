@@ -1,0 +1,7 @@
+T1	HMM 252 285	seasonal allergic conjunctivitis.
+T2	HMM 641 715	Bulbar conjunctival injection (primary sign) and itching (primary symptom)
+T3	HMM 776 797	reduction in severity
+T4	HMM 841 870	bulbar conjunctival injection
+T5	HMM 1095 1159	proportion of patients with signs or symptoms no longer present)
+T6	HMM 1302 1312	tolerated.
+T7	HMM 1392 1425	elevation of intraocular pressure

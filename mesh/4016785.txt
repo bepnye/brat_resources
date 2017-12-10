@@ -1,0 +1,16 @@
+Adult
+Aged
+Central Nervous System Diseases
+Drug Evaluation
+Fatigue
+Female
+Fever
+Gastrointestinal Diseases
+Hematologic Diseases
+Humans
+Hypotension
+Interferon Type I
+Male
+Middle Aged
+Neoplasms
+Random Allocation

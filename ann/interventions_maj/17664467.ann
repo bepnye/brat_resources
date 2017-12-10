@@ -1,0 +1,7 @@
+T1	Intervention 22 31	docetaxel
+T2	Intervention 37 49	fluorouracil
+T3	Intervention 54 63	cisplatin
+T4	Intervention 78 87	cisplatin
+T5	Intervention 92 104	fluorouracil
+T6	Intervention 605 646	docetaxel plus cisplatin and fluorouracil
+T7	Intervention 656 682	cisplatin and fluorouracil

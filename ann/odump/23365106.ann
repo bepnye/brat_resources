@@ -1,0 +1,30 @@
+T1	HMM 81 91	elasticity
+T2	HMM 686 729	Large (C1) and small artery elasticity (C2)
+T3	HMM 801 808	reduced
+T4	HMM 827 838	body weight
+T5	HMM 846 865	waist circumference
+T6	HMM 873 881	systolic
+T7	HMM 892 901	diastolic
+T8	HMM 908 970	blood pressures, cardiac output (-4%), plasma TG concentration
+T9	HMM 987 1028	homeostasis model assessment (HOMA) score
+T10	HMM 1040 1072	increased plasma HDL cholesterol
+T11	HMM 1083 1094	adiponectin
+T12	HMM 1102 1117	concentrations.
+T13	HMM 1186 1219	significantly reduced body weight
+T14	HMM 1227 1246	waist circumference
+T15	HMM 1254 1262	systolic
+T16	HMM 1273 1282	diastolic
+T17	HMM 1289 1320	blood pressures, pulse pressure
+T18	HMM 1328 1338	heart rate
+T19	HMM 1346 1369	plasma TG concentration
+T20	HMM 1382 1392	HOMA score
+T21	HMM 1404 1427	increased stroke volume
+T22	HMM 1435 1457	plasma HDL cholesterol
+T23	HMM 1468 1494	adiponectin concentrations
+T24	HMM 1507 1509	C1
+T25	HMM 1521 1523	C2
+T26	HMM 1531 1549	artery elasticity.
+T27	HMM 1565 1624	systolic blood pressure, heart rate, plasma TGs, C1, and C2
+T28	HMM 1630 1651	significantly greater
+T29	HMM 1734 1743	C1 and C2
+T30	HMM 1761 1772	weight loss

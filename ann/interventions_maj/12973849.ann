@@ -1,0 +1,4 @@
+T1	Intervention 75 116	chemotherapy with or without radiotherapy
+T2	Intervention 289 318	chemotherapy and radiotherapy
+T3	Intervention 765 821	lomustine, vincristine, and prednisone (control regimen)
+T4	Intervention 829 875	8-drugs-in-1-day regimen (experimental regimen

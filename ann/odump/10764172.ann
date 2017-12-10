@@ -1,0 +1,8 @@
+T1	HMM 32 48	NK cell activity
+T2	HMM 114 147	natural killer (NK) cell activity
+T3	HMM 753 794	postoperative pain score and side effects
+T4	HMM 856 872	NK cell activity
+T5	HMM 1046 1064	NK cell activities
+T6	HMM 1124 1174	plasma adrenaline nor noradrenaline concentrations
+T7	HMM 1208 1230	plasma cortisol levels
+T8	HMM 1291 1301	pain score

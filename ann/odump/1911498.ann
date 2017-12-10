@@ -1,0 +1,8 @@
+T1	HMM 37 58	shivering-like tremor
+T2	HMM 62 85	alter thermoregulation.
+T3	HMM 183 236	shivering-like tremor seen during epidural anesthesia
+T4	HMM 312 360	activates or alters thermoregulatory mechanisms.
+T5	HMM 644 671	nonthermoregulatory tremor)
+T6	HMM 758 782	normal thermoregulation)
+T7	HMM 784 852	Central temperatures, peripheral vasoconstriction, tremor and clonus
+T8	HMM 981 1000	tremor or shivering

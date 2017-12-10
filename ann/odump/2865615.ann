@@ -1,0 +1,3 @@
+T1	HMM 49 80	failure of intravenous infusion
+T2	HMM 323 352	frequency of infusion failure
+T3	HMM 524 533	Headaches

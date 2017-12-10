@@ -1,0 +1,17 @@
+Acute Disease
+Adolescent
+Adult
+Aged
+Clinical Trials as Topic
+Drug Evaluation
+Female
+Heparin
+Humans
+Infusions, Parenteral
+Injections, Subcutaneous
+Leg
+Male
+Middle Aged
+Phlebography
+Streptokinase
+Thrombophlebitis

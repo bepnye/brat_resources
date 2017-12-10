@@ -1,0 +1,11 @@
+T1	HMM 20 26	safety
+T2	HMM 31 43	tolerability
+T3	HMM 544 550	safety
+T4	HMM 848 871	Safety and tolerability
+T5	HMM 898 950	measures of function, muscle strength and endurance.
+T6	HMM 991 1000	tolerated
+T7	HMM 1007 1016	dizziness
+T8	HMM 1085 1117	serum concentration of riluzole.
+T9	HMM 1155 1224	ALSFRS-R, Maximum Minute Ventilation, and Nasal Inspiratory Pressure.
+T10	HMM 1286 1292	safely
+T11	HMM 1345 1382	multiple exploratory outcome measures

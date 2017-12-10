@@ -1,0 +1,6 @@
+T1	HMM 51 56	cough
+T2	HMM 243 248	cough
+T3	HMM 816 824	of cough
+T4	HMM 907 916	had cough
+T5	HMM 955 964	had cough
+T6	HMM 1176 1198	fentanyl-induced cough

@@ -1,0 +1,8 @@
+T1	HMM 857 880	peak oxygen consumption
+T2	HMM 1178 1278	peak oxygen consumption, exercise time, ventilation to carbon dioxide slope, or anaerobic threshold.
+T3	HMM 1304 1326	peak tidal volume (VT)
+T4	HMM 1382 1399	peak ventilation.
+T5	HMM 1431 1442	ventilation
+T6	HMM 1620 1633	Borg/VE slope
+T7	HMM 1712 1769	airways resistance, lung reactance, and peak tidal volume
+T8	HMM 1884 1910	symptom of breathlessness.

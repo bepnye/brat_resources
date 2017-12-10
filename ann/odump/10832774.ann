@@ -1,0 +1,9 @@
+T1	HMM 68 86	autistic disorder:
+T2	HMM 175 233	autistic disorder (autism) symptoms, primary and secondary
+T3	HMM 916 938	communication problems
+T4	HMM 1037 1107	careful questioning of care providers, rating scales, laboratory tests
+T5	HMM 1113 1128	physical exams.
+T6	HMM 1252 1260	response
+T7	HMM 1265 1278	side effects.
+T8	HMM 1501 1512	low-end IQs
+T9	HMM 1787 1814	Autism Diagnostic Interview

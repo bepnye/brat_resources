@@ -1,0 +1,12 @@
+Adult
+Aged
+Anesthesia, General
+Antihypertensive Agents
+Double-Blind Method
+Female
+Humans
+Hypertension
+Intubation, Intratracheal
+Male
+Middle Aged
+Piperazines

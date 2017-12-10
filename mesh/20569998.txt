@@ -1,0 +1,17 @@
+Aged
+Amlodipine
+Antihypertensive Agents
+Antineoplastic Agents
+Blood Urea Nitrogen
+Creatinine
+Female
+Geriatric Assessment
+Glomerular Filtration Rate
+Humans
+Hypertension
+Hyperuricemia
+Losartan
+Male
+Neoplasms
+Treatment Outcome
+Uric Acid

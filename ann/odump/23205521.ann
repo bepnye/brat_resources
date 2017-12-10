@@ -1,0 +1,7 @@
+T1	HMM 38 83	identification of dynamic facial expressions:
+T2	HMM 187 220	processing the facial expressions
+T3	HMM 324 389	recognition of dynamically emerging facial expressions of others.
+T4	HMM 649 703	recognition of dynamically emerging facial expression.
+T5	HMM 762 784	recognized expressions
+T6	HMM 981 1006	expression identification
+T7	HMM 1284 1323	ability to recognize facial expressions

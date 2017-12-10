@@ -1,0 +1,16 @@
+T1	Treatment 0 33	Liposome-encapsulated doxorubicin
+T2	Treatment 48 72	conventional doxorubicin
+T3	Treatment 249 338	liposome-encapsulated doxorubicin, TLC D-99 (Myocet, Elan Pharmaceuticals, Princeton, NJ)
+T4	Treatment 344 368	conventional doxorubicin
+T5	Treatment 559 595	TLC D-99 (75 mg/m(2)) or doxorubicin
+T6	Treatment 939 989	multiple-gated radionuclide cardioangiography scan
+T7	Treatment 1528 1547	doxorubicin-treated
+T8	Treatment 1674 1685	doxorubicin
+T9	Treatment 1741 1752	doxorubicin
+T10	Treatment 1805 1813	TLC D-99
+T11	Treatment 1837 1848	doxorubicin
+T12	Treatment 2006 2018	doxorubicin.
+T13	Treatment 2099 2110	doxorubicin
+T14	Treatment 2385 2397	doxorubicin.
+T15	Treatment 2423 2431	TLC D-99
+T16	Treatment 2466 2477	doxorubicin

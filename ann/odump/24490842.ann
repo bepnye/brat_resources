@@ -1,0 +1,7 @@
+T1	HMM 986 1006	of salivary cortisol
+T2	HMM 1185 1281	in time of day, salivary cortisol, sex, Stress-O-Meter values, and Perceived Stress Scale scores
+T3	HMM 1283 1315	RESULTS Salivary cortisol levels
+T4	HMM 1438 1460	pretest Stress-O-Meter
+T5	HMM 1481 1507	the Perceived Stress Scale
+T6	HMM 1648 1671	reduced cortisol levels
+T7	HMM 1726 1751	larger cortisol reduction

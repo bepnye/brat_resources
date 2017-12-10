@@ -1,0 +1,14 @@
+Adult
+Blood Glucose
+Gastric Emptying
+Gastric Fundus
+Gastrointestinal Hormones
+Glucagon
+Glucagon-Like Peptide 1
+Glucagon-Like Peptides
+Humans
+Male
+Muscle Relaxation
+Peptide Fragments
+Pressure
+Satiety Response

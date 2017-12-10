@@ -1,0 +1,17 @@
+T1	HMM 0 45	Modulation of human motor cortex excitability
+T2	HMM 297 317	N-methyl-D-aspartate
+T3	HMM 334 344	antagonism
+T4	HMM 608 614	cortex
+T5	HMM 1032 1056	Spinal cord excitability
+T6	HMM 1098 1110	M-amplitudes
+T7	HMM 1218 1221	ICF
+T8	HMM 1271 1276	L-ICI
+T9	HMM 1315 1318	ICF
+T10	HMM 1323 1328	L-ICI
+T11	HMM 1384 1387	ICI
+T12	HMM 1531 1605	motor thresholds, MEP recruitment curves, CSP, or peripheral excitability.
+T13	HMM 1663 1706	modulating human motor cortex excitability.
+T14	HMM 1723 1726	ICF
+T15	HMM 1743 1748	L-ICI
+T16	HMM 1981 2003	cortical excitability.
+T17	HMM 2007 2012	L-ICI

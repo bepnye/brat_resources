@@ -1,0 +1,19 @@
+Adult
+Analysis of Variance
+Appendicitis
+Benzimidazoles
+Chronic Disease
+Double-Blind Method
+Electrocardiography
+Female
+Histamine H1 Antagonists
+Humans
+Loratadine
+Male
+Middle Aged
+Patient Dropouts
+Pruritus
+Severity of Illness Index
+Treatment Outcome
+Urticaria
+Vasculitis

@@ -1,0 +1,13 @@
+Adult
+Aged
+Angina Pectoris
+Blood Pressure
+Coronary Disease
+Diltiazem
+Double-Blind Method
+Exercise Test
+Female
+Heart Rate
+Humans
+Male
+Middle Aged

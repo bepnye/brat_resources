@@ -1,0 +1,15 @@
+Adolescent
+Blood Glucose
+Child
+Diabetes Mellitus, Type 1
+Diabetic Angiopathies
+Endothelium
+Female
+Hemoglobin A, Glycosylated
+Humans
+Hypoglycemic Agents
+Insulin
+Lipid Metabolism
+Male
+Microcirculation
+Treatment Outcome

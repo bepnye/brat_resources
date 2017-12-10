@@ -1,0 +1,5 @@
+T1	HMM 1084 1148	composite of death or nonfatal myocardial infarction at 30 days.
+T2	HMM 1161 1176	primary outcome
+T3	HMM 1389 1403	Major bleeding
+T4	HMM 1778 1840	rate of a composite of death or nonfatal myocardial infarction
+T5	HMM 1859 1882	risk of major bleeding.

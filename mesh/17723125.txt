@@ -1,0 +1,16 @@
+Abdomen
+Adult
+Aged
+Aged, 80 and over
+Anticoagulants
+Double-Blind Method
+Female
+Humans
+Intermittent Pneumatic Compression Devices
+Male
+Middle Aged
+Placebos
+Polysaccharides
+Surgical Procedures, Operative
+Thromboembolism
+Treatment Outcome

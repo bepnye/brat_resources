@@ -1,0 +1,5 @@
+T1	HMM 0 23	Acute and late toxicity
+T2	HMM 1026 1093	severity or duration of gastrointestinal or genitourinary toxicity.
+T3	HMM 1145 1205	severity of late gastrointestinal and genitourinary toxicity
+T4	HMM 1456 1496	acute and late gastrointestinal toxicity
+T5	HMM 1694 1732	tolerable and temporary acute toxicity

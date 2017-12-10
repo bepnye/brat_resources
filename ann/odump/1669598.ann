@@ -1,0 +1,9 @@
+T1	HMM 191 199	efficacy
+T2	HMM 208 220	tolerability
+T3	HMM 729 743	symptoms score
+T4	HMM 751 796	peak expiratory flow (PEF)-derived parameters
+T5	HMM 871 938	late component of the bronchial response to the challenge with HDM.
+T6	HMM 977 1140	bronchial responsiveness to methacholine and ultrasonically nebulized distilled water (UNDW) and in immunologic humoral and cellular parameters in peripheral blood
+T7	HMM 1177 1210	local important adverse reactions
+T8	HMM 1243 1264	systemic side effects
+T9	HMM 1530 1552	systemic side effects.

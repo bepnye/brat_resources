@@ -1,0 +1,8 @@
+T1	HMM 77 105	admission rates to hospital:
+T2	HMM 419 572	rate of hospital admission, rate of re-presentation to the ED, visits to community healthcare practitioners, return to usual work/home/leisure activities
+T3	HMM 577 598	patient satisfaction.
+T4	HMM 1158 1187	rate of admission to hospital
+T5	HMM 1247 1280	rate of re-presentation to the ED
+T6	HMM 1362 1487	for use of community healthcare resources, return to usual work/home/leisure activities and satisfaction with their EECU care
+T7	HMM 1616 1720	the rate of hospital admission, rate of re-presentation to the ED, use of community healthcare resources
+T8	HMM 1733 1813	the rate of return to usual work/home/leisure activities or patient satisfaction

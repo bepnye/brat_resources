@@ -1,0 +1,13 @@
+Adult
+Aged
+Aged, 80 and over
+Aminoquinolines
+Antineoplastic Agents
+Carcinoma, Basal Cell
+Drug Administration Schedule
+Female
+Humans
+Male
+Middle Aged
+Skin Neoplasms
+Treatment Outcome

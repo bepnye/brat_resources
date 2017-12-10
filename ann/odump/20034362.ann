@@ -1,0 +1,8 @@
+T1	HMM 25 70	kidney function and urinary protein excretion
+T2	HMM 331 368	progression of chronic kidney disease
+T3	HMM 769 784	kidney function
+T4	HMM 798 891	glomerular filtration rate and 24 h urine creatinine clearance and urinary protein excretion.
+T5	HMM 937 944	changes
+T6	HMM 948 1003	markers of kidney function or urinary protein excretion
+T7	HMM 1066 1089	total serum cholesterol
+T8	HMM 1234 1278	kidney function or urinary protein excretion

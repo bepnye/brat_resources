@@ -1,0 +1,6 @@
+T1	HMM 1147 1245	device complications, procedure complications, and intracranial events/overall neurologic outcomes
+T2	HMM 1338 1352	AVM dimensions
+T3	HMM 1415 1447	mean number of vessels embolized
+T4	HMM 1624 1774	surgical resection time, number of patients who required transfusion, volume and number of transfusion units, or type and volume of fluid replacement.
+T5	HMM 1775 1803	Glasgow Outcome Scale scores
+T6	HMM 2005 2028	post-resection hematoma

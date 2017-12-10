@@ -1,0 +1,9 @@
+T1	HMM 69 104	intracerebral hemorrhage evacuation
+T2	HMM 1281 1308	Average aspiration of clots
+T3	HMM 1445 1461	clot was reduced
+T4	HMM 1542 1558	30-day mortality
+T5	HMM 1564 1587	symptomatic re-bleeding
+T6	HMM 1597 1620	bacterial ventriculitis
+T7	HMM 1678 1693	clot resolution
+T8	HMM 1756 1777	clot resolution rates
+T9	HMM 1982 2005	greater clot resolution

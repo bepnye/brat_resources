@@ -1,0 +1,10 @@
+T1	HMM 28 38	recurrence
+T2	HMM 595 611	adverse effects.
+T3	HMM 690 700	Recurrence
+T4	HMM 749 766	Recurrence of HCC
+T5	HMM 995 1005	recurrence
+T6	HMM 1030 1068	Cumulative incidence of HCC recurrence
+T7	HMM 1116 1140	cumulative survival rate
+T8	HMM 1228 1255	serum albumin concentration
+T9	HMM 1385 1402	recurrence of HCC
+T10	HMM 1543 1561	recurrence of HCC.

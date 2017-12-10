@@ -1,0 +1,11 @@
+T1	HMM 234 243	mortality
+T2	HMM 248 257	morbidity
+T3	HMM 645 705	total cholesterol, low density lipoprotein (LDL) cholesterol
+T4	HMM 711 753	high density lipoprotein (HDL) cholesterol
+T5	HMM 805 821	adverse effects.
+T6	HMM 873 877	died
+T7	HMM 1027 1051	Noncardiovascular causes
+T8	HMM 1076 1082	deaths
+T9	HMM 1136 1157	Major coronary events
+T10	HMM 1286 1300	risk reduction
+T11	HMM 1520 1579	risk of undergoing myocardial revascularization procedures.

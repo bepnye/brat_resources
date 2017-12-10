@@ -1,0 +1,5 @@
+T1	HMM 890 902	side effects
+T2	HMM 1194 1321	basal and peak concentrations of luteinising hormone, follicle stimulating hormone, thyroid stimulating hormone, and prolactin.
+T3	HMM 1327 1364	cortisol and growth hormone responses
+T4	HMM 1563 1586	pituitary hypo-function
+T5	HMM 1664 1678	hormone values

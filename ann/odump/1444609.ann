@@ -1,0 +1,7 @@
+T1	HMM 214 231	ablation capacity
+T2	HMM 684 703	Response to therapy
+T3	HMM 765 787	complete response (CR)
+T4	HMM 803 851	gross and microscopic evidence of residual tumor
+T5	HMM 856 896	no response (NR) or therapeutic failure.
+T6	HMM 1062 1074	side effects
+T7	HMM 1352 1364	side effects

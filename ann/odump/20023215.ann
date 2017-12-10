@@ -1,0 +1,5 @@
+T1	HMM 325 343	excessive toxicity
+T2	HMM 1030 1048	complete response.
+T3	HMM 1232 1240	Toxicity
+T4	HMM 1305 1308	CD4
+T5	HMM 1346 1367	infectious death rate

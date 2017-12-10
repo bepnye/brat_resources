@@ -1,0 +1,25 @@
+Acute Disease
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Anticoagulants
+Child
+Comorbidity
+Disability Evaluation
+Edema
+Female
+Fever
+Heparin
+Humans
+Incidence
+Male
+Middle Aged
+Muscle Spasticity
+Physical Therapy Modalities
+Severity of Illness Index
+Spinal Cord
+Spinal Cord Injuries
+Veins
+Venous Thrombosis
+Young Adult

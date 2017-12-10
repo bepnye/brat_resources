@@ -1,0 +1,20 @@
+T1	HMM 48 79	susceptibility to hypoglycaemia
+T2	HMM 773 831	Glucose, insulin, GH, cortisol, ketones and catecholamines
+T3	HMM 894 913	Insulin sensitivity
+T4	HMM 930 934	HOMA
+T5	HMM 939 952	hypoglycaemia
+T6	HMM 966 979	blood glucose
+T7	HMM 1027 1050	age and body mass index
+T8	HMM 1186 1199	hypoglycaemic
+T9	HMM 1283 1304	GH AUC and minimum BG
+T10	HMM 1379 1398	insulin sensitivity
+T11	HMM 1414 1439	Increased cortisol levels
+T12	HMM 1541 1558	BG and adrenaline
+T13	HMM 1584 1597	ketone bodies
+T14	HMM 1627 1631	NEFA
+T15	HMM 1658 1678	Noradrenaline levels
+T16	HMM 1720 1723	BMI
+T17	HMM 1790 1803	low BG levels
+T18	HMM 1962 1971	BG levels
+T19	HMM 2038 2072	insulin antagonistic actions of GH
+T20	HMM 2147 2174	sympathetic nerve activity.

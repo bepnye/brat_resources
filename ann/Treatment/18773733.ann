@@ -1,0 +1,10 @@
+T1	Treatment 58 78	Vibrotactile stimuli
+T2	Treatment 231 245	auditory tones
+T3	Treatment 314 335	vibrotactile stimulus
+T4	Treatment 429 553	auditory stimulation (no tone, tone at detection threshold, tone at 5 dB above threshold, and tone at 10 dB above threshold)
+T5	Treatment 573 594	vibrotactile stimulus
+T6	Treatment 856 868	vibrotaction
+T7	Treatment 911 923	vibrotaction
+T8	Treatment 977 1017	conditions without vibrotactile stimuli.
+T9	Treatment 1041 1053	vibrotaction
+T10	Treatment 1152 1164	vibrotaction

@@ -1,0 +1,6 @@
+T1	HMM 827 846	symptomatic relapse
+T2	HMM 1013 1034	symptomatic remission
+T3	HMM 1293 1312	symptomatic relapse
+T4	HMM 1378 1416	time to depressive symptomatic relapse
+T5	HMM 1450 1475	manic symptomatic relapse
+T6	HMM 1650 1673	maintenance of response

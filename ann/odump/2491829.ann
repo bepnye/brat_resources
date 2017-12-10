@@ -1,0 +1,4 @@
+T1	HMM 305 328	duration of neutropenia
+T2	HMM 459 515	number of remissions, relapse-free survival and survival
+T3	HMM 521 528	similar
+T4	HMM 607 624	clinical efficacy

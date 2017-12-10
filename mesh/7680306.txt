@@ -1,0 +1,23 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Bleomycin
+Combined Modality Therapy
+Cyclophosphamide
+Dacarbazine
+Doxorubicin
+Echocardiography, Doppler
+Female
+Follow-Up Studies
+Heart
+Hodgkin Disease
+Humans
+Male
+Middle Aged
+Prednisone
+Procarbazine
+Radiotherapy Dosage
+Remission Induction
+Time Factors
+Vinblastine
+Vincristine

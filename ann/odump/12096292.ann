@@ -1,0 +1,12 @@
+T1	HMM 0 28	Pain and fatigue management:
+T2	HMM 210 226	pain and fatigue
+T3	HMM 654 695	physical functioning and emotional health
+T4	HMM 819 835	pain and fatigue
+T5	HMM 859 961	Pain and fatigue, numbers of other symptoms, and physical role impact and social-functioning subscales
+T6	HMM 1097 1127	number of symptoms experienced
+T7	HMM 1141 1173	physical and social functioning.
+T8	HMM 1227 1243	pain and fatigue
+T9	HMM 1320 1336	pain and fatigue
+T10	HMM 1348 1362	symptom burden
+T11	HMM 1376 1401	quality of the daily life
+T12	HMM 1627 1651	improved quality of life

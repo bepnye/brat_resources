@@ -1,0 +1,7 @@
+T1	HMM 221 243	diagnostic performance
+T2	HMM 1192 1195	GDM
+T3	HMM 1272 1293	Area under ROC curves
+T4	HMM 1338 1351	Sensitivities
+T5	HMM 1397 1410	Specificities
+T6	HMM 1453 1479	Positive predictive values
+T7	HMM 1522 1548	Negative predictive values

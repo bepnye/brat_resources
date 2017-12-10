@@ -1,0 +1,6 @@
+T1	HMM 46 67	treatment of pyoderma
+T2	HMM 1123 1140	clinical features
+T3	HMM 1153 1174	successful treatment.
+T4	HMM 1222 1246	Treatment was successful
+T5	HMM 1365 1395	Amoxicillin was as efficacious
+T6	HMM 1419 1447	treatment of severe pyoderma

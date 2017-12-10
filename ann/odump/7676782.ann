@@ -1,0 +1,8 @@
+T1	HMM 43 54	anaesthesia
+T2	HMM 681 689	Recovery
+T3	HMM 750 763	Mean +/- s.d.
+T4	HMM 764 778	induction doss
+T5	HMM 882 896	Induction time
+T6	HMM 972 984	Side effects
+T7	HMM 1013 1055	involuntary muscle movements or hypertonus
+T8	HMM 1148 1201	Early recovery (eye opening, orientation and sitting)

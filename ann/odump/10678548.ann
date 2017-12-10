@@ -1,0 +1,15 @@
+T1	HMM 0 6	Safety
+T2	HMM 978 1001	safety and tolerability
+T3	HMM 1518 1534	Serum creatinine
+T4	HMM 1703 1718	Serum potassium
+T5	HMM 1949 1963	blood pressure
+T6	HMM 2022 2060	seated diastolic blood pressure (SDBP)
+T7	HMM 2065 2102	seated systolic blood pressure (SSBP)
+T8	HMM 2292 2304	proteinuria.
+T9	HMM 2309 2333	total number of patients
+T10	HMM 2339 2358	adverse experiences
+T11	HMM 2498 2518	adverse experiences.
+T12	HMM 2610 2623	hyperkalaemia
+T13	HMM 2690 2747	serum creatinine, acute renal failure or hospitalization.
+T14	HMM 2896 2900	safe
+T15	HMM 2905 2919	well tolerated

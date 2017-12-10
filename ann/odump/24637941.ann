@@ -1,0 +1,5 @@
+T1	HMM 390 409	blood pressure (BP)
+T2	HMM 564 596	b.i.d.), mean diastolic BP (DBP)
+T3	HMM 713 734	increase in 12-h mean
+T4	HMM 873 894	varied in BP response
+T5	HMM 1067 1074	suggest

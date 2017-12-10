@@ -1,0 +1,10 @@
+T1	HMM 562 609	closure time, patient comfort, and scar quality
+T2	HMM 1049 1063	Operative time
+T3	HMM 1240 1246	faster
+T4	HMM 1313 1327	Comfort scores
+T5	HMM 1501 1519	Complication rates
+T6	HMM 1558 1619	Patients' visual assessment of linear scars rating of breasts
+T7	HMM 1929 1942	wound closure
+T8	HMM 1991 2015	comfort and scar quality
+T9	HMM 2035 2045	efficiency
+T10	HMM 2059 2066	quality

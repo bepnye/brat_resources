@@ -1,0 +1,9 @@
+T1	HMM 1215 1249	median increase in PSA at month 24
+T2	HMM 1446 1494	Using the upper PSA limit of 4 ng/ml sensitivity
+T3	HMM 1581 1592	specificity
+T4	HMM 1613 1657	Using a PSA increase from nadir of 0.8 ng/ml
+T5	HMM 1662 1673	sensitivity
+T6	HMM 1707 1718	specificity
+T7	HMM 1824 1827	PSA
+T8	HMM 1894 1903	serum PSA
+T9	HMM 1976 1979	PSA

@@ -1,0 +1,10 @@
+T1	HMM 59 72	social skills
+T2	HMM 315 328	social skills
+T3	HMM 461 505	eye gaze, joint attention, and communication
+T4	HMM 833 948	Social Responsiveness Scale (SRS), the Autism Treatment Evaluation Checklist (ATEC), and video analysis of sessions
+T5	HMM 1060 1115	joint attention with peers and eye gaze towards persons
+T6	HMM 1231 1316	initiation of communication, response to communication, or social withdraw/behaviors.
+T7	HMM 1380 1390	SRS scores
+T8	HMM 1439 1457	Scores on the ATEC
+T9	HMM 1623 1636	social skills
+T10	HMM 1761 1777	joint attention.

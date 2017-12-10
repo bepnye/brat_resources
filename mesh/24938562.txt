@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents, Alkylating
+Benzimidazoles
+Dacarbazine
+Disease Progression
+Female
+Humans
+Male
+Melanoma
+Middle Aged
+Survival Analysis
+Treatment Outcome
+Uveal Neoplasms

@@ -1,0 +1,15 @@
+T1	HMM 24 51	protein:carbohydrate ratios
+T2	HMM 85 117	maternal cortisol concentrations
+T3	HMM 126 171	adrenocortical and sympathoadrenal reactivity
+T4	HMM 520 543	cortisol concentrations
+T5	HMM 618 634	HPA and SAM axes
+T6	HMM 993 1041	plasma cortisol and catecholamine concentrations
+T7	HMM 1240 1312	Glucocorticoid receptor (GR) binding and neurotransmitter concentrations
+T8	HMM 1417 1458	Maternal salivary cortisol concentrations
+T9	HMM 1531 1548	salivary cortisol
+T10	HMM 1817 1845	cortisol response to weaning
+T11	HMM 1910 1951	basal plasma noradrenaline concentrations
+T12	HMM 1983 2038	cortisol response to the ACTH and the insulin challenge
+T13	HMM 2093 2113	adrenal medulla area
+T14	HMM 2228 2264	aberrant protein:carbohydrate ratios
+T15	HMM 2321 2355	function of the HPA and SAM system

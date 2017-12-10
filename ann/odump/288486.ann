@@ -1,0 +1,6 @@
+T1	HMM 433 451	granulocyte nadirs
+T2	HMM 496 531	median duration of granulocytopenia
+T3	HMM 644 675	median duration of granulocytes
+T4	HMM 812 856	Lithium levels between 0.5 and 1.0 meq/liter
+T5	HMM 939 947	toxicity
+T6	HMM 1011 1044	shortened duration of neutropenia

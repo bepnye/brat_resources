@@ -1,0 +1,9 @@
+T1	HMM 905 944	stone fragmentation and clearance rates
+T2	HMM 997 1033	average number of sessions per stone
+T3	HMM 1059 1093	average number of shocks per stone
+T4	HMM 1168 1192	Stone fragmentation rate
+T5	HMM 1235 1265	stone clearance (success) rate
+T6	HMM 1461 1495	upper and middle ureteric calculi.
+T7	HMM 1597 1625	mean number of ESWL sessions
+T8	HMM 1630 1646	shocks per stone
+T9	HMM 1776 1833	stone fragmentation and 3-month clearance (success) rates

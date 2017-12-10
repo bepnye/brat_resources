@@ -1,0 +1,7 @@
+T1	HMM 0 45	Pharmacokinetics and relative bioavailability
+T2	HMM 98 143	Pharmacokinetics and relative bioavailability
+T3	HMM 395 412	poor metabolizer.
+T4	HMM 538 613	pharmacokinetic parameters Cmax, AUC(0-Tlast), AUC(0-infinity) and Ae(24h).
+T5	HMM 614 618	tmax
+T6	HMM 674 698	relative bioavailability
+T7	HMM 818 957	high plasma concentrations, increased AUCs and prolonged terminal half-lives as well as increased renal excretion of prajmalium bitartrate.

@@ -1,0 +1,6 @@
+T1	HMM 321 342	weight of the newborn
+T2	HMM 450 469	weeks of gestation.
+T3	HMM 502 513	tachycardia
+T4	HMM 647 675	side-effects during infusion
+T5	HMM 745 773	tocolysis-index (Baumgarten)
+T6	HMM 782 810	prolongation-index (Richter)

@@ -1,0 +1,8 @@
+T1	HMM 94 136	acute exacerbations of chronic bronchitis.
+T2	HMM 400 419	clinical cure rates
+T3	HMM 561 588	Respiratory tract pathogens
+T4	HMM 795 828	microbiological eradication rates
+T5	HMM 996 1015	Adverse event rates
+T6	HMM 1089 1111	incidence of diarrhoea
+T7	HMM 1374 1392	effective and safe
+T8	HMM 1427 1468	acute exacerbations of chronic bronchitis

@@ -1,0 +1,15 @@
+T1	HMM 104 127	safety and tolerability
+T2	HMM 1226 1268	safety, tolerability and pharmacokinetics.
+T3	HMM 1309 1327	Barthel Index (BI)
+T4	HMM 1336 1360	NIH Stroke Scale (NIHSS)
+T5	HMM 1592 1601	Mortality
+T6	HMM 1707 1729	Serious adverse events
+T7	HMM 1896 1904	vomiting
+T8	HMM 1921 1927	nausea
+T9	HMM 1945 1950	fever
+T10	HMM 1968 1977	agitation
+T11	HMM 1993 2002	dizziness
+T12	HMM 2022 2036	hallucinations
+T13	HMM 2264 2300	plasma concentrations of AR-R15896AR
+T14	HMM 2433 2451	high plasma levels
+T15	HMM 2533 2545	side effects

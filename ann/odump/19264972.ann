@@ -1,0 +1,23 @@
+T1	HMM 52 65	lung function
+T2	HMM 70 90	cytokine production.
+T3	HMM 148 161	lung function
+T4	HMM 182 199	system disruption
+T5	HMM 275 288	lung function
+T6	HMM 293 314	inflammatory markers.
+T7	HMM 557 679	Serum and urine cotinine, lung function, and cytokines IL-4, IL-5, IL-6, tumor necrosis factor (TNF)-alpha, and IFN-gamma.
+T8	HMM 696 720	lung function parameters
+T9	HMM 909 917	cotinine
+T10	HMM 1121 1130	IFN-gamma
+T11	HMM 1225 1243	IL-4 and TNF-alpha
+T12	HMM 1275 1300	IL-5, IL-6, and IFN-gamma
+T13	HMM 1410 1416	FEV(1)
+T14	HMM 1421 1437	FEV(1)/FVC ratio
+T15	HMM 1443 1447	IL-5
+T16	HMM 1475 1479	IL-5
+T17	HMM 1492 1496	IL-6
+T18	HMM 1510 1519	IFN-gamma
+T19	HMM 1536 1550	serum cotinine
+T20	HMM 1680 1707	decrements on lung function
+T21	HMM 1732 1754	inflammatory cytokines
+T22	HMM 1822 1846	effects on lung function
+T23	HMM 1883 1905	inflammatory cytokines

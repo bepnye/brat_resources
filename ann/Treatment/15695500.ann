@@ -1,0 +1,12 @@
+T1	Treatment 45 69	fludarabine-mitoxantrone
+T2	Treatment 85 144	cyclophosphamide, doxorubicin, vindesine, prednisone (CHVP)
+T3	Treatment 349 448	fludarabine-mitoxantrone (FM) with mini-CHVP (cyclophosphamide, doxorubicin, vindesine, prednisone)
+T4	Treatment 881 892	fludarabine
+T5	Treatment 927 939	mitoxantrone
+T6	Treatment 988 1004	cyclophosphamide
+T7	Treatment 1034 1045	doxorubicin
+T8	Treatment 1068 1077	vindesine
+T9	Treatment 1109 1119	prednisone
+T10	Treatment 1154 1156	FM
+T11	Treatment 1269 1271	FM
+T12	Treatment 1554 1556	FM

@@ -1,0 +1,12 @@
+T1	HMM 103 121	myocardial salvage
+T2	HMM 478 497	myocardial salvage.
+T3	HMM 1103 1187	myocardial salvage index at 30 days after primary percutaneous coronary intervention
+T4	HMM 1201 1229	myocardial perfusion imaging
+T5	HMM 1586 1606	Median salvage index
+T6	HMM 1784 1802	mean salvage index
+T7	HMM 1901 1930	Major adverse coronary events
+T8	HMM 1936 1941	death
+T9	HMM 1959 1971	reinfarction
+T10	HMM 1993 2006	heart failure
+T11	HMM 2105 2123	myocardial salvage
+T12	HMM 2146 2152	safety

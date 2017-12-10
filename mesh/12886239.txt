@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Cause of Death
+Child
+Cytogenetic Analysis
+Female
+Hematopoietic Stem Cell Transplantation
+Humans
+Hydroxyurea
+Interferon-alpha
+Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+Male
+Middle Aged
+Remission Induction
+Risk Assessment
+Survival Analysis
+Transplantation, Homologous

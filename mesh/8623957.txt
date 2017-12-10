@@ -1,0 +1,27 @@
+Adolescent
+Adult
+Ambulatory Surgical Procedures
+Analgesics
+Anesthesia Recovery Period
+Anesthetics, Inhalation
+Anesthetics, Intravenous
+Antiemetics
+Chemoprevention
+Double-Blind Method
+Female
+Genitalia, Female
+Humans
+Injections, Intravenous
+Isoflurane
+Laparoscopy
+Middle Aged
+Nausea
+Ondansetron
+Orientation
+Patient Discharge
+Postoperative Complications
+Propofol
+Psychomotor Performance
+Single-Blind Method
+Vomiting
+Wakefulness

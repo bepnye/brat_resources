@@ -1,0 +1,6 @@
+T1	HMM 864 882	response rate (RR)
+T2	HMM 914 981	progression-free survival (PFS), overall survival (OS), and safety.
+T3	HMM 1109 1112	RRs
+T4	HMM 1195 1204	median OS
+T5	HMM 1295 1349	incidence of grade 3 or higher haematological toxicity
+T6	HMM 1414 1472	incidence of grade 3 or higher non-haematological toxicity

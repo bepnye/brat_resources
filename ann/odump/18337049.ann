@@ -1,0 +1,11 @@
+T1	HMM 0 40	Nurse and patient communication profiles
+T2	HMM 157 197	nurse and patient communication profiles
+T3	HMM 268 351	longitudinal changes in communication, nurse perceptions, and patient satisfaction.
+T4	HMM 580 614	Roter Interaction Analysis System.
+T5	HMM 650 744	use open-ended questions, back-channel responses, friendly jokes, and checks for understanding
+T6	HMM 786 819	Compliments given and partnership
+T7	HMM 885 933	give lifestyle information and approval comments
+T8	HMM 966 988	closed-ended questions
+T9	HMM 1008 1046	Nurses perceptions of the interactions
+T10	HMM 1118 1129	perceptions
+T11	HMM 1229 1249	patient satisfaction

@@ -1,0 +1,9 @@
+T1	HMM 669 702	percentage change in body weight.
+T2	HMM 703 767	Electrocardiogram (ECG), echocardiography and clinical chemistry
+T3	HMM 815 906	Psychiatric evaluation and application of Hamilton rating scales for depression and anxiety
+T4	HMM 1084 1095	body weight
+T5	HMM 1175 1191	mean weight loss
+T6	HMM 1356 1376	initial body weight.
+T7	HMM 1467 1525	blood pressure, pulse rate, ECG and psychiatric evaluation
+T8	HMM 1541 1563	Dry mouth and insomnia
+T9	HMM 1685 1696	weight loss

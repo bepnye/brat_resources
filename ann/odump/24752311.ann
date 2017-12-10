@@ -1,0 +1,6 @@
+T1	HMM 543 561	2-h glucose levels
+T2	HMM 606 640	rates of target 2-h glucose levels
+T3	HMM 784 804	of 2-h glucose level
+T4	HMM 821 874	of homeostasis model assessment of insulin resistance
+T5	HMM 939 979	the target fasting and 2-h glucose level
+T6	HMM 1088 1111	on repaglinide efficacy

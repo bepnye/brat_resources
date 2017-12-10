@@ -1,0 +1,14 @@
+T1	HMM 30 57	inhibitory brain activation
+T2	HMM 327 352	motor response inhibition
+T3	HMM 377 396	behavioural effects
+T4	HMM 547 576	inhibitory brain dysfunctions
+T5	HMM 828 845	motor inhibition.
+T6	HMM 1036 1049	drug effects.
+T7	HMM 1072 1093	normalisation effects
+T8	HMM 1240 1302	overactivation in left and right inferior frontal cortex (IFC)
+T9	HMM 1345 1409	underactivation in orbitofrontal cortex (OFC) and basal ganglia.
+T10	HMM 1432 1455	prefrontal dysfunctions
+T11	HMM 1565 1587	IFC and OFC activation
+T12	HMM 1682 1707	frontal lobe dysfunctions
+T13	HMM 1783 1801	frontal activation
+T14	HMM 1847 1865	frontal activation

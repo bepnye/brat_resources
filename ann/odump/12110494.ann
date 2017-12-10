@@ -1,0 +1,28 @@
+T1	HMM 49 69	cytotoxicity-effects
+T2	HMM 98 112	survival rates
+T3	HMM 1519 1541	complete response (CR)
+T4	HMM 1551 1572	partial response (PR)
+T5	HMM 1583 1602	stable disease (SD)
+T6	HMM 1613 1632	progressive disease
+T7	HMM 1652 1678	overall response rate (RR)
+T8	HMM 1769 1808	RR based on an intent-to-treat analysis
+T9	HMM 1833 1848	Median survival
+T10	HMM 1890 1915	granulocytopenia grade IV
+T11	HMM 1926 1945	febrile neutropenia
+T12	HMM 2037 2039	CR
+T13	HMM 2048 2050	PR
+T14	HMM 2061 2063	SD
+T15	HMM 2076 2078	PD
+T16	HMM 2095 2105	overall RR
+T17	HMM 2174 2213	RR based on an intent-to-treat analysis
+T18	HMM 2238 2253	Median survival
+T19	HMM 2367 2394	RR was significantly higher
+T20	HMM 2508 2562	clinical response making additional treatment feasible
+T21	HMM 2567 2573	higher
+T22	HMM 2611 2684	proportion of patients with a performance status 2+3 achieving a response
+T23	HMM 2753 2782	significantly longer survival
+T24	HMM 2818 2839	survival at 12 months
+T25	HMM 2902 2948	Grade IV granulocytopenia and thrombocytopenia
+T26	HMM 2954 2967	more frequent
+T27	HMM 2989 3016	haematological side-effects
+T28	HMM 3073 3085	cytotoxicity

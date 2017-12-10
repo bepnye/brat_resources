@@ -1,0 +1,5 @@
+T1	HMM 19 48	retention of social cognition
+T2	HMM 625 655	affective speech comprehension
+T3	HMM 847 897	assign emotional significance to speech intonation
+T4	HMM 1006 1024	social recognition
+T5	HMM 1075 1093	prosocial behavior

@@ -1,0 +1,10 @@
+T1	HMM 36 67	pain and secondary hyperalgesia
+T2	HMM 908 938	area of secondary hyperalgesia
+T3	HMM 1011 1084	heat pain detection thresholds or painfulness of long thermal stimulation
+T4	HMM 1205 1227	acute nociceptive pain
+T5	HMM 1276 1299	secondary hyperalgesia.
+T6	HMM 1317 1325	efficacy
+T7	HMM 1351 1370	nonneuropathic pain
+T8	HMM 1450 1483	experimental-induced hyperalgesia
+T9	HMM 1502 1514	Hyperalgesia
+T10	HMM 1646 1652	effect

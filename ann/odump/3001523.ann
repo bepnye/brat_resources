@@ -1,0 +1,8 @@
+T1	HMM 418 454	Cutaneous dissemination of infection
+T2	HMM 672 736	median periods during which cultures were positive for the virus
+T3	HMM 774 785	new lesions
+T4	HMM 861 902	interval until the first decrease in pain
+T5	HMM 934 960	pustulation of all lesions
+T6	HMM 993 1016	crusting of all lesions
+T7	HMM 1054 1081	complete healing of lesions
+T8	HMM 1159 1164	fever

@@ -1,0 +1,5 @@
+T1	HMM 653 719	electrocardiogram, blood pressure and peripheral oxygen saturation
+T2	HMM 728 746	Cardiac output was
+T3	HMM 880 947	Serum norepinephrine, epinephrine, dopamine and ACTH concentrations
+T4	HMM 1034 1140	heart rate, systolic blood pressure, rate-pressure product, cardiac output and left ventricular work index
+T5	HMM 1199 1203	SpO2

@@ -1,0 +1,10 @@
+T1	HMM 45 67	blood pressure control
+T2	HMM 611 628	systolic BP (SBP)
+T3	HMM 663 681	diastolic BP (DBP)
+T4	HMM 1151 1158	SBP/DBP
+T5	HMM 1339 1355	home morning SBP
+T6	HMM 1452 1455	DBP
+T7	HMM 1666 1681	home morning BP
+T8	HMM 1884 1919	use of antihypertensive medications
+T9	HMM 1987 2009	additional medications
+T10	HMM 2155 2208	body mass index and sodium intake and to stop smoking

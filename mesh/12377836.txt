@@ -1,0 +1,18 @@
+Adult
+Aged
+Anoxia
+Female
+Home Care Services
+Humans
+Male
+Middle Aged
+Monitoring, Ambulatory
+Monitoring, Physiologic
+Oximetry
+Patient Compliance
+Polysomnography
+Prospective Studies
+ROC Curve
+Sensitivity and Specificity
+Severity of Illness Index
+Sleep Apnea Syndromes

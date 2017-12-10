@@ -1,0 +1,9 @@
+T1	HMM 336 344	survival
+T2	HMM 508 533	efficacy and tolerability
+T3	HMM 966 996	progression-free survival rate
+T4	HMM 1048 1125	PFS, overall survival (OS), the overall response rate (ORR) and tolerability.
+T5	HMM 1446 1471	achieving PFS15 in arm ED
+T6	HMM 1558 1568	median PFS
+T7	HMM 1592 1605	and median OS
+T8	HMM 1684 1698	more effective
+T9	HMM 1782 1801	unknown EGFR status

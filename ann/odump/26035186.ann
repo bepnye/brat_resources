@@ -1,0 +1,13 @@
+T1	HMM 60 79	efficacy and safety
+T2	HMM 293 312	safety and efficacy
+T3	HMM 484 518	serotonin (5-HT) receptor activity
+T4	HMM 541 563	serotonin transporter.
+T5	HMM 780 856	the primary efficacy end point being change from baseline at week 8 in MADRS
+T6	HMM 894 903	measures.
+T7	HMM 904 918	Adverse events
+T8	HMM 944 1139	study, suicidal ideation and behavior were assessed using the Columbia-Suicide Severity Rating Scale (C-SSRS), and sexual dysfunction was assessed using the Arizona Sexual Experience (ASEX) scale
+T9	HMM 1313 1343	the primary efficacy end point
+T10	HMM 1421 1424	mg.
+T11	HMM 1425 1513	Nausea, headache, dry mouth, constipation, diarrhea, vomiting, dizziness, and flatulence
+T12	HMM 1590 1611	due to adverse events
+T13	HMM 1881 1955	the C-SSRS, laboratory values, electrocardiogram, or vital sign parameters

@@ -1,0 +1,6 @@
+T1	HMM 258 281	immunological response.
+T2	HMM 706 715	remission
+T3	HMM 778 787	survival.
+T4	HMM 800 825	prolongation of remission
+T5	HMM 1085 1107	survival and remission
+T6	HMM 1149 1162	side-effects.

@@ -1,0 +1,16 @@
+T1	HMM 798 815	total cholesterol
+T2	HMM 829 844	LDL-cholesterol
+T3	HMM 861 866	apo B
+T4	HMM 965 1018	serum triglyceride, HDL-cholesterol and apo A1 levels
+T5	HMM 1039 1044	Lp(a)
+T6	HMM 1052 1066	no significant
+T7	HMM 1090 1143	Glomerular filtration rate deteriorated significantly
+T8	HMM 1204 1225	no significant change
+T9	HMM 1266 1294	increase in serum creatinine
+T10	HMM 1299 1324	statistically significant
+T11	HMM 1447 1482	urinary protein excretion increased
+T12	HMM 1535 1549	not associated
+T13	HMM 1555 1577	significant elevations
+T14	HMM 1581 1605	liver or muscle enzymes.
+T15	HMM 1650 1671	hypercholesterolaemia
+T16	HMM 1702 1723	diabetic nephropathy.

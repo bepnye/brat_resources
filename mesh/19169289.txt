@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Antigens, CD34
+Cell Count
+Disease Progression
+Drug-Related Side Effects and Adverse Reactions
+Female
+Granulocyte Colony-Stimulating Factor
+Hematopoietic Stem Cell Mobilization
+Hematopoietic Stem Cell Transplantation
+Hematopoietic Stem Cells
+Humans
+Male
+Middle Aged
+Neoplasms
+Recombinant Proteins
+Treatment Outcome
+Young Adult

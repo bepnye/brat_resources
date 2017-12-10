@@ -1,0 +1,9 @@
+T1	Treatment 39 58	radiotherapy volume
+T2	Treatment 211 238	thoracic radiotherapy (TRT)
+T3	Treatment 478 544	different target volumes irradiation after induction chemotherapy.
+T4	Treatment 589 640	etoposide and cisplatin (EP) induction chemotherapy
+T5	Treatment 679 682	TRT
+T6	Treatment 858 902	induction chemotherapy, 45 Gy/30 Fx/19 d TRT
+T7	Treatment 957 968	EP regimen.
+T8	Treatment 1004 1006	EP
+T9	Treatment 1040 1078	Prophylactic cranial irradiation (PCI)

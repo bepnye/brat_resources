@@ -1,0 +1,6 @@
+T1	HMM 84 90	effect
+T2	HMM 206 212	effect
+T3	HMM 957 999	Kaplan-Meier survival analysis comparisons
+T4	HMM 1280 1298	filtration success
+T5	HMM 1440 1450	filtration
+T6	HMM 1754 1772	filtration outcome

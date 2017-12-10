@@ -1,0 +1,6 @@
+T1	HMM 127 134	success
+T2	HMM 1091 1109	correct assignment
+T3	HMM 1379 1397	correct assignment
+T4	HMM 1467 1485	Successful masking
+T5	HMM 1612 1619	Masking
+T6	HMM 1631 1641	successful

@@ -1,0 +1,8 @@
+T1	HMM 535 554	efficacy and safety
+T2	HMM 1407 1429	Serious adverse events
+T3	HMM 1518 1568	Increase over the baseline treadmill exercise test
+T4	HMM 1670 1736	total treadmill exercise test duration; time to first anginal pain
+T5	HMM 1810 1839	time to ST segment depression
+T6	HMM 1845 1850	mVolt
+T7	HMM 2188 2192	safe
+T8	HMM 2202 2212	tolerated.

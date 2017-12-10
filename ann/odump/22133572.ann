@@ -1,0 +1,5 @@
+T1	HMM 435 451	predict response
+T2	HMM 553 578	thymidylate synthase (TS)
+T3	HMM 821 861	overall response to first-line treatment
+T4	HMM 1023 1032	TS levels
+T5	HMM 1084 1112	response to FUFA and FOLFIRI

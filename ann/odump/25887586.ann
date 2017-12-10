@@ -1,0 +1,9 @@
+T1	HMM 279 318	precision of the femoral neck osteotomy
+T2	HMM 334 370	incidence of leg length discrepancy.
+T3	HMM 567 592	Differences in leg length
+T4	HMM 682 699	preoperative plan
+T5	HMM 709 739	actual amount of bone removed.
+T6	HMM 752 808	mean average difference in femoral neck resection height
+T7	HMM 878 884	guide.
+T8	HMM 885 926	Discrepancies in postoperative leg length
+T9	HMM 1103 1133	the accuracy of bone resection

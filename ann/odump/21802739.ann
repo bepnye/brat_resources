@@ -1,0 +1,11 @@
+T1	HMM 0 48	MRI signal hyperintensities and failure to remit
+T2	HMM 138 147	remission
+T3	HMM 249 269	total lesion volume.
+T4	HMM 363 405	lesion volume by region of interest (ROI).
+T5	HMM 789 810	DWMH, and PVH volumes
+T6	HMM 889 914	Remission from depression
+T7	HMM 940 982	Hamilton Rating Scale for Depression score
+T8	HMM 1096 1104	to remit
+T9	HMM 1472 1515	whether remission from geriatric depression
+T10	HMM 1524 1547	on lesion volume by ROI
+T11	HMM 1714 1734	that lesion location

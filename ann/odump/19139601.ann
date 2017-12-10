@@ -1,0 +1,4 @@
+T1	HMM 885 947	combined incidence of cardiovascular disease and renal failure
+T2	HMM 982 1019	total deaths and any safety problems.
+T3	HMM 1035 1071	blood pressures (systolic/diastolic)
+T4	HMM 1320 1326	deaths

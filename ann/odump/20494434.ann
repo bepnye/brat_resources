@@ -1,0 +1,7 @@
+T1	HMM 290 298	efficacy
+T2	HMM 953 1104	severity of autism symptoms (a total score of social communication algorithm items from ADOS-G, higher score indicating greater severity) at 13 months.
+T3	HMM 1143 1232	measures of parent-child interaction, child language, and adaptive functioning in school.
+T4	HMM 1612 1632	severity of symptoms
+T5	HMM 1988 2017	parental synchronous response
+T6	HMM 2173 2224	directly assessed language and adaptive functioning
+T7	HMM 2449 2490	parent-child dyadic social communication.

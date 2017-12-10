@@ -1,0 +1,6 @@
+T1	HMM 32 49	negative symptoms
+T2	HMM 246 263	negative symptoms
+T3	HMM 392 409	negative symptoms
+T4	HMM 704 734	negative symptom response rate
+T5	HMM 788 881	more reduction in scores on the negative subscale of the Positive and Negative Syndrome Scale
+T6	HMM 1036 1086	clinical response on the negative symptom subscale

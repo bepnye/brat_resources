@@ -1,0 +1,8 @@
+T1	HMM 54 73	glucose utilization
+T2	HMM 122 135	blood glucose
+T3	HMM 501 514	blood glucose
+T4	HMM 648 655	insulin
+T5	HMM 705 718	blood glucose
+T6	HMM 824 837	blood glucose
+T7	HMM 1135 1163	triglyceride and cholesterol
+T8	HMM 1308 1333	blood glucose and insulin

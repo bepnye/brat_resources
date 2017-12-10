@@ -1,0 +1,4 @@
+T1	HMM 818 826	relapse:
+T2	HMM 864 885	no further treatment.
+T3	HMM 886 917	Actuarial relapse-free survival
+T4	HMM 1122 1143	relapse-free survival

@@ -1,0 +1,22 @@
+Adult
+Analgesia, Epidural
+Analgesia, Obstetrical
+Analgesia, Patient-Controlled
+Analgesics, Opioid
+Anesthesia, Spinal
+Anesthetics, Local
+Bupivacaine
+Female
+Humans
+Hypotension
+Labor Presentation
+Labor, Obstetric
+Nausea
+Pain Measurement
+Pregnancy
+Prospective Studies
+Pruritus
+Single-Blind Method
+Sleep Stages
+Sufentanil
+Time Factors

@@ -1,0 +1,12 @@
+T1	HMM 737 768	actuarial disease-free survival
+T2	HMM 869 896	overall actuarial survivals
+T3	HMM 1684 1697	Local control
+T4	HMM 1740 1784	actuarial disease-free and overall survivals
+T5	HMM 1844 1865	disease-free survival
+T6	HMM 1991 2017	overall actuarial survival
+T7	HMM 2164 2185	disease-free survival
+T8	HMM 2240 2248	toxicity
+T9	HMM 2282 2316	doxorubicin-induced cardiomyopathy
+T10	HMM 2356 2380	congestive heart failure
+T11	HMM 2493 2514	disease-free survival
+T12	HMM 2600 2616	overall survival

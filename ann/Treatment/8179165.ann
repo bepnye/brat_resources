@@ -1,0 +1,24 @@
+T1	Treatment 51 62	propofol in
+T2	Treatment 117 231	general anesthesia (propofol, halothane and midazolam/fentanyl) in combination with catheter epidural anesthesia].
+T3	Treatment 334 446	continuous epidural anaesthesia and light general anaesthesia using propofol, halothane, and midazolam/fentanyl.
+T4	Treatment 523 543	epidural anaesthesia
+T5	Treatment 555 566	bupivacaine
+T6	Treatment 635 673	(halothane), light general anaesthesia
+T7	Treatment 691 742	thiopental 3-5 mg/kg and maintained with halothane.
+T8	Treatment 747 755	propofol
+T9	Treatment 867 889	midazolam and fentanyl
+T10	Treatment 949 958	intubated
+T11	Treatment 969 1002	non-depolarising muscle relaxants
+T12	Treatment 1013 1058	manually ventilated with nitrous oxide-oxygen
+T13	Treatment 1108 1116	morphine
+T14	Treatment 1135 1145	epidurally
+T15	Treatment 2016 2034	midazolam/fentanyl
+T16	Treatment 2098 2106	propofol
+T17	Treatment 2110 2128	midazolam/fentanyl
+T18	Treatment 2207 2216	halothane
+T19	Treatment 2261 2269	propofol
+T20	Treatment 2295 2304	halothane
+T21	Treatment 2308 2326	midazolam/fentanyl
+T22	Treatment 2442 2450	Propofol
+T23	Treatment 2455 2473	midazolam/fentanyl
+T24	Treatment 2525 2534	halothane

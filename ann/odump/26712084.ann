@@ -1,0 +1,8 @@
+T1	HMM 906 944	survival and progression-free survival
+T2	HMM 1525 1548	median overall survival
+T3	HMM 1665 1681	Overall survival
+T4	HMM 1880 1912	Median progression-free survival
+T5	HMM 2279 2295	overall survival
+T6	HMM 2587 2612	progression-free survival
+T7	HMM 2863 2905	Grade 3-5 treatment-related adverse events
+T8	HMM 3112 3128	overall survival

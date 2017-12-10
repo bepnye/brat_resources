@@ -1,0 +1,9 @@
+T1	HMM 18 33	tooth whitening
+T2	HMM 128 143	tooth whitening
+T3	HMM 910 918	Efficacy
+T4	HMM 1431 1453	yellowness and redness
+T5	HMM 1469 1488	brightness favoring
+T6	HMM 1558 1573	color retention
+T7	HMM 1831 1845	well-tolerated
+T8	HMM 1852 1875	minor tooth sensitivity
+T9	HMM 1880 1895	oral irritation

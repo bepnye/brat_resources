@@ -1,0 +1,6 @@
+T1	HMM 78 104	systemic fungal infections
+T2	HMM 523 548	systemic fungal infection
+T3	HMM 649 663	Adverse events
+T4	HMM 810 841	probable or possible infections
+T5	HMM 1092 1114	frequency of infection
+T6	HMM 1414 1437	systemic fungal disease

@@ -1,0 +1,7 @@
+T1	Outcomes 683 687	PaO2
+T2	Outcomes 777 797	intrapulmonary shunt
+T3	Outcomes 802 849	alveolar-arterial oxygen tension gradient AaDO2
+T4	Outcomes 919 959	PaO2 nor intrapulmonary shunt (or AaDO2)
+T5	Outcomes 1120 1141	rate pressure product
+T6	Outcomes 1208 1227	therapeutic failure
+T7	Outcomes 1382 1417	cumulative therapeutic failure rate

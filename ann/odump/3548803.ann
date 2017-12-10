@@ -1,0 +1,5 @@
+T1	HMM 600 631	Light-for-gestational age (LGA)
+T2	HMM 818 843	poor intrauterine growth.
+T3	HMM 1000 1019	Induction of labour
+T4	HMM 1169 1227	use of instrumental vaginal delivery or caesarean section.
+T5	HMM 1283 1301	neonatal morbidity

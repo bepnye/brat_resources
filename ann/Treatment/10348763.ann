@@ -1,0 +1,24 @@
+T1	Treatment 0 14	Amphotericin B
+T2	Treatment 106 168	amphotericin B administered in dextrose versus lipid emulsion.
+T3	Treatment 239 259	amphotericin B (AmB)
+T4	Treatment 304 312	dextrose
+T5	Treatment 339 368	AmB infused in lipid emulsion
+T6	Treatment 483 486	AmB
+T7	Treatment 661 664	AmB
+T8	Treatment 676 684	dextrose
+T9	Treatment 689 692	AmB
+T10	Treatment 704 718	lipid emulsion
+T11	Treatment 778 781	AmB
+T12	Treatment 999 1022	AmB infused in dextrose
+T13	Treatment 1040 1069	AmB infused in lipid emulsion
+T14	Treatment 1108 1111	AmB
+T15	Treatment 1158 1173	AmB in dextrose
+T16	Treatment 1203 1225	AmB in lipid emulsion.
+T17	Treatment 1331 1334	AmB
+T18	Treatment 1431 1446	AmB in dextrose
+T19	Treatment 1533 1554	AmB in lipid emulsion
+T20	Treatment 1735 1756	AmB in lipid emulsion
+T21	Treatment 1795 1816	AmB in lipid emulsion
+T22	Treatment 1879 1894	AmB in dextrose
+T23	Treatment 2010 2031	AmB in lipid emulsion
+T24	Treatment 2066 2074	dextrose

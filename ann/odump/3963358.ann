@@ -1,0 +1,10 @@
+T1	HMM 901 918	surface perfusion
+T2	HMM 976 1016	increase of plasma glucose concentration
+T3	HMM 1078 1106	Stress mediated hypokalaemia
+T4	HMM 1150 1202	median values of the plasma potassium concentrations
+T5	HMM 1352 1381	moderate compensated acidosis
+T6	HMM 1433 1457	marked increase of paCO2
+T7	HMM 1464 1482	greater fall of pH
+T8	HMM 1577 1598	fall in oxygen uptake
+T9	HMM 1915 1928	oxygen uptake
+T10	HMM 2095 2108	oxygen uptake

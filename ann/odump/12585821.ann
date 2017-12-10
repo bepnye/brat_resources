@@ -1,0 +1,4 @@
+T1	HMM 99 113	facial affect.
+T2	HMM 575 609	basic facially expressed emotions.
+T3	HMM 1197 1220	affect recognition task
+T4	HMM 1301 1338	teach the detection of facial affect.

@@ -1,0 +1,10 @@
+T1	HMM 133 157	endotracheal intubation:
+T2	HMM 273 289	Mallampati score
+T3	HMM 334 353	tracheal intubation
+T4	HMM 360 377	impending hypoxic
+T5	HMM 851 870	Cormack's criteria.
+T6	HMM 875 908	incidence of difficult intubation
+T7	HMM 923 942	upper lip bite test
+T8	HMM 971 995	specificity and accuracy
+T9	HMM 1014 1029	Mallampati test
+T10	HMM 1058 1110	sensitivity, positive and negative predictive values

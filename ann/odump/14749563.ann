@@ -1,0 +1,8 @@
+T1	HMM 603 658	Total albumin supplementation and hepatic transaminases
+T2	HMM 687 772	Constitutive proteins such as albumin, prealbumin, and retinol-binding protein levels
+T3	HMM 799 914	acute phase proteins such as alpha 1-acid glycoprotein, C3 complement, alpha 2-macroglobulin, and fibrinogen levels
+T4	HMM 998 1054	Albumin supplementation during the acute hospitalization
+T5	HMM 1093 1114	Hepatic transaminases
+T6	HMM 1131 1145	normal levels.
+T7	HMM 1224 1244	constitutive protein
+T8	HMM 1257 1284	acute phase protein levels.

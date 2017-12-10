@@ -1,0 +1,15 @@
+T1	Treatment 14 37	amalgam dental fillings
+T2	Treatment 145 202	concomitant, quadruple, and levofloxacin-based therapies.
+T3	Treatment 289 306	amalgam fillings.
+T4	Treatment 1284 1362	concomitant therapy (CT) (rabeprazole-amoxicillin-clarithromycin-metronidazole
+T5	Treatment 1406 1497	quadruple therapy (QT) (rabeprazole-tetracycline-metronidazole-colloidal bismuth subcitrate
+T6	Treatment 1544 1613	levofloxacin-based therapy (LT) (rabeprazole-amoxicillin-levofloxacin
+T7	Treatment 1801 1808	filling
+T8	Treatment 1920 1934	CT, QT, and LT
+T9	Treatment 2165 2167	CT
+T10	Treatment 2172 2174	LT
+T11	Treatment 2237 2244	filling
+T12	Treatment 2269 2279	nonfilling
+T13	Treatment 2303 2305	QT
+T14	Treatment 2739 2755	amalgam fillings
+T15	Treatment 2833 2849	amalgam fillings

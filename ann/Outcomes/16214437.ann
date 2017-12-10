@@ -1,0 +1,12 @@
+T1	Outcomes 49 83	ST-elevation myocardial infarction
+T2	Outcomes 206 233	acute myocardial infarction
+T3	Outcomes 740 795	rate of major adverse cardiac events (MACEs) at 1 month
+T4	Outcomes 808 944	a composite of cardiac death, reinfarction, serious arrhythmias (ventricular fibrillation and/or tachycardia), and severe heart failure.
+T5	Outcomes 979 1057	rate of MACEs at 1 year and improvement in left ventricular systolic function.
+T6	Outcomes 1062 1091	incidence of MACEs at 1 month
+T7	Outcomes 1274 1317	ventricular tachycardia and/or fibrillation
+T8	Outcomes 1356 1369	heart failure
+T9	Outcomes 1400 1423	rate of MACEs at 1 year
+T10	Outcomes 1609 1643	left ventricular ejection fraction
+T11	Outcomes 1825 1829	safe
+T12	Outcomes 1843 1859	clinical outcome

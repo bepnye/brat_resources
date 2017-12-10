@@ -1,0 +1,13 @@
+T1	HMM 130 149	relative importance
+T2	HMM 153 227	lipid, apo B, lipoprotein(a) [Lp(a)], and total homocysteine (tHcy) levels
+T3	HMM 393 468	Nonfasting serum lipid and lipoproteins and plasma tHcy and cysteine levels
+T4	HMM 500 535	Serum folate and vitamin B12 levels
+T5	HMM 710 756	total and non-HDL cholesterol and apo B levels
+T6	HMM 838 849	tHcy levels
+T7	HMM 882 886	tHcy
+T8	HMM 1201 1250	Intake and serum levels of vitamin B12 and folate
+T9	HMM 1340 1412	serum folate (negative correlation), plasma creatinine, and sugar intake
+T10	HMM 1501 1505	tHcy
+T11	HMM 1602 1606	tHcy
+T12	HMM 1634 1664	premature cardiovascular death
+T13	HMM 1786 1790	tHcy

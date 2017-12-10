@@ -1,0 +1,6 @@
+T1	HMM 164 175	skin cancer
+T2	HMM 191 222	skin self-examination behaviors
+T3	HMM 676 690	sun protection
+T4	HMM 695 716	skin self-examination
+T5	HMM 890 1002	overall sun-protection habits, the use of hats, the use of sunglasses, and the recency of skin self-examination.
+T6	HMM 1144 1194	sun-protection behaviors and skin self-examination

@@ -1,0 +1,20 @@
+T1	HMM 0 16	Comorbidity, age
+T2	HMM 21 37	overall survival
+T3	HMM 231 247	comorbidity, age
+T4	HMM 252 275	performance status (PS)
+T5	HMM 413 421	toxicity
+T6	HMM 546 578	Charlson Comorbidity Index (CCI)
+T7	HMM 603 614	comorbidity
+T8	HMM 708 717	CCI score
+T9	HMM 1002 1009	0.008).
+T10	HMM 1010 1031	Overall survival (OS)
+T11	HMM 1143 1152	better PS
+T12	HMM 1173 1182	better OS
+T13	HMM 1271 1278	with OS
+T14	HMM 1326 1351	less grade ≥ 3 vomiting
+T15	HMM 1368 1380	more dyspnea
+T16	HMM 1446 1471	less grade ≥ 3 vomiting
+T17	HMM 1487 1511	but more non-neutropenic
+T18	HMM 1531 1548	CONCLUSION better
+T19	HMM 1572 1580	improved
+T20	HMM 1598 1602	with

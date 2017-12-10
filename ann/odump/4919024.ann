@@ -1,0 +1,5 @@
+T1	HMM 0 10	Protection
+T2	HMM 23 74	natural infection with influenza A2 Hong Kong virus
+T3	HMM 225 266	protection against influenza A2 infection
+T4	HMM 416 448	Serologically verified influenza
+T5	HMM 465 520	complement fixation and/or haemagglutination inhibition

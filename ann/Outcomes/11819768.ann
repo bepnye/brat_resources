@@ -1,0 +1,5 @@
+T1	Outcomes 230 244	gastric cancer
+T2	Outcomes 817 901	gastric cancer, precancerous lesions (dysplasia, adenoma), other cancers, and death.
+T3	Outcomes 1157 1162	cured
+T4	Outcomes 1332 1374	gastric cancer or any precancerous lesion.
+T5	Outcomes 1405 1447	study endpoints other than gastric cancer.

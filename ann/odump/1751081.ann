@@ -1,0 +1,4 @@
+T1	HMM 668 769	weight gained interdialysis, mean blood pressure predialysis and postdialysis, and hemoconcentration.
+T2	HMM 770 786	Serum Na+ levels
+T3	HMM 878 909	Hypotensive episodes and cramps
+T4	HMM 947 985	amount of hypertonic and normal saline

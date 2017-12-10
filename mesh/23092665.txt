@@ -1,0 +1,20 @@
+Administration, Intravenous
+Administration, Oral
+Aged
+Cardiopulmonary Bypass
+Coronary Artery Bypass
+Coronary Disease
+Female
+Follow-Up Studies
+Gastrointestinal Hemorrhage
+Humans
+Japan
+Length of Stay
+Male
+Middle Aged
+Perioperative Care
+Postoperative Complications
+Primary Prevention
+Proton Pump Inhibitors
+Reference Values
+Treatment Outcome

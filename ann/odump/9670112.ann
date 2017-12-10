@@ -1,0 +1,8 @@
+T1	HMM 0 20	Glucosamine in serum
+T2	HMM 160 186	glucosamine level in serum
+T3	HMM 815 836	ventilatory threshold
+T4	HMM 981 1043	indices of acid-base balance, lactate level, and glucose level
+T5	HMM 1089 1154	serum levels of immunoreactive insulin, C-peptide and glucosamine
+T6	HMM 1182 1231	binding of 125I-insulin to erythrocyte receptors.
+T7	HMM 1290 1306	physical fitness
+T8	HMM 1324 1387	glucosamine concentration, insulinaemia and insulin resistance.

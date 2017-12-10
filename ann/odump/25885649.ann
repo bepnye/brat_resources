@@ -1,0 +1,28 @@
+T1	HMM 256 308	International Physical Activity Questionnaire; IPAQ)
+T2	HMM 339 367	GT3X) physical activity (PA)
+T3	HMM 523 558	maximal oxygen uptake test (VO2max)
+T4	HMM 636 640	IPAQ
+T5	HMM 645 651	VO2max
+T6	HMM 754 756	PA
+T7	HMM 854 868	PA measurement
+T8	HMM 873 879	VO2max
+T9	HMM 1195 1202	when PA
+T10	HMM 1286 1333	less time spent engaged in sedentary behaviours
+T11	HMM 1352 1364	and light PA
+T12	HMM 1502 1516	between VO2max
+T13	HMM 1522 1535	all PA levels
+T14	HMM 1582 1600	P<.01; moderate PA
+T15	HMM 1610 1641	P=.01; moderate and vigorous PA
+T16	HMM 1694 1711	to sedentary time
+T17	HMM 1736 1743	P=.04).
+T18	HMM 1744 1778	IPAQ-reported moderate PA and MVPA
+T19	HMM 1801 1812	with maxV02
+T20	HMM 1919 1952	the IPAQ-VO2 max and GT3X-VO2 max
+T21	HMM 2028 2036	the IPAQ
+T22	HMM 2074 2088	less sedentary
+T23	HMM 2104 2128	more higher intensity PA
+T24	HMM 2195 2206	with VO2max
+T25	HMM 2210 2216	all PA
+T26	HMM 2250 2258	and MPVA
+T27	HMM 2270 2281	with VO2max
+T28	HMM 2305 2328	self-reported PA and ST

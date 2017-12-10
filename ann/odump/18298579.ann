@@ -1,0 +1,11 @@
+T1	HMM 22 40	antiviral activity
+T2	HMM 473 506	the antiviral efficacy, HIV-1 RNA
+T3	HMM 633 649	time (AUCMB/day)
+T4	HMM 666 697	RESULTS Mean baseline HIV-1 RNA
+T5	HMM 788 816	the mean HIV-1 RNA reduction
+T6	HMM 954 955	.
+T7	HMM 956 972	AUCMB/day values
+T8	HMM 1129 1141	of HIV-1 RNA
+T9	HMM 1151 1152	.
+T10	HMM 1153 1175	Mean ddI plasma levels
+T11	HMM 1352 1393	the antiviral activity of ddI-EC capsules

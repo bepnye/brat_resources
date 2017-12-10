@@ -1,0 +1,9 @@
+T1	HMM 322 334	Photographic
+T2	HMM 371 415	detection of coronary angiographic features.
+T3	HMM 895 994	effect of lossy compression on the sensitivity and specificity for detection of diagnostic features
+T4	HMM 1015 1104	effect of compression on subjective measures of image quality graded by the angiographers
+T5	HMM 1132 1149	Lossy compression
+T6	HMM 1291 1317	detection of calcification
+T7	HMM 1448 1476	confidence in interpretation
+T8	HMM 1626 1656	decreased diagnostic accuracy.
+T9	HMM 1657 1716	The sensitivity for detection of common diagnostic features

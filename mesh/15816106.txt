@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Carcinoma, Squamous Cell
+Cell Transformation, Neoplastic
+Female
+Gene Expression Profiling
+Head and Neck Neoplasms
+Humans
+Immunohistochemistry
+Male
+Middle Aged
+Prognosis
+Receptor, Epidermal Growth Factor
+Survival Analysis
+Treatment Outcome

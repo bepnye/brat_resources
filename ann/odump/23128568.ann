@@ -1,0 +1,6 @@
+T1	HMM 1012 1023	information
+T2	HMM 1036 1053	medical condition
+T3	HMM 1266 1327	interested, friendly, responsive, interactive, and respectful
+T4	HMM 1347 1371	depressed and distressed
+T5	HMM 1436 1479	visit satisfaction, trust, stress, or mood.
+T6	HMM 1480 1499	Mean visit duration

@@ -1,0 +1,7 @@
+T1	HMM 331 390	metabolic control, knowledge of diabetes, health behaviours
+T2	HMM 396 411	quality of life
+T3	HMM 1140 1320	3-monthly HbA1c, fasting blood glucose, body weight, waist-hip ratio, yearly blood lipids, and bi-yearly assessment of knowledge of diabetes, health behaviours and quality of life.
+T4	HMM 1340 1501	systolic and diastolic blood pressure, evaluation of ECG for ischaemia and QT interval, hypoglycaemic and anti-hypertensive medication and cardiovascular events.
+T5	HMM 1734 1751	improve lifestyle
+T6	HMM 1756 1813	outcomes, support team work, enhance providers' attitudes
+T7	HMM 1818 1830	competencies

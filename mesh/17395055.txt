@@ -1,0 +1,19 @@
+Adult
+Aged
+Animals
+Cardiotonic Agents
+Disease Models, Animal
+Dogs
+Electric Countershock
+Electrocardiography
+Follow-Up Studies
+Heart Failure
+Humans
+Male
+Middle Aged
+Myocardial Contraction
+Myocardium
+Oxygen Consumption
+Stroke Volume
+Treatment Outcome
+Ventricular Function, Left

@@ -1,0 +1,13 @@
+T1	Intervention 110 124	centrifugation
+T2	Intervention 129 160	multiple-pass hemoconcentration
+T3	Intervention 249 279	methods of centrifugation (CF)
+T4	Intervention 284 321	multiple-pass hemoconcentration (MPH)
+T5	Intervention 720 776	centrifugation or multiple-pass hemoconcentration method
+T6	Intervention 958 972	centrifugation
+T7	Intervention 998 1029	multiple-pass hemoconcentration
+T8	Intervention 1125 1156	multiple-pass hemoconcentration
+T9	Intervention 1324 1355	multiple-pass hemoconcentration
+T10	Intervention 1390 1404	centrifugation
+T11	Intervention 1513 1544	multiple-pass hemoconcentration
+T12	Intervention 1616 1618	CF
+T13	Intervention 1717 1727	MPH method

@@ -1,0 +1,9 @@
+T1	HMM 13 33	peptic ulcer disease
+T2	HMM 113 119	peptic
+T3	HMM 264 278	animal ulcers.
+T4	HMM 283 296	ulcer healing
+T5	HMM 516 525	tolerated
+T6	HMM 627 636	mutagenic
+T7	HMM 667 679	carcinogenic
+T8	HMM 904 947	monoamine oxidase (MAO) inhibitory reaction
+T9	HMM 966 1011	antibacterial activity to Helicobacter pylori

@@ -1,0 +1,8 @@
+T1	HMM 1367 1391	Change in renal function
+T2	HMM 1525 1557	rate of change in renal function
+T3	HMM 1818 1832	renal function
+T4	HMM 1867 1970	baseline lipid levels, kidney function, diabetic status, or other components of the metabolic syndrome.
+T5	HMM 2082 2105	serum creatinine levels
+T6	HMM 2251 2304	serum creatinine levels, serum creatine kinase levels
+T7	HMM 2496 2511	kidney function
+T8	HMM 2615 2630	kidney function

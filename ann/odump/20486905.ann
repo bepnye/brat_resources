@@ -1,0 +1,4 @@
+T1	HMM 787 823	1-year freedom from efficacy failure
+T2	HMM 935 951	patient survival
+T3	HMM 976 1025	Mean modification of diet in renal disease (MDRD)
+T4	HMM 1132 1162	The incidence of CKD stage ≥

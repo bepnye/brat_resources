@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Amblyopia
+Child
+Child, Preschool
+Female
+Humans
+Male
+Middle Aged
+Prospective Studies
+Sensitivity and Specificity
+Vision Tests
+Visual Acuity
+Young Adult

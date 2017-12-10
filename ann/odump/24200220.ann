@@ -1,0 +1,7 @@
+T1	HMM 1031 1052	The proton SBRT plans
+T2	HMM 1061 1073	the CW doses
+T3	HMM 1093 1101	measured
+T4	HMM 1103 1120	The median CW V20
+T5	HMM 1399 1431	the planning target volume (PTV)
+T6	HMM 1591 1679	the PTV while significantly reducing the dose to the CW and lung relative to photon SBRT
+T7	HMM 1730 1740	of lesions

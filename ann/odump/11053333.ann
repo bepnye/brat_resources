@@ -1,0 +1,8 @@
+T1	HMM 147 161	blood pressure
+T2	HMM 412 426	blood pressure
+T3	HMM 1134 1168	systemic and regional hemodynamics
+T4	HMM 1206 1248	arterial pressure and vascular resistances
+T5	HMM 1298 1319	nitric oxide synthase
+T6	HMM 1338 1373	mean arterial pressure after L-NMMA
+T7	HMM 1477 1501	postexercise hypotension
+T8	HMM 1528 1554	production of nitric oxide

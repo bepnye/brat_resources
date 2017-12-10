@@ -1,0 +1,12 @@
+T1	HMM 123 144	platelet aggregation.
+T2	HMM 267 289	cardiovascular events.
+T3	HMM 425 446	platelet aggregation.
+T4	HMM 756 774	Primary hemostasis
+T5	HMM 848 955	the closure time (CT) of a collagen- and epinephrine-coated pore by aggregating platelets in flowing blood.
+T6	HMM 978 1001	anti-aggregatory action
+T7	HMM 1024 1027	(CT
+T8	HMM 1171 1194	anti-aggregatory action
+T9	HMM 1239 1241	CT
+T10	HMM 1429 1449	platelet aggregation
+T11	HMM 1572 1591	platelet inhibition
+T12	HMM 1806 1825	platelet inhibition

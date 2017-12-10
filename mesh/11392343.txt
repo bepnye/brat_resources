@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Amantadine
+Autistic Disorder
+Child
+Child, Preschool
+Dopamine Agents
+Double-Blind Method
+Drug Administration Schedule
+Female
+Humans
+Irritable Mood
+Male
+Psychiatric Status Rating Scales
+Psychomotor Agitation
+Severity of Illness Index
+Treatment Outcome

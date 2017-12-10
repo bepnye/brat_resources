@@ -1,0 +1,20 @@
+Adult
+Anesthesia, General
+Anesthesia, Inhalation
+Anesthesia, Local
+Anesthetics
+Arousal
+Blood Glucose
+Blood Pressure
+Ear Diseases
+Ear, Middle
+Epinephrine
+Female
+Glycerol
+Heart Rate
+Humans
+Lactates
+Lactic Acid
+Male
+Middle Aged
+Norepinephrine

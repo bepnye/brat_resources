@@ -1,0 +1,20 @@
+T1	HMM 0 22	Long-term consequences
+T2	HMM 90 107	long-term effects
+T3	HMM 548 568	graft survival rates
+T4	HMM 800 818	chronic rejections
+T5	HMM 956 970	graft function
+T6	HMM 1173 1210	posttransplantation diabetes mellitus
+T7	HMM 1217 1248	abnormal glucose tolerance test
+T8	HMM 1415 1432	cholesterol level
+T9	HMM 1603 1622	lipid abnormalities
+T10	HMM 1631 1666	disturbances in glucose metabolism.
+T11	HMM 1754 1774	histological changes
+T12	HMM 1799 1819	CsA-specific changes
+T13	HMM 1828 1859	isometric vacuolation in tubuli
+T14	HMM 1873 1933	Histological alterations characteristic of chronic rejection
+T15	HMM 1952 2016	"chronic allograft damage index." Chronic allograft damage index
+T16	HMM 2134 2158	histopathological change
+T17	HMM 2249 2282	cyclosporine-related side-effects
+T18	HMM 2369 2401	posttransplant diabetes mellitus
+T19	HMM 2415 2439	some lipid abnormalities
+T20	HMM 2599 2648	chronic histological changes in renal allografts.

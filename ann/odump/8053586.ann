@@ -1,0 +1,9 @@
+T1	HMM 918 937	minimum temperature
+T2	HMM 1000 1007	Cooling
+T3	HMM 1055 1064	Rewarming
+T4	HMM 1155 1166	Hypothermia
+T5	HMM 1196 1206	anesthesia
+T6	HMM 1276 1327	Mean temperature upon intensive care unit admission
+T7	HMM 1483 1507	postoperative shivering.
+T8	HMM 1543 1555	temperatures
+T9	HMM 1617 1628	temperature

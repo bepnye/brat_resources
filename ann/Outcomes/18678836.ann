@@ -1,0 +1,10 @@
+T1	Outcomes 122 135	breast cancer
+T2	Outcomes 405 430	metastatic breast cancer.
+T3	Outcomes 554 568	breast cancer.
+T4	Outcomes 1188 1209	disease-free survival
+T5	Outcomes 1237 1253	overall survival
+T6	Outcomes 1282 1294	hazard ratio
+T7	Outcomes 1477 1489	improved DFS
+T8	Outcomes 1524 1578	Grade 3 neutropenia associated with fever or infection
+T9	Outcomes 1659 1682	DFS or overall survival
+T10	Outcomes 1732 1741	toxicity.

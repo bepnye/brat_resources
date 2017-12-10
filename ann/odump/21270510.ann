@@ -1,0 +1,7 @@
+T1	HMM 0 32	Prevalence of metabolic syndrome
+T2	HMM 108 140	prevalence of metabolic syndrome
+T3	HMM 700 750	age-standardized prevalences of metabolic syndrome
+T4	HMM 925 985	risk factors and higher prevalence of the metabolic syndrome
+T5	HMM 1055 1078	Elevated blood pressure
+T6	HMM 1161 1176	central obesity
+T7	HMM 1190 1203	hyperglycemia

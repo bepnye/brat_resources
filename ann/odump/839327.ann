@@ -1,0 +1,7 @@
+T1	HMM 78 86	tyrosine
+T2	HMM 91 125	phenylalanine in plasma and urine.
+T3	HMM 500 561	Plasma and urine concentrations of tyrosine and phenylalanine
+T4	HMM 571 577	higher
+T5	HMM 754 774	catabolize tyrosine.
+T6	HMM 794 845	significantly higher plasma tyrosine concentrations
+T7	HMM 935 975	increased plasma tyrosine concentrations

@@ -1,0 +1,6 @@
+T1	HMM 769 792	symptomatic improvement
+T2	HMM 840 861	bacterial eradication
+T3	HMM 908 948	active chronic suppurative otitis media.
+T4	HMM 1047 1065	had active disease
+T5	HMM 1217 1234	clinical efficacy
+T6	HMM 1290 1310	risk of ototoxicity.

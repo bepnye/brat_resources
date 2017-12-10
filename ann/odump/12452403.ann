@@ -1,0 +1,7 @@
+T1	HMM 23 55	severe irritable bowel syndrome:
+T2	HMM 127 151	irritable bowel syndrome
+T3	HMM 760 784	All central IBS symptoms
+T4	HMM 840 948	Rectal pain thresholds, rectal smooth muscle tone, and autonomic functioning (except sweat gland reactivity)
+T5	HMM 997 1036	somatization and psychological distress
+T6	HMM 1094 1106	IBS symptoms
+T7	HMM 1129 1169	psychological distress and somatization.

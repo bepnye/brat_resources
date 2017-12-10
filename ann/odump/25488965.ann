@@ -1,0 +1,4 @@
+T1	HMM 896 915	Median RTOG accrual
+T2	HMM 1250 1282	Radiotherapy protocol deviations
+T3	HMM 1393 1395	OS
+T4	HMM 1481 1491	death risk

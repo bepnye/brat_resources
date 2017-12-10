@@ -1,0 +1,16 @@
+T1	HMM 100 138	cervical ripening and labor induction.
+T2	HMM 279 317	cervical ripening and labor induction.
+T3	HMM 1378 1438	average interval from start of induction to vaginal delivery
+T4	HMM 1635 1665	Oxytocin augmentation of labor
+T5	HMM 1879 1897	routes of delivery
+T6	HMM 1965 1985	cesarean deliveries.
+T7	HMM 2032 2044	tachysystole
+T8	HMM 2322 2374	frequency of uterine hyperstimulation or hypertonus.
+T9	HMM 2375 2409	Abnormal fetal heart rate tracings
+T10	HMM 2628 2644	meconium passage
+T11	HMM 2661 2673	Apgar scores
+T12	HMM 2679 2753	neonatal resuscitations, or admissions to the neonatal intensive care unit
+T13	HMM 2831 2840	effective
+T14	HMM 2861 2906	cervical ripening and the induction of labor.
+T15	HMM 2907 2994	Mean time intervals to delivery, need for oxytocin augmentation, and routes of delivery
+T16	HMM 3045 3065	uterine tachysystole

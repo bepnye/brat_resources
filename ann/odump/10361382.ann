@@ -1,0 +1,11 @@
+T1	HMM 46 92	abnormal TSH response to TRH during starvation
+T2	HMM 148 168	blunted TSH response
+T3	HMM 172 207	thyrotropin-releasing hormone (TRH)
+T4	HMM 440 475	hypothalamic somatostatinergic tone
+T5	HMM 511 605	involvement of endogenous opioids in the mechanism underlying the abnormal TSH response to TRH
+T6	HMM 638 778	TSH response to TRH (25 micrograms in an intravenous bolus), serum total and free T4 and T3 levels, and 24-hour urinary-free cortisol levels
+T7	HMM 1094 1130	TRH tests after prolonged starvation
+T8	HMM 1673 1693	TRH-induced TSH rise
+T9	HMM 1834 1853	basal levels of TSH
+T10	HMM 1862 1909	TSH response to TRH after prolonged starvation.
+T11	HMM 2467 2515	cholinergic stimulatory control of TSH secretion

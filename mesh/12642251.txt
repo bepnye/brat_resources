@@ -1,0 +1,19 @@
+Acute Disease
+Adolescent
+Adult
+Aged
+Analysis of Variance
+Anti-Inflammatory Agents
+Chi-Square Distribution
+Dexamethasone
+Double-Blind Method
+Drug Administration Schedule
+Drug Delivery Systems
+Female
+Humans
+Iontophoresis
+Male
+Middle Aged
+Pain Measurement
+Tennis Elbow
+Treatment Outcome

@@ -1,0 +1,7 @@
+T1	HMM 490 588	the severity of the symptoms such as pain, discomfort, heaviness, tension, stiffness and weakness.
+T2	HMM 589 612	Bilateral circumference
+T3	HMM 775 788	in arm volume
+T4	HMM 851 867	decreasing edema
+T5	HMM 1018 1035	decrease at edema
+T6	HMM 1133 1154	decreasing lymphedema
+T7	HMM 1179 1191	reduction of

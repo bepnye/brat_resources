@@ -1,0 +1,7 @@
+T1	HMM 25 48	venipuncture compliance
+T2	HMM 241 257	serious distress
+T3	HMM 262 282	behavior disturbance
+T4	HMM 410 428	negative reactions
+T5	HMM 806 824	negative behaviors
+T6	HMM 830 861	increase blood draw compliance.
+T7	HMM 1201 1238	increased blood draw compliance rates

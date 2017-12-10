@@ -1,0 +1,11 @@
+T1	HMM 447 467	creatinine clearance
+T2	HMM 502 529	body weight, urinary volume
+T3	HMM 535 591	fractional excretion of uric acid, sodium, and chloride.
+T4	HMM 620 650	fractional potassium excretion
+T5	HMM 711 725	sparing effect
+T6	HMM 745 798	calcium, inorganic phosphate, and magnesium excretion
+T7	HMM 822 843	free water clearance.
+T8	HMM 858 874	serum parameters
+T9	HMM 925 947	hepatic encephalopathy
+T10	HMM 997 1034	effects on sodium and water excretion
+T11	HMM 1039 1066	on other urinary parameters

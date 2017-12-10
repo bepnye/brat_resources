@@ -1,0 +1,6 @@
+T1	HMM 1328 1357	mean hemoglobin concentration
+T2	HMM 1401 1411	hematocrit
+T3	HMM 1596 1616	cerebral infarctions
+T4	HMM 1623 1645	intracerebral hematoma
+T5	HMM 1693 1703	infarction
+T6	HMM 1888 1910	risk of a first stroke

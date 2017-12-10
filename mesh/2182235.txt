@@ -1,0 +1,15 @@
+Adult
+Aged
+Anistreplase
+Coronary Angiography
+Female
+Fibrinolytic Agents
+Humans
+Infusions, Intravenous
+Male
+Middle Aged
+Myocardial Infarction
+Myocardial Reperfusion
+Plasminogen
+Streptokinase
+Thrombolytic Therapy

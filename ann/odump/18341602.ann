@@ -1,0 +1,9 @@
+T1	HMM 231 248	clinical response
+T2	HMM 737 945	Plaque index (PI), BOP, PD, gingival margin position (GMP), relative vertical and horizontal clinical attachment level (RVCAL and RHCAL), vertical and horizontal bone level (VBL and HBL) and furcation closure
+T3	HMM 1048 1059	RVCAL gains
+T4	HMM 1141 1146	RHCAL
+T5	HMM 1207 1224	VBL and HBL gains
+T6	HMM 1413 1456	number of the remaining class-II furcations
+T7	HMM 1632 1634	PD
+T8	HMM 1648 1686	clinical and osseous attachment levels
+T9	HMM 1721 1762	class-II to class-I furcation conversion.

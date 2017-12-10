@@ -1,0 +1,11 @@
+T1	HMM 55 96	regulation of lipolysis in adipose tissue
+T2	HMM 297 315	lipid mobilization
+T3	HMM 802 865	concentration of extracellular glycerol (EGC) in adipose tissue
+T4	HMM 1141 1157	diet composition
+T5	HMM 1175 1191	increases of EGC
+T6	HMM 1346 1370	epinephrine stimulations
+T7	HMM 1453 1496	exercise-induced increase in EGC was higher
+T8	HMM 1622 1654	higher exercise-induced response
+T9	HMM 1718 1729	insulinemia
+T10	HMM 1826 1874	beta-adrenergic responsiveness of adipose tissue
+T11	HMM 1942 1976	higher lipolysis in adipose tissue

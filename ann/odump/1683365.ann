@@ -1,0 +1,7 @@
+T1	HMM 683 687	PaO2
+T2	HMM 777 797	intrapulmonary shunt
+T3	HMM 802 849	alveolar-arterial oxygen tension gradient AaDO2
+T4	HMM 919 959	PaO2 nor intrapulmonary shunt (or AaDO2)
+T5	HMM 1120 1141	rate pressure product
+T6	HMM 1208 1227	therapeutic failure
+T7	HMM 1382 1417	cumulative therapeutic failure rate

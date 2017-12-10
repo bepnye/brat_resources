@@ -1,0 +1,8 @@
+T1	HMM 849 870	overall survival (OS)
+T2	HMM 904 913	Median OS
+T3	HMM 1083 1129	Median progression-free survival (PFS, months)
+T4	HMM 1342 1359	longer OS and PFS
+T5	HMM 1578 1588	OS and PFS
+T6	HMM 1715 1744	Pemetrexed-cisplatin toxicity
+T7	HMM 1885 1893	survival
+T8	HMM 2004 2024	OS and PFS advantage

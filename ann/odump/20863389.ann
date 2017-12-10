@@ -1,0 +1,5 @@
+T1	HMM 905 943	The mean number of chemotherapy cycles
+T2	HMM 1119 1145	developed tumor recurrence
+T3	HMM 1147 1171	The Median Survival time
+T4	HMM 1228 1264	The proportion of patients surviving
+T5	HMM 1440 1462	any clinical advantage

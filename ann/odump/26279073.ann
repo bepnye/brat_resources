@@ -1,0 +1,12 @@
+T1	HMM 44 60	Metabolic Status
+T2	HMM 269 287	insulin metabolism
+T3	HMM 292 306	lipid profiles
+T4	HMM 561 582	Fasting blood samples
+T5	HMM 798 821	in serum insulin levels
+T6	HMM 864 922	0.001), homeostasis model of assessment-insulin resistance
+T7	HMM 966 1021	0.001), homeostatic model assessment-beta cell function
+T8	HMM 1094 1159	increase in quantitative insulin sensitivity check index (QUICKI)
+T9	HMM 1319 1349	decreasing serum triglycerides
+T10	HMM 1394 1441	0.05), very low-density lipoprotein-cholesterol
+T11	HMM 1479 1520	p = 0.05), and cholesterol concentrations
+T12	HMM 1652 1691	favorable effects on markers of insulin

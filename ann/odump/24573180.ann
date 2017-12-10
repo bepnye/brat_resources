@@ -1,0 +1,12 @@
+T1	HMM 51 82	muscle metaboreflex stimulation
+T2	HMM 918 930	air, hypoxia
+T3	HMM 952 964	or hyperoxia
+T4	HMM 1101 1106	PECO.
+T5	HMM 1107 1209	Ventilation (Ve), heart rate (HR), blood pressure, and muscle sympathetic nervous activity (MSNA) data
+T6	HMM 1317 1330	in lower MSNA
+T7	HMM 1441 1450	in higher
+T8	HMM 1486 1510	The ventilatory and MSNA
+T9	HMM 1521 1536	to hypoxic PECO
+T10	HMM 1634 1659	the CC are not sensitized
+T11	HMM 1718 1764	that stimulation of the metaboreflex activates
+T12	HMM 1789 1792	the

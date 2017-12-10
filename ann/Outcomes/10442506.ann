@@ -1,0 +1,15 @@
+T1	Outcomes 39 56	platelet function
+T2	Outcomes 195 259	platelet aggregation, and platelet production of malondialdehyde
+T3	Outcomes 625 649	diastolic blood pressure
+T4	Outcomes 1058 1072	Blood pressure
+T5	Outcomes 1289 1309	Platelet aggregation
+T6	Outcomes 1487 1507	platelet aggregation
+T7	Outcomes 1582 1597	Malondialdehyde
+T8	Outcomes 1649 1659	MDA-basal;
+T9	Outcomes 1681 1695	MDA-activated;
+T10	Outcomes 1787 1796	MDA-basal
+T11	Outcomes 1807 1820	MDA-activated
+T12	Outcomes 1846 1875	ratio MDA-basal:MDA-activated
+T13	Outcomes 1957 1971	blood pressure
+T14	Outcomes 2001 2021	platelet aggregation
+T15	Outcomes 2026 2064	platelet production of malondialdehyde

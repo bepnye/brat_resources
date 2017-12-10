@@ -1,0 +1,11 @@
+T1	Intervention 14 37	amalgam dental fillings
+T2	Intervention 145 201	concomitant, quadruple, and levofloxacin-based therapies
+T3	Intervention 1284 1308	concomitant therapy (CT)
+T4	Intervention 1310 1362	rabeprazole-amoxicillin-clarithromycin-metronidazole
+T5	Intervention 1406 1497	quadruple therapy (QT) (rabeprazole-tetracycline-metronidazole-colloidal bismuth subcitrate
+T6	Intervention 1544 1575	levofloxacin-based therapy (LT)
+T7	Intervention 1577 1613	rabeprazole-amoxicillin-levofloxacin
+T8	Intervention 1920 1927	CT, QT,
+T9	Intervention 1932 1934	LT
+T10	Intervention 2165 2167	CT
+T11	Intervention 2172 2174	LT

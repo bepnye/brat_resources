@@ -1,0 +1,6 @@
+T1	Treatment 11 37	vacuum-compression therapy
+T2	Treatment 174 206	vacuum-compression therapy (VCT)
+T3	Treatment 410 417	control
+T4	Treatment 587 626	VCT in addition to conventional therapy
+T5	Treatment 676 864	conventional therapy, including debridement, blood glucose control agents, systemic antibiotics, wound cleaning with normal saline, offloading (pressure relief), and daily wound dressings.
+T6	Treatment 1230 1233	VCT

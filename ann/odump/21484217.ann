@@ -1,0 +1,8 @@
+T1	HMM 187 221	trismus, pain, and facial swelling
+T2	HMM 533 540	Trismus
+T3	HMM 603 618	facial swelling
+T4	HMM 664 668	Pain
+T5	HMM 774 817	facial swelling measurements and VAS scores
+T6	HMM 963 1044	operation time, maximum interincisal opening, and the number of analgesics taken.
+T7	HMM 1085 1100	facial swelling
+T8	HMM 1113 1123	VAS scores

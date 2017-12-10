@@ -1,0 +1,16 @@
+T1	HMM 15 41	blood pressure variability
+T2	HMM 282 306	variability of clinic BP
+T3	HMM 508 539	long-term clinic BP variability
+T4	HMM 633 682	measure visit-to-visit intraindividual variations
+T5	HMM 913 934	24-h BP variabilities
+T6	HMM 1101 1149	METHODS Long-term intraindividual BP variability
+T7	HMM 1165 1259	the coefficient of variation of the average systolic or diastolic values of clinic and 24-h BP
+T8	HMM 1521 1570	RESULTS Visit-to-visit 24-h SBP/DBP variabilities
+T9	HMM 1620 1646	with clinic BP variability
+T10	HMM 1710 1795	(r (2)< 0.026) between visit-to-visit and within 24-h ambulatory BP variabilities
+T11	HMM 1846 1857	the former.
+T12	HMM 1858 1911	Visit-to-visit intraindividual clinic SBP variability
+T13	HMM 2033 2087	was found for visit-to-visit clinic DBP and ambulatory
+T14	HMM 2161 2191	Interindividual BP variability
+T15	HMM 2344 2396	hypertensive patients, visit-to-visit BP variability
+T16	HMM 2667 2685	Interindividual BP

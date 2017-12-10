@@ -1,0 +1,12 @@
+T1	HMM 46 72	weight and body mass index
+T2	HMM 156 162	weight
+T3	HMM 260 292	weight and body mass index (BMI)
+T4	HMM 535 541	weight
+T5	HMM 722 740	Weight loss ≥ 5%
+T6	HMM 821 842	were overweight/obese
+T7	HMM 916 929	normal weight
+T8	HMM 1006 1022	were underweight
+T9	HMM 1053 1071	became underweight
+T10	HMM 1113 1178	between weight loss and skeletal development or sexual maturation
+T11	HMM 1266 1297	experienced ≥ 5% weight loss.
+T12	HMM 1298 1304	Weight

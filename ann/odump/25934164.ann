@@ -1,0 +1,15 @@
+T1	HMM 11 30	efficacy and safety
+T2	HMM 132 151	efficacy and safety
+T3	HMM 483 497	pregnancy rate
+T4	HMM 543 555	Pearl Index.
+T5	HMM 807 822	LNG20 placement
+T6	HMM 945 956	pregnancies
+T7	HMM 986 994	ectopic.
+T8	HMM 995 1020	The Pearl Index for LNG20
+T9	HMM 1153 1189	cumulative life-table pregnancy rate
+T10	HMM 1235 1244	Expulsion
+T11	HMM 1394 1417	conceived spontaneously
+T12	HMM 1436 1452	Pelvic infection
+T13	HMM 1534 1554	bleeding complaints.
+T14	HMM 1606 1624	effective and safe
+T15	HMM 1761 1779	effective and safe

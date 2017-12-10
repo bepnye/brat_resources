@@ -1,0 +1,12 @@
+T1	HMM 67 101	radiocontrast-induced nephropathy.
+T2	HMM 335 370	contrast-induced nephropathy (CIN).
+T3	HMM 916 944	Contrast-induced nephropathy
+T4	HMM 963 1002	increase in serum creatinine level >25%
+T5	HMM 1110 1132	demographic properties
+T6	HMM 1137 1162	nephropathy risk factors.
+T7	HMM 1167 1197	change in creatinine clearance
+T8	HMM 1291 1307	incidence of CIN
+T9	HMM 1517 1546	Mehran nephropathy risk score
+T10	HMM 1552 1563	risk of CIN
+T11	HMM 1746 1756	protection
+T12	HMM 1765 1768	CIN

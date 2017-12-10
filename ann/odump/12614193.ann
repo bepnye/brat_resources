@@ -1,0 +1,6 @@
+T1	HMM 558 577	all-cause mortality
+T2	HMM 617 623	deaths
+T3	HMM 725 746	cardiovascular deaths
+T4	HMM 834 843	tolerated
+T5	HMM 870 903	patients discontinuing medication
+T6	HMM 1070 1098	acute myocardial infarction.

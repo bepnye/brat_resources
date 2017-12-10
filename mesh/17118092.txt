@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Arousal
+Attention
+Autonomic Nervous System
+Caffeine
+Chewing Gum
+Electrocardiography
+Female
+Heart Rate
+Humans
+Male
+Mastication
+Myocardial Contraction
+Neuropsychological Tests
+Problem Solving
+Psychomotor Performance
+Reaction Time
+Signal Processing, Computer-Assisted
+Sleep Deprivation

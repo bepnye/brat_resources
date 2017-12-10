@@ -1,0 +1,12 @@
+Adult
+Aged
+Carcinoma, Hepatocellular
+Catheter Ablation
+Female
+Humans
+Liver Neoplasms
+Male
+Middle Aged
+Patient Selection
+Time Factors
+Treatment Outcome

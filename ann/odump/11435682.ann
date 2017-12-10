@@ -1,0 +1,6 @@
+T1	HMM 31 48	oxygen saturation
+T2	HMM 93 143	arterial oxygen saturation (SaO(2)) and heart rate
+T3	HMM 510 516	SaO(2)
+T4	HMM 754 780	mean SaO(2) and heart rate
+T5	HMM 984 990	SaO(2)
+T6	HMM 1045 1052	hypoxia

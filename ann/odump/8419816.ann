@@ -1,0 +1,16 @@
+T1	HMM 78 135	Helicobacter pylori and the recurrence of duodenal ulcer.
+T2	HMM 379 381	H.
+T3	HMM 382 388	pylori
+T4	HMM 518 524	pylori
+T5	HMM 1032 1034	H.
+T6	HMM 1035 1041	pylori
+T7	HMM 1046 1056	eradicated
+T8	HMM 1167 1173	ulcers
+T9	HMM 1179 1185	healed
+T10	HMM 1301 1309	diarrhea
+T11	HMM 1415 1439	duodenal ulcers recurred
+T12	HMM 1544 1559	Ulcers recurred
+T13	HMM 1653 1655	H.
+T14	HMM 1656 1662	pylori
+T15	HMM 1767 1784	eradication of H.
+T16	HMM 1785 1791	pylori

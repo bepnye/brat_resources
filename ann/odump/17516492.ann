@@ -1,0 +1,7 @@
+T1	HMM 363 389	motor symptoms, depression
+T2	HMM 395 400	sleep
+T3	HMM 486 560	Parkinson's Disease Rating Scale (UPDRS) I-IV, Beck's Depression Inventory
+T4	HMM 566 591	Epworth Sleepiness Scale.
+T5	HMM 660 671	Illuminance
+T6	HMM 812 870	improvement of tremor, UPDRS I, II, and IV, and depression
+T7	HMM 948 958	tolerated.

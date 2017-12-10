@@ -1,0 +1,6 @@
+T1	HMM 242 247	death
+T2	HMM 293 304	disability.
+T3	HMM 394 418	mortality and disability
+T4	HMM 488 522	mortality in myocardial infarction
+T5	HMM 561 575	recanalisation
+T6	HMM 754 785	mortality and severe invalidity

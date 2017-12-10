@@ -1,0 +1,8 @@
+T1	HMM 50 67	analgesic effects
+T2	HMM 238 256	analgesic efficacy
+T3	HMM 679 687	efficacy
+T4	HMM 796 814	reductions in pain
+T5	HMM 881 899	analgesic efficacy
+T6	HMM 1003 1011	efficacy
+T7	HMM 1205 1219	well tolerated
+T8	HMM 1256 1270	adverse events

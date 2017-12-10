@@ -1,0 +1,11 @@
+T1	HMM 561 580	safety and efficacy
+T2	HMM 943 982	prolonged activated clotting time (ACT)
+T3	HMM 1023 1033	target ACT
+T4	HMM 1154 1224	The patient proportion who did not require additional bolus injections
+T5	HMM 1304 1338	Consequently, the time to start of
+T6	HMM 1379 1461	Composite incidences of death, myocardial infarction, and urgent revascularization
+T7	HMM 1578 1584	3.0%).
+T8	HMM 1585 1599	Major bleeding
+T9	HMM 1633 1653	while minor bleeding
+T10	HMM 1741 1773	increases coagulation parameters
+T11	HMM 1820 1852	predictable anticoagulant effect

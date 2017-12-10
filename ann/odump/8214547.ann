@@ -1,0 +1,9 @@
+T1	HMM 0 9	Analgesia
+T2	HMM 213 222	analgesia
+T3	HMM 623 632	Analgesia
+T4	HMM 905 923	(Mann-Whitney test
+T5	HMM 934 950	Mantel-Haentszel
+T6	HMM 1059 1076	further analgesia
+T7	HMM 1188 1208	no further analgesia
+T8	HMM 1226 1270	Pain VAS and overall assessment of analgesia
+T9	HMM 1326 1345	(nausea, dizziness)

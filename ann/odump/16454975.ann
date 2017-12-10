@@ -1,0 +1,6 @@
+T1	HMM 862 886	angiographic restenosis.
+T2	HMM 921 1057	combined incidence of death, target lesion nonfatal myocardial infarction, repeat angioplasty, and coronary artery bypass graft surgery.
+T3	HMM 1177 1193	restenosis rates
+T4	HMM 1313 1341	minimum lumen diameter (MLD)
+T5	HMM 1470 1519	combined incidence of major adverse cardiac event
+T6	HMM 1594 1623	incidence of recurrent angina

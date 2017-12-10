@@ -1,0 +1,10 @@
+T1	HMM 193 213	ventricular response
+T2	HMM 552 565	Drug efficacy
+T3	HMM 582 608	ventricular rate reduction
+T4	HMM 613 640	conversion to sinus rhythm.
+T5	HMM 645 655	heart rate
+T6	HMM 861 886	converted to sinus rhythm
+T7	HMM 967 983	Mild hypotension
+T8	HMM 1086 1105	efficacy and safety
+T9	HMM 1109 1148	acutely decreasing ventricular response
+T10	HMM 1198 1224	conversion to sinus rhythm

@@ -1,0 +1,7 @@
+T1	HMM 32 52	cardiovascular risks
+T2	HMM 250 314	self-reported and biometric indicators of cardiovascular disease
+T3	HMM 555 617	self-reported attitudes (on diet, exercise, and mental health)
+T4	HMM 622 680	biometric measures (eg, body weight, waist circumference).
+T5	HMM 742 834	dietary attitudes, dietary self-efficacy, and exercise, and reductions in distress symptoms.
+T6	HMM 870 889	waist circumference
+T7	HMM 976 1012	cardiovascular disease risk factors.

@@ -1,0 +1,8 @@
+T1	HMM 82 95	hypertension:
+T2	HMM 149 161	hypertension
+T3	HMM 1231 1260	systolic blood pressure (SBP)
+T4	HMM 1296 1299	SBP
+T5	HMM 1702 1738	The incidence of nicardipine failure
+T6	HMM 1975 2003	of preoperative hypertension
+T7	HMM 2351 2383	the need for rescue drug therapy
+T8	HMM 2785 2815	the need for rescue medication

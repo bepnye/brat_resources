@@ -1,0 +1,8 @@
+T1	Intervention 98 129	bolus 5-fluorouracil/leucovorin
+T2	Intervention 144 156	oxaliplatin:
+T3	Intervention 418 445	bolus 5-fluorouracil (5-FU)
+T4	Intervention 450 460	leucovorin
+T5	Intervention 497 533	same regimen plus oxaliplatin (FLOX)
+T6	Intervention 877 881	FLOX
+T7	Intervention 1213 1217	FLOX
+T8	Intervention 1318 1322	FLOX

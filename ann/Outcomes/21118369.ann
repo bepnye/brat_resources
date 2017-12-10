@@ -1,0 +1,17 @@
+T1	Outcomes 578 607	plasma concentrations of IL-6
+T2	Outcomes 612 616	IL-8
+T3	Outcomes 783 951	hemodynamics (cardiac index, systemic vascular resistance index, heart rate, and mean arterial pressure); change of hematology and coagulation function; organ function;
+T4	Outcomes 960 1009	sequential organ failure assessment (SOFA) score.
+T5	Outcomes 1010 1045	Hospital, 28-day, and ICU mortality
+T6	Outcomes 1114 1133	significant removal
+T7	Outcomes 1137 1157	plasma IL-6 and IL-8
+T8	Outcomes 1231 1252	significant increases
+T9	Outcomes 1256 1370	cardiac index, systemic vascular resistant index, fast withdrawal of vasoactive agents and decreases in heart rate
+T10	Outcomes 1437 1459	significant difference
+T11	Outcomes 1482 1499	organ dysfunction
+T12	Outcomes 1515 1526	SOFA scores
+T13	Outcomes 1654 1676	significant difference
+T14	Outcomes 1699 1809	28-day mortality, hospital mortality, or length of hospital stay, but ICU mortality and the length of ICU stay
+T15	Outcomes 1840 1848	reduced.
+T16	Outcomes 1938 2007	organ dysfunction, ICU mortality, and shorten the length of ICU stay.
+T17	Outcomes 2071 2084	IL-6 and IL-8

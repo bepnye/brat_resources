@@ -1,0 +1,10 @@
+T1	HMM 37 48	trans-eQTLs
+T2	HMM 399 440	expression of distant genes (trans-eQTLs)
+T3	HMM 668 688	cis- and trans-eQTLs
+T4	HMM 715 738	trans-eQTL associations
+T5	HMM 835 860	Sobel tests of mediation.
+T6	HMM 889 912	trans-eQTL associations
+T7	HMM 965 976	trans-eQTLs
+T8	HMM 1036 1059	trans-eQTL associations
+T9	HMM 1250 1273	trans-eQTL associations
+T10	HMM 1998 2021	trans-eQTL associations

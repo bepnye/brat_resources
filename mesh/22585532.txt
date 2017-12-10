@@ -1,0 +1,22 @@
+Adult
+Aged
+Biological Markers
+C-Reactive Protein
+Colectomy
+Colonic Neoplasms
+Female
+Flow Cytometry
+Hospital Mortality
+Humans
+Immunity, Humoral
+Interleukin-6
+Laparoscopy
+Length of Stay
+Lymphocyte Count
+Male
+Middle Aged
+Patient Readmission
+Perioperative Care
+Postoperative Complications
+Prospective Studies
+Treatment Outcome

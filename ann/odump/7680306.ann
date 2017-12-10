@@ -1,0 +1,10 @@
+T1	HMM 6 22	cardiac toxicity
+T2	HMM 374 434	chronic changes in myocardium, pericardium or cardiac valves
+T3	HMM 455 477	haemodynamic sequelae.
+T4	HMM 478 514	Maximal and integrated early (E, Ei)
+T5	HMM 519 586	late (A, Ai) diastolic flow velocities and their ratio (E/A, Ei/Ai)
+T6	HMM 729 746	valvar thickening
+T7	HMM 759 781	pericardial thickening
+T8	HMM 798 852	reduced fibre shortening fraction, the Doppler indices
+T9	HMM 978 1017	functional and morphological parameters
+T10	HMM 1063 1097	measurements of diastolic function

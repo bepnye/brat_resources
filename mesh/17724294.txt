@@ -1,0 +1,18 @@
+Acute Disease
+Aged
+Brain Ischemia
+Female
+Heptanoic Acids
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Male
+Middle Aged
+Neuroprotective Agents
+Odds Ratio
+Pyrroles
+Risk Factors
+Stroke
+Survival Analysis
+Time Factors
+Treatment Outcome
+Withholding Treatment

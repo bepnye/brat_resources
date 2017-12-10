@@ -1,0 +1,19 @@
+Adult
+Aged
+Antineoplastic Agents
+Brachytherapy
+Carcinoma, Squamous Cell
+Chemoradiotherapy
+Cisplatin
+Dose Fractionation
+Female
+Gastrointestinal Tract
+Humans
+Middle Aged
+Pelvis
+Prospective Studies
+Radiotherapy Planning, Computer-Assisted
+Radiotherapy, Intensity-Modulated
+Treatment Outcome
+Urogenital System
+Uterine Cervical Neoplasms

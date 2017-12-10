@@ -1,0 +1,7 @@
+T1	HMM 169 183	blood pressure
+T2	HMM 188 198	metabolism
+T3	HMM 427 464	systolic and diastolic blood pressure
+T4	HMM 546 587	postprandial blood glucose concentrations
+T5	HMM 743 769	blood kinin concentrations
+T6	HMM 862 973	Body mass index, fasting plasma insulin, serum electrolyte pattern, uric acid, white blood count, lipid profile
+T7	HMM 985 1022	hepatic and renal function parameters

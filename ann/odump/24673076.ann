@@ -1,0 +1,7 @@
+T1	HMM 113 121	efficacy
+T2	HMM 637 682	score of childhood autism rating scale (CARS)
+T3	HMM 687 704	clinical efficacy
+T4	HMM 791 795	CARS
+T5	HMM 983 1005	totally effective rate
+T6	HMM 1107 1124	clinical efficacy
+T7	HMM 1272 1287	curative effect

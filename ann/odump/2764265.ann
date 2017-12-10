@@ -1,0 +1,4 @@
+T1	HMM 278 288	infections
+T2	HMM 607 625	infection pointers
+T3	HMM 673 720	incidence and magnitude of febrile temperatures
+T4	HMM 928 1016	reintervention surgery, haemorrhage complications or extensive diagnostic interventions.

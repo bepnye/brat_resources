@@ -1,0 +1,11 @@
+Administration, Intravesical
+Antineoplastic Combined Chemotherapy Protocols
+Doxorubicin
+Epirubicin
+Female
+Humans
+Instillation, Drug
+Male
+Neoplasm Recurrence, Local
+Postoperative Care
+Urinary Bladder Neoplasms

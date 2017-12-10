@@ -1,0 +1,11 @@
+T1	HMM 18 40	central pulse pressure
+T2	HMM 175 197	central pulse pressure
+T3	HMM 956 988	brachial systolic blood pressure
+T4	HMM 1023 1033	central PP
+T5	HMM 1264 1275	brachial PP
+T6	HMM 1288 1319	central systolic blood pressure
+T7	HMM 1332 1342	central PP
+T8	HMM 1359 1375	PP amplification
+T9	HMM 1501 1512	brachial PP
+T10	HMM 1528 1559	central systolic blood pressure
+T11	HMM 1736 1758	central PP measurement

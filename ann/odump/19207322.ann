@@ -1,0 +1,7 @@
+T1	HMM 14 31	injection comfort
+T2	HMM 681 685	pain
+T3	HMM 690 708	ease of injection.
+T4	HMM 835 849	injection pain
+T5	HMM 967 987	Mean pain assessment
+T6	HMM 1344 1359	subject comfort
+T7	HMM 1394 1415	injection experience.

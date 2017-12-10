@@ -1,0 +1,5 @@
+T1	HMM 759 842	in operative duration, resection weight, resection speed or radicality of resection
+T2	HMM 853 874	the median blood loss
+T3	HMM 958 992	in blood haemoglobin concentration
+T4	HMM 1206 1220	for blood loss
+T5	HMM 1391 1404	less bleeding

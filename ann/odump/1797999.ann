@@ -1,0 +1,13 @@
+T1	HMM 5 19	blood pressure
+T2	HMM 113 132	clinical management
+T3	HMM 612 643	clinic blood pressure readings.
+T4	HMM 664 678	blood pressure
+T5	HMM 783 797	blood pressure
+T6	HMM 836 859	blood pressure response
+T7	HMM 944 970	'white-coat' hypertension.
+T8	HMM 1132 1147	blood pressures
+T9	HMM 1251 1274	coronary heart disease:
+T10	HMM 1303 1318	clinic readings
+T11	HMM 1373 1387	blood pressure
+T12	HMM 1395 1419	high-density lipoprotein
+T13	HMM 1437 1475	insulin, cholesterol and triglycerides

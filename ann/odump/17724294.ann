@@ -1,0 +1,10 @@
+T1	HMM 647 695	death or dependency (modified Rankin Scale [mRS]
+T2	HMM 720 756	Early neurologic deterioration (END)
+T3	HMM 761 775	infarct volume
+T4	HMM 1026 1035	mRS score
+T5	HMM 1139 1153	infarct volume
+T6	HMM 1327 1354	risk of death or dependency
+T7	HMM 1408 1411	END
+T8	HMM 1432 1451	mean infarct volume
+T9	HMM 1696 1699	END
+T10	HMM 1719 1738	mean infarct volume

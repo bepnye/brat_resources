@@ -1,0 +1,8 @@
+T1	HMM 14 28	working memory
+T2	HMM 201 227	working memory performance
+T3	HMM 647 675	two-back working memory task
+T4	HMM 760 867	Accuracy (correction rate), recognition accuracy (correction rate-commission error rate), and response time
+T5	HMM 1060 1081	recognition accuracy.
+T6	HMM 1262 1270	accuracy
+T7	HMM 1490 1503	response time
+T8	HMM 1741 1767	working memory performance

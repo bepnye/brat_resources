@@ -1,0 +1,8 @@
+T1	HMM 56 88	skin and soft-tissue infections.
+T2	HMM 259 278	efficacy and safety
+T3	HMM 645 668	cured microbiologically
+T4	HMM 753 784	skin ulcers or abscess cavities
+T5	HMM 842 883	adverse clinical and laboratory reactions
+T6	HMM 1031 1035	mild
+T7	HMM 1142 1175	safe, efficacious, and convenient
+T8	HMM 1230 1244	cost-effective

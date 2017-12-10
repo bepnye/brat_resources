@@ -1,0 +1,9 @@
+T1	HMM 59 74	pain management
+T2	HMM 307 324	pain and distress
+T3	HMM 582 611	pain and pain-related anxiety
+T4	HMM 647 663	pain and anxiety
+T5	HMM 740 755	relief of pain.
+T6	HMM 807 814	anxiety
+T7	HMM 834 853	behavioral distress
+T8	HMM 953 962	effective
+T9	HMM 966 975	preparing

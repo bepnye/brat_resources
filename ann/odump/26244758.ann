@@ -1,0 +1,11 @@
+T1	HMM 879 964	Overall survival, time to first recurrence, complication rates, and surgical outcomes
+T2	HMM 1094 1108	operating time
+T3	HMM 1227 1240	hospital stay
+T4	HMM 1301 1332	number of harvested lymph nodes
+T5	HMM 1420 1467	intraoperative and postoperative adverse events
+T6	HMM 1542 1574	rate of conversion to laparotomy
+T7	HMM 1700 1733	hazard ratio for overall survival
+T8	HMM 1959 1973	operating time
+T9	HMM 2004 2017	hospital stay
+T10	HMM 2032 2050	morbidity profile.
+T11	HMM 2094 2111	long-term safety.

@@ -1,0 +1,11 @@
+T1	HMM 32 52	sputum interleukin-8
+T2	HMM 213 248	induced sputum interleukin-8 (IL-8)
+T3	HMM 583 596	lung function
+T4	HMM 638 720	Total cell count (TCC), differential cell counts (DCCs) and IL-8 in induced sputum
+T5	HMM 785 809	indices of lung function
+T6	HMM 886 919	TCC and absolute neutrophil count
+T7	HMM 998 1023	Sputum IL-8 concentration
+T8	HMM 1193 1203	parameters
+T9	HMM 1297 1310	lung function
+T10	HMM 1321 1381	sputum TCC, absolute neutrophil count and IL-8 concentration
+T11	HMM 1395 1414	airway inflammation

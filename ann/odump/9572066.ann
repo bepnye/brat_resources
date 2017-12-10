@@ -1,0 +1,8 @@
+T1	HMM 1094 1109	serum carnitine
+T2	HMM 1163 1187	carnitine concentrations
+T3	HMM 1408 1444	pyruvate, ATP and creatine phosphate
+T4	HMM 1466 1481	Glycogen levels
+T5	HMM 1753 1820	(nucleus, sarcoplasmic reticulum, mitochondria and cellular oedema)
+T6	HMM 2027 2049	myocardial metabolism.
+T7	HMM 2111 2139	advantageous support therapy
+T8	HMM 2249 2265	cardiac recovery

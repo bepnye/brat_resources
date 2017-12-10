@@ -1,0 +1,10 @@
+T1	Outcomes 35 62	microvascular complications
+T2	Outcomes 451 478	microvascular complications
+T3	Outcomes 570 610	retinopathy, nephropathy, and neuropathy
+T4	Outcomes 685 696	retinopathy
+T5	Outcomes 701 712	nephropathy
+T6	Outcomes 738 782	mean glycosylated hemoglobin (HbA(1c)) level
+T7	Outcomes 963 983	median HbA(1c) level
+T8	Outcomes 1124 1157	difference in mean HbA(1c) levels
+T9	Outcomes 1442 1478	rate of progression of complications
+T10	Outcomes 1861 1881	target HbA(1c) level

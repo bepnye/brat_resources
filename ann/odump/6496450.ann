@@ -1,0 +1,11 @@
+T1	HMM 0 14	Immunogenicity
+T2	HMM 19 25	safety
+T3	HMM 168 174	safety
+T4	HMM 179 193	immunogenicity
+T5	HMM 797 811	immunogenicity
+T6	HMM 993 1010	anti-HBs response
+T7	HMM 1094 1111	anti-HBs response
+T8	HMM 1254 1280	anti-HBs conversion rates.
+T9	HMM 1353 1422	HBsAg and/or anti-HBc (antibody to hepatitis B core antigen) positive
+T10	HMM 1443 1453	antibodies
+T11	HMM 1499 1519	serious side effects

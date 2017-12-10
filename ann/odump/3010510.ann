@@ -1,0 +1,4 @@
+T1	HMM 188 234	cytomegalovirus (CMV) interstitial pneumonitis
+T2	HMM 793 856	incidence of histologically proven CMV interstitial pneumonitis
+T3	HMM 999 1035	died of CMV interstitial pneumonitis
+T4	HMM 1071 1115	effect on idiopathic pneumonitis or survival

@@ -1,0 +1,19 @@
+Adult
+Aged
+Aged, 80 and over
+Alkanesulfonates
+Blood Glucose
+Cholesterol, HDL
+Cholesterol, LDL
+Diabetes Mellitus, Type 2
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Hemoglobin A, Glycosylated
+Humans
+Hypoglycemic Agents
+Male
+Middle Aged
+Phenylpropionates
+Thiazolidinediones
+Time Factors

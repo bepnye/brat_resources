@@ -1,0 +1,12 @@
+T1	HMM 728 785	Heart rate, arterial blood pressure and oxygen saturation
+T2	HMM 830 848	Postoperative pain
+T3	HMM 915 926	pain score.
+T4	HMM 927 936	Analgesia
+T5	HMM 967 977	pain score
+T6	HMM 992 1013	Duration of analgesia
+T7	HMM 1095 1106	pain scores
+T8	HMM 1186 1207	Duration of analgesia
+T9	HMM 1333 1353	additional analgesia
+T10	HMM 1428 1449	analgesic supplements
+T11	HMM 1528 1576	heart rate, blood pressure and oxygen saturation
+T12	HMM 1608 1622	untoward event

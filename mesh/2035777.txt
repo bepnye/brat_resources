@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Analgesia, Epidural
+Analgesia, Obstetrical
+Cesarean Section
+Double-Blind Method
+Female
+Fentanyl
+Humans
+Injections, Epidural
+Pregnancy
+Prospective Studies
+Shivering
+Skin Temperature

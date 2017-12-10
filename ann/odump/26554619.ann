@@ -1,0 +1,14 @@
+T1	HMM 465 526	ease the procedure or increase the detection rate for polyps.
+T2	HMM 747 798	Patient tolerance and technical ease of colonoscopy
+T3	HMM 846 861	Procedure times
+T4	HMM 877 914	Number of detected polyps per patient
+T5	HMM 938 948	Heart rate
+T6	HMM 1014 1065	patient tolerance or technically ease the procedure
+T7	HMM 1114 1130	ileal intubation
+T8	HMM 1171 1191	total procedure time
+T9	HMM 1271 1298	external abdominal pressure
+T10	HMM 1346 1366	polyp detection rate
+T11	HMM 1427 1437	heart rate
+T12	HMM 1465 1476	tachycardia
+T13	HMM 1613 1653	technical performance of the examination
+T14	HMM 1687 1699	tachycardia.

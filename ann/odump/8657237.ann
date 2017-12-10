@@ -1,0 +1,11 @@
+T1	HMM 554 570	clinical outcome
+T2	HMM 943 952	mortality
+T3	HMM 986 1014	Q-wave myocardial infarction
+T4	HMM 1063 1070	stroke.
+T5	HMM 1075 1098	five-year survival rate
+T6	HMM 1294 1368	respective five-year survival rates free from Q-wave myocardial infarction
+T7	HMM 1506 1534	revascularization procedures
+T8	HMM 1807 1825	five-year survival
+T9	HMM 2020 2038	five-year survival
+T10	HMM 2086 2114	subsequent revascularization
+T11	HMM 2182 2200	five-year survival

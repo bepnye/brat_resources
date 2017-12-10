@@ -1,0 +1,8 @@
+T1	HMM 0 10	Efficiency
+T2	HMM 203 219	disease relapse.
+T3	HMM 622 642	survival of patients
+T4	HMM 1061 1077	10-year survival
+T5	HMM 1289 1305	10-year survival
+T6	HMM 1442 1462	survival of patients
+T7	HMM 1685 1693	survival
+T8	HMM 1844 1860	survival benefit

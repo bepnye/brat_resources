@@ -1,0 +1,9 @@
+T1	HMM 68 75	markers
+T2	HMM 279 293	blood pressure
+T3	HMM 458 481	fibrinolytic parameters
+T4	HMM 851 993	Tissue plasminogen activator (t-PA) antigen, t-PA activity, plasminogen activator inhibitor-1 (PAI-1) activity and plasma renin activity (PRA)
+T5	HMM 1183 1202	t-PA antigen levels
+T6	HMM 1249 1274	t-PA or PAI-1 activities.
+T7	HMM 1504 1519	blood pressure.
+T8	HMM 1566 1585	t-PA antigen levels
+T9	HMM 1703 1726	markers of fibrinolysis

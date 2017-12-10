@@ -1,0 +1,11 @@
+Aminoglutethimide
+Antineoplastic Agents, Hormonal
+Breast Neoplasms
+Chemotherapy, Adjuvant
+Diethylstilbestrol
+Disease-Free Survival
+Female
+Humans
+Survival Analysis
+Tamoxifen
+Treatment Outcome

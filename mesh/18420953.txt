@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Angioplasty, Balloon
+Cerebral Arteries
+Female
+Glasgow Outcome Scale
+Humans
+Intraoperative Complications
+Longevity
+Male
+Middle Aged
+Risk Reduction Behavior
+Subarachnoid Hemorrhage
+Treatment Outcome
+Ultrasonography, Doppler, Transcranial
+Vasospasm, Intracranial

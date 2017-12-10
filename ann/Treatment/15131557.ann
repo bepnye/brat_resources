@@ -1,0 +1,11 @@
+T1	Treatment 0 16	Primary stenting
+T2	Treatment 158 195	Primary intracoronary stent placement
+T3	Treatment 333 366	conventional balloon angioplasty.
+T4	Treatment 411 430	balloon angioplasty
+T5	Treatment 449 467	stent implantation
+T6	Treatment 824 836	conventional
+T7	Treatment 895 902	stented
+T8	Treatment 1294 1301	stented
+T9	Treatment 1485 1497	conventional
+T10	Treatment 1571 1579	stenting
+T11	Treatment 1623 1648	balloon angioplasty alone

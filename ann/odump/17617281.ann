@@ -1,0 +1,17 @@
+T1	HMM 94 113	chronic cancer pain
+T2	HMM 392 403	pain relief
+T3	HMM 779 814	analgesic efficacy and tolerability
+T4	HMM 1682 1699	if pain intensity
+T5	HMM 1794 1845	the proportion of patients who achieved pain relief
+T6	HMM 2049 2102	the proportion of patients in whom pain was decreased
+T7	HMM 2305 2330	the total number of cases
+T8	HMM 2423 2443	their pain intensity
+T9	HMM 2625 2647	experience pain relief
+T10	HMM 2671 2675	pain
+T11	HMM 2881 2896	any pain relief
+T12	HMM 3018 3035	were constipation
+T13	HMM 3065 3074	dizziness
+T14	HMM 3090 3098	vomiting
+T15	HMM 3114 3127	and dry mouth
+T16	HMM 3217 3242	efficacy and tolerability
+T17	HMM 3348 3376	chronic, cancer-related pain

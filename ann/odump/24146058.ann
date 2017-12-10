@@ -1,0 +1,13 @@
+T1	HMM 82 104	feline osteoarthritis.
+T2	HMM 290 316	feline osteoarthritis (OA)
+T3	HMM 746 760	disease scores
+T4	HMM 814 828	owner mobility
+T5	HMM 842 861	veterinary lameness
+T6	HMM 872 893	Owner mobility scores
+T7	HMM 1167 1188	owner-assessed scores
+T8	HMM 1250 1259	(mobility
+T9	HMM 1268 1276	activity
+T10	HMM 1285 1296	temperament
+T11	HMM 1305 1314	lifestyle
+T12	HMM 1402 1430	mobility and activity levels
+T13	HMM 1575 1598	owner assessment scores

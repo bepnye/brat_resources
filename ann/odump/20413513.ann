@@ -1,0 +1,14 @@
+T1	HMM 77 90	hyperglycemia
+T2	HMM 352 371	efficacy and safety
+T3	HMM 843 870	change in A1C at study end.
+T4	HMM 897 968	changes in fasting glucose, lipids, weight, adverse events, and safety.
+T5	HMM 1051 1054	A1C
+T6	HMM 1064 1086	fasting plasma glucose
+T7	HMM 1104 1151	homeostasis model assessment-insulin resistance
+T8	HMM 1192 1245	Total cholesterol, LDL cholesterol, and triglycerides
+T9	HMM 1307 1318	Body weight
+T10	HMM 1415 1443	adrenocorticotrophic hormone
+T11	HMM 1504 1585	Basal cortisol homeostasis, testosterone in men, and free androgen index in women
+T12	HMM 1733 1744	efficacious
+T13	HMM 1754 1763	tolerated
+T14	HMM 1920 1959	glucose and cardiovascular risk factors

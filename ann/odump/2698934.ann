@@ -1,0 +1,9 @@
+T1	HMM 37 55	hypotensive effect
+T2	HMM 208 240	additive antihypertensive effect
+T3	HMM 772 786	blood pressure
+T4	HMM 808 834	heart rate or body weight.
+T5	HMM 844 852	absolute
+T6	HMM 857 877	percentage decreases
+T7	HMM 881 900	mean blood pressure
+T8	HMM 1145 1177	additive antihypertensive effect
+T9	HMM 1353 1374	clinical significance

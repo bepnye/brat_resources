@@ -1,0 +1,10 @@
+T1	HMM 0 27	Reduction of oral mucositis
+T2	HMM 94 103	Mucositis
+T3	HMM 369 392	reduction of mucositis.
+T4	HMM 674 688	Oral mucositis
+T5	HMM 764 823	symptom of oral mucositis with or without oral candidiasis.
+T6	HMM 824 838	Oral mucositis
+T7	HMM 894 928	time to first episode of mucositis
+T8	HMM 1097 1106	mucositis
+T9	HMM 1250 1259	mucositis
+T10	HMM 1382 1396	oral mucositis

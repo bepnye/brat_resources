@@ -1,0 +1,13 @@
+T1	HMM 995 1019	probability of pregnancy
+T2	HMM 1135 1166	6-month Kaplan-Meier cumulative
+T3	HMM 1280 1306	adjusted risk of pregnancy
+T4	HMM 1413 1450	Clinical equivalence (noninferiority)
+T5	HMM 1540 1562	true risk of pregnancy
+T6	HMM 1614 1628	pregnancy risk
+T7	HMM 1746 1783	probability of pregnancy among FemCap
+T8	HMM 1864 1884	clinical equivalence
+T9	HMM 1935 1939	safe
+T10	HMM 1984 2009	urinary tract infections.
+T11	HMM 2070 2117	insertion, dislodgement, and especially removal
+T12	HMM 2216 2240	safety and acceptability
+T13	HMM 2279 2310	6-month pregnancy probabilities

@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aftercare
+Ambulatory Care
+Counseling
+Feasibility Studies
+Female
+Follow-Up Studies
+Humans
+Male
+Patient Compliance
+Patient Discharge
+Recurrence
+Remote Consultation
+Residential Treatment
+Sex Factors
+Substance Abuse Treatment Centers
+Substance-Related Disorders
+Telephone
+Treatment Outcome

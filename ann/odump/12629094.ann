@@ -1,0 +1,13 @@
+T1	HMM 0 21	Final height in girls
+T2	HMM 332 349	final height (FH)
+T3	HMM 877 901	duration of GH treatment
+T4	HMM 970 972	FH
+T5	HMM 1164 1181	FH in centimeters
+T6	HMM 1544 1553	normal FH
+T7	HMM 1622 1691	decrease in height velocity (HV) changed significantly to a stable HV
+T8	HMM 1711 1726	bone maturation
+T9	HMM 1841 1878	FH SD score: GH dose, height SD score
+T10	HMM 1900 1939	chronological age at start of treatment
+T11	HMM 1945 1947	HV
+T12	HMM 2000 2015	well tolerated.
+T13	HMM 2072 2074	FH

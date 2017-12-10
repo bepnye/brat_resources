@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Antiemetics
+Antineoplastic Agents
+Cisplatin
+Double-Blind Method
+Drug Evaluation
+Female
+Granisetron
+Humans
+Injections, Intravenous
+Male
+Middle Aged
+Nausea
+Vomiting

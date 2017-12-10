@@ -1,0 +1,7 @@
+T1	Intervention 14 24	mastectomy
+T2	Intervention 30 39	tamoxifen
+T3	Intervention 130 154	tamoxifen and mastectomy
+T4	Intervention 278 302	mastectomy or tamoxifen,
+T5	Intervention 838 905	wedge mastectomy plus excision of symptomatic axillary lymph nodes.
+T6	Intervention 957 966	tamoxifen
+T7	Intervention 1023 1039	wedge mastectomy

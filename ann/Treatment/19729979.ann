@@ -1,0 +1,12 @@
+T1	Treatment 7 16	docetaxel
+T2	Treatment 33 44	gemcitabine
+T3	Treatment 48 72	second-line chemotherapy
+T4	Treatment 76 97	paclitaxel-pretreated
+T5	Treatment 306 317	gemcitabine
+T6	Treatment 328 337	docetaxel
+T7	Treatment 490 511	paclitaxel-containing
+T8	Treatment 579 599	docetaxel 40 mg/m(2)
+T9	Treatment 647 684	docetaxel 35 mg/m(2) with gemcitabine
+T10	Treatment 798 810	chemotherapy
+T11	Treatment 1160 1169	docetaxel
+T12	Treatment 1174 1185	gemcitabine

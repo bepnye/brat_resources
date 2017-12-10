@@ -1,0 +1,14 @@
+T1	Treatment 60 82	partial ceramic crowns
+T2	Treatment 97 151	RelyX Unicem with or without selective enamel etching.
+T3	Treatment 207 332	partial ceramic crowns (PCCs) inserted with RelyX Unicem (RXU) either with (RXU+E) or without (RXU) selective enamel etching.
+T4	Treatment 467 470	PCC
+T5	Treatment 511 514	RXU
+T6	Treatment 527 530	PCC
+T7	Treatment 562 568	RXU+E.
+T8	Treatment 612 627	Cerec 3 system.
+T9	Treatment 628 632	RXU:
+T10	Treatment 683 689	RXU+E:
+T11	Treatment 1063 1068	(RXU)
+T12	Treatment 1111 1118	(RXU+E)
+T13	Treatment 1538 1551	RXU and RXU+E
+T14	Treatment 1674 1677	RXU

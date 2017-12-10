@@ -1,0 +1,12 @@
+T1	Outcomes 620 655	severe or life-threatening toxicity
+T2	Outcomes 716 746	Bacterial or fungal infections
+T3	Outcomes 839 861	Fatal cardiac toxicity
+T4	Outcomes 887 915	Complete or partial response
+T5	Outcomes 1077 1086	responses
+T6	Outcomes 1167 1187	duration of survival
+T7	Outcomes 1250 1277	median duration of survival
+T8	Outcomes 1424 1453	complete or partial responses
+T9	Outcomes 1599 1630	activity in childhood leukemia.
+T10	Outcomes 1649 1707	incidence of severe, life-threatening, or fatal infections
+T11	Outcomes 1723 1769	quality and quantity of responses and survival
+T12	Outcomes 1800 1808	toxicity

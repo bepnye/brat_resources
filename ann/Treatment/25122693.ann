@@ -1,0 +1,6 @@
+T1	Treatment 68 79	bevacizumab
+T2	Treatment 237 281	chemoradiotherapy [5-fluorouracil (5-FU-RT)]
+T3	Treatment 625 759	bevacizumab plus 5-FU, leucovorin and oxaliplatin (Folfox-4) followed with bevacizumab-5-FU-RT before total mesorectal excision (TME).
+T4	Treatment 793 824	bevacizumab-5-FU-RT before TME.
+T5	Treatment 1647 1667	bevacizumab-Folfox-4
+T6	Treatment 1680 1699	bevacizumab-5-FU-RT

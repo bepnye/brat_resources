@@ -1,0 +1,11 @@
+T1	HMM 0 21	Cognitive performance
+T2	HMM 26 47	serotonergic function
+T3	HMM 230 248	neurotoxic effects
+T4	HMM 787 815	Reaction time, direct recall
+T5	HMM 821 832	recognition
+T6	HMM 848 869	Serotonergic function
+T7	HMM 1072 1129	small, impairment of memory and prolonged reaction times.
+T8	HMM 1186 1205	Release of cortisol
+T9	HMM 1217 1226	prolactin
+T10	HMM 1649 1699	impairment of memory and of serotonergic function.
+T11	HMM 1735 1748	neurotoxicity

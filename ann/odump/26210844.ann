@@ -1,0 +1,6 @@
+T1	HMM 785 797	cutoff score
+T2	HMM 807 862	sensitivity, specificity, and positive predictive value
+T3	HMM 870 876	RITA-T
+T4	HMM 976 989	RITA-T scores
+T5	HMM 1109 1120	Mean scores
+T6	HMM 1288 1300	cutoff score

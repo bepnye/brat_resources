@@ -1,0 +1,15 @@
+T1	HMM 0 26	MEG premotor abnormalities
+T2	HMM 81 96	social behavior
+T3	HMM 150 168	social functioning
+T4	HMM 287 304	social cognition.
+T5	HMM 416 466	electrophysiological modulation of the "Mu-rhythm"
+T6	HMM 739 777	magnetoencephalographic Mu-modulations
+T7	HMM 842 861	grasping movements.
+T8	HMM 862 870	Mu-power
+T9	HMM 1008 1027	Source localization
+T10	HMM 1234 1276	Activity in premotor regions, IPL and MOTG
+T11	HMM 1304 1321	social competence
+T12	HMM 1380 1398	social competence.
+T13	HMM 1402 1439	correlation with intellectual ability
+T14	HMM 1497 1517	abnormal Mu-activity
+T15	HMM 1620 1645	social-function deficits.

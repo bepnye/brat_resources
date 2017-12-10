@@ -1,0 +1,10 @@
+T1	Intervention 156 187	ketorolac, topical bupivacaine,
+T2	Intervention 192 199	placebo
+T3	Intervention 425 468	intramuscular ketorolac and topical placebo
+T4	Intervention 521 567	intramuscular placebo and topical bupivacaine,
+T5	Intervention 591 633	intramuscular placebo and topical placebo.
+T6	Intervention 1175 1183	placebo,
+T7	Intervention 1408 1417	ketorolac
+T8	Intervention 1432 1440	placebo.
+T9	Intervention 1789 1800	bupivacaine
+T10	Intervention 1865 1872	placebo

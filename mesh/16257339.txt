@@ -1,0 +1,12 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents
+Carcinoma, Non-Small-Cell Lung
+Female
+Humans
+Lung Neoplasms
+Male
+Middle Aged
+Quinazolines
+Survival Rate

@@ -1,0 +1,5 @@
+T1	Intervention 186 198	chemotherapy
+T2	Intervention 261 284	conventional care alone
+T3	Intervention 306 351	conventional care plus a nursing intervention
+T4	Intervention 560 617	nursing intervention utilizing problem-solving approaches
+T5	Intervention 1578 1599	nursing interventions

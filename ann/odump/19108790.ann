@@ -1,0 +1,14 @@
+T1	HMM 74 107	postoperative nausea and vomiting
+T2	HMM 367 407	postoperative nausea and vomiting (PONV)
+T3	HMM 502 507	PONV.
+T4	HMM 626 630	PONV
+T5	HMM 719 727	efficacy
+T6	HMM 849 853	PONV
+T7	HMM 1304 1308	PONV
+T8	HMM 1513 1537	extrapyramidal symptoms.
+T9	HMM 1960 1964	PONV
+T10	HMM 2179 2183	PONV
+T11	HMM 2346 2350	PONV
+T12	HMM 2421 2444	Extrapyramidal symptoms
+T13	HMM 2516 2520	PONV
+T14	HMM 2742 2746	PONV

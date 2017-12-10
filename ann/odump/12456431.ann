@@ -1,0 +1,12 @@
+T1	HMM 229 238	incidence
+T2	HMM 242 300	gastroesophageal reflux (GER) and tracheal acid aspiration
+T3	HMM 458 462	GER.
+T4	HMM 600 627	GER and tracheal aspiration
+T5	HMM 802 823	incidence of acid GER
+T6	HMM 916 931	episodes of GER
+T7	HMM 989 1020	total number of episodes of GER
+T8	HMM 1102 1139	incidence of tracheal acid aspiration
+T9	HMM 1282 1298	risk of acid GER
+T10	HMM 1318 1342	tracheal acid aspiration
+T11	HMM 1528 1589	Gastroesophageal reflux (GER) and tracheal aspiration of acid
+T12	HMM 1762 1799	acid GER and tracheal acid aspiration

@@ -1,0 +1,15 @@
+T1	HMM 9 46	frontoparietal white matter integrity
+T2	HMM 173 201	white matter integrity (WMI)
+T3	HMM 227 257	diffusion tensor imaging (DTI)
+T4	HMM 329 332	WMI
+T5	HMM 715 727	in DTI scans
+T6	HMM 854 866	affected WMI
+T7	HMM 905 929	time interaction for WMI
+T8	HMM 981 1022	a group by time by attendance interaction
+T9	HMM 1043 1060	higher attendance
+T10	HMM 1140 1159	with increased WMI.
+T11	HMM 1160 1201	Heart rate and the total dose of exercise
+T12	HMM 1213 1229	with WMI changes
+T13	HMM 1276 1289	increased WMI
+T14	HMM 1305 1402	with improved scores on a measure of attention and improved teacher ratings of executive function
+T15	HMM 1459 1484	intervention improves WMI

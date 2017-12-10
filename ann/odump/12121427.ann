@@ -1,0 +1,7 @@
+T1	HMM 76 92	aerobic fitness.
+T2	HMM 158 194	aerobic fitness and body composition
+T3	HMM 515 523	VO(2max)
+T4	HMM 573 594	Body mass index (BMI)
+T5	HMM 709 717	VO(2max)
+T6	HMM 833 856	net change in body mass
+T7	HMM 949 964	net fat% change

@@ -1,0 +1,13 @@
+T1	HMM 89 140	metabolic traits, organ mass development and growth
+T2	HMM 231 250	metabolic disorders
+T3	HMM 933 951	post-weaning diets
+T4	HMM 953 976	Dietary protein content
+T5	HMM 1049 1067	nitrogen retention
+T6	HMM 1169 1202	liver, pancreas and kidney weight
+T7	HMM 1231 1258	plasma IGF-1 concentrations
+T8	HMM 1315 1332	hepatic lipidosis
+T9	HMM 1384 1399	higher body fat
+T10	HMM 1415 1436	lower body CP content
+T11	HMM 1505 1526	low protein provision
+T12	HMM 1569 1597	nutrient supply post-partum.
+T13	HMM 1673 1760	growth potential and induces transient hepatic lipidosis and modified body composition.

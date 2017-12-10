@@ -1,0 +1,14 @@
+T1	HMM 8 38	peripheral vasodilator profile
+T2	HMM 156 184	short- and long-term effects
+T3	HMM 770 783	Venous volume
+T4	HMM 789 850	diameter of the radial and temporal arteries, calf blood flow
+T5	HMM 855 878	subcutaneous blood flow
+T6	HMM 1037 1061	acute venodilator effect
+T7	HMM 1095 1119	changes in venous volume
+T8	HMM 1272 1296	development of tolerance
+T9	HMM 1449 1500	nitroglycerin-induced changes in arterial diameters
+T10	HMM 1540 1590	microcirculatory subcutaneous blood flow after 1 h
+T11	HMM 1934 1968	nitroglycerin-induced venodilation
+T12	HMM 1989 2151	effect of nitroglycerin on small resistance vessels (regulating subcutaneous blood flow) without affecting the response to nitroglycerin in middle-sized arteries.
+T13	HMM 2176 2193	nitrate tolerance
+T14	HMM 2269 2288	vasodilator profile

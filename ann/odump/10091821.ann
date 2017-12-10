@@ -1,0 +1,14 @@
+T1	HMM 80 94	pulse pressure
+T2	HMM 104 121	arterial pressure
+T3	HMM 612 621	mortality
+T4	HMM 827 859	Pulse and mean arterial pressure
+T5	HMM 1051 1072	Higher pulse pressure
+T6	HMM 1262 1291	Higher mean arterial pressure
+T7	HMM 1464 1470	deaths
+T8	HMM 1599 1613	pulse pressure
+T9	HMM 1651 1685	total and cardiovascular mortality
+T10	HMM 1797 1819	Mean arterial pressure
+T11	HMM 1845 1879	total and cardiovascular mortality
+T12	HMM 2072 2081	survival.
+T13	HMM 2082 2116	Increased conduit vessel stiffness
+T14	HMM 2177 2186	mortality

@@ -1,0 +1,7 @@
+T1	HMM 33 53	pupillary dilatation
+T2	HMM 103 123	pupillary dilatation
+T3	HMM 512 535	mean pupillary decrease
+T4	HMM 639 653	pupillary size
+T5	HMM 698 814	age of the patient, lens status, number of cryo applications, duration of surgery, and the size and extent of buckle
+T6	HMM 873 894	mean pupillary change
+T7	HMM 985 1042	intraoperative miosis during scleral buckling procedures.

@@ -1,0 +1,7 @@
+T1	HMM 1467 1484	actual total dose
+T2	HMM 1682 1710	clinical target volume (CTV)
+T3	HMM 1817 1847	planned treatment volume (PTV)
+T4	HMM 1896 1899	CTV
+T5	HMM 1968 1992	cranio-caudal direction.
+T6	HMM 2007 2047	treated volumes and total radiation dose
+T7	HMM 2188 2219	inter-institutional consistency

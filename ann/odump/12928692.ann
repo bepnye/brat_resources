@@ -1,0 +1,7 @@
+T1	HMM 665 723	visual acuity and fundus fluorescein angiographic findings
+T2	HMM 983 1001	angiographic signs
+T3	HMM 1097 1132	deterioration of angiographic signs
+T4	HMM 1331 1344	visual acuity
+T5	HMM 1426 1439	visual acuity
+T6	HMM 1626 1639	visual acuity
+T7	HMM 1648 1681	fluorescein angiographic findings

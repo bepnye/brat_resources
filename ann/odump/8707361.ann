@@ -1,0 +1,8 @@
+T1	HMM 350 363	Apparent cure
+T2	HMM 426 446	parasitological cure
+T3	HMM 527 540	Ultimate cure
+T4	HMM 696 709	ultimate cure
+T5	HMM 775 979	adverse events (rise in serum creatinine and fall in serum potassium, loss of appetite and shivering, rigor and fever during infusion indicative of renal, GIT and infusion related toxicities respectively)
+T6	HMM 1151 1159	relapses
+T7	HMM 1172 1183	development
+T8	HMM 1187 1209	drug unresponsiveness.

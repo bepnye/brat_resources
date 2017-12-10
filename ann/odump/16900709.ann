@@ -1,0 +1,5 @@
+T1	HMM 1088 1103	urinary leakage
+T2	HMM 1211 1232	haemorrhagic episode.
+T3	HMM 1262 1274	mild residue
+T4	HMM 1344 1360	collective fluid
+T5	HMM 1399 1429	dilatation without obstruction

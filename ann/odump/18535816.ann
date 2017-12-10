@@ -1,0 +1,17 @@
+T1	HMM 153 168	LDL-cholesterol
+T2	HMM 224 247	plasma triacylglycerol.
+T3	HMM 351 374	triacylglycerol levels.
+T4	HMM 1100 1155	plasma LDL-cholesterol, triacylglycerol and total ApoB.
+T5	HMM 1186 1247	ApoB pool sizes of larger triacylglycerol-rich VLDL particles
+T6	HMM 1268 1290	smaller VLDL particles
+T7	HMM 1311 1343	intermediate density lipoprotein
+T8	HMM 1447 1492	total fractional catabolic rate of VLDL1-ApoB
+T9	HMM 1746 1786	production rates of VLDL2-, IDL- or LDL-
+T10	HMM 1803 1829	VLDL1-ApoB production rate
+T11	HMM 1894 1906	side effects
+T12	HMM 2072 2091	LDL-ApoB catabolism
+T13	HMM 2138 2185	catabolism of triacylglycerol-rich lipoproteins
+T14	HMM 2222 2246	catabolism of VLDL1-ApoB
+T15	HMM 2254 2264	VLDL2-ApoB
+T16	HMM 2275 2283	IDL-ApoB
+T17	HMM 2333 2343	VLDL1-ApoB

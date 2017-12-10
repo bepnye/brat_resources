@@ -1,0 +1,11 @@
+T1	HMM 56 100	lipid levels and cardiovascular risk markers
+T2	HMM 207 225	blood lipid levels
+T3	HMM 383 445	cardiovascular risk markers, blood glucose, and insulin levels
+T4	HMM 1033 1048	LDL cholesterol
+T5	HMM 1073 1087	LDL/UHDL ratio
+T6	HMM 1112 1126	apolipoprotein
+T7	HMM 1162 1175	triglycerides
+T8	HMM 1204 1216	homocysteine
+T9	HMM 1253 1276	total cholesterol value
+T10	HMM 1368 1546	HDL cholesterol, apo B100/apo A1 ratio, plasminogen activator inhibitor 1, factor VIIc, von Willebrand factor, fibrinogen, lipoprotein(a), glucose, HbA1c, or 24-h blood pressure.
+T11	HMM 1643 1670	cardiovascular risk markers

@@ -1,0 +1,7 @@
+T1	HMM 5 16	tachycardia
+T2	HMM 135 145	heart rate
+T3	HMM 688 717	heart rate and blood pressure
+T4	HMM 814 855	increase in heart rate and blood pressure
+T5	HMM 898 908	heart rate
+T6	HMM 1076 1090	blood pressure
+T7	HMM 1347 1357	heart rate

@@ -1,0 +1,17 @@
+T1	Outcomes 59 105	in-hospital mortality and neurological outcome
+T2	Outcomes 347 433	infection rate, days in NICU, in-hospital mortality and long-term neurological outcome
+T3	Outcomes 945 959	glucose levels
+T4	Outcomes 1214 1228	mortality rate
+T5	Outcomes 1282 1373	ICU infection rate, duration of ICU stay, in-hospital mortality rate and neurologic outcome
+T6	Outcomes 1539 1552	TISS-28 score
+T7	Outcomes 1570 1588	Glasgow Coma Score
+T8	Outcomes 1632 1655	Overall mortality rates
+T9	Outcomes 1759 1773	infection rate
+T10	Outcomes 1962 1979	days stay in NICU
+T11	Outcomes 2113 2134	in-hospital mortality
+T12	Outcomes 2319 2337	neurologic outcome
+T13	Outcomes 2351 2378	Glasgow Outcome Score (GOS)
+T14	Outcomes 2558 2573	Mortality rates
+T15	Outcomes 2707 2738	infection rate and days in NICU
+T16	Outcomes 2743 2776	improves the neurological outcome
+T17	Outcomes 2834 2855	in-hospital mortality

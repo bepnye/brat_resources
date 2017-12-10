@@ -1,0 +1,10 @@
+T1	HMM 725 803	Information on eating patterns, dietary intake, weight and metabolic variables
+T2	HMM 908 924	number of snacks
+T3	HMM 1042 1055	energy intake
+T4	HMM 1060 1083	E% (energy percent) fat
+T5	HMM 1098 1125	E% protein and fiber intake
+T6	HMM 1187 1198	lost weight
+T7	HMM 1243 1254	weight loss
+T8	HMM 1342 1361	metabolic variables
+T9	HMM 1408 1432	high-density lipoprotein
+T10	HMM 1589 1608	1-year weight loss.

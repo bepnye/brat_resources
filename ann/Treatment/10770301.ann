@@ -1,0 +1,9 @@
+T1	Treatment 0 43	Low molecular-weight heparin versus aspirin
+T2	Treatment 357 365	heparins
+T3	Treatment 458 465	Heparin
+T4	Treatment 589 703	low-molecular-weight heparin (LMWH, dalteparin 100 IU/kg subcutaneously twice a day) or aspirin (160 mg every day)
+T5	Treatment 842 846	LMWH
+T6	Treatment 900 907	aspirin
+T7	Treatment 1264 1274	dalteparin
+T8	Treatment 1289 1297	aspirin:
+T9	Treatment 1685 1689	LMWH

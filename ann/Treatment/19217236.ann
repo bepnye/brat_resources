@@ -1,0 +1,19 @@
+T1	Treatment 8 45	laryngeal tube suction-device (LTS-D)
+T2	Treatment 417 478	single-use laryngeal tube with suction option (LTS-D) instead
+T3	Treatment 482 585	endotracheal intubation (ET) and bag-mask-valve ventilation (BMV) for emergency airway management could
+T4	Treatment 987 992	LTS-D
+T5	Treatment 1196 1201	LTS-D
+T6	Treatment 1225 1227	ET
+T7	Treatment 1247 1251	BMV.
+T8	Treatment 1262 1267	LTS-D
+T9	Treatment 1290 1293	NFT
+T10	Treatment 1306 1308	ET
+T11	Treatment 1317 1320	BMV
+T12	Treatment 1394 1397	NFT
+T13	Treatment 1433 1438	LTS-D
+T14	Treatment 1465 1476	ET and BMV.
+T15	Treatment 1581 1586	LTS-D
+T16	Treatment 1616 1618	ET
+T17	Treatment 1623 1626	BMV
+T18	Treatment 1735 1737	ET
+T19	Treatment 1796 1800	BMV.

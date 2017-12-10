@@ -1,0 +1,8 @@
+T1	HMM 249 273	atrial fibrillation (AF)
+T2	HMM 512 514	AF
+T3	HMM 682 684	AF
+T4	HMM 694 706	Post-CABG AF
+T5	HMM 884 896	post-CABG AF
+T6	HMM 1083 1092	Mortality
+T7	HMM 1272 1276	risk
+T8	HMM 1280 1299	mortality or stroke

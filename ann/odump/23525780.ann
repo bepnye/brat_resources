@@ -1,0 +1,12 @@
+T1	HMM 846 854	evaluate
+T2	HMM 870 878	success:
+T3	HMM 882 938	in-church instrument to assess the reach, dose delivered
+T4	HMM 943 951	fidelity
+T5	HMM 997 1012	exposure survey
+T6	HMM 1023 1053	individual-level dose received
+T7	HMM 1088 1103	evaluation form
+T8	HMM 1118 1142	church food environment.
+T9	HMM 1399 1408	giveaways
+T10	HMM 1435 1446	taste tests
+T11	HMM 1464 1471	posters
+T12	HMM 1578 1603	successful implementation

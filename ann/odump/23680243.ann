@@ -1,0 +1,9 @@
+T1	HMM 22 38	glycemic control
+T2	HMM 170 213	glycemic control and maternal-fetal outcome
+T3	HMM 679 910	glycemic control (HbA1c), hypoglycemic events, time and mode of delivery and labor results (abortion, premature labor, perinatal mortality, neonatal weight, Apgar score, neonatal hypoglycaemia, presence of congenital abnormalities)
+T4	HMM 934 972	Pregnancy outcome and glycemic control
+T5	HMM 1168 1195	longer duration of diabetes
+T6	HMM 1227 1251	Reduction in HbA1c level
+T7	HMM 1455 1501	Duration of pregnancy and new born baby weight
+T8	HMM 1552 1630	rate of abortion, preterm labor, cesarean section and hypoglycemia in new born
+T9	HMM 1705 1716	Apgar score

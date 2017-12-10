@@ -1,0 +1,4 @@
+T1	HMM 594 602	recovery
+T2	HMM 609 634	absolute neutrophil count
+T3	HMM 771 855	red cell transfusion requirements, platelet recovery or duration of hospitalization.
+T4	HMM 956 973	incidence of rash

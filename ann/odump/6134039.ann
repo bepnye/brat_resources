@@ -1,0 +1,6 @@
+T1	HMM 67 87	bacterial meningitis
+T2	HMM 629 651	cultures were negative
+T3	HMM 717 762	mean falls in the CSF bacterial colony counts
+T4	HMM 825 858	Mean bactericidal activity in CSF
+T5	HMM 1023 1041	clinical responses
+T6	HMM 1048 1101	frequency of complications, except for mild diarrhoea

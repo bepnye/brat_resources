@@ -1,0 +1,13 @@
+T1	Treatment 26 69	combined diethylcarbamazine and albendazole
+T2	Treatment 182 200	placebo-controlled
+T3	Treatment 282 308	chemotherapeutic treatment
+T4	Treatment 615 689	placebo, albendazole (ALB), diethylcarbamazine (DEC), or combined therapy.
+T5	Treatment 799 810	Albendazole
+T6	Treatment 815 822	DEC/ALB
+T7	Treatment 975 978	ALB
+T8	Treatment 983 990	DEC/ALB
+T9	Treatment 1042 1049	placebo
+T10	Treatment 1067 1078	Albendazole
+T11	Treatment 1083 1090	DEC/ALB
+T12	Treatment 1200 1207	DEC/ALB
+T13	Treatment 1232 1235	DEC

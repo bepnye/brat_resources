@@ -1,0 +1,9 @@
+T1	HMM 790 805	characteristics
+T2	HMM 852 868	median follow-up
+T3	HMM 906 948	actuarial relapse-free survival (RFS) rate
+T4	HMM 1052 1073	overall survival (OS)
+T5	HMM 1179 1199	7-year actuarial RFS
+T6	HMM 1272 1310	corresponding actuarial survival rates
+T7	HMM 1448 1451	RFS
+T8	HMM 1882 1893	probability
+T9	HMM 1897 1906	survival.

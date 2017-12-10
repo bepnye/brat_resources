@@ -1,0 +1,11 @@
+T1	Intervention 33 64	nonlinear frequency compression
+T2	Intervention 72 95	conventional processing
+T3	Intervention 99 112	hearing aids:
+T4	Intervention 206 244	nonlinear frequency compression (NLFC)
+T5	Intervention 528 558	NLFC (Phonak Naida V SP or UP)
+T6	Intervention 567 607	conventional processing in hearing aids,
+T7	Intervention 1100 1105	NLFC.
+T8	Intervention 1186 1191	NLFC,
+T9	Intervention 1219 1246	conventional amplification.
+T10	Intervention 1552 1556	NLFC
+T11	Intervention 1573 1599	conventional amplification

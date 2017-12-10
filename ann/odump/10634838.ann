@@ -1,0 +1,10 @@
+T1	HMM 648 851	total energy intake and growth over the first six postnatal weeks, sepsis incidence, liver function, milk tolerance, duration of respiratory support, duration of hospital stay and complication incidence.
+T2	HMM 975 988	energy intake
+T3	HMM 1061 1072	weight gain
+T4	HMM 1102 1125	head circumference gain
+T5	HMM 1181 1217	episodes of culture confirmed sepsis
+T6	HMM 1278 1298	parenteral nutrition
+T7	HMM 1352 1377	tolerated full milk feeds
+T8	HMM 1462 1497	requirement for supplemental oxygen
+T9	HMM 1562 1577	discharged home
+T10	HMM 1694 1719	risk of any complication.

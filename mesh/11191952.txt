@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Diphtheria
+Diphtheria Antitoxin
+Diphtheria Toxoid
+Female
+Humans
+Immunization Schedule
+Immunization, Secondary
+Male
+Middle Aged
+Prospective Studies

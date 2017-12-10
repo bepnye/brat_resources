@@ -1,0 +1,13 @@
+T1	HMM 0 30	Junctional ectopic tachycardia
+T2	HMM 122 172	postoperative junctional ectopic tachycardia (JET)
+T3	HMM 233 253	risk factors for JET
+T4	HMM 271 285	effects of JET
+T5	HMM 289 327	postoperative morbidity and mortality.
+T6	HMM 1014 1073	low operative weight, cardiopulmonary bypass (CPB) duration
+T7	HMM 1088 1135	immediate postoperative serum lactic acid level
+T8	HMM 1230 1318	mechanical ventilation time, cardiac intensive care unit (CICU) stay, and hospital stay.
+T9	HMM 1338 1343	death
+T10	HMM 1461 1485	postoperative arrhythmia
+T11	HMM 1619 1656	postoperative lactic acidosis levels.
+T12	HMM 1657 1666	Mortality
+T13	HMM 1728 1737	morbidity

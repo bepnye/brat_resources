@@ -1,0 +1,8 @@
+T1	HMM 774 831	morphine consumption and visual analog scale pain scores.
+T2	HMM 887 899	pain scores.
+T3	HMM 900 949	Patient-controlled analgesia morphine consumption
+T4	HMM 1076 1090	hallucinations
+T5	HMM 1094 1105	nightmares.
+T6	HMM 1110 1138	incidence of adverse effects
+T7	HMM 1271 1291	morphine consumption
+T8	HMM 1595 1644	patient-controlled analgesia morphine requirement

@@ -1,0 +1,14 @@
+T1	Treatment 17 26	meropenem
+T2	Treatment 112 121	imipenem.
+T3	Treatment 299 308	meropenem
+T4	Treatment 312 337	new carbapenem antibiotic
+T5	Treatment 352 360	imipenem
+T6	Treatment 384 406	prophylactic treatment
+T7	Treatment 555 577	prophylactic treatment
+T8	Treatment 583 605	0.5 g meropenem t.i.d.
+T9	Treatment 606 644	intravenously or 0.5 g imipenem q.i.d.
+T10	Treatment 645 659	intravenously.
+T11	Treatment 1137 1146	meropenem
+T12	Treatment 1170 1178	imipenem
+T13	Treatment 1320 1329	Meropenem
+T14	Treatment 1349 1357	imipenem

@@ -1,0 +1,7 @@
+T1	HMM 434 442	efficacy
+T2	HMM 977 1029	Investigator's Static Global Assessment (ISGA) score
+T3	HMM 1034 1047	lesion count;
+T4	HMM 1080 1118	Dermatology Life Quality Index (DLQI).
+T5	HMM 1179 1190	observation
+T6	HMM 1238 1256	total lesion count
+T7	HMM 1272 1297	inflammatory lesion count

@@ -1,0 +1,5 @@
+T1	HMM 0 25	Long-term quality of life
+T2	HMM 172 187	quality of life
+T3	HMM 802 821	Baseline QOL scores
+T4	HMM 929 1019	(role physical, bodily pain, general health, social function, vitality, and mental health)
+T5	HMM 1129 1139	QOL scores

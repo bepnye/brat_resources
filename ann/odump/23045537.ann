@@ -1,0 +1,5 @@
+T1	HMM 1019 1037	Time to resolution
+T2	HMM 1154 1175	diagnostic resolution
+T3	HMM 1356 1366	colorectal
+T4	HMM 1384 1413	prostate screening resolution
+T5	HMM 1603 1613	resolution

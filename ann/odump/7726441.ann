@@ -1,0 +1,12 @@
+T1	HMM 4 23	antiemetic efficacy
+T2	HMM 77 110	Postoperative nausea and vomiting
+T3	HMM 208 241	postoperative nausea and vomiting
+T4	HMM 592 632	Nausea, vomiting, and safety assessments
+T5	HMM 720 750	number of emesis-free patients
+T6	HMM 1028 1034	nausea
+T7	HMM 1062 1090	(nausea visual analog scales
+T8	HMM 1262 1282	"rescue" antiemetics
+T9	HMM 1463 1477	adverse events
+T10	HMM 1611 1660	vital signs or clinical laboratory test profiles.
+T11	HMM 1744 1778	simple, effective, and safe method
+T12	HMM 1794 1828	postoperative nausea and vomiting.

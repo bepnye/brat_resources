@@ -1,0 +1,9 @@
+T1	Treatment 284 319	continuous glucose monitoring (CGM)
+T2	Treatment 509 512	CGM
+T3	Treatment 529 536	control
+T4	Treatment 553 591	standard home blood glucose monitoring
+T5	Treatment 693 696	CGM
+T6	Treatment 1160 1163	CGM
+T7	Treatment 1390 1396	by CGM
+T8	Treatment 1493 1499	study.
+T9	Treatment 1500 1512	CGM-measured

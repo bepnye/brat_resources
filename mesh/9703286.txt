@@ -1,0 +1,14 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Cisplatin
+Cyclophosphamide
+DNA Mutational Analysis
+Disease-Free Survival
+Female
+Genes, p53
+Humans
+Middle Aged
+Mutation
+Ovarian Neoplasms
+Paclitaxel

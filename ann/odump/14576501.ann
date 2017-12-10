@@ -1,0 +1,8 @@
+T1	HMM 30 50	septic complications
+T2	HMM 202 222	septic complications
+T3	HMM 664 845	occurrence of infection of pancreatic necrosis, rate of extrapancreatic infections, systemic and local complications, need for surgery, mortality rate, and length of hospitalization
+T4	HMM 883 902	septic complication
+T5	HMM 1191 1224	incidence of pancreatic infection
+T6	HMM 1250 1276	extrapancreatic infections
+T7	HMM 1302 1319	clinical outcome.
+T8	HMM 1372 1392	septic complications

@@ -1,0 +1,10 @@
+T1	HMM 64 92	sprint acceleration ability.
+T2	HMM 146 174	sprint acceleration ability.
+T3	HMM 522 550	sprint acceleration ability.
+T4	HMM 858 873	sprint velocity
+T5	HMM 1000 1010	split time
+T6	HMM 1102 1125	5- and 10-m sprint time
+T7	HMM 1195 1211	10-m sprint time
+T8	HMM 1357 1384	in 5-m and 10-m sprint time
+T9	HMM 1505 1523	in sprint velocity
+T10	HMM 1541 1566	affect sprint performance

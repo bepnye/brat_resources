@@ -1,0 +1,19 @@
+Acute Disease
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Amphotericin B
+Blast Crisis
+Female
+Fluconazole
+Humans
+Kidney Diseases
+Leukemia
+Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+Male
+Middle Aged
+Mycoses
+Premedication
+Prospective Studies
+Remission Induction

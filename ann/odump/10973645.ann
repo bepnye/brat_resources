@@ -1,0 +1,5 @@
+T1	HMM 851 907	Delta "stage-of-change" and rate of maintained cessation
+T2	HMM 1022 1050	rate of maintained cessation
+T3	HMM 1112 1140	mean delta "stage-of-change"
+T4	HMM 1198 1218	Maintained cessation
+T5	HMM 1282 1310	Mean delta "stage-of-change"

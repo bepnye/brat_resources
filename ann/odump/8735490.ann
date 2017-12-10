@@ -1,0 +1,8 @@
+T1	HMM 173 181	accuracy
+T2	HMM 430 459	Field placement errors (FPEs)
+T3	HMM 589 704	overall treatment simulator differences, the number of error free treatments, and mean treatment-simulator position
+T4	HMM 712 765	evaluate the role of systematic versus random errors.
+T5	HMM 766 869	Age, weight, disease site, position of treatment, fractionation, blocked versus conventional techniques
+T6	HMM 928 947	mean absolute error
+T7	HMM 2018 2026	accurate
+T8	HMM 2060 2077	Systematic errors

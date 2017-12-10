@@ -1,0 +1,7 @@
+T1	HMM 38 46	efficacy
+T2	HMM 98 132	central venous catheter infections
+T3	HMM 883 907	mean rates of bacteremia
+T4	HMM 1167 1206	time to the first episode of bacteremia
+T5	HMM 1341 1373	Streptococcus viridans infection
+T6	HMM 1503 1513	bacteremia
+T7	HMM 1553 1563	Bacteremia

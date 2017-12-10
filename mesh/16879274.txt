@@ -1,0 +1,7 @@
+Biopsy, Fine-Needle
+Breast Neoplasms
+Carcinoma, Ductal, Breast
+Chromatin
+Female
+Humans
+Neoplasm Staging

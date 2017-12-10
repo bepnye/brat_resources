@@ -1,0 +1,5 @@
+T1	HMM 618 658	incidence of in-breast recurrence (IBR).
+T2	HMM 698 725	cumulative incidence of IBR
+T3	HMM 806 820	no differences
+T4	HMM 833 884	overall survival and distant disease-free survival.
+T5	HMM 1035 1070	risk of distant-disease recurrence.

@@ -1,0 +1,7 @@
+T1	HMM 956 977	overall response rate
+T2	HMM 1120 1154	median time to disease progression
+T3	HMM 1184 1199	median survival
+T4	HMM 1233 1248	1-year survival
+T5	HMM 1325 1340	Main toxicities
+T6	HMM 1543 1559	toxicity profile
+T7	HMM 1569 1585	financial costs.

@@ -1,0 +1,6 @@
+T1	HMM 1050 1074	incidence of initial RAO
+T2	HMM 1277 1303	the final incidence of RAO
+T3	HMM 1378 1409	The incidence of local hematoma
+T4	HMM 1491 1546	conclusion, acute RAO after transradial catheterization
+T5	HMM 1656 1678	was effective and safe
+T6	HMM 1769 1797	remained significantly lower

@@ -1,0 +1,5 @@
+T1	HMM 650 667	ischemic episodes
+T2	HMM 744 752	Efficacy
+T3	HMM 820 845	exercise test parameters.
+T4	HMM 921 941	ambulatory ischemia;
+T5	HMM 1076 1094	ischemic episodes.

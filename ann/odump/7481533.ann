@@ -1,0 +1,9 @@
+T1	HMM 238 259	risk of new neoplasia
+T2	HMM 538 575	risk of a patient having new adenomas
+T3	HMM 769 875	significant neoplasia (carcinoma or adenoma with villous structure, severe dysplasia, or diameter > 10 mm)
+T4	HMM 1056 1084	higher risk of new adenomas.
+T5	HMM 1198 1207	adenomas.
+T6	HMM 1309 1343	risk of new significant neoplasia.
+T7	HMM 1405 1411	cancer
+T8	HMM 1649 1669	risk of new adenomas
+T9	HMM 1740 1749	neoplasia

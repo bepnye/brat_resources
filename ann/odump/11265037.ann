@@ -1,0 +1,15 @@
+T1	HMM 106 136	modes of failure--radiographic
+T2	HMM 456 477	stability of fixation
+T3	HMM 490 506	modes of failure
+T4	HMM 659 691	Linear and angular displacements
+T5	HMM 719 758	implant migration into the femoral head
+T6	HMM 803 860	adequacy of the reduction and the location of the implant
+T7	HMM 902 918	fixation failure
+T8	HMM 961 977	neck-shaft angle
+T9	HMM 1084 1135	incidence of varus angulation by 10 degrees or more
+T10	HMM 1281 1335	vertical migration of the device into the femoral head
+T11	HMM 1418 1461	failure of the fixation and varus reduction
+T12	HMM 1484 1510	screw/neck angle deviation
+T13	HMM 1793 1809	fixation failure
+T14	HMM 1853 1879	screw/neck angle deviation
+T15	HMM 1933 1950	fixation failure.

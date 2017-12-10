@@ -1,0 +1,9 @@
+T1	HMM 0 65	Cost effectiveness of treatment with percutaneous Kirschner wires
+T2	HMM 535 578	(cost per quality-adjusted life year; QALY)
+T3	HMM 867 893	costs of surgery, implants
+T4	HMM 898 921	healthcare resource use
+T5	HMM 1007 1028	cost of time off work
+T6	HMM 1046 1070	additional private care.
+T7	HMM 1108 1113	QALYs
+T8	HMM 1321 1367	an incremental cost effectiveness ratio (ICER)
+T9	HMM 1477 1485	the ICER

@@ -1,0 +1,8 @@
+T1	HMM 36 45	artefacts
+T2	HMM 123 132	artefacts
+T3	HMM 1053 1069	visibility score
+T4	HMM 1252 1288	the endoscopic ultrasonography score
+T5	HMM 1435 1467	endoscopic ultrasonography score
+T6	HMM 1566 1650	The numbers of high-echo spots in the gastric cavity and on the gastric wall surface
+T7	HMM 1801 1817	no complications
+T8	HMM 1900 1909	artefacts

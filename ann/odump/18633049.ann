@@ -1,0 +1,12 @@
+T1	HMM 65 84	autonomic responses
+T2	HMM 164 174	discomfort
+T3	HMM 405 409	pain
+T4	HMM 544 581	verbal rating scale (VRS) pain scores
+T5	HMM 586 615	heart rate variability (HRV).
+T6	HMM 1076 1079	VRS
+T7	HMM 1123 1127	VRS.
+T8	HMM 1181 1254	low frequency/high frequency ratio of HRV responding to needle insertion.
+T9	HMM 1322 1343	needle insertion pain
+T10	HMM 1454 1495	low frequency/high frequency ratio of HRV
+T11	HMM 1544 1553	reduction
+T12	HMM 1557 1593	sympathetic nervous system activity.

@@ -1,0 +1,11 @@
+T1	HMM 108 127	nausea and vomiting
+T2	HMM 592 603	Hypotension
+T3	HMM 847 855	sedated.
+T4	HMM 893 929	severe nausea, retching, or vomiting
+T5	HMM 942 970	severe emetic sequelae (SES)
+T6	HMM 1187 1190	SES
+T7	HMM 1252 1264	ineffective.
+T8	HMM 1321 1330	effective
+T9	HMM 1344 1366	antiemetic prophylaxis
+T10	HMM 1395 1416	free of side effects.
+T11	HMM 1461 1499	best choice for antiemetic prophylaxis

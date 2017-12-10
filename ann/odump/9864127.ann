@@ -1,0 +1,12 @@
+T1	HMM 777 794	discomfort scores
+T2	HMM 992 1009	discomfort scores
+T3	HMM 1064 1099	unnumbered analog discomfort scale.
+T4	HMM 1332 1347	adverse effects
+T5	HMM 1584 1601	discomfort scores
+T6	HMM 1639 1656	discomfort scores
+T7	HMM 1757 1766	tolerated
+T8	HMM 1822 1842	ocular pH difference
+T9	HMM 2060 2091	physician and volunteer scores.
+T10	HMM 2095 2108	adverse event
+T11	HMM 2196 2213	discomfort scores
+T12	HMM 2406 2426	lens-solution effect

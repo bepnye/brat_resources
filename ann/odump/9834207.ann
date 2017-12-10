@@ -1,0 +1,12 @@
+T1	HMM 9 29	benefit/disadvantage
+T2	HMM 468 481	effectiveness
+T3	HMM 567 589	hematopoietic recovery
+T4	HMM 1844 1852	survived
+T5	HMM 1864 1943	median numbers of transfused mononuclear cells (MNC), CD34(+) cells, and CFU-GM
+T6	HMM 2274 2342	time to achieve an absolute neutrophil count (ANC) of >0.5 x 10(9)/L
+T7	HMM 2542 2566	duration of febrile days
+T8	HMM 2648 2682	platelet recovery to >20 x 10(9)/L
+T9	HMM 2882 2917	platelet transfusion-dependent days
+T10	HMM 3051 3071	engraftment kinetics
+T11	HMM 3241 3265	recovery of granulocytes
+T12	HMM 3297 3319	recovery of platelets.

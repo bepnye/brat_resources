@@ -1,0 +1,25 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Bleomycin
+Chemoradiotherapy
+Cyclophosphamide
+Dacarbazine
+Disease-Free Survival
+Doxorubicin
+Etoposide
+Female
+Hodgkin Disease
+Humans
+Male
+Middle Aged
+Neoplasm Recurrence, Local
+Neoplasm Staging
+Positron-Emission Tomography
+Prednisone
+Procarbazine
+Prospective Studies
+Vinblastine
+Vincristine
+Young Adult

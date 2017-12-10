@@ -1,0 +1,10 @@
+T1	Treatment 35 57	anesthesia positioning
+T2	Treatment 662 695	30 degrees Reverse Trendelenburg;
+T3	Treatment 699 717	Supine-Horizontal;
+T4	Treatment 721 747	30 degrees Back Up Fowler.
+T5	Treatment 748 818	Mask ventilation, full neuromuscular paralysis and direct laryngoscopy
+T6	Treatment 950 998	1% isoflurane in a mixture of 50% oxygen/50% air
+T7	Treatment 1831 1852	Reverse Trendelenburg
+T8	Treatment 1919 1933	Back Up Fowler
+T9	Treatment 1938 1955	Horizontal-Supine
+T10	Treatment 2167 2188	Reverse Trendelenburg

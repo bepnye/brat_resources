@@ -1,0 +1,13 @@
+T1	HMM 54 70	angina threshold
+T2	HMM 340 378	coronary blood flow during tachycardia
+T3	HMM 866 883	exercise duration
+T4	HMM 929 952	time to onset of angina
+T5	HMM 985 991	Angina
+T6	HMM 1088 1104	pressure product
+T7	HMM 1198 1243	exercise duration and time to onset of angina
+T8	HMM 1263 1269	angina
+T9	HMM 1311 1327	pressure product
+T10	HMM 1516 1533	coronary reserve.
+T11	HMM 1553 1571	anginal threshold;
+T12	HMM 1590 1608	smooth muscle tone
+T13	HMM 1665 1704	coronary reserve and exercise duration.

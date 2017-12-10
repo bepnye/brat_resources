@@ -1,0 +1,11 @@
+Adult
+Blood Pressure
+Female
+Heart Rate
+Humans
+Lower Body Negative Pressure
+Male
+Reference Values
+Reproducibility of Results
+Stress, Physiological
+Syncope

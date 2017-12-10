@@ -1,0 +1,14 @@
+Confidence Intervals
+Electrocardiography
+Female
+Fibrinolytic Agents
+Glucose
+Humans
+Insulin
+Male
+Middle Aged
+Myocardial Infarction
+Potassium
+Streptokinase
+Time Factors
+Treatment Outcome

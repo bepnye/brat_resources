@@ -1,0 +1,6 @@
+T1	HMM 89 121	risk of surgical site infection:
+T2	HMM 1239 1264	in bacterial colonisation
+T3	HMM 1266 1285	The odds ratio (OR)
+T4	HMM 1532 1563	reducing bacterial colonisation
+T5	HMM 1974 2012	the risk of superficial incisional SSI
+T6	HMM 2126 2173	the risk and exaceration of deep incisional SSI

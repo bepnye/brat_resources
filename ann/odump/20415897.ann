@@ -1,0 +1,16 @@
+T1	HMM 184 198	renal function
+T2	HMM 211 229	long-term outcomes
+T3	HMM 632 654	patient/graft survival
+T4	HMM 658 693	composite renal impairment endpoint
+T5	HMM 860 889	incidence of acute rejection.
+T6	HMM 940 962	patient/graft survival
+T7	HMM 1050 1073	superior renal function
+T8	HMM 1093 1128	composite renal impairment endpoint
+T9	HMM 1226 1230	mGFR
+T10	HMM 1369 1378	incidence
+T11	HMM 1423 1457	grade of acute rejection episodes.
+T12	HMM 1458 1464	Safety
+T13	HMM 1507 1550	posttransplant lymphoproliferative disorder
+T14	HMM 1633 1647	renal function
+T15	HMM 1660 1682	patient/graft survival
+T16	HMM 1746 1776	rate of early acute rejection.

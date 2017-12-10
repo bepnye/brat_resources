@@ -1,0 +1,20 @@
+T1	HMM 60 67	fatigue
+T2	HMM 161 189	Cancer-related-fatigue (CRF)
+T3	HMM 362 428	Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F)
+T4	HMM 932 972	the median difference in FACIT-F fatigue
+T5	HMM 1003 1042	included anxiety, depression, and sleep
+T6	HMM 1088 1098	evaluable.
+T7	HMM 1099 1128	Median FACIT-F fatigue scores
+T8	HMM 1405 1423	in FACIT-F fatigue
+T9	HMM 1519 1524	.16).
+T10	HMM 1525 1532	Fatigue
+T11	HMM 1538 1551	.001), nausea
+T12	HMM 1557 1573	.01), depression
+T13	HMM 1579 1592	.02), anxiety
+T14	HMM 1598 1614	.01), drowsiness
+T15	HMM 1620 1635	.001), appetite
+T16	HMM 1641 1653	.009), sleep
+T17	HMM 1666 1691	and feeling of well-being
+T18	HMM 1777 1781	NTI.
+T19	HMM 1782 1808	Grade ≥ 3 adverse events
+T20	HMM 1978 1987	improving

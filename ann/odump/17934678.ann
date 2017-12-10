@@ -1,0 +1,4 @@
+T1	HMM 147 158	feasibility
+T2	HMM 656 786	patient outcomes: routinely available asthma outcome measures (beta2-agonist prescription rate and number of oral steroid courses)
+T3	HMM 872 984	questionnaire data - Mini Asthma Quality of Life Questionnaire (AQLQ) and the Asthma Control Questionnaire (ACQ)
+T4	HMM 1407 1416	Mini AQLQ

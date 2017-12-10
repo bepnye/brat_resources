@@ -1,0 +1,8 @@
+T1	Outcomes 0 21	Analysis of treatment
+T2	Outcomes 247 258	neutropenia
+T3	Outcomes 394 412	severe neutropenia
+T4	Outcomes 435 467	methotrexate-induced neutropenia
+T5	Outcomes 553 592	synergistic toxic effect of irradiation
+T6	Outcomes 675 681	deaths
+T7	Outcomes 709 718	remission
+T8	Outcomes 1005 1023	neutrophil counts.

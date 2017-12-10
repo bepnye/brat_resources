@@ -1,0 +1,9 @@
+T1	HMM 915 974	median time to eye opening and exit from the operation room
+T2	HMM 1193 1218	median time to extubation
+T3	HMM 1263 1282	quality of recovery
+T4	HMM 1388 1415	visual analogue scale score
+T5	HMM 1428 1477	Observer's Assessment of Alertness/Sedation score
+T6	HMM 1490 1525	Mini-Mental State Examination score
+T7	HMM 1541 1589	Modified Aldrete Post Anaesthesia Recovery score
+T8	HMM 1605 1627	serious adverse events
+T9	HMM 1737 1750	recovery time

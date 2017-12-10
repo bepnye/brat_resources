@@ -1,0 +1,11 @@
+Adult
+Biopsy, Needle
+Cervix Uteri
+Colposcopy
+Female
+Humans
+Middle Aged
+Random Allocation
+Sensitivity and Specificity
+Uterine Cervical Neoplasms
+Vaginal Smears

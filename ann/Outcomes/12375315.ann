@@ -1,0 +1,5 @@
+T1	Outcomes 721 751	concentration-time curve (AUC)
+T2	Outcomes 841 857	mean AUC for MTX
+T3	Outcomes 892 924	maximum MTX concentration (Cmax)
+T4	Outcomes 1025 1072	time to reach Cmax for MTX administration, tmax
+T5	Outcomes 1180 1190	difference

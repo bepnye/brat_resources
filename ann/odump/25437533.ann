@@ -1,0 +1,7 @@
+T1	HMM 451 455	know
+T2	HMM 1047 1183	1) 3-point or greater baseline to end point total I-PSS improvement and 2) 25% or greater baseline to end point total I-PSS improvement.
+T3	HMM 1184 1189	I-PSS
+T4	HMM 1404 1455	earliest time to clinically meaningful improvement.
+T5	HMM 1556 1589	clinically meaningful improvement
+T6	HMM 1703 1736	clinically meaningful improvement
+T7	HMM 1904 1937	clinically meaningful improvement

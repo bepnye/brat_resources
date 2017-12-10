@@ -1,0 +1,10 @@
+T1	HMM 263 354	ovarian follicular dynamics, luteal function, onset of oestrus and reproductive performance
+T2	HMM 706 777	Concentrations of CP in pasture, urea in serum and progesterone in milk
+T3	HMM 793 831	Ovarian follicular and luteal dynamics
+T4	HMM 871 939	Oestrous behaviour and the number, time and outcome of inseminations
+T5	HMM 968 1022	Mean concentrations of CP in pasture and urea in serum
+T6	HMM 1148 1381	Intervals between calving and first oestrus, first insemination and conception, the time of first emergence of a dominant follicle, milk progesterone concentration, and the diameter of the corpus luteum (CL) in the first luteal phase
+T7	HMM 1431 1471	interval from calving to first ovulation
+T8	HMM 1508 1587	diameter of the dominant follicle of the oestrous cycle at which cows conceived
+T9	HMM 1740 1789	concentrations of CP in pasture and urea in serum
+T10	HMM 1841 1865	reproductive performance

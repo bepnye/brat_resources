@@ -1,0 +1,10 @@
+T1	HMM 8 16	efficacy
+T2	HMM 1624 1674	Clinical Global Impressions, Improvement subscale.
+T3	HMM 1727 1824	Children's Yale-Brown Obsessive Compulsive Scales modified for pervasive developmental disorders.
+T4	HMM 1825 1839	Adverse events
+T5	HMM 1969 1994	rate of positive response
+T6	HMM 2002 2051	Clinical Global Impressions, Improvement subscale
+T7	HMM 2245 2294	Children's Yale-Brown Obsessive Compulsive Scales
+T8	HMM 2318 2341	developmental disorders
+T9	HMM 2580 2607	energy level, impulsiveness
+T10	HMM 2619 2706	concentration, hyperactivity, stereotypy, diarrhea, insomnia, and dry skin or pruritus.

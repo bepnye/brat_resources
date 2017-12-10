@@ -1,0 +1,15 @@
+T1	HMM 66 82	glycemic control
+T2	HMM 87 114	pancreatic β-cell function
+T3	HMM 286 298	the efficacy
+T4	HMM 699 700	.
+T5	HMM 701 734	Preservation of insulin secretion
+T6	HMM 745 789	by mixed-meal-stimulated C-peptide secretion
+T7	HMM 866 1004	in glycosylated hemoglobin (HbA1c), continuous glucose sensor data, insulin utilization, anthropometric measures, and patient satisfaction
+T8	HMM 1150 1210	higher mixed-meal tolerance test-stimulated C-peptide values
+T9	HMM 1307 1332	improved glycemic control
+T10	HMM 1396 1434	with normoglycemia, better mean HbA1c)
+T11	HMM 1485 1505	greater satisfaction
+T12	HMM 1606 1631	improved glycemic control
+T13	HMM 1637 1651	well tolerated
+T14	HMM 1672 1701	improved patient satisfaction
+T15	HMM 1790 1824	preserve residual β-cell function

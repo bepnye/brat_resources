@@ -1,0 +1,9 @@
+T1	Treatment 48 58	rocuronium
+T2	Treatment 72 94	nitrous oxide-fentanyl
+T3	Treatment 98 134	nitrous oxide-sevoflurane anesthesia
+T4	Treatment 274 284	rocuronium
+T5	Treatment 315 347	nitrous oxide (N2O) and fentanyl
+T6	Treatment 356 376	N2O and sevoflurane.
+T7	Treatment 466 525	N2O/O2-fentanyl or N2O/O2-sevoflurane (one MAC) anesthesia.
+T8	Treatment 567 589	electromyographically.
+T9	Treatment 612 622	rocuronium

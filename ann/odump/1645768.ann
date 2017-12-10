@@ -1,0 +1,8 @@
+T1	HMM 108 124	antihypertensive
+T2	HMM 437 454	clinical response
+T3	HMM 529 619	reduction in diastolic pressure below 90 mmHg or a fall of at least 10 mmHg from baseline.
+T4	HMM 677 691	blood pressure
+T5	HMM 729 753	maintained the reduction
+T6	HMM 833 852	office measurements
+T7	HMM 955 970	first-dose side
+T8	HMM 1055 1064	effective

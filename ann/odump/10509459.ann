@@ -1,0 +1,8 @@
+T1	HMM 0 16	Tactile feedback
+T2	HMM 377 423	force feedback and tactile sensation (haptics)
+T3	HMM 590 604	force feedback
+T4	HMM 718 733	haptic feedback
+T5	HMM 750 795	texture, shape, and consistency of an object.
+T6	HMM 964 1050	Inspection by direct palpation, conventional instruments, and laparoscopic instruments
+T7	HMM 1217 1233	Direct palpation
+T8	HMM 1714 1730	haptic feedback.

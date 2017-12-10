@@ -1,0 +1,11 @@
+T1	Treatment 19 40	clinical intervention
+T2	Treatment 105 123	radiation therapy.
+T3	Treatment 169 205	multicomponent clinical intervention
+T4	Treatment 334 355	clinical intervention
+T5	Treatment 369 388	information session
+T6	Treatment 403 413	pain diary
+T7	Treatment 438 457	contact a physician
+T8	Treatment 489 554	or the usual treatment of pain by the staff radiation oncologist.
+T9	Treatment 883 910	clinical intervention group
+T10	Treatment 989 996	control
+T11	Treatment 1229 1314	patient education, a pain diary, and defining a procedure for therapeutic adjustments

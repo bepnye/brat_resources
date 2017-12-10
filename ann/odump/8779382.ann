@@ -1,0 +1,8 @@
+T1	HMM 28 56	epidural catheter migration.
+T2	HMM 219 244	influences its migration.
+T3	HMM 322 351	incidence of inward migration
+T4	HMM 355 367	1 cm or more
+T5	HMM 402 420	method of fixation
+T6	HMM 428 458	transparent adhesive dressing.
+T7	HMM 617 666	remained within 0.5 cm of their original position
+T8	HMM 780 806	Outward catheter migration

@@ -1,0 +1,6 @@
+T1	Intervention 89 111	dialysate conductivity
+T2	Intervention 129 151	dialysate conductivity
+T3	Intervention 370 375	Cndi.
+T4	Intervention 422 489	maintenance of Cndi at 13.6 mS/cm (equivalent to 135 mmol/L of Na+)
+T5	Intervention 493 540	serial reduction of Cndi in steps of 0.2 mS/cm,
+T6	Intervention 1273 1277	Cndi

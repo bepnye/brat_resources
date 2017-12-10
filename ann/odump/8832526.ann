@@ -1,0 +1,6 @@
+T1	HMM 924 935	proteinuria
+T2	HMM 1029 1048	anti-HCV positivity
+T3	HMM 1117 1134	liver involvement
+T4	HMM 1148 1164	cryoglobulinemia
+T5	HMM 1187 1207	histological pattern
+T6	HMM 1288 1309	peripheral neuropathy

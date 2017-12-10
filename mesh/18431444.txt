@@ -1,0 +1,10 @@
+Adolescent
+Adult
+Female
+Humans
+Injections, Intradermal
+Male
+Middle Aged
+Rabies
+Rabies Vaccines
+Young Adult

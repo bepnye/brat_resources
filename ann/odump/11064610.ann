@@ -1,0 +1,16 @@
+T1	HMM 174 211	pharmacokinetics and pharmacodynamics
+T2	HMM 464 485	Plasma concentrations
+T3	HMM 505 558	times for the plasma concentration to decrease by 50%
+T4	HMM 628 633	Times
+T5	HMM 686 722	Total dose and plasma concentrations
+T6	HMM 763 779	Mean total doses
+T7	HMM 871 888	Time to awakening
+T8	HMM 955 962	trachea
+T9	HMM 967 976	extubated
+T10	HMM 1098 1101	t80
+T11	HMM 1222 1225	t80
+T12	HMM 1248 1275	time to tracheal extubation
+T13	HMM 1311 1321	t50 values
+T14	HMM 1380 1394	recovery time.
+T15	HMM 1496 1526	mechanical ventilatory support
+T16	HMM 1679 1706	time to tracheal extubation

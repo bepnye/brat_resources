@@ -1,0 +1,12 @@
+T1	Treatment 0 29	Epidural fentanyl-bupivacaine
+T2	Treatment 44 65	clonidine-bupivacaine
+T3	Treatment 356 365	clonidine
+T4	Treatment 378 396	50 microg fentanyl
+T5	Treatment 406 438	combined with 0.125% bupivacaine
+T6	Treatment 742 763	bupivacaine-clonidine
+T7	Treatment 807 827	bupivacaine-fentanyl
+T8	Treatment 920 940	fentanyl-bupivacaine
+T9	Treatment 997 1018	clonidine-bupivacaine
+T10	Treatment 1128 1139	bupivacaine
+T11	Treatment 1144 1153	clonidine
+T12	Treatment 1238 1259	bupivacaine-fentanyl.

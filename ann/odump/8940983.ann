@@ -1,0 +1,7 @@
+T1	HMM 4 18	immunogenicity
+T2	HMM 136 160	Serum antibody responses
+T3	HMM 691 765	Anti-Hib concentrations were determined by the Farr-type radioimmunoassay.
+T4	HMM 824 882	prevaccination anti-Hib geometric mean concentration (GMC)
+T5	HMM 930 933	GMC
+T6	HMM 1005 1008	GMC
+T7	HMM 1262 1273	immunogenic

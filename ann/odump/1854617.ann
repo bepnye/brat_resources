@@ -1,0 +1,4 @@
+T1	HMM 356 375	event free survival
+T2	HMM 504 526	Methotrexate clearance
+T3	HMM 732 757	rate of leukaemia relapse
+T4	HMM 906 914	survival

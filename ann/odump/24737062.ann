@@ -1,0 +1,8 @@
+T1	HMM 18 43	motor imagery performance
+T2	HMM 72 107	Effective motor imagery performance
+T3	HMM 1034 1037	LDA
+T4	HMM 1068 1126	area under the receiving operating characteristic (AU-ROC)
+T5	HMM 1295 1300	area.
+T6	HMM 1301 1307	AU-ROC
+T7	HMM 1326 1365	no virtual 'most responsible' electrode
+T8	HMM 1451 1463	the EEG data

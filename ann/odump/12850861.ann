@@ -1,0 +1,11 @@
+T1	HMM 117 138	bone turnover markers
+T2	HMM 143 169	incidence of side effects.
+T3	HMM 863 928	side effects, C-telopeptide, osteocalcin and urine hydroxyproline
+T4	HMM 988 1007	pyrosis (heartburn)
+T5	HMM 1099 1106	nausea:
+T6	HMM 1136 1144	headache
+T7	HMM 1175 1188	C-telopeptide
+T8	HMM 1224 1238	hydroxyproline
+T9	HMM 1276 1287	osteocalcin
+T10	HMM 1457 1478	heartburn and nausea.
+T11	HMM 1551 1571	biochemical markers.

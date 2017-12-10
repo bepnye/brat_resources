@@ -1,0 +1,5 @@
+T1	Outcomes 654 663	pneumonia
+T2	Outcomes 733 753	ventilator-free days
+T3	Outcomes 818 847	intensive care unit-free days
+T4	Outcomes 928 1008	rates of acute kidney injury, gastrointestinal hemorrhage, and fracture nonunion
+T5	Outcomes 1151 1161	pneumonia,

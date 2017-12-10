@@ -1,0 +1,12 @@
+Adult
+Aged
+Anticoagulants
+Antifibrinolytic Agents
+Aspirin
+Brain Ischemia
+Cerebrovascular Disorders
+Dipyridamole
+Drug Therapy, Combination
+Humans
+Middle Aged
+Platelet Aggregation Inhibitors

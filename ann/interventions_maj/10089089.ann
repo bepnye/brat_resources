@@ -1,0 +1,12 @@
+T1	Intervention 0 23	Piperacillin/tazobactam
+T2	Intervention 29 39	tobramycin
+T3	Intervention 47 58	ceftazidime
+T4	Intervention 64 74	tobramycin
+T5	Intervention 230 242	piperacillin
+T6	Intervention 247 257	tazobactam
+T7	Intervention 463 474	ceftazidime
+T8	Intervention 501 511	tobramycin
+T9	Intervention 551 563	piperacillin
+T10	Intervention 578 588	tazobactam
+T11	Intervention 623 633	tobramycin
+T12	Intervention 670 680	Vancomycin

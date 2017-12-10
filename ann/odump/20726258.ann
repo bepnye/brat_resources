@@ -1,0 +1,5 @@
+T1	HMM 0 16	[Effect analysis
+T2	HMM 117 144	booster immunization effect
+T3	HMM 780 800	proportion of titers
+T4	HMM 1162 1182	Proportion of titers
+T5	HMM 1375 1394	seroconversion rate

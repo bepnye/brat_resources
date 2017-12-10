@@ -1,0 +1,9 @@
+T1	Treatment 0 13	Immunotherapy
+T2	Treatment 307 375	CROP (cytosine arabinoside, daunorubicin, vincristine, prednisolone)
+T3	Treatment 416 452	(cytosine arabinoside, daunorubicin)
+T4	Treatment 472 488	plus hydroxyurea
+T5	Treatment 610 629	maintenance therapy
+T6	Treatment 656 743	chemo-immunotherapy (BCG plus intradermal leukaemic blast cells) or chemotherapy alone.
+T7	Treatment 831 843	chemotherapy
+T8	Treatment 913 932	chemo-immunotherapy
+T9	Treatment 1237 1251	immunotherapy.

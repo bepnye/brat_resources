@@ -1,0 +1,10 @@
+T1	HMM 0 8	Efficacy
+T2	HMM 13 19	safety
+T3	HMM 204 212	efficacy
+T4	HMM 217 223	safety
+T5	HMM 932 980	HIV-RNA, CD4 cells, and blood chemistry profiles
+T6	HMM 1178 1185	HIV RNA
+T7	HMM 1313 1320	HIV RNA
+T8	HMM 1396 1405	CD4 cells
+T9	HMM 1502 1524	Serious adverse events
+T10	HMM 1670 1688	antiviral activity

@@ -1,0 +1,13 @@
+T1	HMM 68 166	post-heparin lipoprotein lipase, butyrylcholinesterase, blood lipid profile and glucose metabolism
+T2	HMM 334 374	post-heparin lipoprotein lipase (PH-LPL)
+T3	HMM 379 418	butyrylcholinesterase (BChE) activities
+T4	HMM 831 904	plasma glucose, insulin and leptin levels and BChE activity fasting blood
+T5	HMM 919 938	PH-LPL measurements
+T6	HMM 1068 1072	BChE
+T7	HMM 1098 1104	leptin
+T8	HMM 1118 1144	insulin and HOMA-IR levels
+T9	HMM 1157 1201	Exercise with or without CLA supplementation
+T10	HMM 1212 1226	insulin levels
+T11	HMM 1241 1261	insulin sensitivity.
+T12	HMM 1262 1277	PH-LPL activity
+T13	HMM 1633 1637	BChE

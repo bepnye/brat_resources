@@ -1,0 +1,8 @@
+T1	HMM 828 842	mTOR signaling
+T2	HMM 911 955	Mixed muscle fractional synthetic rate (FSR)
+T3	HMM 1002 1053	Muscle protein synthesis and 4E-BP1 phosphorylation
+T4	HMM 1109 1125	Postexercise FSR
+T5	HMM 1259 1272	Increased FSR
+T6	HMM 1347 1366	Akt phosphorylation
+T7	HMM 1499 1521	4E-BP1 phosphorylation
+T8	HMM 1628 1648	eEF2 phosphorylation

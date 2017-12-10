@@ -1,0 +1,7 @@
+T1	HMM 0 10	Durability
+T2	HMM 135 145	durability
+T3	HMM 449 464	median duration
+T4	HMM 543 563	significantly longer
+T5	HMM 805 828	catheter related sepsis
+T6	HMM 927 965	number of infections per catheter days
+T7	HMM 1094 1106	displacement

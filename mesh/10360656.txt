@@ -1,0 +1,17 @@
+Aged
+Antimetabolites, Antineoplastic
+Antineoplastic Agents
+Antineoplastic Combined Chemotherapy Protocols
+Colorectal Neoplasms
+Combined Modality Therapy
+Disease Progression
+Drug Administration Schedule
+Drug Synergism
+Female
+Fluorouracil
+Humans
+Infusions, Intravenous
+Interferon-beta
+Male
+Middle Aged
+Survival Analysis

@@ -1,0 +1,4 @@
+T1	HMM 550 595	Onset and complete spread of sensory blockade
+T2	HMM 1031 1049	duration of action
+T3	HMM 1154 1186	Onset of complete motor blockade
+T4	HMM 1207 1231	degree of motor blockade

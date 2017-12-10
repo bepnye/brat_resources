@@ -1,0 +1,4 @@
+T1	HMM 817 856	improved adherence relative to controls
+T2	HMM 880 900	doses taken in total
+T3	HMM 934 956	correct dose was taken
+T4	HMM 980 1003	doses taken on schedule

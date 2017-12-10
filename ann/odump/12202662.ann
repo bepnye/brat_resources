@@ -1,0 +1,13 @@
+T1	HMM 224 249	time to progression (TTP)
+T2	HMM 578 632	survival, tumor response, safety, and quality of life.
+T3	HMM 944 947	TTP
+T4	HMM 1018 1021	TTP
+T5	HMM 1229 1298	survival, tumor response, duration of response, and time to response.
+T6	HMM 1311 1326	safety benefits
+T7	HMM 1410 1430	stomatitis/mucositis
+T8	HMM 1445 1461	myelosuppression
+T9	HMM 1494 1513	febrile neutropenia
+T10	HMM 1533 1553	documented infection
+T11	HMM 1657 1672	quality of life
+T12	HMM 1795 1804	diarrhea.
+T13	HMM 1867 1871	TTP;

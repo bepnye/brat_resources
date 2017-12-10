@@ -1,0 +1,7 @@
+T1	HMM 527 564	response rate and the median survival
+T2	HMM 589 618	overall response rate (CR+PR)
+T3	HMM 705 720	median survival
+T4	HMM 853 884	Survival curve (Kaplan-meire's)
+T5	HMM 1123 1140	disease-free life
+T6	HMM 1164 1186	Hematologic toxicities
+T7	HMM 1403 1433	immuno-enhancement activities.

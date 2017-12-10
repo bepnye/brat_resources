@@ -1,0 +1,13 @@
+T1	HMM 150 171	activity and toxicity
+T2	HMM 849 863	response rates
+T3	HMM 917 999	Median response duration, time to treatment failure, and time to progression (TTP)
+T4	HMM 1026 1036	Median TTP
+T5	HMM 1135 1141	safety
+T6	HMM 1169 1177	toxicity
+T7	HMM 1199 1211	neutropaenia
+T8	HMM 1280 1292	neutropaenia
+T9	HMM 1304 1348	anaemia, febrile neutropaenia, and diarrhoea
+T10	HMM 1580 1588	activity
+T11	HMM 1593 1601	toxicity
+T12	HMM 1679 1687	activity
+T13	HMM 1749 1758	toxicity.

@@ -1,0 +1,5 @@
+T1	HMM 926 963	activation levels of the hand muscles
+T2	HMM 1193 1216	Elbow muscle activation
+T3	HMM 1257 1290	intrinsic thumb flexor activation
+T4	HMM 1399 1422	elbow muscle activation
+T5	HMM 1445 1496	intermuscular coherence between distal muscle pairs

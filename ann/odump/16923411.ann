@@ -1,0 +1,9 @@
+T1	HMM 43 59	Vascular Outcome
+T2	HMM 217 246	cardiovascular disease (CVD).
+T3	HMM 348 373	total homocysteine (tHcy)
+T4	HMM 552 556	tHcy
+T5	HMM 595 605	CVD events
+T6	HMM 1051 1194	composite of incident or recurrent CVD outcomes, that is, coronary heart, cerebrovascular, or abdominal aortic/lower extremity arterial events.
+T7	HMM 1501 1525	mean (SD) screening tHcy
+T8	HMM 1570 1610	mean (SD) estimated creatinine clearance
+T9	HMM 1755 1783	history of diabetes mellitus

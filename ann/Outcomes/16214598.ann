@@ -1,0 +1,16 @@
+T1	Outcomes 24 44	macrovascular events
+T2	Outcomes 281 302	myocardial infarction
+T3	Outcomes 307 314	stroke.
+T4	Outcomes 434 462	macrovascular complications.
+T5	Outcomes 529 552	macrovascular morbidity
+T6	Outcomes 557 566	mortality
+T7	Outcomes 727 749	macrovascular disease.
+T8	Outcomes 1033 1276	composite of all-cause mortality, non fatal myocardial infarction (including silent myocardial infarction), stroke, acute coronary syndrome, endovascular or surgical intervention in the coronary or leg arteries, and amputation above the ankle.
+T9	Outcomes 1672 1698	primary composite endpoint
+T10	Outcomes 1773 1851	composite of all-cause mortality, non-fatal myocardial infarction, and stroke.
+T11	Outcomes 1933 1941	endpoint
+T12	Outcomes 1970 2001	Overall safety and tolerability
+T13	Outcomes 2033 2047	safety profile
+T14	Outcomes 2208 2257	heart failure; mortality rates from heart failure
+T15	Outcomes 2352 2394	mortality, non-fatal myocardial infarction
+T16	Outcomes 2400 2406	stroke

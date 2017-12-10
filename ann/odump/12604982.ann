@@ -1,0 +1,17 @@
+T1	HMM 36 54	enteric microflora
+T2	HMM 228 240	disease risk
+T3	HMM 396 454	colonize the neonatal gut and modify its microbial ecology
+T4	HMM 869 913	quantitative aerobic and anaerobic cultures.
+T5	HMM 922 952	Colonization with LGG occurred
+T6	HMM 1048 1060	Colonization
+T7	HMM 1236 1253	bacterial species
+T8	HMM 1314 1349	mean log colony forming units (CFU)
+T9	HMM 1519 1589	increase in species number by day 7, with further increases by day 21.
+T10	HMM 1629 1670	increased Gram (+) and anaerobic species.
+T11	HMM 1688 1702	species number
+T12	HMM 1726 1759	Mean log CFU of Gram (-) bacteria
+T13	HMM 1830 1851	Gram (+) mean log CFU
+T14	HMM 1978 2015	species number or quantitative counts
+T15	HMM 2086 2108	LGG was well tolerated
+T16	HMM 2140 2184	neonatal response to a probiotic preparation
+T17	HMM 2405 2447	neonatal intestinal colonization patterns.

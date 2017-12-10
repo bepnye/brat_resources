@@ -1,0 +1,10 @@
+T1	HMM 111 128	hyperphosphatemia
+T2	HMM 650 688	target serum phosphorous concentration
+T3	HMM 711 747	corrected calcium concentration (Ca)
+T4	HMM 949 967	concentration of P
+T5	HMM 1173 1189	Ca concentration
+T6	HMM 1289 1291	Ca
+T7	HMM 1393 1405	Side-effects
+T8	HMM 1580 1595	additive effect
+T9	HMM 1692 1701	tolerated
+T10	HMM 1720 1738	patient compliance

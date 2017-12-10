@@ -1,0 +1,10 @@
+T1	HMM 4 9	costs
+T2	HMM 14 21	effects
+T3	HMM 156 161	costs
+T4	HMM 166 172	impact
+T5	HMM 499 504	Costs
+T6	HMM 525 543	cholesterol levels
+T7	HMM 593 614	total per-person cost
+T8	HMM 677 695	Cholesterol levels
+T9	HMM 860 871	cholesterol
+T10	HMM 964 985	cholesterol reduction

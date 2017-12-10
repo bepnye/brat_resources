@@ -1,0 +1,10 @@
+T1	HMM 39 66	transient renal dysfunction
+T2	HMM 207 222	renal function.
+T3	HMM 306 324	renal hemodynamics
+T4	HMM 740 761	Systemic hemodynamics
+T5	HMM 840 959	effective renal plasma flow (ERPF) (131I-hippuran clearance) and glomerular filtration rate (GFR) (99Tc-DTPA clearance)
+T6	HMM 1189 1204	renal variables
+T7	HMM 1524 1528	ERPF
+T8	HMM 1666 1669	GFR
+T9	HMM 1796 1828	transient renal vasoconstriction
+T10	HMM 1943 1972	renal hemodynamic impairment.

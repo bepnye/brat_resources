@@ -1,0 +1,10 @@
+T1	HMM 0 16	Skin improvement
+T2	HMM 393 414	serum androgen levels
+T3	HMM 830 851	serum androgen levels
+T4	HMM 867 882	skin parameters
+T5	HMM 1080 1132	serum androgen levels, grading of acne and hirsutism
+T6	HMM 1194 1290	non-invasive assessment of skin hydration, transepidermal water loss (TEWL) and skin homogeneity
+T7	HMM 1441 1469	skin and hormonal parameters
+T8	HMM 1519 1538	acne and seborrhea.
+T9	HMM 1580 1608	effective and safe treatment
+T10	HMM 1737 1763	potent therapeutic option.

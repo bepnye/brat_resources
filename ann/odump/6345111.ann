@@ -1,0 +1,6 @@
+T1	HMM 844 880	frequency and severity of heartburn.
+T2	HMM 885 912	time to reproduce heartburn
+T3	HMM 1206 1227	degree of esophagitis
+T4	HMM 1363 1393	symptomatic reflux esophagitis
+T5	HMM 1540 1589	natural history of symptomatic reflux esophagitis
+T6	HMM 1715 1746	natural history of the disease.

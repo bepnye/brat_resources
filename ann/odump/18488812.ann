@@ -1,0 +1,6 @@
+T1	HMM 174 201	comparative bioavailability
+T2	HMM 953 976	limit of quantification
+T3	HMM 1027 1105	geometric mean and 90% confidence interval CI of test/reference percent ratios
+T4	HMM 1218 1224	C(max)
+T5	HMM 1336 1345	AUC(last)
+T6	HMM 1350 1363	C(max) ratios

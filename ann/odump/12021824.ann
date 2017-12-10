@@ -1,0 +1,7 @@
+T1	HMM 621 641	saliva concentration
+T2	HMM 680 745	caffeine responses and levels of saliva concentration of caffeine
+T3	HMM 1101 1192	(systolic blood pressure, heart rate, hand steadiness, reaction time, fatigue, and tension)
+T4	HMM 1259 1277	caffeine response.
+T5	HMM 1325 1345	saliva concentration
+T6	HMM 1449 1483	diastolic blood pressure and vigor
+T7	HMM 1532 1568	hand steadiness impairment and vigor

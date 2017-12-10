@@ -1,0 +1,9 @@
+T1	HMM 119 146	superficial bladder cancer]
+T2	HMM 291 351	transurethral resection (TUR) of superficial bladder cancer.
+T3	HMM 723 743	non-recurrence rates
+T4	HMM 874 920	Time to recurrence for tumors larger than 1 cm
+T5	HMM 977 1027	Time to recurrence for single and grade 1+2 tumors
+T6	HMM 1103 1118	adverse effects
+T7	HMM 1227 1236	effective
+T8	HMM 1255 1297	single, low grade lesions larger than 1 cm
+T9	HMM 1301 1328	superficial bladder cancer.

@@ -1,0 +1,13 @@
+T1	HMM 93 97	pain
+T2	HMM 342 346	pain
+T3	HMM 406 410	pain
+T4	HMM 648 652	pain
+T5	HMM 796 825	visualization of lymph nodes.
+T6	HMM 1243 1317	rate their pain levels, using the National Institutes of Health pain scale
+T7	HMM 1382 1410	change in pain from baseline
+T8	HMM 1527 1568	number of axillary lymph nodes visualized
+T9	HMM 1644 1657	baseline pain
+T10	HMM 1776 1792	increase in pain
+T11	HMM 1935 1959	detection of lymph nodes
+T12	HMM 2207 2219	patient pain
+T13	HMM 2245 2270	lymph node visualization.

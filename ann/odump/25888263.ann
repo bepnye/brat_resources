@@ -1,0 +1,26 @@
+T1	HMM 26 91	health-related quality of life, pain, and skeletal-related events
+T2	HMM 318 334	overall survival
+T3	HMM 339 377	radiographic progression-free survival
+T4	HMM 586 659	health-related quality of life (HRQoL), pain, and skeletal-related events
+T5	HMM 841 846	HRQoL
+T6	HMM 987 998	Pain status
+T7	HMM 1066 1107	Brief Pain Inventory Short Form (BPI-SF).
+T8	HMM 1112 1142	primary analysis of HRQoL data
+T9	HMM 1265 1354	change from baseline, percentage improvement, and time to deterioration in HRQoL and pain
+T10	HMM 1360 1412	proportion of patients with a skeletal-related event
+T11	HMM 1418 1455	time to first skeletal-related event.
+T12	HMM 1591 1616	Median treatment duration
+T13	HMM 1768 1801	significant treatment differences
+T14	HMM 1893 1935	endpoints and EQ-5D visual analogue scale.
+T15	HMM 1936 1980	Median time to deterioration in FACT-P total
+T16	HMM 2290 2312	improvements in FACT-P
+T17	HMM 2350 2373	[23%] of 790), in EQ-5D
+T18	HMM 2412 2437	[16%] of 623), and visual
+T19	HMM 2487 2507	603; all p<0·0001).
+T20	HMM 2508 2534	Median time to progression
+T21	HMM 2688 2715	CI 0·53-0·74]; p<0·0001)
+T22	HMM 3038 3067	placebo group had experienced
+T23	HMM 3070 3108	skeletal-related event by data cutoff.
+T24	HMM 3109 3129	Median time to first
+T25	HMM 3333 3359	INTERPRETATION In addition
+T26	HMM 3411 3493	enzalutamide significantly improves patient-related outcomes and delays occurrence
