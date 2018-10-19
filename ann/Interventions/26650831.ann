@@ -1,0 +1,6 @@
+T1	Intervention 0 10	Ultrasound
+T2	Intervention 34 60	magnetic resonance imaging
+T3	Intervention 225 282	primary breast tumour post-neoadjuvant chemotherapy (NAC)
+T4	Intervention 439 491	magnetic resonance imaging (MRI) and ultrasound (US)
+T5	Intervention 676 679	MRI
+T6	Intervention 689 691	US

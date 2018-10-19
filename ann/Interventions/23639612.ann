@@ -1,0 +1,5 @@
+T1	Intervention 0 21	Galactomannan and PCR
+T2	Intervention 697 709	chemotherapy
+T3	Intervention 874 902	standard diagnostic strategy
+T4	Intervention 941 1012	biomarker-based diagnostic strategy (aspergillus galactomannan and PCR)
+T5	Intervention 2540 2570	empirical antifungal treatment

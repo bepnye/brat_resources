@@ -1,0 +1,7 @@
+T0	Interventions 18 56	adaptive low-pass filtered speech test
+T1	Interventions 210 239	low-pass filtered speech test
+T2	Interventions 729 734	LPFST
+T3	Interventions 1252 1540	The University of Canterbury Adaptive Speech Test (UCAST) platform was used to administer a four-alternative forced-choice adaptive test that altered a low-pass filter (LPF) to track the corner frequency at which participants correctly identified a certain percentage of the word stimuli.
+T4	Interventions 1739 1747	UCAST-FW
+T5	Interventions 1793 1801	UCAST-FW
+T6	Interventions 1917 1925	UCAST-FW

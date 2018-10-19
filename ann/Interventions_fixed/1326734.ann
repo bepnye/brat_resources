@@ -1,0 +1,6 @@
+T0	Interventions 39 57	4'-epi-doxorubicin
+T1	Interventions 60 76	cyclophosphamide
+T2	Interventions 94 124	4'-epi-doxorubicin + cisplatin
+T3	Interventions 390 410	high-dose epirubicin
+T4	Interventions 450 466	cyclophosphamide
+T5	Interventions 489 498	cisplatin

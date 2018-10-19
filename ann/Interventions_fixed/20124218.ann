@@ -1,0 +1,7 @@
+T0	Interventions 0 21	Oral 6-mercaptopurine
+T1	Interventions 29 47	oral 6-thioguanine
+T2	Interventions 273 413	substitution of oral 6-thioguanine (TG) for 6-mercaptopurine (MP) and triple intrathecal therapy (ITT) for intrathecal methotrexate (IT-MTX)
+T3	Interventions 546 548	MP
+T4	Interventions 560 565	or TG
+T5	Interventions 577 587	and IT-MTX
+T6	Interventions 599 605	or ITT

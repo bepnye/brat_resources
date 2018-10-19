@@ -1,0 +1,5 @@
+T1	Intervention 27 49	induction chemotherapy
+T2	Intervention 57 116	induction chemotherapy followed by maintenance chemotherapy
+T3	Intervention 364 373	etoposide
+T4	Intervention 406 415	vindesine
+T5	Intervention 549 649	induction chemotherapy with ifosfamide, etoposide, and an anthracycline (doxorubicin or epirubicin).

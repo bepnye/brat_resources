@@ -1,0 +1,13 @@
+T0	Interventions 16 38	panitumumab (Vectibix)
+T1	Interventions 206 228	panitumumab (Vectibix;
+T2	Interventions 414 495	fluoropyrimidine-, oxaliplatin-, and irinotecan-containing chemotherapy regimens.
+T3	Interventions 684 695	panitumumab
+T4	Interventions 728 785	chemotherapy and bevacizumab with and without panitumumab
+T5	Interventions 1012 1023	panitumumab
+T6	Interventions 1044 1072	bevacizumab and chemotherapy
+T7	Interventions 1199 1234	bevacizumab and chemotherapy alone.
+T8	Interventions 1363 1374	panitumumab
+T9	Interventions 1454 1473	panitumumab-treated
+T10	Interventions 1652 1695	panitumumab to bevacizumab and chemotherapy
+T11	Interventions 1788 1823	bevacizumab and chemotherapy alone.
+T12	Interventions 1835 1846	panitumumab

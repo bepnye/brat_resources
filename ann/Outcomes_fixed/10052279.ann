@@ -1,0 +1,10 @@
+T0	Outcomes 855 1025	Pre-operative and post-operative peak expiratory flow rate, inspiratory capacity, post-operative ventilation time, post-operative pulmonary complication and hospital stay
+T1	Outcomes 1062 1087	Peak expiratory flow rate
+T2	Outcomes 1186 1206	inspiratory capacity
+T3	Outcomes 1453 1611	rise in post-operative peak expiratory flow rate and inspiratory capacity after surgery, the post-operative peak expiratory flow rate and inspiratory capacity
+T4	Outcomes 1682 1713	post-operative ventilation time
+T5	Outcomes 1737 1765	post-operative complications
+T6	Outcomes 1778 1791	hospital stay
+T7	Outcomes 1980 1988	feasible
+T8	Outcomes 1993 2002	effective
+T9	Outcomes 2077 2120	surgical morbidity and cost of medical care

@@ -1,0 +1,10 @@
+T1	Intervention 10 45	alpha-7 nicotinic neurotransmission
+T2	Intervention 91 151	Alpha7 nicotinic acetylcholine receptor (α7 nAChR) agonists
+T3	Intervention 343 363	combined CDP-choline
+T4	Intervention 413 505	with galantamine, a positive allosteric modulator (PAM) of nicotinic acetylcholine receptors
+T5	Intervention 693 738	comparing galantamine/CDP-choline to placebos
+T6	Intervention 862 898	received galantamine and CDP-choline
+T7	Intervention 902 919	matching placebos
+T8	Intervention 1504 1531	for galantamine/CDP-choline
+T9	Intervention 1552 1563	for placebo
+T10	Intervention 1774 1799	of α7 nAChR agonist/PAMs

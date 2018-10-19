@@ -1,0 +1,10 @@
+T0	Interventions 22 53	active pectoral pulse generator
+T1	Interventions 322 360	active pectoral electrode (active can)
+T2	Interventions 462 481	active pectoral can
+T3	Interventions 588 626	comparison of two shock configurations
+T4	Interventions 690 777	dual-coil transvenous defibrillation lead with a left pectoral pulse generator emulator
+T5	Interventions 820 961	right ventricular coil and proximal atrial coil (lead) or between the right ventricular coil and an active can in common with the atrial coil
+T6	Interventions 1069 1079	active can
+T7	Interventions 1140 1150	active can
+T8	Interventions 1334 1344	active can
+T9	Interventions 1599 1624	active pectoral electrode

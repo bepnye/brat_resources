@@ -1,0 +1,17 @@
+T0	Outcomes 310 316	safety
+T1	Outcomes 325 339	immunogenicity
+T2	Outcomes 669 675	Safety
+T3	Outcomes 719 766	Varicella-zoster virus (VZV) antibody responses
+T4	Outcomes 875 922	VZV antibody geometric mean titer (GMT; day 28)
+T5	Outcomes 928 980	VZV antibody geometric mean rise (GMR; days 1 to 28)
+T6	Outcomes 990 1052	incidence of vaccine-related serious adverse experiences (AEs)
+T7	Outcomes 1144 1148	GMTs
+T8	Outcomes 1203 1268	estimated GMT ratio (refrigerated formulation/frozen formulation)
+T9	Outcomes 1323 1327	GMRs
+T10	Outcomes 1369 1396	vaccine-related serious AEs
+T11	Outcomes 1436 1451	safety profiles
+T12	Outcomes 1500 1533	frequencies of injection-site AEs
+T13	Outcomes 1670 1697	frequencies of systemic AEs
+T14	Outcomes 1743 1762	vaccine-related AEs
+T15	Outcomes 1867 1881	safety profile
+T16	Outcomes 1892 1903	immunogenic

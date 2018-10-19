@@ -1,0 +1,5 @@
+T0	Outcomes 20 34	recovery times
+T1	Outcomes 429 457	recovery and discharge times
+T2	Outcomes 894 951	time to emergence and time to meeting discharge criteria.
+T3	Outcomes 1111 1186	intraoperative vital signs and postoperative emesis and opioid requirements
+T4	Outcomes 1323 1337	discharge time

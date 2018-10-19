@@ -1,0 +1,11 @@
+T0	Outcomes 705 757	mean arterial pressure, systemic vascular resistance
+T1	Outcomes 776 834	heart rate, cardiac index, and norepinephrine requirement.
+T2	Outcomes 850 872	plasma nitrite/nitrate
+T3	Outcomes 897 919	nitric oxide formation
+T4	Outcomes 942 975	reduction of vasopressor support.
+T5	Outcomes 980 1224	inflammatory response (interleukin-6 and interleukin-8), endothelial (soluble E-selectin) and neutrophil activation (expression of CD11b, CD64), and antiinflammatory response (soluble tumor necrosis factor receptors I and II and interleukin-10)
+T6	Outcomes 1273 1310	human leukocyte antigen-DR expression
+T7	Outcomes 1348 1421	in vitro phagocytosis and the monocyte-activating cytokine interleukin-12
+T8	Outcomes 1467 1511	hemodynamic and immunologic rebound effects.
+T9	Outcomes 1559 1580	hemodynamic stability
+T10	Outcomes 1614 1644	immunologic response to stress

@@ -1,0 +1,14 @@
+T0	Interventions 20 60	transcatheter arterial chemoembolization
+T1	Interventions 75 117	high intensity focused ultrasound ablation
+T2	Interventions 216 263	transcatheter arterial chemoembolization (TACE)
+T3	Interventions 278 318	high intensity focused ultrasound (HIFU)
+T4	Interventions 454 619	2 age, tumor size, TNM stages, and liver function grade-matched groups: TACE group (n=30) undergoing TACE and TACE+HIFU group (n=38) undergoing 2-3 weeks after TACE.
+T5	Interventions 1003 1012	TACE+HIFU
+T6	Interventions 1105 1114	TACE+HIFU
+T7	Interventions 1119 1123	TACE
+T8	Interventions 1206 1210	TACE
+T9	Interventions 1301 1310	TACE+HIFU
+T10	Interventions 1373 1377	TACE
+T11	Interventions 1437 1446	TACE+HIFU
+T12	Interventions 1506 1510	TACE
+T13	Interventions 1567 1571	TACE

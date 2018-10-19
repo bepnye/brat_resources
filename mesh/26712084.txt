@@ -1,0 +1,19 @@
+Adult
+Aged
+Antibodies, Monoclonal, Humanized
+Antineoplastic Agents
+B7-H1 Antigen
+Carcinoma, Non-Small-Cell Lung
+Disease-Free Survival
+Drug Administration Schedule
+Female
+Gene Expression Regulation, Neoplastic
+Humans
+Kaplan-Meier Estimate
+Lung Neoplasms
+Male
+Middle Aged
+Molecular Targeted Therapy
+Patient Selection
+Taxoids
+Treatment Outcome

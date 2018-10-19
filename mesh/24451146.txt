@@ -1,0 +1,11 @@
+Antineoplastic Agents, Hormonal
+Biomarkers, Tumor
+Breast Neoplasms
+Disease-Free Survival
+Female
+Humans
+Middle Aged
+Neoplasm Recurrence, Local
+Octreotide
+Osteopontin
+Tamoxifen

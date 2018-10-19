@@ -1,0 +1,11 @@
+T0	Outcomes 0 15	Pharmacokinetic
+T1	Outcomes 210 239	steady-state pharmacokinetics
+T2	Outcomes 437 469	amprenavir plasma concentrations
+T3	Outcomes 543 583	concentration-time curve at steady state
+T4	Outcomes 606 647	peak plasma concentration at steady state
+T5	Outcomes 742 779	amprenavir minimum drug concentration
+T6	Outcomes 836 843	AUC(ss)
+T7	Outcomes 847 857	C(max,ss).
+T8	Outcomes 884 913	steady-state pharmacokinetics
+T9	Outcomes 1012 1082	Concentrations of indinavir, coadministered with amprenavir, in plasma
+T10	Outcomes 1169 1208	steady-state pharmacokinetic parameters

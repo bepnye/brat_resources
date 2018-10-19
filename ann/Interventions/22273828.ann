@@ -1,0 +1,10 @@
+T1	Intervention 39 49	ramosetron
+T2	Intervention 54 87	combined ramosetron and midazolam
+T3	Intervention 305 328	midazolam to ramosetron
+T4	Intervention 699 717	strabismus surgery
+T5	Intervention 776 816	ramosetron or ramosetron with midazolam.
+T6	Intervention 855 911	ramosetron 6 μg kg or ramosetron 6 μg kg and midazolam
+T7	Intervention 1352 1387	the ramosetron with midazolam group
+T8	Intervention 1400 1430	Adding midazolam to ramosetron
+T9	Intervention 1449 1464	over ramosetron
+T10	Intervention 1546 1575	undergoing strabismus surgery

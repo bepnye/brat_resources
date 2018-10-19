@@ -1,0 +1,11 @@
+T0	Outcomes 344 360	overall survival
+T1	Outcomes 818 835	overall survival;
+T2	Outcomes 866 971	6-month and 1-year survival rates, progression-free survival, response rate, safety, and quality of life.
+T3	Outcomes 1149 1168	survival parameters
+T4	Outcomes 1188 1211	median overall survival
+T5	Outcomes 1286 1319	6-month and 1-year survival rates
+T6	Outcomes 1386 1418	median progression-free survival
+T7	Outcomes 1463 1482	drug-related deaths
+T8	Outcomes 1553 1600	Neutropenia and thrombocytopenia grade > or = 3
+T9	Outcomes 1707 1736	nonhematologic adverse events
+T10	Outcomes 1878 1894	overall survival

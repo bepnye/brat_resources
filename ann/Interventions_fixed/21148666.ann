@@ -1,0 +1,8 @@
+T0	Interventions 22 38	ablation surgery
+T1	Interventions 178 199	ablation surgery (AS)
+T2	Interventions 220 235	cardiac surgery
+T3	Interventions 483 547	randomly assigned to undergo cardiac surgery with or without AS.
+T4	Interventions 605 623	cost-effectiveness
+T5	Interventions 826 828	AS
+T6	Interventions 1270 1281	probability
+T7	Interventions 1385 1396	concomitant

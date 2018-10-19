@@ -1,0 +1,10 @@
+T0	Interventions 15 36	sotalol and magnesium
+T1	Interventions 229 242	Sotalol alone
+T2	Interventions 247 262	magnesium alone
+T3	Interventions 416 439	alone or in combination
+T4	Interventions 593 606	sotalol alone
+T5	Interventions 706 721	magnesium alone
+T6	Interventions 824 869	both pharmacologic agents at the same dosages
+T7	Interventions 883 910	or no antiarrhythmic agents
+T8	Interventions 1491 1498	sotalol
+T9	Interventions 1509 1518	magnesium

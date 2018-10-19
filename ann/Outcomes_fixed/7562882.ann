@@ -1,0 +1,14 @@
+T0	Outcomes 35 49	insulin action
+T1	Outcomes 499 526	whole body glucose disposal
+T2	Outcomes 531 551	substrate oxidation.
+T3	Outcomes 552 559	Changes
+T4	Outcomes 563 582	morning SBP and DBP
+T5	Outcomes 651 678	whole body glucose disposal
+T6	Outcomes 741 773	non-oxidative glucose metabolism
+T7	Outcomes 839 870	fasting plasma potassium levels
+T8	Outcomes 917 920	SBP
+T9	Outcomes 972 975	DBP
+T10	Outcomes 1101 1132	fasting plasma potassium levels
+T11	Outcomes 1153 1180	decline in mean arterial BP
+T12	Outcomes 1254 1265	arterial BP
+T13	Outcomes 1270 1298	improves insulin sensitivity

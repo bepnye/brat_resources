@@ -1,7 +1,0 @@
-T1	Treatment 28 69	haptic decomposition of complex movements
-T2	Treatment 78 108	robot-assisted motor learning.
-T3	Treatment 110 139	Training with haptic guidance
-T4	Treatment 422 464	haptic feedback from a robotic exoskeleton
-T5	Treatment 701 1041	elbow flexion/extension and the unified shoulder motion independently ("anatomical" decomposition), 2) three component shoulder motions in Euler coordinates and elbow flexion/extension ("Euler" decomposition), or 3) the motion of the tip of the elbow and motion of the hand with respect to the elbow, independently ("visual" decomposition).
-T6	Treatment 1087 1136	movements, but experienced the target motion only
-T7	Treatment 1406 1444	simpler, anatomically-isolated motions

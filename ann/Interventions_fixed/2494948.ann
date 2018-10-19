@@ -1,0 +1,14 @@
+T0	Interventions 0 22	[Mitomycin C plus HCFU
+T1	Interventions 258 279	adjuvant chemotherapy
+T2	Interventions 290 327	mitomycin C (MMC) and carmofur (HCFU)
+T3	Interventions 907 910	MMC
+T4	Interventions 964 967	MMC
+T5	Interventions 1111 1127	MMC + HCFU group
+T6	Interventions 1207 1211	HCFU
+T7	Interventions 1339 1349	MMC + HCFU
+T8	Interventions 1368 1376	MMC only
+T9	Interventions 1582 1592	MMC + HCFU
+T10	Interventions 1625 1628	MMC
+T11	Interventions 1707 1711	HCFU
+T12	Interventions 1760 1763	MMC
+T13	Interventions 1768 1772	HCFU

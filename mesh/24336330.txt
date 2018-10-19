@@ -1,0 +1,27 @@
+Animals
+Biomarkers, Tumor
+Breast Neoplasms
+Cell Differentiation
+Cell Proliferation
+Cell Survival
+Disease-Free Survival
+Female
+Fibroblasts
+Gene Expression Regulation, Neoplastic
+HEK293 Cells
+Humans
+MCF-7 Cells
+Mice
+Mice, Nude
+Neoplasm Transplantation
+Phosphorylation
+Predictive Value of Tests
+Premenopause
+Prognosis
+Proportional Hazards Models
+Protein-Serine-Threonine Kinases
+Receptors, Transforming Growth Factor beta
+Signal Transduction
+Tamoxifen
+Transforming Growth Factor beta
+Transforming Growth Factor beta1

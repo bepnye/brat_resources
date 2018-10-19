@@ -1,0 +1,6 @@
+T1	Intervention 0 16	Mask ventilation
+T2	Intervention 288 297	face mask
+T3	Intervention 545 597	round face masks (Fisher & Paykel (F&P) and Laerdal)
+T4	Intervention 789 797	mask PPV
+T5	Intervention 939 982	PPV with either a F&P or Laerdal face mask.
+T6	Intervention 1378 1426	randomized to the F&P face mask and Laerdal face

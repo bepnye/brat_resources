@@ -1,0 +1,13 @@
+T0	Interventions 14 75	intermittent or continuous methotrexate plus 6-mercaptopurine
+T1	Interventions 460 519	prednisone (PRD) plus vincristine (VCR) or vindesine (VDS).
+T2	Interventions 584 609	18 Gy cranial irradiation
+T3	Interventions 629 659	intrathecal methotrexate (MTX)
+T4	Interventions 807 810	PRD
+T5	Interventions 847 874	plus 6-mercaptopurine (6MP)
+T6	Interventions 911 924	plus VCR (2.0
+T7	Interventions 946 975	alternating biweekly with MTX
+T8	Interventions 1047 1050	6MP
+T9	Interventions 1075 1083	plus MTX
+T10	Interventions 1109 1144	combined with pulses of PRD and VCR
+T11	Interventions 1261 1264	MTX
+T12	Interventions 2062 2065	MTX

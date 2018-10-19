@@ -1,0 +1,19 @@
+T0	Interventions 53 62	ketorolac
+T1	Interventions 71 78	placebo
+T2	Interventions 201 210	ketorolac
+T3	Interventions 225 232	placebo
+T4	Interventions 251 291	electromotive drug administration (EMDA)
+T5	Interventions 341 345	EMDA
+T6	Interventions 473 477	EMDA
+T7	Interventions 919 939	(30 mg of ketorolac)
+T8	Interventions 943 974	placebo (5 mL of normal saline)
+T9	Interventions 1553 1562	ketorolac
+T10	Interventions 1567 1574	placebo
+T11	Interventions 1637 1641	EMDA
+T12	Interventions 1677 1686	ketorolac
+T13	Interventions 1767 1774	placebo
+T14	Interventions 1935 1950	placebo-treated
+T15	Interventions 2010 2027	ketorolac-treated
+T16	Interventions 2122 2131	ketorolac
+T17	Interventions 2164 2168	EMDA
+T18	Interventions 2217 2225	placebo.

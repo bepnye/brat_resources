@@ -1,0 +1,6 @@
+T1	Intervention 127 135	diuresis
+T2	Intervention 143 186	extracorporeal shockwave lithotripsy (ESWL)
+T3	Intervention 406 410	ESWL
+T4	Intervention 417 445	Siemens Lithostar 2 machine.
+T5	Intervention 534 547	standard ESWL
+T6	Intervention 606 649	ESWL with diuresis during the ESWL session.

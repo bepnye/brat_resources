@@ -1,0 +1,11 @@
+T0	Outcomes 413 462	response rate or the clinical benefit rate (CBR).
+T1	Outcomes 463 494	Pharmacokinetics and toxicities
+T2	Outcomes 621 635	Tumor response
+T3	Outcomes 691 701	Toxicities
+T4	Outcomes 800 820	Pharmacokinetic data
+T5	Outcomes 907 921	Response rates
+T6	Outcomes 1088 1091	CBR
+T7	Outcomes 1277 1297	drug-related deaths.
+T8	Outcomes 1312 1346	steady-state plasma concentrations
+T9	Outcomes 1481 1489	efficacy
+T10	Outcomes 1493 1499	safety

@@ -1,0 +1,11 @@
+T0	Outcomes 0 30	Pharmacokinetics and tolerance
+T1	Outcomes 187 196	tolerance
+T2	Outcomes 543 573	Serial blood and urine samples
+T3	Outcomes 676 700	pharmacokinetic analyses
+T4	Outcomes 761 837	Plasma linezolid concentrations and area under the concentration-time curves
+T5	Outcomes 918 949	Plasma linezolid concentrations
+T6	Outcomes 1065 1117	Mean clearance, half-life and volume of distribution
+T7	Outcomes 1213 1222	tolerated
+T8	Outcomes 1231 1271	frequency of drug-related adverse events
+T9	Outcomes 1377 1400	linear pharmacokinetics
+T10	Outcomes 1442 1454	target MIC90

@@ -1,6 +1,0 @@
-T1	Treatment 0 8	Afatinib
-T2	Treatment 16 44	cisplatin-based chemotherapy
-T3	Treatment 237 245	afatinib
-T4	Treatment 523 533	LUX-Lung 3
-T5	Treatment 546 556	LUX-Lung 6
-T6	Treatment 586 842	randomly assigned in a 2:1 ratio to receive afatinib or chemotherapy (pemetrexed-cisplatin [LUX-Lung 3] or gemcitabine-cisplatin [LUX-Lung 6]), stratified by EGFR mutation (exon 19 deletion [del19], Leu858Arg, or other) and ethnic origin (LUX-Lung 3 only).

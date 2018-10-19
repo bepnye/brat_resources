@@ -1,0 +1,23 @@
+Adenoviridae
+Adult
+Aged
+Antineoplastic Agents
+Antineoplastic Combined Chemotherapy Protocols
+Carcinoma, Squamous Cell
+Cisplatin
+Combined Modality Therapy
+Endostatins
+Genetic Therapy
+Genetic Vectors
+Head and Neck Neoplasms
+Humans
+Male
+Middle Aged
+Nasopharyngeal Neoplasms
+Neoplasm Metastasis
+Neoplasm Recurrence, Local
+Paclitaxel
+Recombinant Proteins
+Survival Analysis
+Treatment Outcome
+Young Adult

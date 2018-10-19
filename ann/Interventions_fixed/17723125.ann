@@ -1,0 +1,18 @@
+T0	Interventions 0 61	Fondaparinux combined with intermittent pneumatic compression
+T1	Interventions 66 106	intermittent pneumatic compression alone
+T2	Interventions 430 497	fondaparinux in conjunction with intermittent pneumatic compression
+T3	Interventions 502 542	intermittent pneumatic compression alone
+T4	Interventions 618 636	placebo-controlled
+T5	Interventions 751 763	fondaparinux
+T6	Interventions 774 781	placebo
+T7	Interventions 855 890	intermittent pneumatic compression.
+T8	Interventions 1195 1215	fondaparinux-treated
+T9	Interventions 1250 1265	placebo-treated
+T10	Interventions 1351 1363	Fondaparinux
+T11	Interventions 1530 1550	fondaparinux-treated
+T12	Interventions 1555 1570	placebo-treated
+T13	Interventions 1698 1710	fondaparinux
+T14	Interventions 1737 1744	placebo
+T15	Interventions 1822 1870	intermittent pneumatic compression, fondaparinux
+T16	Interventions 1942 1969	pneumatic compression alone
+T17	Interventions 2011 2019	placebo.

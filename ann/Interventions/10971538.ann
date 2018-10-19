@@ -1,0 +1,9 @@
+T1	Intervention 0 25	Uvulopalatopharyngoplasty
+T2	Intervention 33 65	laser assisted uvulopalatoplasty
+T3	Intervention 265 310	conventional uvulopalatopharyngoplasty (UPPP)
+T4	Intervention 315 354	laser assisted uvulopalatoplasty (LAUP)
+T5	Intervention 506 519	UPPP or LAUP.
+T6	Intervention 965 969	LAUP
+T7	Intervention 977 982	UPPP.
+T8	Intervention 1171 1175	LAUP
+T9	Intervention 1180 1184	UPPP

@@ -1,0 +1,5 @@
+T1	Intervention 0 13	Immunotherapy
+T2	Intervention 20 23	BCG
+T3	Intervention 232 250	chemotherapy alone
+T4	Intervention 264 320	chemotherapy plus Bacille Calmette-Guérin vaccine (BCG)
+T5	Intervention 1415 1421	of BCG

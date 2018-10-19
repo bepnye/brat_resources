@@ -1,0 +1,16 @@
+T0	Outcomes 0 36	VLDL, apolipoproteins B, CIII, and E
+T1	Outcomes 50 75	recurrent coronary events
+T2	Outcomes 699 718	VLDL-apolipoprotein
+T3	Outcomes 725 773	B (the VLDL particle concentration), VLDL lipids
+T4	Outcomes 779 818	apoCIII and apoE in VLDL+LDL and in HDL
+T5	Outcomes 1031 1123	VLDL-cholesterol, VLDL-triglyceride, VLDL-apoB, apoCIII and apoE in VLDL+LDL and apoE in HDL
+T6	Outcomes 1258 1267	VLDL-apoB
+T7	Outcomes 1335 1354	apoCIII in VLDL+LDL
+T8	Outcomes 1378 1389	apoE in HDL
+T9	Outcomes 1409 1429	Plasma triglycerides
+T10	Outcomes 1457 1472	coronary events
+T11	Outcomes 1511 1526	coronary events
+T12	Outcomes 1549 1568	apoCIII in VLDL+LDL
+T13	Outcomes 1604 1611	apoCIII
+T14	Outcomes 1649 1673	LDL- and HDL-cholesterol
+T15	Outcomes 1745 1787	VLDL particles and apoCIII in VLDL and LDL

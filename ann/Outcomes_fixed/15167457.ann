@@ -1,0 +1,12 @@
+T0	Outcomes 218 243	decreasing blood pressure
+T1	Outcomes 308 348	ambulatory blood pressure (ABP) response
+T2	Outcomes 462 477	characteristics
+T3	Outcomes 494 513	treatment efficacy.
+T4	Outcomes 794 806	ABP response
+T5	Outcomes 920 959	daytime systolic/diastolic ABP response
+T6	Outcomes 1104 1112	response
+T7	Outcomes 1219 1257	night-time systolic/diastolic response
+T8	Outcomes 1518 1573	gender is an independent predictor of the ABP responses
+T9	Outcomes 1646 1662	responded better
+T10	Outcomes 1683 1703	Men responded better
+T11	Outcomes 1727 1752	women responded similarly

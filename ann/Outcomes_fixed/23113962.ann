@@ -1,0 +1,7 @@
+T0	Outcomes 45 102	unidimensional, bidimensional and volumetric measurements
+T1	Outcomes 146 254	magnitude of differences in tumour unidimensional (1D), bidimensional (2D) and volumetric (VOL) measurements
+T2	Outcomes 708 722	1D, 2D and VOL
+T3	Outcomes 921 937	Lesion diameters
+T4	Outcomes 1236 1243	For VOL
+T5	Outcomes 1283 1332	between measurements on different slice intervals
+T6	Outcomes 1447 1484	different 1D, 2D and VOL measurements

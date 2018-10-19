@@ -1,0 +1,5 @@
+T0	Interventions 606 655	treated with either medication or trabeculectomy.
+T1	Interventions 811 951	treated aggressively in an effort to reduce intraocular pressure (IOP) to a level at or below a predetermined, eye-specific target pressure.
+T2	Interventions 952 1021	Visual field progression was analyzed using repeated measures models.
+T3	Interventions 1738 1753	Initial surgery
+T4	Interventions 1786 1802	initial medicine

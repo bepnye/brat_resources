@@ -1,0 +1,15 @@
+T0	Outcomes 0 6	Safety
+T1	Outcomes 978 1001	safety and tolerability
+T2	Outcomes 1518 1534	Serum creatinine
+T3	Outcomes 1703 1718	Serum potassium
+T4	Outcomes 1949 1963	blood pressure
+T5	Outcomes 2022 2060	seated diastolic blood pressure (SDBP)
+T6	Outcomes 2065 2102	seated systolic blood pressure (SSBP)
+T7	Outcomes 2292 2304	proteinuria.
+T8	Outcomes 2309 2333	total number of patients
+T9	Outcomes 2339 2358	adverse experiences
+T10	Outcomes 2498 2518	adverse experiences.
+T11	Outcomes 2610 2623	hyperkalaemia
+T12	Outcomes 2690 2747	serum creatinine, acute renal failure or hospitalization.
+T13	Outcomes 2896 2900	safe
+T14	Outcomes 2905 2919	well tolerated

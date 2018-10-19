@@ -1,0 +1,9 @@
+T0	Outcomes 707 732	Cumulative amount of i.v.
+T1	Outcomes 733 768	morphine used in the first 24 hours
+T2	Outcomes 784 830	amount of the drug used during each 2-h period
+T3	Outcomes 954 979	mean cumulative 24-h i.v.
+T4	Outcomes 980 1004	PCA morphine requirement
+T5	Outcomes 1159 1172	less morphine
+T6	Outcomes 1282 1294	maximum i.v.
+T7	Outcomes 1295 1311	PCA morphine use
+T8	Outcomes 1392 1410	Analgesic efficacy

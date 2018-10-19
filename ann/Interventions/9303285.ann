@@ -1,0 +1,17 @@
+T1	Intervention 53 72	rocuronium infusion
+T2	Intervention 80 102	propofol-nitrous oxide
+T3	Intervention 107 144	isoflurane-nitrous oxide anaesthesia.
+T4	Intervention 203 222	rocuronium infusion
+T5	Intervention 272 344	propofol-nitrous oxide and isoflurane (1 MAC)-nitrous oxide anaesthesia.
+T6	Intervention 424 456	closed-loop feedback controller.
+T7	Intervention 474 509	steady-state infusion of rocuronium
+T8	Intervention 548 575	corresponding concentration
+T9	Intervention 619 628	propofol.
+T10	Intervention 646 668	corresponding infusion
+T11	Intervention 775 785	isoflurane
+T12	Intervention 942 952	rocuronium
+T13	Intervention 995 1005	rocuronium
+T14	Intervention 1059 1071	anaesthesia;
+T15	Intervention 1145 1153	propofol
+T16	Intervention 1158 1180	isoflurane anaesthesia
+T17	Intervention 1261 1271	rocuronium

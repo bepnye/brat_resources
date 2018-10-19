@@ -1,0 +1,5 @@
+T0	Outcomes 74 91	tumor oxygenation
+T1	Outcomes 228 241	tumor hypoxia
+T2	Outcomes 439 517	tumor oxygenation measurements with Eppendorf PO2 histographs and comet assays
+T3	Outcomes 1114 1139	DNA damage in tumor cells
+T4	Outcomes 1206 1247	Eppendorf PO2 measurements and comet MTM.

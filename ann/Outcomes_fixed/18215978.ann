@@ -1,0 +1,7 @@
+T0	Outcomes 534 560	Rates of virologic failure
+T1	Outcomes 611 637	Treatment discontinuations
+T2	Outcomes 742 824	virologic failure and either baseline ABC resistance or regimen sensitivity score.
+T3	Outcomes 911 936	reduced virologic failure
+T4	Outcomes 1323 1349	treatment discontinuations
+T5	Outcomes 1480 1502	adding ABC to EFV+IDV.
+T6	Outcomes 1627 1660	effects on nucleoside resistance.

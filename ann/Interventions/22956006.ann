@@ -1,0 +1,18 @@
+T1	Intervention 26 44	placebo-controlled
+T2	Intervention 109 122	dexamethasone
+T3	Intervention 136 167	following adjuvant chemotherapy
+T4	Intervention 289 316	after adjuvant chemotherapy
+T5	Intervention 350 371	receive dexamethasone
+T6	Intervention 471 493	receiving chemotherapy
+T7	Intervention 529 558	with dexamethasone or placebo
+T8	Intervention 741 759	oral dexamethasone
+T9	Intervention 792 806	versus placebo
+T10	Intervention 882 940	intravenous granisetron and dexamethasone pre-chemotherapy
+T11	Intervention 945 961	oral granisetron
+T12	Intervention 1145 1194	received fluorouracil/epirubicin/cyclophosphamide
+T13	Intervention 1202 1239	received doxorubicin/cyclophosphamide
+T14	Intervention 1345 1362	preferred placebo
+T15	Intervention 1416 1450	35-58 %) preferred dexamethasone;
+T16	Intervention 1622 1653	patients received dexamethasone
+T17	Intervention 1799 1834	regardless of whether dexamethasone
+T18	Intervention 1846 1869	was used after adjuvant

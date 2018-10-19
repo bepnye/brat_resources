@@ -1,0 +1,10 @@
+T0	Interventions 19 35	daily gentamicin
+T1	Interventions 297 311	aminoglycoside
+T2	Interventions 613 628	aminoglycosides
+T3	Interventions 701 833	Gentamicin 4 mg/kg every day (OD) or gentamicin 1.33 mg/kg three times daily (MD) (with dose-reduction in case of renal dysfunction)
+T4	Interventions 883 920	intravenous amoxycillin 1 g every 6 h
+T5	Interventions 1054 1056	OD
+T6	Interventions 1083 1085	MD
+T7	Interventions 1685 1687	OD
+T8	Interventions 1707 1709	MD
+T9	Interventions 1993 2032	once-daily dosing regimen of gentamicin

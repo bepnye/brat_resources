@@ -1,8 +1,0 @@
-T1	Treatment 0 59	Cisplatin, epirubicin, leucovorin and 5-fluorouracil (PELF)
-T2	Treatment 80 132	5-fluorouracil, doxorubicin and methotrexate (FAMTX)
-T3	Treatment 176 289	5-Fluorouracil (5-FU), doxorubicin and methotrexate (FAMTX) and cisplatin, epirubicin, leucovorin and 5-FU (PELF)
-T4	Treatment 538 544	FAMTX.
-T5	Treatment 656 669	PELF or FAMTX
-T6	Treatment 781 786	FAMTX
-T7	Treatment 1443 1447	PELF
-T8	Treatment 1482 1487	FAMTX

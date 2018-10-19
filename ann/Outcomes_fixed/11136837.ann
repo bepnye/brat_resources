@@ -1,0 +1,19 @@
+T0	Outcomes 343 367	preventing breast cancer
+T1	Outcomes 381 401	cardiovascular risk.
+T2	Outcomes 506 533	early cardiovascular events
+T3	Outcomes 598 620	cardiovascular effects
+T4	Outcomes 833 855	cardiovascular effects
+T5	Outcomes 1149 1225	Fatal and nonfatal myocardial infarction, unstable angina, and severe angina
+T6	Outcomes 1316 1342	Cardiovascular event rates
+T7	Outcomes 1668 1695	fatal myocardial infarction
+T8	Outcomes 1721 1751	nonfatal myocardial infarction
+T9	Outcomes 1777 1792	unstable angina
+T10	Outcomes 1822 1836	severe angina.
+T11	Outcomes 1897 1908	risk ratios
+T12	Outcomes 1965 1992	fatal myocardial infarction
+T13	Outcomes 2018 2048	nonfatal myocardial infarction
+T14	Outcomes 2074 2089	unstable angina
+T15	Outcomes 2119 2133	severe angina.
+T16	Outcomes 2207 2228	cardiovascular events
+T17	Outcomes 2253 2269	increase in risk
+T18	Outcomes 2469 2492	cardiovascular effects.

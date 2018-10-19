@@ -1,0 +1,9 @@
+T0	Interventions 14 26	remifentanil
+T1	Interventions 32 40	fentanyl
+T2	Interventions 190 209	midazolam, propofol
+T3	Interventions 215 227	remifentanil
+T4	Interventions 438 526	midazolam 0.03 mg/kg, fentanyl 1 microg/kg, and propofol initially at 140 microg/kg/min.
+T5	Interventions 544 660	midazolam 0.03 mg/kg, remifentanil: propofol (1:500) given at an initial propofol infusion rate of 40 microg/kg/min.
+T6	Interventions 1020 1028	propofol
+T7	Interventions 1383 1391	propofol
+T8	Interventions 1410 1418	fentanyl

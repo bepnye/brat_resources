@@ -1,0 +1,15 @@
+T1	Intervention 29 73	MEC (methotrexate, epirubicin and cisplatin)
+T2	Intervention 163 166	MEC
+T3	Intervention 171 231	M-VAC (methotrexate, vinblastine, doxorubicin and cisplatin)
+T4	Intervention 396 399	MEC
+T5	Intervention 403 408	M-VAC
+T6	Intervention 598 878	methotrexate, epirubicin and cisplatin chemotherapy group (arm 1: S-MEC therapy; n = 29), a dose-intensified MEC therapy combined with G-CSF group (arm 2: I-MEC therapy; n = 30) or a methotrexate, vinblastine, doxorubicin and cisplatin chemotherapy (arm 3: M-VAC therapy; n = 30).
+T7	Intervention 1213 1226	S-MEC therapy
+T8	Intervention 1248 1253	I-MEC
+T9	Intervention 1324 1337	S-MEC therapy
+T10	Intervention 1356 1361	I-MEC
+T11	Intervention 1391 1396	M-VAC
+T12	Intervention 1429 1434	I-MEC
+T13	Intervention 1483 1488	M-VAC
+T14	Intervention 1559 1564	I-MEC
+T15	Intervention 1647 1658	MEC therapy

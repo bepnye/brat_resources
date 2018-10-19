@@ -1,0 +1,11 @@
+T0	Interventions 72 112	neutral-pH bicarbonate dialysis solution
+T1	Interventions 139 169	automated peritoneal dialysis.
+T2	Interventions 281 306	peritoneal dialysis (PD).
+T3	Interventions 516 581	novel PD fluid buffered with 34 mM pure bicarbonate at neutral pH
+T4	Interventions 636 680	conventional, acidic, 35 mM lactate PD fluid
+T5	Interventions 778 797	automated PD (APD).
+T6	Interventions 879 893	bicarbonate PD
+T7	Interventions 959 969	lactate PD
+T8	Interventions 1929 1998	neutral-pH PD fluid with reduced glucose degradation product content.
+T9	Interventions 2025 2071	APD, neutral-pH, bicarbonate-buffered PD fluid
+T10	Interventions 2185 2228	conventional, acidic, lactate-based fluids.

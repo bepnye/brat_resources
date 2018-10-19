@@ -1,0 +1,8 @@
+T0	Interventions 38 63	antiretroviral initiation
+T1	Interventions 159 187	antiretroviral therapy (ART)
+T2	Interventions 440 582	blinded abacavir-lamivudine (ABC/3TC) or tenofovir DF-emtricitabine (TDF/FTC) with open-label efavirenz (EFV) or atazanavir-ritonavir (ATV/r).
+T3	Interventions 610 698	dual-energy absorptiometry (DXA) and abdominal computed tomography for body composition.
+T4	Interventions 1032 1045	to ATV/r (vs.
+T5	Interventions 1046 1050	EFV)
+T6	Interventions 1506 1509	vs.
+T7	Interventions 1510 1517	TDF/FTC

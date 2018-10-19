@@ -1,0 +1,13 @@
+T0	Interventions 10 46	resistance exercise contraction mode
+T1	Interventions 51 74	protein supplementation
+T2	Interventions 505 524	resistance exercise
+T3	Interventions 545 594	eccentric (ECC) or concentric (CONC) contractions
+T4	Interventions 606 625	prolonged training;
+T5	Interventions 643 672	whey protein supplementation.
+T6	Interventions 903 911	exercise
+T7	Interventions 992 1013	ECC and CONC exercise
+T8	Interventions 1065 1078	ECC exercise.
+T9	Interventions 1142 1155	CONC exercise
+T10	Interventions 1487 1516	whey protein supplementation.
+T11	Interventions 1665 1679	acute exercise
+T12	Interventions 1719 1739	accumulated training

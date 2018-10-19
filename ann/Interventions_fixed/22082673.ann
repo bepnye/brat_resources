@@ -1,0 +1,18 @@
+T0	Interventions 0 80	Atrial fibrillation catheter ablation versus surgical ablation treatment (FAST):
+T1	Interventions 131 153	Catheter ablation (CA)
+T2	Interventions 158 199	minimally invasive surgical ablation (SA)
+T3	Interventions 596 598	CA
+T4	Interventions 637 639	CA
+T5	Interventions 657 659	SA
+T6	Interventions 675 677	CA
+T7	Interventions 761 763	SA
+T8	Interventions 1096 1116	antiarrhythmic drugs
+T9	Interventions 1148 1150	CA
+T10	Interventions 1165 1167	SA
+T11	Interventions 1383 1385	SA
+T12	Interventions 1395 1397	CA
+T13	Interventions 1558 1560	CA
+T14	Interventions 1743 1749	CA, SA
+T15	Interventions 1765 1767	CA
+T16	Interventions 1919 1921	SA
+T17	Interventions 1931 1934	CA.

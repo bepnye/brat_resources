@@ -1,0 +1,6 @@
+T0	Interventions 0 50	5-Fluorouracil, adriamycin, cyclophosphamide (FAC)
+T1	Interventions 55 105	5-fluorouracil, epirubicin, cyclophosphamide (FEC)
+T2	Interventions 214 326	5-fluorouracil, adriamycin, and cyclophosphamide (FAC) or 5-fluorouracil, epirubicin, and cyclophosphamide (FEC)
+T3	Interventions 395 398	FAC
+T4	Interventions 421 425	FEC.
+T5	Interventions 608 612	FAC.

@@ -1,0 +1,15 @@
+Adult
+Aged
+Carcinoma, Squamous Cell
+Disease-Free Survival
+Dose Fractionation
+Female
+Glottis
+Head and Neck Neoplasms
+Humans
+Laryngeal Neoplasms
+Male
+Middle Aged
+Neoplasm Staging
+Prospective Studies
+Radiotherapy Dosage

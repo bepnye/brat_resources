@@ -1,0 +1,9 @@
+T0	Interventions 35 62	minimally invasive surgery.
+T1	Interventions 95 127	minimally invasive surgery (MIS)
+T2	Interventions 132 143	laparoscopy
+T3	Interventions 253 273	laparoscopic surgery
+T4	Interventions 336 365	minimally invasive techniques
+T5	Interventions 964 1050	Inspection by direct palpation, conventional instruments, and laparoscopic instruments
+T6	Interventions 1438 1461	conventional instrument
+T7	Interventions 1467 1490	laparoscopic instrument
+T8	Interventions 1834 1858	laparoscopic instruments

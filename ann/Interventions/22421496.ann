@@ -1,0 +1,17 @@
+T1	Intervention 49 101	transnasal endoscopy with that of standard endoscopy
+T2	Intervention 145 181	Unsedated transnasal endoscopy (TNE)
+T3	Intervention 219 242	standard endoscopy (SE)
+T4	Intervention 424 427	TNE
+T5	Intervention 468 471	SE.
+T6	Intervention 707 710	TNE
+T7	Intervention 723 725	SE
+T8	Intervention 984 987	TNE
+T9	Intervention 1016 1019	SE.
+T10	Intervention 1123 1126	TNE
+T11	Intervention 1217 1219	SE
+T12	Intervention 1390 1393	TNE
+T13	Intervention 1713 1720	for TNE
+T14	Intervention 1789 1795	for SE
+T15	Intervention 1944 1951	for TNE
+T16	Intervention 2212 2220	with SE.
+T17	Intervention 2221 2224	TNE

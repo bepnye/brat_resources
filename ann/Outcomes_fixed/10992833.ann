@@ -1,0 +1,12 @@
+T0	Outcomes 0 54	Onset/offset characteristics and intubating conditions
+T1	Outcomes 115 176	onset and offset of action and tracheal intubating conditions
+T2	Outcomes 629 653	Neuromuscular monitoring
+T3	Outcomes 733 742	lag times
+T4	Outcomes 778 791	maximum block
+T5	Outcomes 818 847	intubating conditions at 60 s
+T6	Outcomes 959 969	onset time
+T7	Outcomes 1058 1081	degree of block at 60 s
+T8	Outcomes 1148 1156	recovery
+T9	Outcomes 1393 1398	onset
+T10	Outcomes 1408 1429	intubating conditions
+T11	Outcomes 1443 1457	recovery times

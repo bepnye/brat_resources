@@ -1,0 +1,6 @@
+T1	Intervention 133 160	antihypertensive treatment.
+T2	Intervention 555 565	β-blocker
+T3	Intervention 571 593	for calcium antagonist
+T4	Intervention 834 863	either atenolol or lacidipine
+T5	Intervention 1047 1099	between β-blocker and calcium antagonist treatments
+T6	Intervention 2413 2468	substantially between β-blocker and calcium antagonist

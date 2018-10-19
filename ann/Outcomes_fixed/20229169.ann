@@ -1,0 +1,6 @@
+T0	Outcomes 568 592	immunological parameters
+T1	Outcomes 601 789	Th1 cells (IFN-gamma-positive CD4(+) T cells), Th2 cells (IL-4-positive CD4(+) T cells), Th1/Th2 ratio, NKT cells (CD56(+) T cells and CD57(+) T cells), NK cells, and CD25(+)CD4(+) T cells
+T2	Outcomes 1095 1118	3-year overall survival
+T3	Outcomes 1286 1392	Th1 cells, Th2 cells, Th1/Th2 ratio, CD56(+) T cells, CD57(+) T cells, NK cells, and CD4(+)CD25(+) T cells
+T4	Outcomes 1451 1466	CD57(+) T cells
+T5	Outcomes 1949 1964	3-year survival

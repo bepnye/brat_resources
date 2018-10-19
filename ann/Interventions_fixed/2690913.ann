@@ -1,0 +1,10 @@
+T0	Interventions 45 66	adjuvant chemotherapy
+T1	Interventions 245 280	regimen of combination chemotherapy
+T2	Interventions 493 533	simple mastectomy with axillary sampling
+T3	Interventions 553 600	no adjuvant treatment or intravenous adriamycin
+T4	Interventions 608 619	vincristine
+T5	Interventions 626 642	cyclophosphamide
+T6	Interventions 651 663	methotrexate
+T7	Interventions 675 687	fluorouracil
+T8	Interventions 695 702	(AVCMF)
+T9	Interventions 1070 1075	AVCMF

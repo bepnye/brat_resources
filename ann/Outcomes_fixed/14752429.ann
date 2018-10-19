@@ -1,0 +1,10 @@
+T0	Outcomes 1154 1188	number of grafted coronary vessels
+T1	Outcomes 1223 1248	aortic crossclamping time
+T2	Outcomes 1309 1325	ventilation time
+T3	Outcomes 1384 1408	intensive care unit stay
+T4	Outcomes 1470 1488	hospital mortality
+T5	Outcomes 1602 1635	early postoperative complications
+T6	Outcomes 1665 1690	cerebrovascular accidents
+T7	Outcomes 1873 1888	graft occlusion
+T8	Outcomes 1931 1948	angina recurrence
+T9	Outcomes 2091 2129	graft occlusion and angina recurrence.

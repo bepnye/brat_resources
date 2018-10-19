@@ -1,0 +1,11 @@
+T0	Outcomes 318 353	safety, ease of treatment, recovery
+T1	Outcomes 359 380	patients' experiences
+T2	Outcomes 1047 1068	ease of the procedure
+T3	Outcomes 1085 1112	number of sedation failures
+T4	Outcomes 1209 1262	deeply sedated patients (OAA/S level 2), desaturation
+T5	Outcomes 1268 1286	obstructed airways
+T6	Outcomes 1322 1362	Time to full recovery (Aldrete score ≥9)
+T7	Outcomes 1411 1433	least fatigue and pain
+T8	Outcomes 1444 1454	procedure.
+T9	Outcomes 1455 1475	Patients' preference
+T10	Outcomes 1601 1641	rapid recovery, fewer respiratory events

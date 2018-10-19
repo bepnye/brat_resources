@@ -1,0 +1,8 @@
+T1	Intervention 51 77	extracorporeal circulation
+T2	Intervention 95 117	cardiopulmonary bypass
+T3	Intervention 121 158	coronary artery bypass graft surgery:
+T4	Intervention 204 245	Minimal extracorporeal circulation (MECC)
+T5	Intervention 269 312	coronary artery bypass graft (CABG) surgery
+T6	Intervention 419 423	MECC
+T7	Intervention 489 535	conventional extracorporeal circulation (CECC)
+T8	Intervention 817 830	MECC or CECC.

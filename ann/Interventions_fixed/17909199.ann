@@ -1,0 +1,23 @@
+T0	Interventions 41 85	bevacizumab in combination with chemotherapy
+T1	Interventions 89 98	erlotinib
+T2	Interventions 113 131	chemotherapy alone
+T3	Interventions 210 221	Bevacizumab
+T4	Interventions 300 309	erlotinib
+T5	Interventions 544 570	bevacizumab plus erlotinib
+T6	Interventions 725 810	combining bevacizumab with either chemotherapy (docetaxel or pemetrexed) or erlotinib
+T7	Interventions 864 876	chemotherapy
+T8	Interventions 1197 1218	bevacizumab-erlotinib
+T9	Interventions 1288 1300	chemotherapy
+T10	Interventions 1316 1340	bevacizumab-chemotherapy
+T11	Interventions 1411 1422	bevacizumab
+T12	Interventions 1606 1630	bevacizumab-chemotherapy
+T13	Interventions 1691 1713	bevacizumab-erlotinib.
+T14	Interventions 1751 1772	bevacizumab-erlotinib
+T15	Interventions 1787 1811	bevacizumab-chemotherapy
+T16	Interventions 1836 1848	chemotherapy
+T17	Interventions 1925 1936	bevacizumab
+T18	Interventions 1949 1961	chemotherapy
+T19	Interventions 1980 1992	chemotherapy
+T20	Interventions 2136 2147	bevacizumab
+T21	Interventions 2184 2217	bevacizumab-erlotinib combination
+T22	Interventions 2252 2275	chemotherapy-containing

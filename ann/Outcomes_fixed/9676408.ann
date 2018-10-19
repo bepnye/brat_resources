@@ -1,0 +1,18 @@
+T0	Outcomes 243 271	benign prostatic hyperplasia
+T1	Outcomes 352 379	postoperative complications
+T2	Outcomes 645 664	efficacy and safety
+T3	Outcomes 792 911	Preoperative and postoperative International Prostate Symptom Score (IPSS), maximum flow rates (Qmax) and complications
+T4	Outcomes 1024 1047	transrectal ultrasound.
+T5	Outcomes 1132 1146	Foley catheter
+T6	Outcomes 1201 1205	IPSS
+T7	Outcomes 1284 1305	Mean prostatic volume
+T8	Outcomes 1494 1525	Postoperative urinary retention
+T9	Outcomes 1556 1560	IPSS
+T10	Outcomes 1642 1663	Mean prostatic volume
+T11	Outcomes 1775 1793	blood transfusions
+T12	Outcomes 1807 1849	clinical transurethral resection syndrome.
+T13	Outcomes 1861 1884	no major complications.
+T14	Outcomes 1885 1959	Sphincteric incontinence, urethral strictures or bladder neck contractures
+T15	Outcomes 2075 2098	retrograde ejaculation.
+T16	Outcomes 2192 2210	reduced blood loss
+T17	Outcomes 2215 2237	shorter hospital stay.

@@ -1,0 +1,13 @@
+T1	Intervention 0 10	Lamivudine
+T2	Intervention 38 48	lamivudine
+T3	Intervention 65 74	stavudine
+T4	Intervention 81 99	protease inhibitor
+T5	Intervention 230 240	lamivudine
+T6	Intervention 281 291	lamivudine
+T7	Intervention 440 512	lamivudine 150 mg BID plus stavudine and either indinavir or nelfinavir.
+T8	Intervention 687 714	pretrial protease inhibitor
+T9	Intervention 789 799	lamivudine
+T10	Intervention 853 883	pretrial stavudine/PI regimens
+T11	Intervention 1640 1650	lamivudine
+T12	Intervention 1665 1694	combination with stavudine/PI
+T13	Intervention 1769 1779	lamivudine

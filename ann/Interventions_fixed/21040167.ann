@@ -1,0 +1,10 @@
+T0	Interventions 45 55	tacrolimus
+T1	Interventions 260 325	to standard dosing (control group) or post-transplantation dosing
+T2	Interventions 371 394	preoperative tacrolimus
+T3	Interventions 424 459	first postoperative tacrolimus dose
+T4	Interventions 736 757	based upon tacrolimus
+T5	Interventions 1026 1046	achieving tacrolimus
+T6	Interventions 1209 1228	achieved tacrolimus
+T7	Interventions 1392 1417	pre-transplant tacrolimus
+T8	Interventions 1487 1516	achieving 10 ng/mL tacrolimus
+T9	Interventions 1617 1642	pre-transplant tacrolimus

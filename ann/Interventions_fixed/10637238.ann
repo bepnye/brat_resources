@@ -1,0 +1,5 @@
+T0	Interventions 14 53	chemotherapy with chemohormonal therapy
+T1	Interventions 305 317	chemotherapy
+T2	Interventions 409 438	simultaneous hormonal therapy
+T3	Interventions 772 979	chemotherapy (cyclophosphamide, doxorubicin, and fluorouracil ¿CAF) or chemohormonal therapy (CAF plus tamoxifen and Halotestin ¿fluoxymesterone; Pharmacia-Upjohn, Kalamazoo, MI ¿CAFTH) as front-line therapy
+T4	Interventions 1882 1911	cancer, chemohormonal therapy

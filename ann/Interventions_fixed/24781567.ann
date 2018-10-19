@@ -1,0 +1,11 @@
+T0	Interventions 22 39	spinal anesthesia
+T1	Interventions 311 388	spinal anesthesia to light (BIS >80) or deep (BIS approximately 50) sedation.
+T2	Interventions 622 627	light
+T3	Interventions 639 643	deep
+T4	Interventions 652 660	sedation
+T5	Interventions 851 856	light
+T6	Interventions 868 872	deep
+T7	Interventions 881 889	sedation
+T8	Interventions 959 977	spinal anesthesia.
+T9	Interventions 1022 1036	light sedation
+T10	Interventions 1044 1061	spinal anesthesia

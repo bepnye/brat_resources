@@ -1,0 +1,21 @@
+T1	Intervention 14 34	alfentanil, fentanyl
+T2	Intervention 39 49	sufentanil
+T3	Intervention 89 97	propofol
+T4	Intervention 215 235	alfentanil, fentanyl
+T5	Intervention 240 250	sufentanil
+T6	Intervention 265 273	propofol
+T7	Intervention 415 463	alfentanil, fentanyl or sufentanil and propofol.
+T8	Intervention 783 818	alfentanil, fentanyl and sufentanil
+T9	Intervention 941 949	fentanyl
+T10	Intervention 1022 1032	sufentanil
+T11	Intervention 1071 1081	alfentanil
+T12	Intervention 1105 1113	fentanyl
+T13	Intervention 1149 1159	alfentanil
+T14	Intervention 1163 1173	sufentanil
+T15	Intervention 1467 1475	fentanyl
+T16	Intervention 1480 1488	propofol
+T17	Intervention 1580 1590	alfentanil
+T18	Intervention 1594 1604	sufentanil
+T19	Intervention 1609 1618	propofol.
+T20	Intervention 1750 1760	alfentanil
+T21	Intervention 1801 1809	fentanyl

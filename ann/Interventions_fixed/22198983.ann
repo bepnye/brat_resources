@@ -1,0 +1,13 @@
+T0	Interventions 0 37	Granulocyte-colony stimulating factor
+T1	Interventions 100 109	stem cell
+T2	Interventions 208 253	Granulocyte-colony stimulating factor (G-CSF)
+T3	Interventions 394 399	G-CSF
+T4	Interventions 484 511	G-CSF (10 μg/kg) or placebo
+T5	Interventions 528 536	given SC
+T6	Interventions 1167 1180	events: G-CSF
+T7	Interventions 1198 1212	versus placebo
+T8	Interventions 1284 1296	1.3, placebo
+T9	Interventions 1348 1357	received.
+T10	Interventions 1358 1363	G-CSF
+T11	Interventions 1539 1564	baseline in G-CSF-treated
+T12	Interventions 1764 1774	that G-CSF

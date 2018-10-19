@@ -1,0 +1,20 @@
+T1	Intervention 0 28	Bovine pericardium vs dacron
+T2	Intervention 125 148	Bovine pericardium (BP)
+T3	Intervention 250 256	Dacron
+T4	Intervention 311 334	carotid endarterectomy.
+T5	Intervention 370 401	BP and Dacron patch angioplasty
+T6	Intervention 630 632	BP
+T7	Intervention 646 653	Dacron.
+T8	Intervention 768 795	carotid cross-clamp removal
+T9	Intervention 1261 1263	BP
+T10	Intervention 1305 1311	Dacron
+T11	Intervention 1416 1418	BP
+T12	Intervention 1460 1466	Dacron
+T13	Intervention 1581 1583	BP
+T14	Intervention 1618 1624	Dacron
+T15	Intervention 1809 1811	BP
+T16	Intervention 1898 1916	Bovine pericardium
+T17	Intervention 2020 2027	Dacron.
+T18	Intervention 2100 2103	BP.
+T19	Intervention 2126 2128	BP
+T20	Intervention 2154 2160	Dacron

@@ -1,0 +1,13 @@
+T0	Interventions 12 53	patient education and supervised exercise
+T1	Interventions 57 80	patient education alone
+T2	Interventions 198 239	patient education and supervised exercise
+T3	Interventions 253 276	patient education alone
+T4	Interventions 607 630	Patient education (PE).
+T5	Interventions 631 681	Patient education and supervised exercise (PE+SE).
+T6	Interventions 1031 1036	PE+SE
+T7	Interventions 1069 1071	PE
+T8	Interventions 1485 1495	PE and SE.
+T9	Interventions 1536 1546	PE program
+T10	Interventions 1586 1596	12-week SE
+T11	Interventions 1702 1727	between PE+SE vs PE alone
+T12	Interventions 1729 1744	Adding SE to PE

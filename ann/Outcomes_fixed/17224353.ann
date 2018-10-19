@@ -1,0 +1,12 @@
+T0	Outcomes 8 43	surface electromyographic responses
+T1	Outcomes 175 225	dynamic surface electromyographic (EMG) activities
+T2	Outcomes 381 411	surface EMG dynamic activities
+T3	Outcomes 610 632	dynamic EMG evaluation
+T4	Outcomes 755 779	flexion-relaxation ratio
+T5	Outcomes 808 828	maximal EMG activity
+T6	Outcomes 890 999	Concentric (maximal EMG activity during extension) and eccentric (maximal EMG activity during flexion) ratios
+T7	Outcomes 1040 1094	Disability, depression, and visual analog scale scores
+T8	Outcomes 1146 1162	concentric ratio
+T9	Outcomes 1309 1324	EMG parameters.
+T10	Outcomes 1424 1440	muscle symmetry;
+T11	Outcomes 1486 1515	flexion-relaxation phenomenon

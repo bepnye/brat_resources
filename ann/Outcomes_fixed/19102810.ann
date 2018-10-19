@@ -1,0 +1,11 @@
+T0	Outcomes 39 58	EPA and DHA intake.
+T1	Outcomes 119 130	EPA and DHA
+T2	Outcomes 145 194	relative concentrations in red blood cells (RBC).
+T3	Outcomes 647 687	between intake of EPA, DHA and EPA + DHA
+T4	Outcomes 698 732	corresponding concentration in RBC
+T5	Outcomes 816 865	of EPA+DHA intake and RBC EPA + DHA concentration
+T6	Outcomes 1145 1182	predicted RBC EPA + DHA concentration
+T7	Outcomes 1365 1387	of EPA and DHA intakes
+T8	Outcomes 1421 1445	their RBC concentrations
+T9	Outcomes 1484 1509	between EPA + DHA intakes
+T10	Outcomes 1620 1653	with RBC EPA + DHA concentrations

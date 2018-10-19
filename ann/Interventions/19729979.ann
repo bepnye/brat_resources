@@ -1,0 +1,12 @@
+T1	Intervention 7 16	docetaxel
+T2	Intervention 33 44	gemcitabine
+T3	Intervention 48 72	second-line chemotherapy
+T4	Intervention 76 97	paclitaxel-pretreated
+T5	Intervention 306 317	gemcitabine
+T6	Intervention 328 337	docetaxel
+T7	Intervention 490 511	paclitaxel-containing
+T8	Intervention 579 599	docetaxel 40 mg/m(2)
+T9	Intervention 647 684	docetaxel 35 mg/m(2) with gemcitabine
+T10	Intervention 798 810	chemotherapy
+T11	Intervention 1160 1169	docetaxel
+T12	Intervention 1174 1185	gemcitabine

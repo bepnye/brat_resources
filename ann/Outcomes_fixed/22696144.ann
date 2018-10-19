@@ -1,0 +1,6 @@
+T0	Outcomes 1160 1329	heart rate and mean arterial pressure, oxygen saturation, visual analogue score (VAS), verbal rating scale (VRS), rescue analgesic requirements, total opioid consumption
+T1	Outcomes 1509 1582	demographic data, mean arterial pressure, heart rate or oxygen saturation
+T2	Outcomes 1603 1642	area under the curve VAS and VRS scores
+T3	Outcomes 1729 1790	rescue analgesic requirement and the total opioid consumption
+T4	Outcomes 1870 1917	time to first mobilisation and the Likert score
+T5	Outcomes 2025 2041	block onset time

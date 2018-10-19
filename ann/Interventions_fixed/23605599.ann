@@ -1,0 +1,10 @@
+T0	Interventions 28 43	low level laser
+T1	Interventions 94 106	Radiotherapy
+T2	Interventions 139 151	chemotherapy
+T3	Interventions 338 370	low-power laser on radiotherapy-
+T4	Interventions 375 395	chemotherapy-induced
+T5	Interventions 466 481	low-power laser
+T6	Interventions 549 562	chemotherapy.
+T7	Interventions 662 674	chemotherapy
+T8	Interventions 768 780	chemotherapy
+T9	Interventions 887 902	low-power laser

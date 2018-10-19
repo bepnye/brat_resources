@@ -1,0 +1,5 @@
+T0	Interventions 328 432	continuous subcutaneous insulin infusion, multiple insulin injections, or conventional insulin treatment
+T1	Interventions 483 502	continuous infusion
+T2	Interventions 507 526	multiple injections
+T3	Interventions 718 737	continuous infusion
+T4	Interventions 766 784	multiple injection

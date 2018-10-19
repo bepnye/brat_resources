@@ -1,0 +1,13 @@
+T0	Interventions 33 78	granulocyte colony-stimulating factor therapy
+T1	Interventions 312 334	high-dose chemotherapy
+T2	Interventions 347 400	autologous peripheral blood stem cell transplantation
+T3	Interventions 495 532	granulocyte colony-stimulating factor
+T4	Interventions 770 783	primary PBSCT
+T5	Interventions 1068 1073	PBSCT
+T6	Interventions 1213 1218	G-CSF
+T7	Interventions 1259 1265	PBSCT)
+T8	Interventions 1280 1293	control group
+T9	Interventions 1343 1535	high-dose regimens without total body irradiation consisted of the MCVAC regimen using ranimustine (MCNU, 450 mg/m2), cytosine arabinoside (16 g/m2), etoposide (1.6 g/m2), and cyclophosphamide
+T10	Interventions 1579 1609	Hi-MEC regimen using melphalan
+T11	Interventions 1623 1632	etoposide
+T12	Interventions 1649 1662	carboplatinum

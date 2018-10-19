@@ -1,0 +1,15 @@
+T0	Interventions 10 20	ranitidine
+T1	Interventions 127 137	ranitidine
+T2	Interventions 213 222	triazolam
+T3	Interventions 483 540	0.25-mg triazolam tablet after treatment with ranitidine;
+T4	Interventions 569 627	0.25-mg triazolam tablet, with no ranitidine pretreatment;
+T5	Interventions 634 704	0.25-mg intravenous dose of triazolam after treatment with ranitidine;
+T6	Interventions 715 786	0.25-mg intravenous dose of triazolam, with no ranitidine pretreatment.
+T7	Interventions 787 797	Ranitidine
+T8	Interventions 938 947	triazolam
+T9	Interventions 1052 1061	triazolam
+T10	Interventions 1205 1215	ranitidine
+T11	Interventions 1391 1401	Ranitidine
+T12	Interventions 1432 1443	triazolam's
+T13	Interventions 1542 1552	Ranitidine
+T14	Interventions 1605 1614	triazolam

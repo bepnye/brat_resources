@@ -1,0 +1,12 @@
+T0	Outcomes 112 133	body mass index (BMI)
+T1	Outcomes 860 928	BMI and all-cause mortality, PCSM, and nonprostate cancer mortality.
+T2	Outcomes 1072 1088	5-year PCSM rate
+T3	Outcomes 1102 1105	BMI
+T4	Outcomes 1312 1323	higher PCSM
+T5	Outcomes 1480 1483	BMI
+T6	Outcomes 1508 1526	nonprostate cancer
+T7	Outcomes 1530 1550	all-cause mortality.
+T8	Outcomes 1571 1583	baseline BMI
+T9	Outcomes 1624 1628	PCSM
+T10	Outcomes 1748 1773	cancer-specific mortality
+T11	Outcomes 1796 1807	weight loss

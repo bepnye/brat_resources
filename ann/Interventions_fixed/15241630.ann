@@ -1,0 +1,14 @@
+T0	Interventions 182 220	153Gd transmission computed tomography
+T1	Interventions 266 307	99mTc-ethyl cysteinate dimer (ECD) images
+T2	Interventions 518 521	ECD
+T3	Interventions 693 696	TCT
+T4	Interventions 763 766	ECD
+T5	Interventions 846 855	ECD-based
+T6	Interventions 860 869	TCT-based
+T7	Interventions 1152 1167	ECD/CD, ECD/NMI
+T8	Interventions 1172 1178	TCT/CD
+T9	Interventions 1629 1632	ECD
+T10	Interventions 1652 1654	CD
+T11	Interventions 1658 1661	NMI
+T12	Interventions 1681 1684	TCT
+T13	Interventions 1716 1719	TCT

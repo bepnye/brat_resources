@@ -1,0 +1,10 @@
+T0	Interventions 14 91	adaptive pacing therapy, cognitive behaviour therapy, graded exercise therapy
+T1	Interventions 97 120	specialist medical care
+T2	Interventions 210 243	cognitive behaviour therapy (CBT)
+T3	Interventions 248 277	graded exercise therapy (GET)
+T4	Interventions 426 432	pacing
+T5	Interventions 437 460	specialist health care.
+T6	Interventions 659 848	six secondary-care clinics in the UK and randomly allocated by computer-generated sequence to receive specialist medical care (SMC) alone or with adaptive pacing therapy (APT), CBT, or GET.
+T7	Interventions 879 888	(measured
+T8	Interventions 1360 1466	longitudinal regression models to compare SMC alone with other treatments, APT with CBT, and APT with GET.
+T9	Interventions 1773 1782	SMC-alone

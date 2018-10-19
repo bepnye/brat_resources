@@ -1,5 +1,0 @@
-T1	Treatment 167 175	imipenem
-T2	Treatment 180 189	meropenem
-T3	Treatment 283 377	constant 30-min infusion of either 1 g of imipenem plus 1 g of cilastatin or 1 g of meropenem.
-T4	Treatment 434 497	determined by bioassay and high-pressure liquid chromatography.
-T5	Treatment 547 602	two-compartment model and a noncompartmental technique.

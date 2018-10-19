@@ -1,0 +1,5 @@
+T0	Interventions 89 123	single-dose antibiotic prophylaxis
+T1	Interventions 238 309	intravenous prophylactic dose of either a cephalosporin or mezlocillin.
+T2	Interventions 501 609	cephalosporin (cefoxitin, 8.3%; cefazolin, 14.3%; cefotetan, 20.0%; ceftriaxone, 25.0%; cefoperazone, 43.7%)
+T3	Interventions 637 648	mezlocillin
+T4	Interventions 693 716	no antimicrobial agent.

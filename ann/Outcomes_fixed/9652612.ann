@@ -1,0 +1,14 @@
+T0	Outcomes 608 702	hospital mortality and morbidity, length of hospital stay, and length of sick leave from work.
+T1	Outcomes 739 765	Suspected bile-duct stones
+T2	Outcomes 1115 1134	gangrene or empyema
+T3	Outcomes 1162 1221	perforation of the gallbladder causing diffuse peritonitis.
+T4	Outcomes 1301 1320	severe inflammation
+T5	Outcomes 1378 1405	deaths or bile-duct lesions
+T6	Outcomes 1431 1457	postoperative complication
+T7	Outcomes 1576 1595	minor complications
+T8	Outcomes 1670 1697	postoperative hospital stay
+T9	Outcomes 1800 1825	Mean length of sick leave
+T10	Outcomes 2030 2034	safe
+T11	Outcomes 2039 2049	effective.
+T12	Outcomes 2075 2089	mortality rate
+T13	Outcomes 2099 2113	morbidity rate

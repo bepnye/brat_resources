@@ -1,0 +1,11 @@
+T0	Interventions 18 30	chemotherapy
+T1	Interventions 35 52	radiation therapy
+T2	Interventions 245 297	breast-conserving therapy and adjuvant chemotherapy.
+T3	Interventions 333 367	chemotherapy and radiation therapy
+T4	Interventions 543 615	12-week course of chemotherapy either before or after radiation therapy.
+T5	Interventions 846 864	radiotherapy-first
+T6	Interventions 879 897	chemotherapy-first
+T7	Interventions 1146 1187	radiotherapy-first and chemotherapy-first
+T8	Interventions 1575 1587	chemotherapy
+T9	Interventions 1600 1617	radiation therapy
+T10	Interventions 1631 1674	radiation therapy followed by chemotherapy.

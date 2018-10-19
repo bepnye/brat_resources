@@ -1,0 +1,6 @@
+T0	Interventions 28 64	minimally-invasive surgery plus rtPA
+T1	Interventions 582 661	minimally-invasive surgery plus recombinant tissue plasminogen activator (rtPA)
+T2	Interventions 773 840	surgical intervention plus rtPA and standard medical management for
+T3	Interventions 971 1023	stereotactic catheter placement and clot aspiration.
+T4	Interventions 1024 1042	Injections of rtPA
+T5	Interventions 1196 1210	sterile saline

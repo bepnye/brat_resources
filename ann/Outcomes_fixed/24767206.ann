@@ -1,0 +1,12 @@
+T0	Outcomes 60 81	myocardial infarction
+T1	Outcomes 162 181	efficacy and safety
+T2	Outcomes 651 742	thrombolysis in myocardial infarction (TIMI) flow, bleeding complications and clinic events
+T3	Outcomes 835 871	percentage of patient with TIMI flow
+T4	Outcomes 1007 1043	percentage of patient with TIMI flow
+T5	Outcomes 1169 1216	decreased the rate of poor myocardial perfusion
+T6	Outcomes 1274 1316	major adverse cardiovascular events (MACE)
+T7	Outcomes 1466 1488	bleeding complications
+T8	Outcomes 1518 1533	mild hemorrhage
+T9	Outcomes 1560 1577	severe hemorrhage
+T10	Outcomes 1606 1629	severe thrombocytopenia
+T11	Outcomes 1710 1732	bleeding complications

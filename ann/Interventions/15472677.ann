@@ -1,0 +1,9 @@
+T1	Intervention 0 25	Endoscopic sphincterotomy
+T2	Intervention 35 67	pure-cut electrosurgical current
+T3	Intervention 238 252	sphincterotomy
+T4	Intervention 347 363	pure-cut current
+T5	Intervention 477 608	sphincterotomy over a non-conductive guidewire with 30 W/sec pure-cut current or 30 W/sec blend-2 current by a blinded endoscopist.
+T6	Intervention 1768 1775	current
+T7	Intervention 1797 1822	endoscopic sphincterotomy
+T8	Intervention 1901 1924	electrosurgical current
+T9	Intervention 1937 1962	endoscopic sphincterotomy

@@ -1,0 +1,5 @@
+T0	Interventions 14 58	prophylactic calcium and magnesium infusions
+T1	Interventions 805 917	treatment with capecitabine, oxaliplatin and bevacizumab or the same combination with the addition of cetuximab.
+T2	Interventions 961 1107	two groups: patients in the Ca/Mg(+) group received Ca/Mg at least during their first treatment cycle, and patients in the Ca/Mg(-) group did not.
+T3	Interventions 1855 1869	neurotoxicity.
+T4	Interventions 1870 1885	Ca/Mg infusions

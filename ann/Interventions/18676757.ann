@@ -1,0 +1,18 @@
+T1	Intervention 0 24	Combination chemotherapy
+T2	Intervention 29 51	ALVAC-CEA/B7.1 vaccine
+T3	Intervention 127 135	vaccines
+T4	Intervention 140 152	chemotherapy
+T5	Intervention 520 560	fluorouracil, leucovorin, and irinotecan
+T6	Intervention 581 644	ALVAC-CEA/B7.1 vaccine with or without tetanus toxoid adjuvant.
+T7	Intervention 682 895	ALVAC followed by chemotherapy and booster vaccination (group 1), ALVAC and tetanus toxoid followed by chemotherapy (group 2), or chemotherapy alone followed by ALVAC in patients without disease progression (group
+T8	Intervention 951 962	ELISA assay
+T9	Intervention 1042 1083	IFN-gamma enzyme-linked immunospot assay.
+T10	Intervention 1156 1161	ALVAC
+T11	Intervention 1192 1204	chemotherapy
+T12	Intervention 1215 1220	ALVAC
+T13	Intervention 1226 1242	tetanus adjuvant
+T14	Intervention 1273 1285	chemotherapy
+T15	Intervention 1299 1311	chemotherapy
+T16	Intervention 1324 1329	ALVAC
+T17	Intervention 1864 1886	ALVAC-CEA/B7.1 vaccine
+T18	Intervention 1900 1912	chemotherapy

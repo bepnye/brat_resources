@@ -1,0 +1,16 @@
+T0	Outcomes 75 83	vaccines
+T1	Outcomes 297 311	Immunogenicity
+T2	Outcomes 685 714	local and systemic reactions.
+T3	Outcomes 715 730	Local reactions
+T4	Outcomes 739 759	swelling and redness
+T5	Outcomes 898 903	Fever
+T6	Outcomes 1068 1096	Geometric mean titres (GMTs)
+T7	Outcomes 1110 1115	ELISA
+T8	Outcomes 1120 1177	pertussis toxin (PT) and filamentous haemagglutinin (FHA)
+T9	Outcomes 1323 1364	GMTs of tetanus and diphtheria antitoxins
+T10	Outcomes 1453 1463	GMTs to PT
+T11	Outcomes 1625 1636	GMTs to FHA
+T12	Outcomes 1853 1864	immunogenic
+T13	Outcomes 1871 1904	less local and systemic reactions
+T14	Outcomes 1966 1981	antibody titres
+T15	Outcomes 2078 2109	anti-PT and anti-FHA antibodies

@@ -1,0 +1,19 @@
+T0	Outcomes 158 180	toxicity and tolerance
+T1	Outcomes 978 988	dose level
+T2	Outcomes 1004 1013	tolerable
+T3	Outcomes 1053 1072	grade 3/4 toxicity.
+T4	Outcomes 1152 1161	toxicity.
+T5	Outcomes 1179 1188	tolerated
+T6	Outcomes 1261 1302	mild-to-moderate constitutional symptoms.
+T7	Outcomes 1303 1321	Grade 3/4 toxicity
+T8	Outcomes 1352 1381	Interleukin-2 dose reductions
+T9	Outcomes 1460 1469	toxicity.
+T10	Outcomes 1529 1536	relapse
+T11	Outcomes 1556 1560	died
+T12	Outcomes 1568 1583	Median survival
+T13	Outcomes 1607 1640	3-year disease-free survival rate
+T14	Outcomes 1650 1673	Median overall survival
+T15	Outcomes 1709 1729	3-year survival rate
+T16	Outcomes 1839 1879	disease-free survival or 3-year survival
+T17	Outcomes 2110 2119	tolerated
+T18	Outcomes 2287 2327	clinical efficacy and favorable toxicity

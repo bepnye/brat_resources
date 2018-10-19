@@ -1,0 +1,24 @@
+T1	Intervention 71 189	induction chemotherapy followed by either standard thoracic radiotherapy or hyperfractionated accelerated radiotherapy
+T2	Intervention 286 321	once-daily radiation therapy (qdRT)
+T3	Intervention 327 381	hyperfractionated accelerated radiation therapy (HART)
+T4	Intervention 402 425	induction chemotherapy.
+T5	Intervention 639 661	Induction chemotherapy
+T6	Intervention 689 700	carboplatin
+T7	Intervention 756 766	paclitaxel
+T8	Intervention 988 992	qdRT
+T9	Intervention 1009 1014	HART;
+T10	Intervention 1157 1161	qdRT
+T11	Intervention 1174 1178	HART
+T12	Intervention 1234 1238	HART
+T13	Intervention 1243 1247	qdRT
+T14	Intervention 1310 1314	HART
+T15	Intervention 1319 1323	qdRT
+T16	Intervention 1394 1398	HART
+T17	Intervention 1420 1424	qdRT
+T18	Intervention 1548 1552	HART
+T19	Intervention 1557 1561	qdRT
+T20	Intervention 1606 1610	HART
+T21	Intervention 1707 1711	HART
+T22	Intervention 1861 1883	induction chemotherapy
+T23	Intervention 1889 1917	carboplatin-paclitaxel, HART
+T24	Intervention 2126 2130	HART

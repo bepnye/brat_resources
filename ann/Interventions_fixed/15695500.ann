@@ -1,0 +1,12 @@
+T0	Interventions 45 69	fludarabine-mitoxantrone
+T1	Interventions 85 144	cyclophosphamide, doxorubicin, vindesine, prednisone (CHVP)
+T2	Interventions 349 448	fludarabine-mitoxantrone (FM) with mini-CHVP (cyclophosphamide, doxorubicin, vindesine, prednisone)
+T3	Interventions 881 892	fludarabine
+T4	Interventions 927 939	mitoxantrone
+T5	Interventions 988 1004	cyclophosphamide
+T6	Interventions 1034 1045	doxorubicin
+T7	Interventions 1068 1077	vindesine
+T8	Interventions 1109 1119	prednisone
+T9	Interventions 1154 1156	FM
+T10	Interventions 1269 1271	FM
+T11	Interventions 1554 1556	FM

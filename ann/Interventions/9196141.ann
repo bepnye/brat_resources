@@ -1,0 +1,8 @@
+T1	Intervention 30 56	complementary radiotherapy
+T2	Intervention 82 106	combination chemotherapy
+T3	Intervention 224 255	modern combination chemotherapy
+T4	Intervention 548 728	cycles of alternating cyclophosphamide, vincristine, procarbazine, and prednisone (COPP) plus doxorubicin, bleomycin, vinblastine, and dacarbazine (ABVD) followed by EF irradiation
+T5	Intervention 1610 1620	radiation.
+T6	Intervention 1687 1699	radiotherapy
+T7	Intervention 1793 1809	polychemotherapy
+T8	Intervention 2082 2099	polychemotherapy.

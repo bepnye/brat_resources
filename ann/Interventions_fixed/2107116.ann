@@ -1,0 +1,7 @@
+T0	Interventions 0 40	Endoscopic versus operative gastrostomy:
+T1	Interventions 111 137	operative gastrostomy (OG)
+T2	Interventions 152 185	with endoscopic gastrostomy (PEG)
+T3	Interventions 287 318	PEG (Sachs-Vine) and OG (Stamm)
+T4	Interventions 335 352	local anesthesia.
+T5	Interventions 821 824	PEG
+T6	Interventions 981 984	PEG

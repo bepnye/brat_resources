@@ -1,0 +1,14 @@
+T1	Intervention 54 93	vincristine/corticosteroid chemotherapy
+T2	Intervention 170 248	intensive chemotherapy protocols that contain vincristine and corticosteroids.
+T3	Intervention 354 366	chemotherapy
+T4	Intervention 460 471	vincristine
+T5	Intervention 492 497	bolus
+T6	Intervention 629 640	vincristine
+T7	Intervention 670 732	Cronassial, a mixture of four naturally occurring gangliosides
+T8	Intervention 830 849	vincristine-induced
+T9	Intervention 876 889	dexamethasone
+T10	Intervention 1303 1313	Cronassial
+T11	Intervention 1446 1457	Vincristine
+T12	Intervention 1520 1535	corticosteroids
+T13	Intervention 1818 1860	vincristine/corticosteroid-based treatment
+T14	Intervention 1965 1995	vincristine or corticosteroids

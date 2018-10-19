@@ -1,0 +1,27 @@
+T0	Interventions 0 8	Sedation
+T1	Interventions 97 133	patient-controlled propofol sedation
+T2	Interventions 154 172	nurse anesthetist.
+T3	Interventions 216 224	sedation
+T4	Interventions 387 479	patient-controlled sedation (PCS) with propofol, nurse anesthetist-controlled sedation (ACS)
+T5	Interventions 488 556	department's standard of care, midazolam given by the procedure team
+T6	Interventions 648 651	PCS
+T7	Interventions 701 709	propofol
+T8	Interventions 752 755	ACS
+T9	Interventions 791 799	propofol
+T10	Interventions 956 965	midazolam
+T11	Interventions 1021 1024	PCS
+T12	Interventions 1029 1032	ACS
+T13	Interventions 1125 1148	midazolam sedation (ACS
+T14	Interventions 1156 1159	PCS
+T15	Interventions 1167 1176	midazolam
+T16	Interventions 1190 1193	ACS
+T17	Interventions 1296 1299	PCS
+T18	Interventions 1304 1313	midazolam
+T19	Interventions 1376 1390	following PCS.
+T20	Interventions 1391 1394	PCS
+T21	Interventions 1476 1491	for PCS and ACS
+T22	Interventions 1506 1534	CONCLUSION PCS with propofol
+T23	Interventions 1547 1559	to midazolam
+T24	Interventions 1575 1582	to ACS.
+T25	Interventions 1583 1586	PCS
+T26	Interventions 1671 1677	as ACS

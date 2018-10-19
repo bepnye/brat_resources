@@ -1,0 +1,11 @@
+T0	Outcomes 42 51	treatment
+T1	Outcomes 55 88	naturally occurring common colds.
+T2	Outcomes 501 540	mean durations of pretreatment symptoms
+T3	Outcomes 559 583	median duration of colds
+T4	Outcomes 764 779	median duration
+T5	Outcomes 928 990	respiratory symptom scores or resolution of specific symptoms.
+T6	Outcomes 1249 1279	respiratory illness occurrence
+T7	Outcomes 1379 1399	blood in nasal mucus
+T8	Outcomes 1463 1474	Antibiotics
+T9	Outcomes 1666 1703	effective treatment for natural colds
+T10	Outcomes 1729 1738	toxicity.

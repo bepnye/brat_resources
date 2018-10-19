@@ -1,0 +1,7 @@
+T0	Outcomes 879 1002	values for plasma amprenavir (APV) area under the concentration-time profile over the dosing interval (tau) at steady state
+T1	Outcomes 1017 1134	maximum concentration of drug in plasma (C(max)), and plasma concentration at the end of tau at steady state (C(tau))
+T2	Outcomes 1186 1238	values for plasma RTV AUC(0-tau), C(max), and C(tau)
+T3	Outcomes 1394 1446	values for plasma APV AUC(0-tau), C(max), and C(tau)
+T4	Outcomes 1509 1550	plasma RTV AUC(0-tau), C(max), and C(tau)
+T5	Outcomes 1746 1792	rate of marked hepatic transaminase elevations
+T6	Outcomes 1797 1831	lack of pharmacokinetic advantage.

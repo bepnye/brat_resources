@@ -1,0 +1,16 @@
+T0	Outcomes 0 32	[Specific T cell immune response
+T1	Outcomes 155 187	specific cellular immunoresponse
+T2	Outcomes 749 783	HBV DNA, HBeAg and liver functions
+T3	Outcomes 853 870	secrete IFN-gamma
+T4	Outcomes 888 896	ELISPOT.
+T5	Outcomes 945 967	ELISPOT positive ratio
+T6	Outcomes 1057 1073	ELISPOT positive
+T7	Outcomes 1169 1185	ELISPOT positive
+T8	Outcomes 1355 1362	HBV DNA
+T9	Outcomes 1508 1546	HBeAg/Anti-HBe seroconversion or HBeAg
+T10	Outcomes 1630 1705	undetectable HBV DNA, HBeAg/Anti-HBe seroconversion or HBeAg disappearance.
+T11	Outcomes 1756 1781	ELISPOT positive, HBV DNA
+T12	Outcomes 1919 1971	HBeAg/Anti-HBe seroconversion or HBeAg disappearance
+T13	Outcomes 2062 2069	HBV DNA
+T14	Outcomes 2091 2121	HBeAg/Anti-HBe seroconversion.
+T15	Outcomes 2186 2220	function of specific T lymphocytes

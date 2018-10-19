@@ -1,0 +1,12 @@
+T0	Outcomes 703 762	Echocardiographic, hemodynamic, and biochemical assessments
+T1	Outcomes 914 1033	End-systolic wall stress, the left ventricular ejection fraction, pulmonary capillary wedge pressure, and cardiac index
+T2	Outcomes 1145 1253	Plasma N-terminal-pro-B-type natriuretic peptide, tumor necrosis factor-alpha, and soluble Fas ligand levels
+T3	Outcomes 1466 1479	interleukin-6
+T4	Outcomes 1521 1579	Levosimendan-induced reduction in end-systolic wall stress
+T5	Outcomes 1638 1679	N-terminal-pro-B-type natriuretic peptide
+T6	Outcomes 1702 1729	tumor necrosis factor-alpha
+T7	Outcomes 1752 1763	soluble Fas
+T8	Outcomes 1790 1808	soluble Fas ligand
+T9	Outcomes 1831 1850	Event-free survival
+T10	Outcomes 1989 2009	central hemodynamics
+T11	Outcomes 2014 2042	left ventricular performance

@@ -1,0 +1,12 @@
+T1	Intervention 188 259	serum prostate-specific antigen (PSA), digital rectal examination (DRE)
+T2	Intervention 265 299	transrectal ultrasonography (TRUS)
+T3	Intervention 467 470	PSA
+T4	Intervention 475 478	DRE
+T5	Intervention 510 514	TRUS
+T6	Intervention 981 984	PSA
+T7	Intervention 1135 1138	DRE
+T8	Intervention 1154 1158	PSA.
+T9	Intervention 1212 1215	PSA
+T10	Intervention 1277 1280	DRE
+T11	Intervention 1283 1286	PSA
+T12	Intervention 1292 1296	PSA+

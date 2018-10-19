@@ -1,0 +1,17 @@
+T0	Outcomes 27 59	distant metastasis and mortality
+T1	Outcomes 757 787	tumor nuclei staining positive
+T2	Outcomes 848 885	per-sample mean intensity score (MIS)
+T3	Outcomes 964 986	overall mortality (OM)
+T4	Outcomes 1054 1113	distant metastasis (DM) and cause-specific mortality (CSM).
+T5	Outcomes 1203 1222	MDM2 overexpression
+T6	Outcomes 1252 1254	DM
+T7	Outcomes 1288 1308	Ki-67 overexpression
+T8	Outcomes 1338 1340	DM
+T9	Outcomes 1354 1357	CSM
+T10	Outcomes 1375 1377	OM
+T11	Outcomes 1389 1407	P53 overexpression
+T12	Outcomes 1437 1439	OM
+T13	Outcomes 1487 1524	overexpression of both Ki-67 and MDM2
+T14	Outcomes 1560 1597	significantly increased failure rates
+T15	Outcomes 1669 1701	MDM2 and Ki-67 expression levels
+T16	Outcomes 1732 1764	distant metastasis and mortality

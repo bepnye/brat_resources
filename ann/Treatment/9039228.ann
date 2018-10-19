@@ -1,8 +1,0 @@
-T1	Treatment 93 105	radiotherapy
-T2	Treatment 109 126	combined therapy.
-T3	Treatment 283 301	radiotherapy alone
-T4	Treatment 333 440	radiotherapy (the same schedule) plus adjuvant chemotherapy (cyclophosphamide, vincristine and prednisone).
-T5	Treatment 529 541	radiotherapy
-T6	Treatment 726 742	combined therapy
-T7	Treatment 795 816	adjuvant chemotherapy
-T8	Treatment 998 1010	radiotherapy

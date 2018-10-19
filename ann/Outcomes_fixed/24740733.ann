@@ -1,0 +1,13 @@
+T0	Outcomes 25 83	clinical, histological and neurophysiological examinations
+T1	Outcomes 527 583	histological properties of tumor (its size and location)
+T2	Outcomes 588 681	clinical and neurophysiological assessment of facial nerve function pre- and post-operatively
+T3	Outcomes 792 811	Clinical assessment
+T4	Outcomes 825 1041	House-Brackmann scale (H-B), neurophysiological diagnostics included facial electroneurography [ENG, compound muscle action potential (CMAP)], mimetic muscle electromyography (EMG) and blink-reflex examinations (BR).
+T5	Outcomes 1060 1063	H-B
+T6	Outcomes 1368 1383	CMAP amplitudes
+T7	Outcomes 1538 1543	CMAPs
+T8	Outcomes 1629 1640	BR results.
+T9	Outcomes 1641 1652	H-B and ENG
+T10	Outcomes 1794 1865	clinically silent facial nerve neuropathy of mandibular marginal branch
+T11	Outcomes 1891 1926	Needle EMG, ENG and BR examinations
+T12	Outcomes 1955 2012	face muscles reinnervation and facial nerve regeneration.

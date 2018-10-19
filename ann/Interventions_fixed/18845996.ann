@@ -1,0 +1,9 @@
+T0	Interventions 71 83	chemotherapy
+T1	Interventions 118 165	doxorubicin or pegylated liposomal doxorubicin:
+T2	Interventions 305 317	chemotherapy
+T3	Interventions 323 383	doxorubicin (DOX) or a pegylated liposomal formulation (PLD)
+T4	Interventions 507 510	DOX
+T5	Interventions 541 544	PLD
+T6	Interventions 1337 1340	DOX
+T7	Interventions 1348 1351	PLD
+T8	Interventions 1849 1882	anthracycline-based chemotherapy.

@@ -1,0 +1,12 @@
+T0	Outcomes 963 1163	pain relief scores, number of daily doses of study medication, number of daily doses of supplemental analgesics, number of patients who discontinued therapy due to an unsatisfactory analgesic response
+T1	Outcomes 1712 1748	overall mean daily pain relief score
+T2	Outcomes 1901 1955	overall mean number of daily doses of study medication
+T3	Outcomes 2105 2166	overall mean number of daily doses of supplemental analgesics
+T4	Outcomes 2312 2401	number of patients who discontinued treatment due to an unsatisfactory analgesic response
+T5	Outcomes 2551 2569	pain relief scores
+T6	Outcomes 2693 2724	daily doses of study medication
+T7	Outcomes 2776 2814	daily doses of supplemental analgesics
+T8	Outcomes 2857 2881	global assessment scores
+T9	Outcomes 3095 3103	efficacy
+T10	Outcomes 3159 3205	number of patients experiencing adverse events
+T11	Outcomes 3288 3360	mean number of patients who discontinued treatment due to adverse events

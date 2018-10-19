@@ -1,0 +1,14 @@
+Adult
+Aged
+Anticholesteremic Agents
+Carotid Artery Diseases
+Cholesterol, HDL
+Diabetes Mellitus, Type 2
+Female
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypercholesterolemia
+Male
+Middle Aged
+Prospective Studies
+Young Adult

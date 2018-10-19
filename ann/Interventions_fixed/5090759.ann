@@ -1,0 +1,4 @@
+T0	Interventions 0 21	Psychiatric treatment
+T1	Interventions 161 190	dermatological treatment only
+T2	Interventions 219 275	same dermatological treatment plus psychiatric treatment
+T3	Interventions 606 627	psychiatric treatment

@@ -1,0 +1,10 @@
+T1	Intervention 15 39	chloroquine, amodiaquine
+T2	Intervention 44 77	chloroquine plus chlorpheniramine
+T3	Intervention 223 257	chloroquine (CQ), amodiaquine (AQ)
+T4	Intervention 262 286	CQ plus chlorpheniramine
+T5	Intervention 849 880	CQ plus chlorpheniramine (CQCP)
+T6	Intervention 1554 1558	CQCP
+T7	Intervention 1838 1842	CQCP
+T8	Intervention 2149 2153	CQCP
+T9	Intervention 2401 2417	chlorpheniramine
+T10	Intervention 2421 2432	chloroquine

@@ -1,0 +1,10 @@
+T0	Interventions 0 15	Dexmedetomidine
+T1	Interventions 93 101	propofol
+T2	Interventions 273 294	dexmedetomidine (DEX)
+T3	Interventions 593 601	propofol
+T4	Interventions 663 679	isotonic saline.
+T5	Interventions 724 843	DEX 0.25 µg/kg, 0.5 µg/kg, or 1.0 µg/kg, respectively, mixed with isotonic saline immediately before propofol injection
+T6	Interventions 879 942	received DEX as above, but 5 minutes before propofol injection.
+T7	Interventions 943 1031	Propofol consisted of 1% long-chain triglyceride propofol (2.5 mg/kg) injected at 1 mL/s
+T8	Interventions 1504 1509	after
+T9	Interventions 1572 1583	intravenous

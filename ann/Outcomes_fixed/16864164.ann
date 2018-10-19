@@ -1,0 +1,9 @@
+T0	Outcomes 775 800	loco-regional recurrences
+T1	Outcomes 935 953	distant metastases
+T2	Outcomes 1055 1079	recurrence-free survival
+T3	Outcomes 1092 1108	Overall survival
+T4	Outcomes 1356 1391	recurrence-free or overall survival
+T5	Outcomes 1426 1461	risk of a second primary malignancy
+T6	Outcomes 1549 1568	second lung cancers
+T7	Outcomes 1599 1631	cumulative incidence at 20 years
+T8	Outcomes 1763 1788	loco-regional recurrences

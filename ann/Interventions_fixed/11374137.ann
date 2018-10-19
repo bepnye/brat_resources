@@ -1,0 +1,13 @@
+T0	Interventions 15 46	video assisted thoracic surgery
+T1	Interventions 283 314	insertion of a chest tube (ICT)
+T2	Interventions 405 439	video assisted thoracoscopy (VATS)
+T3	Interventions 671 683	ICT or VATS.
+T4	Interventions 688 691	ICT
+T5	Interventions 764 768	VATS
+T6	Interventions 808 811	ICT
+T7	Interventions 875 879	VATS
+T8	Interventions 927 930	ICT
+T9	Interventions 1057 1061	VATS
+T10	Interventions 1107 1110	ICT
+T11	Interventions 1115 1119	VATS
+T12	Interventions 1185 1189	VATS

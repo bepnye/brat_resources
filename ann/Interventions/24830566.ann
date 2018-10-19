@@ -1,0 +1,14 @@
+T1	Intervention 0 25	Caudal epidural analgesia
+T2	Intervention 32 47	lidocaine alone
+T3	Intervention 54 79	combination with ketamine
+T4	Intervention 186 239	lidocaine and a combination of lidocaine and ketamine
+T5	Intervention 403 412	lidocaine
+T6	Intervention 480 488	ketamine
+T7	Intervention 506 515	lidocaine
+T8	Intervention 835 853	epidural lidocaine
+T9	Intervention 879 901	lidocaine and ketamine
+T10	Intervention 993 1019	lidocaine-ketamine mixture
+T11	Intervention 1092 1110	epidural lidocaine
+T12	Intervention 1256 1283	lidocaine-ketamine mixture.
+T13	Intervention 1333 1356	lidocaine plus ketamine
+T14	Intervention 1474 1483	lidocaine

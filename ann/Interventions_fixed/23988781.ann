@@ -1,0 +1,18 @@
+T0	Interventions 46 62	cardiac surgery:
+T1	Interventions 74 103	transfusion of residual blood
+T2	Interventions 110 161	centrifugation and multiple-pass hemoconcentration.
+T3	Interventions 249 321	methods of centrifugation (CF) and multiple-pass hemoconcentration (MPH)
+T4	Interventions 650 665	cardiac surgery
+T5	Interventions 671 694	cardiopulmonary bypass.
+T6	Interventions 720 776	centrifugation or multiple-pass hemoconcentration method
+T7	Interventions 958 972	centrifugation
+T8	Interventions 998 1029	multiple-pass hemoconcentration
+T9	Interventions 1125 1156	multiple-pass hemoconcentration
+T10	Interventions 1182 1196	centrifugation
+T11	Interventions 1324 1355	multiple-pass hemoconcentration
+T12	Interventions 1390 1404	centrifugation
+T13	Interventions 1513 1544	multiple-pass hemoconcentration
+T14	Interventions 1570 1584	centrifugation
+T15	Interventions 1616 1625	CF method
+T16	Interventions 1704 1711	heparin
+T17	Interventions 1717 1727	MPH method

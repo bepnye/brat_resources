@@ -1,0 +1,17 @@
+T0	Interventions 11 28	static stretching
+T1	Interventions 120 137	static stretching
+T2	Interventions 207 236	repeated sprint ability (RSA)
+T3	Interventions 241 273	change of direction speed (CODS)
+T4	Interventions 413 416	RSA
+T5	Interventions 420 424	CODS
+T6	Interventions 512 579	six maximal sprint repetitions, with a 4-min recovery between sets.
+T7	Interventions 635 657	rested (control [CON])
+T8	Interventions 673 721	static stretching protocol (static stretch [SS])
+T9	Interventions 727 730	RSA
+T10	Interventions 745 766	straight-line sprints
+T11	Interventions 780 784	CODS
+T12	Interventions 1069 1099	static stretching intervention
+T13	Interventions 1388 1395	RSA-SS.
+T14	Interventions 1451 1458	CODS-SS
+T15	Interventions 1483 1491	CODS-CON
+T16	Interventions 1671 1688	static stretching

@@ -1,0 +1,12 @@
+T0	Outcomes 183 235	T lymphocytes, NK cell number and cytotoxic activity
+T1	Outcomes 339 394	absolute lymphocyte number and percentage of CD3 cells.
+T2	Outcomes 415 425	CD16 cells
+T3	Outcomes 459 485	NK cell cytotoxic activity
+T4	Outcomes 660 676	hematocrit level
+T5	Outcomes 725 731	anemia
+T6	Outcomes 823 858	CD3, CD4, CD8 and CD16 cell numbers
+T7	Outcomes 876 890	CD4/CD8 ratio.
+T8	Outcomes 891 921	Cytotoxic activity of NK cells
+T9	Outcomes 1044 1062	lymphocyte number.
+T10	Outcomes 1142 1170	CD8 and CD16 cell percentage
+T11	Outcomes 1203 1217	CD4/CD8 ratio.

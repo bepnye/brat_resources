@@ -1,0 +1,9 @@
+T0	Interventions 54 86	carboplatin/paclitaxel/cetuximab
+T1	Interventions 210 283	cetuximab combined with two different schedules of paclitaxel/carboplatin
+T2	Interventions 442 451	cetuximab
+T3	Interventions 503 523	+ paclitaxel (Taxol)
+T4	Interventions 529 556	mg/m(2))/carboplatin (AUC6)
+T5	Interventions 592 625	cetuximab regimen plus paclitaxel
+T6	Interventions 672 687	and carboplatin
+T7	Interventions 865 874	cetuximab
+T8	Interventions 1503 1540	cetuximab plus paclitaxel/carboplatin

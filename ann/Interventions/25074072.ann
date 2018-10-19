@@ -1,0 +1,14 @@
+T1	Intervention 16 86	multiphasic oral contraceptives containing norgestimate or desogestrel
+T2	Intervention 197 298	triphasic combined oral contraceptives (OCs) containing ethinyl estradiol (EE) and norgestimate (NGM)
+T3	Intervention 303 360	biphasic combined OCs containing EE and desogestrel (DSG)
+T4	Intervention 771 777	EE/NGM
+T5	Intervention 807 813	EE/DSG
+T6	Intervention 868 885	EE/NGM and EE/DSG
+T7	Intervention 1065 1071	EE/NGM
+T8	Intervention 1139 1145	EE/DSG
+T9	Intervention 1252 1255	OCs
+T10	Intervention 1267 1284	EE/NGM and EE/DSG
+T11	Intervention 1366 1372	EE/NGM
+T12	Intervention 1437 1444	EE/DSG.
+T13	Intervention 1458 1475	EE/NGM and EE/DSG
+T14	Intervention 1480 1495	multiphasic OCs

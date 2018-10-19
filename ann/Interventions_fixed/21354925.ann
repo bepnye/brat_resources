@@ -1,0 +1,18 @@
+T0	Interventions 12 21	parecoxib
+T1	Interventions 25 33	morphine
+T2	Interventions 58 86	patient-controlled analgesia
+T3	Interventions 97 131	thoracoscope-assisted thoracotomy]
+T4	Interventions 169 178	parecoxib
+T5	Interventions 201 235	patient-controlled analgesia (PCA)
+T6	Interventions 246 280	thoracoscope-assisted thoracotomy.
+T7	Interventions 337 370	thoracoscope-assisted thoracotomy
+T8	Interventions 414 431	PCA with morphine
+T9	Interventions 481 487	saline
+T10	Interventions 545 554	Parecoxib
+T11	Interventions 643 680	(4-5 ml) of lidocaine and ropivacaine
+T12	Interventions 782 785	PCA
+T13	Interventions 985 988	PCA
+T14	Interventions 1056 1059	PCA
+T15	Interventions 1692 1701	parecoxib
+T16	Interventions 1727 1735	morphine
+T17	Interventions 1739 1742	PCA

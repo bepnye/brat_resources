@@ -1,0 +1,11 @@
+T0	Interventions 0 11	Paracetamol
+T1	Interventions 129 162	paracetamol (acetaminophen, APAP)
+T2	Interventions 287 319	naloxone, the opioid antagonist.
+T3	Interventions 481 539	intravenous paracetamol (APAP 1 g) or saline (placebo, pl)
+T4	Interventions 565 597	IV naloxone (Nal 8 mg) or saline
+T5	Interventions 996 1003	APAP/pl
+T6	Interventions 1097 1106	APAP/Nal.
+T7	Interventions 1262 1270	APAP/Nal
+T8	Interventions 1448 1456	naloxone
+T9	Interventions 1474 1485	paracetamol
+T10	Interventions 1565 1576	paracetamol

@@ -1,0 +1,10 @@
+T1	Intervention 15 27	bladder flap
+T2	Intervention 31 49	cesarean delivery:
+T3	Intervention 136 148	bladder flap
+T4	Intervention 171 190	cesarean deliveries
+T5	Intervention 325 363	primary and repeat cesarean deliveries
+T6	Intervention 400 408	creation
+T7	Intervention 420 428	omission
+T8	Intervention 538 557	abdominal surgeries
+T9	Intervention 566 585	cesarean deliveries
+T10	Intervention 1009 1037	omission of the bladder flap

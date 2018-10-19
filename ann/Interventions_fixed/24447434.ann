@@ -1,0 +1,18 @@
+T0	Interventions 0 22	Phosphorylated p-70S6K
+T1	Interventions 32 41	tamoxifen
+T2	Interventions 122 131	tamoxifen
+T3	Interventions 139 161	no systemic treatment.
+T4	Interventions 194 230	phosphatidylinositol-3-kinase (PI3K)
+T5	Interventions 238 277	mitogen-activated protein kinase (MAPK)
+T6	Interventions 492 509	endocrine therapy
+T7	Interventions 549 566	rapamycine (mTOR)
+T8	Interventions 637 665	adjuvant endocrine treatment
+T9	Interventions 962 971	tamoxifen
+T10	Interventions 1133 1183	adjuvant tamoxifen (1-3 years) versus observation.
+T11	Interventions 1205 1223	tissue micro-array
+T12	Interventions 1486 1499	and tamoxifen
+T13	Interventions 1557 1623	between tamoxifen and p-AKT(Thr308), p-mTOR, p-p70S6K and p-ERK1/2
+T14	Interventions 1672 1680	p-p70S6K
+T15	Interventions 1715 1729	with tamoxifen
+T16	Interventions 1809 1823	from tamoxifen
+T17	Interventions 2230 2248	adjuvant tamoxifen

@@ -1,0 +1,6 @@
+T0	Outcomes 34 56	EEG seizure morphology
+T1	Outcomes 134 163	heart rate and blood pressure
+T2	Outcomes 504 523	seizure morphology.
+T3	Outcomes 723 871	duration of motor convulsion, duration of electroencephalogram (EEG) seizure, degree of seizure regularity, and degree of postictal EEG suppression.
+T4	Outcomes 944 976	quality of the ictal regularity.
+T5	Outcomes 1058 1075	ictal regularity.

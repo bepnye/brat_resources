@@ -1,0 +1,13 @@
+T0	Outcomes 41 108	intracranial pressure, cerebral blood flow, and cerebral metabolism
+T1	Outcomes 210 217	effects
+T2	Outcomes 248 331	on intracranial pressure (ICP), cerebral blood flow (CBF), and cerebral metabolism.
+T3	Outcomes 654 657	ICP
+T4	Outcomes 745 799	CBF and the arteriovenous difference of oxygen (AVDO2)
+T5	Outcomes 901 904	ICP
+T6	Outcomes 1035 1038	CBF
+T7	Outcomes 1081 1087	AVDO2.
+T8	Outcomes 1120 1223	cerebral metabolic rate of oxygen, the arteriovenous difference of lactate, or the lactate/oxygen index
+T9	Outcomes 1323 1327	dura
+T10	Outcomes 1383 1387	dura
+T11	Outcomes 1425 1443	cerebral swelling.
+T12	Outcomes 1504 1520	dural tightness.

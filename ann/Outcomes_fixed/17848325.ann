@@ -1,0 +1,10 @@
+T0	Outcomes 975 1054	(operative time, fluid absorption, complications, need for second intervention)
+T1	Outcomes 1091 1180	(pregnancy, abortion, term and preterm delivery, modality of delivery, cervical cerclage)
+T2	Outcomes 1196 1231	Operative time and fluid absorption
+T3	Outcomes 1386 1414	cumulative complication rate
+T4	Outcomes 1495 1518	reproductive parameters
+T5	Outcomes 1554 1582	pregnancy and delivery rates
+T6	Outcomes 1717 1739	spontaneous abortions.
+T7	Outcomes 1775 1811	cesarean section without differences
+T8	Outcomes 2202 2216	operating time
+T9	Outcomes 2227 2245	complication rate.

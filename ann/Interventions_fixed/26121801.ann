@@ -1,0 +1,13 @@
+T0	Interventions 11 40	Preoperative Oral Rehydration
+T1	Interventions 114 145	oral rehydration solution (ORS)
+T2	Interventions 238 248	rocuronium
+T3	Interventions 302 306	ORS.
+T4	Interventions 460 463	ORS
+T5	Interventions 495 506	(ORS group)
+T6	Interventions 511 527	nothing by mouth
+T7	Interventions 559 574	(control group)
+T8	Interventions 607 615	propofol
+T9	Interventions 620 632	remifentanil
+T10	Interventions 638 648	rocuronium
+T11	Interventions 1028 1031	ORS
+T12	Interventions 1082 1085	ORS

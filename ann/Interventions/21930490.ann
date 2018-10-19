@@ -1,0 +1,10 @@
+T1	Intervention 27 76	everolimus-eluting and paclitaxel-eluting stents:
+T2	Intervention 227 257	everolimus-eluting stent (EES)
+T3	Intervention 262 292	paclitaxel-eluting stent (PES)
+T4	Intervention 571 604	Consecutive procedural angiograms
+T5	Intervention 638 641	EES
+T6	Intervention 650 656	or PES
+T7	Intervention 1655 1658	EES
+T8	Intervention 1671 1674	PES
+T9	Intervention 1803 1806	EES
+T10	Intervention 1819 1823	PES.

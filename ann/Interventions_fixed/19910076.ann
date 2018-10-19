@@ -1,0 +1,18 @@
+T0	Interventions 0 50	First-line cisplatin with docetaxel or vinorelbine
+T1	Interventions 365 409	Docetaxel (DCT) and cisplatin (CDDP) doublet
+T2	Interventions 477 503	vinorelbine (VNR) and CDDP
+T3	Interventions 561 569	VNR/CDDP
+T4	Interventions 823 858	CDDP 75 mg/m(2) plus DCT 75 mg/m(2)
+T5	Interventions 891 935	CDDP 80 mg/m(2) on day 1 plus VNR 30 mg/m(2)
+T6	Interventions 971 987	G-CSF and/or EPO
+T7	Interventions 1289 1297	DCT/CDDP
+T8	Interventions 1326 1334	VNR/CDDP
+T9	Interventions 1760 1768	DCT/CDDP
+T10	Interventions 1847 1855	VNR/CDDP
+T11	Interventions 2007 2015	DCT/CDDP
+T12	Interventions 2042 2050	VNR/CDDP
+T13	Interventions 2155 2163	DCT/CDDP
+T14	Interventions 2168 2176	VNR/CDDP
+T15	Interventions 2240 2248	VNR/CDDP
+T16	Interventions 2658 2666	VNR/CDDP
+T17	Interventions 2683 2691	DCT/CDDP

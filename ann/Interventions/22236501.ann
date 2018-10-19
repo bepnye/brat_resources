@@ -1,0 +1,13 @@
+T1	Intervention 10 33	antisecretory treatment
+T2	Intervention 121 144	antisecretory treatment
+T3	Intervention 469 549	proton pump inhibitors (PPIs) or histamine H(2) -receptor antagonists (H(2) RAs)
+T4	Intervention 872 889	PPIs (omeprazole;
+T5	Intervention 899 920	H(2) RAs (ranitidine;
+T6	Intervention 971 982	PPI-treated
+T7	Intervention 1067 1070	PPI
+T8	Intervention 1211 1219	H(2) RAs
+T9	Intervention 1302 1310	H(2) RAs
+T10	Intervention 1354 1359	PPIs.
+T11	Intervention 1477 1507	Antisecretory reflux treatment
+T12	Intervention 1566 1570	PPIs
+T13	Intervention 1594 1602	H(2) RAs

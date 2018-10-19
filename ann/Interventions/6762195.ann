@@ -1,0 +1,9 @@
+T1	Intervention 0 13	Immunotherapy
+T2	Intervention 307 375	CROP (cytosine arabinoside, daunorubicin, vincristine, prednisolone)
+T3	Intervention 416 452	(cytosine arabinoside, daunorubicin)
+T4	Intervention 472 488	plus hydroxyurea
+T5	Intervention 610 629	maintenance therapy
+T6	Intervention 656 743	chemo-immunotherapy (BCG plus intradermal leukaemic blast cells) or chemotherapy alone.
+T7	Intervention 831 843	chemotherapy
+T8	Intervention 913 932	chemo-immunotherapy
+T9	Intervention 1237 1251	immunotherapy.

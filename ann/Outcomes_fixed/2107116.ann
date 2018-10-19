@@ -1,0 +1,10 @@
+T0	Outcomes 380 430	complications, mortality, tube function, and cost.
+T1	Outcomes 544 557	Complications
+T2	Outcomes 596 601	died.
+T3	Outcomes 602 615	Complications
+T4	Outcomes 656 661	died.
+T5	Outcomes 771 778	OG cost
+T6	Outcomes 843 865	endoscopic tube change
+T7	Outcomes 872 895	raised their total cost
+T8	Outcomes 1000 1039	morbidity, mortality, or tube function.
+T9	Outcomes 1085 1104	economic advantage.

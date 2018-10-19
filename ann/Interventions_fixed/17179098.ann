@@ -1,0 +1,13 @@
+T0	Interventions 0 19	Dofequidar fumarate
+T1	Interventions 49 96	cyclophosphamide, doxorubicin, and fluorouracil
+T2	Interventions 206 283	dofequidar plus cyclophosphamide, doxorubicin, and fluorouracil (CAF) therapy
+T3	Interventions 303 312	CAF alone
+T4	Interventions 517 535	placebo-controlled
+T5	Interventions 584 596	CAF therapy:
+T6	Interventions 600 773	days/cycle, with doxorubicin (25 mg/m2) and fluorouracil (500 mg/m2) administered on days 1 and 8 and cyclophosphamide (100 mg orally [PO]) administered on day 1 through 14.
+T7	Interventions 792 814	dofequidar (900 mg PO)
+T8	Interventions 846 858	doxorubicin.
+T9	Interventions 1006 1009	CAF
+T10	Interventions 1034 1050	dofequidar + CAF
+T11	Interventions 1624 1634	dofequidar
+T12	Interventions 1702 1718	Dofequidar + CAF

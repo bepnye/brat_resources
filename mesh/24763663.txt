@@ -1,0 +1,22 @@
+Adolescent
+Adult
+Aged
+China
+Disease-Free Survival
+Female
+Humans
+Magnetic Resonance Imaging
+Male
+Middle Aged
+Nasopharyngeal Neoplasms
+Neoplasm Invasiveness
+Prevalence
+Prognosis
+Radiotherapy, Conformal
+Reproducibility of Results
+Risk Assessment
+Sensitivity and Specificity
+Skull Base Neoplasms
+Survival Rate
+Treatment Outcome
+Young Adult

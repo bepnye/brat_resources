@@ -1,0 +1,13 @@
+T0	Interventions 51 79	infliximab plus methotrexate
+T1	Interventions 590 600	infliximab
+T2	Interventions 647 665	methotrexate (MTX)
+T3	Interventions 689 705	MTX plus placebo
+T4	Interventions 929 948	infliximab plus MTX
+T5	Interventions 1275 1294	infliximab plus MTX
+T6	Interventions 1422 1441	infliximab plus MTX
+T7	Interventions 1601 1617	MTX plus placebo
+T8	Interventions 1816 1819	MTX
+T9	Interventions 1917 1944	infliximab plus MTX-treated
+T10	Interventions 2170 2189	infliximab plus MTX
+T11	Interventions 2326 2342	MTX plus placebo
+T12	Interventions 2441 2460	infliximab plus MTX

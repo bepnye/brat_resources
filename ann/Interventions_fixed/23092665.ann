@@ -1,0 +1,8 @@
+T0	Interventions 48 69	proton pump inhibitor
+T1	Interventions 199 236	antiplatelet or anticoagulant therapy
+T2	Interventions 312 347	proton pump inhibitor (PPI) therapy
+T3	Interventions 411 415	PPIs
+T4	Interventions 585 588	PPI
+T5	Interventions 840 934	receive oral PPIs alone (group 1) or intravenous PPI followed by oral administration (group 2)
+T6	Interventions 1320 1324	PPIs
+T7	Interventions 1414 1418	PPIs

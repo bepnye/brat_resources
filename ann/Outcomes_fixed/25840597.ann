@@ -1,0 +1,10 @@
+T0	Outcomes 0 42	Subcutaneous versus intravenous bortezomib
+T1	Outcomes 206 218	subcutaneous
+T2	Outcomes 226 248	intravenous bortezomib
+T3	Outcomes 728 742	Adverse events
+T4	Outcomes 866 912	Rates of grade 2 or more peripheral neuropathy
+T5	Outcomes 1040 1062	Overall response rates
+T6	Outcomes 1145 1246	International Staging System stage III disease, renal impairment or adverse cytogenetic abnormalities
+T7	Outcomes 1450 1458	myeloma.
+T8	Outcomes 1474 1483	tolerance
+T9	Outcomes 1504 1512	response

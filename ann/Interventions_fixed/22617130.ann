@@ -1,0 +1,11 @@
+T0	Interventions 68 82	S-1+paclitaxel
+T1	Interventions 88 101	S-1+cisplatin
+T2	Interventions 203 206	S-1
+T3	Interventions 211 220	cisplatin
+T4	Interventions 586 833	S-1 (40 mg m(-2) twice daily) on days 1-14 plus paclitaxel (60 mg m(-2)) on days 1, 8, and 15 of a 4-week cycle (S-1+paclitaxel) or S-1 (40 mg m(-2) twice daily) on days 1-21 plus cisplatin (60 mg m(-2)) on day 8 of a 5-week cycle (S-1+cisplatin).
+T5	Interventions 1068 1082	S-1+paclitaxel
+T6	Interventions 1087 1100	S-1+cisplatin
+T7	Interventions 1395 1409	S-1+cisplatin.
+T8	Interventions 1518 1532	S-1+cisplatin.
+T9	Interventions 1544 1558	S-1+paclitaxel
+T10	Interventions 1604 1630	non-platinum-based regimen

@@ -1,0 +1,9 @@
+T0	Outcomes 60 81	nosocomial infections
+T1	Outcomes 212 233	Nosocomial infections
+T2	Outcomes 1310 1372	Nosocomial infections of the blood, meninges, or urinary tract
+T3	Outcomes 1586 1596	Septicemia
+T4	Outcomes 1717 1738	nosocomial infections
+T5	Outcomes 2041 2058	Adverse reactions
+T6	Outcomes 2143 2273	respiratory distress syndrome, bronchopulmonary dysplasia, intracranial hemorrhage, the duration of hospitalization, or mortality.
+T7	Outcomes 2291 2316	necrotizing enterocolitis
+T8	Outcomes 2495 2523	hospital-acquired infections

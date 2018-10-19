@@ -1,0 +1,9 @@
+T0	Outcomes 674 785	pain score (VAS), hematoma/seroma, urinary retention, wound infection incidence, and duration of hospital stay.
+T1	Outcomes 794 798	Pain
+T2	Outcomes 903 921	postoperative pain
+T3	Outcomes 1009 1017	hematoma
+T4	Outcomes 1063 1069	seroma
+T5	Outcomes 1117 1126	infection
+T6	Outcomes 1235 1263	postoperative complications.
+T7	Outcomes 1278 1299	mean of hospital stay
+T8	Outcomes 1690 1700	activities

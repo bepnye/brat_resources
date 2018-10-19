@@ -1,0 +1,28 @@
+T0	Outcomes 49 69	cytotoxicity-effects
+T1	Outcomes 98 112	survival rates
+T2	Outcomes 1519 1541	complete response (CR)
+T3	Outcomes 1551 1572	partial response (PR)
+T4	Outcomes 1583 1602	stable disease (SD)
+T5	Outcomes 1613 1632	progressive disease
+T6	Outcomes 1652 1678	overall response rate (RR)
+T7	Outcomes 1769 1808	RR based on an intent-to-treat analysis
+T8	Outcomes 1833 1848	Median survival
+T9	Outcomes 1890 1915	granulocytopenia grade IV
+T10	Outcomes 1926 1945	febrile neutropenia
+T11	Outcomes 2037 2039	CR
+T12	Outcomes 2048 2050	PR
+T13	Outcomes 2061 2063	SD
+T14	Outcomes 2076 2078	PD
+T15	Outcomes 2095 2105	overall RR
+T16	Outcomes 2174 2213	RR based on an intent-to-treat analysis
+T17	Outcomes 2238 2253	Median survival
+T18	Outcomes 2367 2394	RR was significantly higher
+T19	Outcomes 2508 2562	clinical response making additional treatment feasible
+T20	Outcomes 2567 2573	higher
+T21	Outcomes 2611 2684	proportion of patients with a performance status 2+3 achieving a response
+T22	Outcomes 2753 2782	significantly longer survival
+T23	Outcomes 2818 2839	survival at 12 months
+T24	Outcomes 2902 2948	Grade IV granulocytopenia and thrombocytopenia
+T25	Outcomes 2954 2967	more frequent
+T26	Outcomes 2989 3016	haematological side-effects
+T27	Outcomes 3073 3085	cytotoxicity

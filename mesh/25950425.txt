@@ -1,0 +1,23 @@
+Abdominal Wall
+Administration, Oral
+Adolescent
+Adult
+Aged
+Analysis of Variance
+Anesthetics
+Blood Pressure
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Elective Surgical Procedures
+Female
+Humans
+Infusions, Intravenous
+Lidocaine
+Male
+Middle Aged
+Morphine
+Pain Measurement
+Pain, Postoperative
+Pregabalin
+Time Factors
+Young Adult

@@ -1,0 +1,14 @@
+T0	Outcomes 1269 1282	blood samples
+T1	Outcomes 1319 1645	plasma concentrations of angiotensinogen, an estrogen-sensitive hepatic protein, and serum concentrations of sex hormone-binding globulin (SHBG), total cholesterol (TC), high-density lipoprotein cholesterol (HDL-C), low-density lipoprotein cholesterol (LDL-C), triglycerides (TG) and estrogen- and androgen-sensitive proteins.
+T2	Outcomes 1646 1648	BP
+T3	Outcomes 2064 2079	angiotensinogen
+T4	Outcomes 2230 2258	systolic BP and diastolic BP
+T5	Outcomes 2302 2305	DBP
+T6	Outcomes 2578 2629	angiotensinogen, sensitive only to estrogen, or BP.
+T7	Outcomes 2697 2738	estrogen- and androgen-sensitive proteins
+T8	Outcomes 2767 2770	TC.
+T9	Outcomes 2924 2928	SHBG
+T10	Outcomes 3000 3005	HDL-C
+T11	Outcomes 3028 3033	LDL-C
+T12	Outcomes 3063 3065	TG
+T13	Outcomes 3184 3244	EE-associated changes in estrogen-sensitive hepatic proteins

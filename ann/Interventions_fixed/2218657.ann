@@ -1,0 +1,17 @@
+T0	Interventions 14 41	cefuroxime axetil, cefaclor
+T1	Interventions 47 80	amoxicillin-clavulanate potassium
+T2	Interventions 327 350	cefuroxime axetil (CAE)
+T3	Interventions 366 380	cefaclor (CEC)
+T4	Interventions 399 441	amoxicillin-clavulanate potassium (AMX-CL)
+T5	Interventions 744 747	CAE
+T6	Interventions 795 801	AMX-CL
+T7	Interventions 962 965	CAE
+T8	Interventions 970 973	CEC
+T9	Interventions 1018 1024	AMX-CL
+T10	Interventions 1029 1033	CEC.
+T11	Interventions 1070 1073	CEC
+T12	Interventions 1109 1113	CAE.
+T13	Interventions 1149 1155	AMX-CL
+T14	Interventions 1174 1177	CAE
+T15	Interventions 1181 1184	CEC
+T16	Interventions 1355 1362	AMX-CL.

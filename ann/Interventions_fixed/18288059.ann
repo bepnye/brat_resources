@@ -1,0 +1,6 @@
+T0	Interventions 397 421	second-line chemotherapy
+T1	Interventions 477 499	platinum-based regimen
+T2	Interventions 588 615	mono chemotherapy docetaxel
+T3	Interventions 623 651	docetaxel cisplatin doublet.
+T4	Interventions 704 723	docetaxel cisplatin
+T5	Interventions 861 876	docetaxel alone

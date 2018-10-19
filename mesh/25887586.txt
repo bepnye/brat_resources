@@ -1,0 +1,14 @@
+Adult
+Aged
+Aged, 80 and over
+Arthroplasty, Replacement, Hip
+Female
+Femur Neck
+Humans
+Leg Length Inequality
+Male
+Middle Aged
+Osteotomy
+Postoperative Complications
+Single-Blind Method
+Treatment Outcome

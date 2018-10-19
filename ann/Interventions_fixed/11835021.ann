@@ -1,0 +1,10 @@
+T0	Interventions 4 35	Low Energy Safety Study (LESS):
+T1	Interventions 187 234	implantable cardioverter defibrillators (ICDs).
+T2	Interventions 239 269	Low Energy Safety Study (LESS)
+T3	Interventions 417 455	defibrillation threshold testing (DFT)
+T4	Interventions 471 482	ICD implant
+T5	Interventions 602 772	initial 2 shocks for ventricular fibrillation conversion programmed at 2 energy steps above DFT++ (typically 4-6 J, maximum 10 J) with subsequent shocks at maximum energy
+T6	Interventions 793 833	all shocks programmed at maximum energy.
+T7	Interventions 1066 1071	DFT++
+T8	Interventions 1362 1381	antiarrhythmic drug
+T9	Interventions 1633 1637	LESS

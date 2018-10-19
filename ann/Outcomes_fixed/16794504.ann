@@ -1,0 +1,9 @@
+T0	Outcomes 1036 1081	event-free survival (EFS) or overall survival
+T1	Outcomes 1100 1103	EFS
+T2	Outcomes 1136 1153	complete response
+T3	Outcomes 1350 1360	3-year EFS
+T4	Outcomes 1418 1428	8-year EFS
+T5	Outcomes 1433 1449	overall survival
+T6	Outcomes 1471 1490	long-term toxicity.
+T7	Outcomes 1497 1516	response to therapy
+T8	Outcomes 1544 1547	EFS

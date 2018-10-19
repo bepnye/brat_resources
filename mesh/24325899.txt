@@ -1,0 +1,16 @@
+Adult
+Aged
+Carcinoma, Endometrioid
+Electrosurgery
+Endometrial Neoplasms
+Female
+Genital Neoplasms, Female
+Humans
+Hysterectomy
+Italy
+Laparoscopy
+Lymph Node Excision
+Middle Aged
+Operative Time
+Pain, Postoperative
+Uterine Cervical Neoplasms

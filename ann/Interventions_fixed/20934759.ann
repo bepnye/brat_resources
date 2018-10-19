@@ -1,0 +1,13 @@
+T0	Interventions 4 35	maximal double step length test
+T1	Interventions 156 182	maximal double step length
+T2	Interventions 224 254	maximal step length (MSL) test
+T3	Interventions 440 443	MSL
+T4	Interventions 654 657	MSL
+T5	Interventions 662 666	MDSL
+T6	Interventions 789 790	.
+T7	Interventions 791 803	MSL and MDSL
+T8	Interventions 932 941	(for MSL:
+T9	Interventions 952 961	for MDSL:
+T10	Interventions 1104 1105	.
+T11	Interventions 1106 1110	MDSL
+T12	Interventions 1272 1280	than MSL

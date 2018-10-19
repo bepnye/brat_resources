@@ -1,0 +1,14 @@
+T0	Interventions 0 43	Prolonged GnRH agonist and add-back therapy
+T1	Interventions 190 202	GnRH agonist
+T2	Interventions 224 250	three "add-back" regimens.
+T3	Interventions 335 353	placebo-controlled
+T4	Interventions 403 421	leuprolide acetate
+T5	Interventions 473 481	placebo;
+T6	Interventions 490 511	norethindrone acetate
+T7	Interventions 518 547	C-daily norethindrone acetate
+T8	Interventions 557 584	conjugated equine estrogens
+T9	Interventions 607 628	norethindrone acetate
+T10	Interventions 638 665	conjugated equine estrogens
+T11	Interventions 1456 1468	GnRH agonist
+T12	Interventions 1473 1500	norethindrone acetate alone
+T13	Interventions 1518 1554	low-dose conjugated equine estrogens

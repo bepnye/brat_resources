@@ -1,0 +1,10 @@
+T0	Outcomes 94 103	mortality
+T1	Outcomes 606 615	mortality
+T2	Outcomes 1078 1102	risk of arrhythmic death
+T3	Outcomes 1122 1151	risk of nonarrhythmic deaths.
+T4	Outcomes 1237 1261	risk of arrhythmic death
+T5	Outcomes 1341 1360	nonarrhythmic death
+T6	Outcomes 1535 1561	yearly hazard of mortality
+T7	Outcomes 1653 1665	sudden death
+T8	Outcomes 1717 1737	nonarrhythmic deaths
+T9	Outcomes 2044 2059	nonsudden death

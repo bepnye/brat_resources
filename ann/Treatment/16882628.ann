@@ -1,8 +1,0 @@
-T1	Treatment 253 309	sensory level-high volt pulsed electrical current (HVPC)
-T2	Treatment 711 740	experimental condition (HVPC)
-T3	Treatment 746 753	placebo
-T4	Treatment 815 819	HVPC
-T5	Treatment 946 953	placebo
-T6	Treatment 1282 1299	(HVPC or placebo)
-T7	Treatment 1586 1590	HVPC
-T8	Treatment 1624 1631	placebo

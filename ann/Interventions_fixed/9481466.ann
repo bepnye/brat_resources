@@ -1,0 +1,8 @@
+T0	Interventions 287 413	One group received computer-generated, customized letters explaining recommended preventive procedures for each family member.
+T1	Interventions 414 533	A second group received a form letter listing recommendations for all preventive procedures for all age and sex groups.
+T2	Interventions 534 584	A third group (control group) received no letters.
+T3	Interventions 1182 1200	customized letters
+T4	Interventions 1398 1416	customized letters
+T5	Interventions 1617 1624	control
+T6	Interventions 1639 1650	form-letter
+T7	Interventions 1752 1781	customizing reminder letters.

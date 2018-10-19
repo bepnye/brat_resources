@@ -1,0 +1,5 @@
+T1	Intervention 0 58	Whole-body CT screening: scan delay and contrast injection
+T2	Intervention 210 264	contrast-enhanced whole-body computed tomography (CT).
+T3	Intervention 353 481	protocol A-scan delay of 65 s after starting contrast injection over 30 s; protocol B-105 and 70 s; and protocol C-145 and 110 s
+T4	Intervention 729 739	protocol C
+T5	Intervention 797 811	whole-body CT.

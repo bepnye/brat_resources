@@ -1,0 +1,12 @@
+T1	Intervention 301 344	whole pelvic conventional radiation therapy
+T2	Intervention 361 398	intensity modulated radiation therapy
+T3	Intervention 612 741	randomized to receive 50.4 Gy in 28 fractions delivered via either WP-CRT or WP-IMRT with concurrent weekly cisplatin 40 mg/m(2).
+T4	Intervention 742 932	Acute toxicity was graded according to the Common Terminology Criteria for Adverse Events, version 3.0, and late toxicity was graded according to the Radiation Therapy Oncology Group system.
+T5	Intervention 1092 1098	WP-CRT
+T6	Intervention 1115 1123	WP-IMRT.
+T7	Intervention 1131 1137	WP-CRT
+T8	Intervention 1214 1218	IMRT
+T9	Intervention 1497 1503	WP-CRT
+T10	Intervention 1528 1535	WP-IMRT
+T11	Intervention 1948 1966	CONCLUSION WP-IMRT
+T12	Intervention 2023 2034	with WP-CRT

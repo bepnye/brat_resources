@@ -1,0 +1,10 @@
+T0	Interventions 10 22	beta-alanine
+T1	Interventions 41 59	sodium bicarbonate
+T2	Interventions 147 199	beta-alanine with sodium bicarbonate supplementation
+T3	Interventions 345 377	either a placebo or beta-alanine
+T4	Interventions 460 482	before supplementation
+T5	Interventions 514 537	days of supplementation
+T6	Interventions 700 841	conditions (placebo with maltodextrin; placebo with sodium bicarbonate; beta-alanine with maltodextrin; beta-alanine with sodium bicarbonate)
+T7	Interventions 1015 1051	RESULTS Beta-alanine supplementation
+T8	Interventions 1580 1662	CONCLUSIONS Both chronic beta-alanine and acute sodium bicarbonate supplementation
+T9	Interventions 1725 1801	addition of acute sodium bicarbonate to chronic beta-alanine supplementation

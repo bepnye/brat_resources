@@ -1,0 +1,8 @@
+T0	Outcomes 0 14	Sedation depth
+T1	Outcomes 110 154	intraoperative Bispectral Index (BIS) values
+T2	Outcomes 285 304	hip fracture repair
+T3	Outcomes 401 409	survival
+T4	Outcomes 465 474	mortality
+T5	Outcomes 586 602	1-year mortality
+T6	Outcomes 815 831	1-year mortality
+T7	Outcomes 998 1061	reduced mortality after light sedation during spinal anesthesia

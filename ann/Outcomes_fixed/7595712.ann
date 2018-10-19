@@ -1,0 +1,11 @@
+T0	Outcomes 220 283	response rate, time to disease progression, or overall survival
+T1	Outcomes 1112 1121	survival;
+T2	Outcomes 1137 1160	assessable for response
+T3	Outcomes 1173 1182	toxicity.
+T4	Outcomes 1183 1199	Myelosuppression
+T5	Outcomes 1204 1211	greater
+T6	Outcomes 1222 1241	Objective responses
+T7	Outcomes 1403 1429	median time to progression
+T8	Outcomes 1474 1495	median survival times
+T9	Outcomes 1619 1640	2-year survival rates
+T10	Outcomes 1744 1784	time to progression and overall survival

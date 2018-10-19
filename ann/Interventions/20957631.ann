@@ -1,0 +1,10 @@
+T1	Intervention 48 94	clinician-collected and self-collected samples
+T2	Intervention 529 575	self-collected and clinician-collected samples
+T3	Intervention 587 604	cervical cytology
+T4	Intervention 857 868	cryotherapy
+T5	Intervention 956 973	colposcopy/biopsy
+T6	Intervention 1042 1059	colposcopy/biopsy
+T7	Intervention 1210 1237	clinician-collected samples
+T8	Intervention 1311 1338	clinician-collected samples
+T9	Intervention 1631 1653	self-collected samples
+T10	Intervention 1756 1788	self-collected vaginal specimens

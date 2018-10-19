@@ -1,0 +1,15 @@
+T0	Interventions 18 26	warfarin
+T1	Interventions 296 304	warfarin
+T2	Interventions 324 332	warfarin
+T3	Interventions 350 357	control
+T4	Interventions 573 581	Warfarin
+T5	Interventions 796 805	verapamil
+T6	Interventions 810 833	other antianginal drugs
+T7	Interventions 861 901	Low molecular weight dextran and heparin
+T8	Interventions 938 945	heparin
+T9	Interventions 1169 1177	warfarin
+T10	Interventions 1467 1474	control
+T11	Interventions 1775 1783	warfarin
+T12	Interventions 1871 1880	verapamil
+T13	Interventions 1885 1893	warfarin
+T14	Interventions 1913 1920	aspirin

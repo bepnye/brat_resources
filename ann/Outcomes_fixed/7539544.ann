@@ -1,0 +1,10 @@
+T0	Outcomes 209 263	endoscopic retrograde cholangiopancreatography (ERCP).
+T1	Outcomes 294 331	basal blood sugar and amylase levels.
+T2	Outcomes 404 446	basal pulse and duodenal peristaltic rates
+T3	Outcomes 638 647	variables
+T4	Outcomes 695 708	hyperglycemia
+T5	Outcomes 756 779	anticholinergic effect.
+T6	Outcomes 848 875	necessary interval for ERCP
+T7	Outcomes 932 973	success rate for cholangiopancreatography
+T8	Outcomes 1008 1040	hyperamylasemia nor pancreatitis
+T9	Outcomes 1148 1168	performance of ERCP.

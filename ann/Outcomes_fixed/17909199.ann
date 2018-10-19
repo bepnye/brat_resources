@@ -1,0 +1,11 @@
+T0	Outcomes 18 37	efficacy and safety
+T1	Outcomes 899 931	progression-free survival (PFS).
+T2	Outcomes 1142 1156	adverse events
+T3	Outcomes 1251 1275	result of adverse events
+T4	Outcomes 1370 1388	grade 5 hemorrhage
+T5	Outcomes 1509 1545	risk of disease progression or death
+T6	Outcomes 1714 1736	One-year survival rate
+T7	Outcomes 1879 1903	PFS and overall survival
+T8	Outcomes 2041 2055	safety signals
+T9	Outcomes 2072 2106	rate of fatal pulmonary hemorrhage
+T10	Outcomes 2160 2176	toxicity profile

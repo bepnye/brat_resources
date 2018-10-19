@@ -1,0 +1,7 @@
+T0	Outcomes 282 290	accuracy
+T1	Outcomes 441 471	cardiovascular risk assessment
+T2	Outcomes 856 887	cardiovascular risk assessment.
+T3	Outcomes 929 957	accuracy of risk assessments
+T4	Outcomes 978 1088	difference between the 10-year cardiovascular risk percentage calculated by nurses and an independent assessor
+T5	Outcomes 1098 1244	the agreement between the treatment categories assigned by the nurses (low, moderate or high risk) and those assigned by the independent assessor.
+T6	Outcomes 1567 1601	cardiovascular risk miscalculated.

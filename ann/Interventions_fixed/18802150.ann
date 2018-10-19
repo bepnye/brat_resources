@@ -1,0 +1,14 @@
+T0	Interventions 73 100	treatment--cyclophosphamide
+T1	Interventions 115 125	ifosfamide
+T2	Interventions 181 190	etoposide
+T3	Interventions 330 346	cyclophosphamide
+T4	Interventions 373 383	ifosfamide
+T5	Interventions 443 452	etoposide
+T6	Interventions 617 696	vincristine, dactinomycin, ifosfamide, and doxorubicin (VAIA) induction therapy
+T7	Interventions 730 844	VAIA or vincristine, dactinomycin, cyclophosphamide, and doxorubicin (VACA; cyclophosphamide replacing ifosfamide)
+T8	Interventions 947 951	VAIA
+T9	Interventions 955 982	VAIA plus etoposide (EVAIA)
+T10	Interventions 1230 1234	VAIA
+T11	Interventions 1268 1272	VACA
+T12	Interventions 1298 1302	VAIA
+T13	Interventions 1341 1347	EVAIA.

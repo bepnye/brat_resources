@@ -1,0 +1,13 @@
+T0	Interventions 46 123	single-incision laparoscopic vs conventional 3-port laparoscopic appendectomy
+T1	Interventions 187 230	single-incision laparoscopic surgery (SILS)
+T2	Interventions 343 365	multiport laparoscopy.
+T3	Interventions 480 484	SILS
+T4	Interventions 488 521	3-port laparoscopic appendectomy.
+T5	Interventions 610 651	SILS or 3-port laparoscopic appendectomy.
+T6	Interventions 1133 1137	SILS
+T7	Interventions 1356 1364	for SILS
+T8	Interventions 1433 1439	Only 1
+T9	Interventions 1454 1473	converted to 3-port
+T10	Interventions 1732 1747	However, 3-port
+T11	Interventions 1826 1835	0.04) and
+T12	Interventions 1951 2012	CONCLUSIONS Single-incision laparoscopic surgery appendectomy

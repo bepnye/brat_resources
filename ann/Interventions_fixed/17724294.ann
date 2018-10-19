@@ -1,0 +1,6 @@
+T0	Interventions 0 27	Statin treatment withdrawal
+T1	Interventions 247 285	statin pretreatment and its withdrawal
+T2	Interventions 444 450	statin
+T3	Interventions 494 615	statin withdrawal for the first 3 days after admission (n = 46) or to immediately receive atorvastatin 20 mg/day (n = 43)
+T4	Interventions 1216 1237	non-statin-withdrawal
+T5	Interventions 1245 1251	Statin

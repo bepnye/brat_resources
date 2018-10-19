@@ -1,0 +1,11 @@
+T0	Interventions 11 25	pyridostigmine
+T1	Interventions 30 38	naloxone
+T2	Interventions 654 657	TRH
+T3	Interventions 951 1093	TRH tests were performed after an overnight (8 hours) fast, placebo administrations (control test), and after prolonged (56 hours) starvation.
+T4	Interventions 1094 1295	TRH tests after prolonged starvation were performed either after placebos (in all subjects) or the administration of pyridostigmine (180 mg orally) (in 7 subjects, group 1); naloxone (0.8 mg in an i.v.
+T5	Interventions 1296 1414	bolus injection) (in 7 subjects, group 2); or the combination of pyridostigmine and naloxone (in 7 subjects, group 3).
+T6	Interventions 1487 1590	TRH plus placebo, TRH plus naloxone, TRH plus pyridostigmine, and TRH plus naloxone plus pyridostigmine
+T7	Interventions 1780 1794	pyridostigmine
+T8	Interventions 1799 1807	naloxone
+T9	Interventions 2252 2266	pyridostigmine
+T10	Interventions 2271 2274	TRH

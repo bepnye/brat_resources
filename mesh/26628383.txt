@@ -1,0 +1,22 @@
+Aged
+Aged, 80 and over
+Anticoagulants
+Atrial Fibrillation
+Body Mass Index
+Cardiovascular Diseases
+Case-Control Studies
+Comorbidity
+Embolism
+Factor Xa Inhibitors
+Female
+Humans
+Logistic Models
+Male
+Multivariate Analysis
+Obesity
+Oligosaccharides
+Overweight
+Proportional Hazards Models
+Risk Factors
+Stroke
+Warfarin

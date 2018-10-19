@@ -1,0 +1,8 @@
+T0	Interventions 41 90	all-trans retinoic acid to intensive chemotherapy
+T1	Interventions 300 330	all-trans retinoic acid (ATRA)
+T2	Interventions 334 346	chemotherapy
+T3	Interventions 619 623	ATRA
+T4	Interventions 639 730	daunorubicin/Ara-C/thioguanine chemotherapy with Ara-C at standard or double standard dose.
+T5	Interventions 1305 1309	ATRA
+T6	Interventions 1483 1487	ATRA
+T7	Interventions 1680 1701	ATRA to chemotherapy.

@@ -1,0 +1,15 @@
+T0	Interventions 0 54	Pegylated feline granulocyte colony-stimulating factor
+T1	Interventions 146 191	granulocyte-colony stimulating factor (G-CSF)
+T2	Interventions 196 245	off-label use of commercial human G-CSF (HuG-CSF)
+T3	Interventions 319 336	HuG-CSF treatment
+T4	Interventions 582 592	PegFeG-CSF
+T5	Interventions 605 623	FeG-CSF or HuG-CSF
+T6	Interventions 737 744	FeG-CSF
+T7	Interventions 793 800	HuG-CSF
+T8	Interventions 862 875	of PegFeG-CSF
+T9	Interventions 965 976	of FeG-CSF.
+T10	Interventions 977 987	PegFeG-CSF
+T11	Interventions 1176 1195	all HuG-CSF-treated
+T12	Interventions 1357 1372	when PegFeG-CSF
+T13	Interventions 1397 1417	with HuG-CSF-induced
+T14	Interventions 1478 1494	Thus, PegFeG-CSF

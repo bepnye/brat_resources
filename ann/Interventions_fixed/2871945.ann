@@ -1,0 +1,10 @@
+T0	Interventions 21 67	high-dose medroxyprogesterone acetate (HD-MPA)
+T1	Interventions 105 117	chemotherapy
+T2	Interventions 320 327	placebo
+T3	Interventions 407 432	Combination therapy, (CT)
+T4	Interventions 518 521	MPA
+T5	Interventions 540 547	placebo
+T6	Interventions 753 756	MPA
+T7	Interventions 1059 1067	CT + MPA
+T8	Interventions 1103 1116	CT + placebo.
+T9	Interventions 1226 1229	MPA

@@ -1,0 +1,12 @@
+T0	Interventions 0 20	Arginine vasopressin
+T1	Interventions 137 163	arginine vasopressin (AVP)
+T2	Interventions 389 444	Atrial natriuretic factor 15 pmol kg-1 min-1 or placebo
+T3	Interventions 520 551	AVP 0.003 pmol kg-1 min-1 or P;
+T4	Interventions 574 584	P + P, AVP
+T5	Interventions 590 611	P + ANF and AVP + ANF
+T6	Interventions 626 651	Atrial natriuretic factor
+T7	Interventions 829 849	Arginine vasopressin
+T8	Interventions 921 930	AVP + ANF
+T9	Interventions 972 979	P + ANF
+T10	Interventions 1201 1204	AVP
+T11	Interventions 1267 1271	ANF.

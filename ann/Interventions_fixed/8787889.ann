@@ -1,0 +1,5 @@
+T0	Interventions 167 175	imipenem
+T1	Interventions 180 189	meropenem
+T2	Interventions 283 377	constant 30-min infusion of either 1 g of imipenem plus 1 g of cilastatin or 1 g of meropenem.
+T3	Interventions 434 497	determined by bioassay and high-pressure liquid chromatography.
+T4	Interventions 547 602	two-compartment model and a noncompartmental technique.

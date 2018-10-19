@@ -1,0 +1,13 @@
+T0	Outcomes 754 885	Plasma total cholesterol, HDL-cholesterol, LDL-cholesterol and triglycerides, urinary protein excretion and the number of podocytes
+T1	Outcomes 1007 1024	total cholesterol
+T2	Outcomes 1036 1051	LDL-cholesterol
+T3	Outcomes 1066 1079	triglycerides
+T4	Outcomes 1108 1135	increase in HDL-cholesterol
+T5	Outcomes 1200 1225	Urinary protein excretion
+T6	Outcomes 1299 1325	urinary podocyte excretion
+T7	Outcomes 1430 1501	lipid levels, urinary protein excretion and urinary podocyte excretion.
+T8	Outcomes 1611 1626	LDL-cholesterol
+T9	Outcomes 1637 1650	triglycerides
+T10	Outcomes 1660 1675	HDL-cholesterol
+T11	Outcomes 1686 1701	urinary protein
+T12	Outcomes 1715 1732	urinary podocytes

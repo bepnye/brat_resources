@@ -1,0 +1,18 @@
+T1	Intervention 46 57	cryotherapy
+T2	Intervention 104 115	interferon.
+T3	Intervention 148 167	interferon alpha-2a
+T4	Intervention 186 207	adjuvant chemotherapy
+T5	Intervention 271 282	cryotherapy
+T6	Intervention 350 368	placebo-controlled
+T7	Intervention 550 614	cryotherapy plus subcutaneously administered interferon alpha-2a
+T8	Intervention 632 657	cryotherapy plus placebo.
+T9	Intervention 833 846	chemotherapy.
+T10	Intervention 876 897	adjuvant chemotherapy
+T11	Intervention 943 950	placebo
+T12	Intervention 1021 1031	interferon
+T13	Intervention 1045 1052	placebo
+T14	Intervention 1117 1135	interferon therapy
+T15	Intervention 1149 1159	interferon
+T16	Intervention 1171 1178	placebo
+T17	Intervention 1243 1262	Interferon alpha-2a
+T18	Intervention 1314 1354	chemotherapeutic adjuvant to cryotherapy

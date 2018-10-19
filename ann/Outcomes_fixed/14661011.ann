@@ -1,0 +1,13 @@
+T0	Outcomes 569 597	infarct vessel patency rates
+T1	Outcomes 628 658	short- and long-term outcomes.
+T2	Outcomes 1218 1232	blood pressure
+T3	Outcomes 1278 1308	median time from symptom onset
+T4	Outcomes 1446 1458	balloon time
+T5	Outcomes 1517 1528	needle time
+T6	Outcomes 1565 1582	TIMI grade 3 flow
+T7	Outcomes 1666 1687	ST-segment resolution
+T8	Outcomes 1811 1834	presence of TIMI 3 flow
+T9	Outcomes 1933 2014	in-hospital death, reinfarction, severe heart failure, stroke, and major bleeding
+T10	Outcomes 2134 2204	composite end point of AMI, postdischarge revascularization, and death
+T11	Outcomes 2366 2387	ST-segment resolution
+T12	Outcomes 2396 2409	patency rates

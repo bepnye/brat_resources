@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Antibodies, Monoclonal, Humanized
+Antineoplastic Combined Chemotherapy Protocols
+Bevacizumab
+Deoxycytidine
+Digestive System Surgical Procedures
+Female
+Fluorouracil
+Humans
+Leucovorin
+Magnetic Resonance Imaging
+Male
+Middle Aged
+Neoadjuvant Therapy
+Neoplasm Recurrence, Local
+Organoplatinum Compounds
+Rectal Neoplasms

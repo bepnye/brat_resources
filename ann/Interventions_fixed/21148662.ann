@@ -1,0 +1,11 @@
+T0	Interventions 20 51	angiotensin II-receptor blocker
+T1	Interventions 56 95	dihydropiridine calcium channel blocker
+T2	Interventions 360 398	angiotensin II-receptor blockers (ARB)
+T3	Interventions 435 478	conventional calcium channel blockers (CCB)
+T4	Interventions 686 703	ARB (candesartan)
+T5	Interventions 710 726	CCB (amlodipine)
+T6	Interventions 803 829	transtelephonic monitoring
+T7	Interventions 1267 1270	ARB
+T8	Interventions 1292 1295	CCB
+T9	Interventions 2006 2020	by candesartan
+T10	Interventions 2047 2062	over amlodipine

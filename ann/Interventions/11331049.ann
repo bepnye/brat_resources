@@ -1,0 +1,15 @@
+T1	Intervention 64 121	realtime teledermatology compared with conventional care:
+T2	Intervention 241 265	realtime teledermatology
+T3	Intervention 280 320	conventional outpatient dermatology care
+T4	Intervention 600 625	telemedicine consultation
+T5	Intervention 645 691	conventional hospital outpatient consultation.
+T6	Intervention 709 721	telemedicine
+T7	Intervention 799 814	conventionally.
+T8	Intervention 1028 1065	realtime teledermatology consultation
+T9	Intervention 1207 1232	conventional consultation
+T10	Intervention 1334 1349	teledermatology
+T11	Intervention 1380 1397	conventional care
+T12	Intervention 1575 1587	telemedicine
+T13	Intervention 1592 1618	conventional consultations
+T14	Intervention 1682 1707	telemedicine consultation
+T15	Intervention 1734 1760	conventional consultation.

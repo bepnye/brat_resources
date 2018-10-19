@@ -1,0 +1,9 @@
+T0	Outcomes 852 940	Symptom and medication scores, skin test results and (in asthmatic patients) FEV1 values
+T1	Outcomes 971 986	Adverse effects
+T2	Outcomes 1036 1091	significant improvement in symptom and medication usage
+T3	Outcomes 1106 1132	skin test scores decreased
+T4	Outcomes 1150 1163	FEV1 improved
+T5	Outcomes 1189 1225	symptom and skin test scores did not
+T6	Outcomes 1240 1246	change
+T7	Outcomes 1260 1262	No
+T8	Outcomes 1272 1287	adverse effects

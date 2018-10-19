@@ -1,0 +1,9 @@
+T0	Outcomes 790 805	characteristics
+T1	Outcomes 852 868	median follow-up
+T2	Outcomes 906 948	actuarial relapse-free survival (RFS) rate
+T3	Outcomes 1052 1073	overall survival (OS)
+T4	Outcomes 1179 1199	7-year actuarial RFS
+T5	Outcomes 1272 1310	corresponding actuarial survival rates
+T6	Outcomes 1448 1451	RFS
+T7	Outcomes 1882 1893	probability
+T8	Outcomes 1897 1906	survival.

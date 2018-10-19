@@ -1,0 +1,15 @@
+T0	Interventions 34 72	high-frequency oscillatory ventilation
+T1	Interventions 189 227	high-frequency oscillatory ventilation
+T2	Interventions 509 555	protective conventional mechanical ventilation
+T3	Interventions 584 644	three 1-hr periods of high-frequency oscillatory ventilation
+T4	Interventions 738 757	5, 10, or 15 cm H2O
+T5	Interventions 906 948	during conventional mechanical ventilation
+T6	Interventions 985 1029	at high-frequency oscillatory ventilation+15
+T7	Interventions 1111 1153	During conventional mechanical ventilation
+T8	Interventions 1424 1435	ratio>0.9).
+T9	Interventions 1436 1477	High-frequency oscillatory ventilation+10
+T10	Interventions 1716 1800	with conventional mechanical ventilation or high-frequency oscillatory ventilation+5
+T11	Interventions 2434 2478	at high-frequency oscillatory ventilation+15
+T12	Interventions 2595 2639	under high-frequency oscillatory ventilation
+T13	Interventions 2692 2743	with protective conventional mechanical ventilation
+T14	Interventions 2960 3005	during high-frequency oscillatory ventilation

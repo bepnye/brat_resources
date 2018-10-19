@@ -1,0 +1,8 @@
+T0	Interventions 25 34	labetalol
+T1	Interventions 38 49	hydralazine
+T2	Interventions 215 239	labetalol or hydralazine
+T3	Interventions 381 410	labetalol treatment (Group A)
+T4	Interventions 421 456	hydralazine treatment (Group B) and
+T5	Interventions 469 550	received both drugs due to poor blood pressure control with a single drug therapy
+T6	Interventions 1501 1512	hydralazine
+T7	Interventions 1516 1526	labetalol.

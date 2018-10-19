@@ -1,0 +1,7 @@
+T0	Outcomes 1029 1050	The proton SBRT plans
+T1	Outcomes 1059 1071	the CW doses
+T2	Outcomes 1091 1099	measured
+T3	Outcomes 1101 1118	The median CW V20
+T4	Outcomes 1397 1429	the planning target volume (PTV)
+T5	Outcomes 1589 1677	the PTV while significantly reducing the dose to the CW and lung relative to photon SBRT
+T6	Outcomes 1728 1738	of lesions

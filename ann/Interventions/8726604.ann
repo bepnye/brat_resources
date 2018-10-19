@@ -1,0 +1,8 @@
+T1	Intervention 15 26	sevoflurane
+T2	Intervention 31 41	isoflurane
+T3	Intervention 167 178	sevoflurane
+T4	Intervention 184 194	isoflurane
+T5	Intervention 284 353	receive either sevoflurane or isoflurane in 60% nitrous oxide-oxygen.
+T6	Intervention 354 457	Induction with thiopental 3-6 mg/kg was followed by vecuronium 0.1 mg/kg and fentanyl 0-200 micrograms.
+T7	Intervention 665 676	sevoflurane
+T8	Intervention 756 766	isoflurane

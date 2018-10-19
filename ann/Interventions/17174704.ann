@@ -1,0 +1,7 @@
+T1	Intervention 86 226	non-nucleoside reverse transcriptase inhibitors, protease inhibitors, or both in the presence of nucleoside reverse transcriptase inhibitors
+T2	Intervention 391 492	protease inhibitor (PI), non-nucleoside reverse transcriptase inhibitor (NNRTI), or both are lacking.
+T3	Intervention 836 928	protease inhibitor (PI) strategy (PI plus nucleoside reverse transcriptase inhibitor [NRTI];
+T4	Intervention 937 1020	a non-nucleoside reverse transcriptase inhibitor (NNRTI) strategy (NNRTI plus NRTI;
+T5	Intervention 1029 1080	or a three-class strategy (PI plus NNRTI plus NRTI;
+T6	Intervention 2883 2902	NNRTI-based regimen
+T7	Intervention 2908 2924	PI-based regimen

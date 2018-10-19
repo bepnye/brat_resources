@@ -1,0 +1,13 @@
+T0	Interventions 32 39	placebo
+T1	Interventions 66 76	cetirizine
+T2	Interventions 99 114	pseudoephedrine
+T3	Interventions 250 260	cetirizine
+T4	Interventions 289 304	pseudoephedrine
+T5	Interventions 330 337	placebo
+T6	Interventions 542 556	cetirizine/PSE
+T7	Interventions 1234 1248	cetirizine/PSE
+T8	Interventions 1289 1296	placebo
+T9	Interventions 1434 1448	cetirizine/PSE
+T10	Interventions 1459 1466	placebo
+T11	Interventions 1587 1594	placebo
+T12	Interventions 1786 1800	cetirizine/PSE

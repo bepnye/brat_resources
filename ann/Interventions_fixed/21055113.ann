@@ -1,0 +1,11 @@
+T0	Interventions 69 84	simple drainage
+T1	Interventions 98 119	continuous irrigation
+T2	Interventions 160 180	presacral irrigation
+T3	Interventions 185 200	simple drainage
+T4	Interventions 249 282	abdominoperineal resection (APR).
+T5	Interventions 429 451	APR or proctocolectomy
+T6	Interventions 484 499	simple drainage
+T7	Interventions 519 540	continuous irrigation
+T8	Interventions 589 604	simple drainage
+T9	Interventions 669 690	continuous irrigation
+T10	Interventions 1774 1839	Simple drainage with continuous irrigation of the presacral space

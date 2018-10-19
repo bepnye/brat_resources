@@ -1,0 +1,11 @@
+T0	Interventions 0 60	Gemcitabine combined with either pemetrexed or paclitaxel in
+T1	Interventions 228 269	combination of gemcitabine and pemetrexed
+T2	Interventions 501 519	either gemcitabine
+T3	Interventions 543 557	and pemetrexed
+T4	Interventions 579 602	followed by gemcitabine
+T5	Interventions 645 648	(GA
+T6	Interventions 658 668	paclitaxel
+T7	Interventions 681 704	followed by gemcitabine
+T8	Interventions 766 769	(PG
+T9	Interventions 1531 1542	PG regimen.
+T10	Interventions 1572 1582	GA regimen

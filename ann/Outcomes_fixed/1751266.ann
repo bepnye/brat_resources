@@ -1,0 +1,6 @@
+T0	Outcomes 256 303	"hypnosis" (loss of response to verbal command)
+T1	Outcomes 308 381	"anaesthesia" (loss of response to a 5-s transcutaneous tetanic stimulus)
+T2	Outcomes 475 508	hypnosis, synergistic interaction
+T3	Outcomes 648 659	anaesthesia
+T4	Outcomes 705 736	required to produce anaesthesia
+T5	Outcomes 822 852	arterial pressure at induction

@@ -1,0 +1,9 @@
+T0	Interventions 10 26	triiodothyronine
+T1	Interventions 76 95	open heart surgery.
+T2	Interventions 168 189	triiodothyronine (T3)
+T3	Interventions 232 261	cardiopulmonary bypass (CPB).
+T4	Interventions 288 290	T3
+T5	Interventions 482 484	T3
+T6	Interventions 768 770	T3
+T7	Interventions 791 806	T3 therapy, CPB
+T8	Interventions 1036 1038	T3

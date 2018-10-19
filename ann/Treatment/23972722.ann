@@ -1,6 +1,0 @@
-T1	Treatment 528 553	64 Gy vs 70 Gy salvage RT
-T2	Treatment 576 609	intense quality assurance program
-T3	Treatment 675 690	dummy run (DR).
-T4	Treatment 1158 1193	3-dimensional conformal RT (3D-CRT)
-T5	Treatment 1228 1257	intensity modulated RT (IMRT)
-T6	Treatment 1261 1303	volumetric modulated arc technique (VMAT).

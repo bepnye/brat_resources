@@ -1,0 +1,9 @@
+T1	Intervention 0 27	Communication interventions
+T2	Intervention 192 222	speech-generating device (SGD)
+T3	Intervention 485 583	blended developmental/behavioral intervention (JASP+EMT) with or without the augmentation of a SGD
+T4	Intervention 790 805	adding the SGD)
+T5	Intervention 1167 1244	blended behavioral intervention that began by including an SGD (JASP+EMT+SGD)
+T6	Intervention 1259 1289	spoken words alone (JASP+EMT).
+T7	Intervention 1366 1378	JASP+EMT+SGD
+T8	Intervention 1396 1408	JASP+EMT+SGD
+T9	Intervention 1706 1710	SGD.

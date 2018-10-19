@@ -1,0 +1,12 @@
+T0	Outcomes 45 62	indirect benefits
+T1	Outcomes 372 416	dispatcher cardiopulmonary (CPR) instruction
+T2	Outcomes 556 569	bystander CPR
+T3	Outcomes 894 914	Bystander CPR status
+T4	Outcomes 998 1023	bystander CPR (any B-CPR)
+T5	Outcomes 1052 1130	bystander CPR with or without dispatcher assistance (DA-CPR and B-CPR, no DA).
+T6	Outcomes 1193 1198	B-CPR
+T7	Outcomes 1269 1274	B-CPR
+T8	Outcomes 1413 1432	receiving any B-CPR
+T9	Outcomes 1570 1576	DA-CPR
+T10	Outcomes 1679 1700	Odds of bystander CPR
+T11	Outcomes 1775 1782	DA-CPR.

@@ -1,0 +1,14 @@
+T1	Intervention 0 10	Infliximab
+T2	Intervention 67 79	methotrexate
+T3	Intervention 132 150	Methotrexate (MTX)
+T4	Intervention 176 186	infliximab
+T5	Intervention 259 269	infliximab
+T6	Intervention 398 415	MTX on infliximab
+T7	Intervention 544 560	infliximab alone
+T8	Intervention 612 643	or infliximab combined with MTX
+T9	Intervention 658 668	Infliximab
+T10	Intervention 873 883	infliximab
+T11	Intervention 1194 1210	infliximab + MTX
+T12	Intervention 1283 1293	infliximab
+T13	Intervention 1457 1475	MTX and infliximab
+T14	Intervention 1526 1536	infliximab

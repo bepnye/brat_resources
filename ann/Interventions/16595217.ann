@@ -1,0 +1,25 @@
+T1	Intervention 0 35	Conventional in vitro fertilization
+T2	Intervention 43 75	intracytoplasmic sperm injection
+T3	Intervention 239 255	conventional IVF
+T4	Intervention 259 299	intracytoplasmic sperm injection (ICSI).
+T5	Intervention 458 461	IVF
+T6	Intervention 466 470	ICSI
+T7	Intervention 518 530	IVF and ICSI
+T8	Intervention 767 780	microinjected
+T9	Intervention 824 828	IVF.
+T10	Intervention 891 895	ICSI
+T11	Intervention 910 913	IVF
+T12	Intervention 1028 1031	IVF
+T13	Intervention 1036 1040	ICSI
+T14	Intervention 1099 1103	IVF-
+T15	Intervention 1108 1120	ICSI-treated
+T16	Intervention 1237 1240	IVF
+T17	Intervention 1258 1262	ICSI
+T18	Intervention 1441 1445	ICSI
+T19	Intervention 1465 1469	IVF+
+T20	Intervention 1535 1539	IVF-
+T21	Intervention 1560 1564	IVF+
+T22	Intervention 1699 1703	IVF-
+T23	Intervention 1725 1729	IVF+
+T24	Intervention 1762 1766	ICSI
+T25	Intervention 1933 1938	ICSI.

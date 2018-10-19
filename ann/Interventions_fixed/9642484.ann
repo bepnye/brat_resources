@@ -1,0 +1,26 @@
+T0	Interventions 31 55	calcium channel blockers
+T1	Interventions 61 83	lipid-lowering therapy
+T2	Interventions 139 161	Lipid-lowering therapy
+T3	Interventions 363 392	calcium channel blocker (CCB)
+T4	Interventions 429 433	CCBs
+T5	Interventions 506 529	lipid-lowering therapy.
+T6	Interventions 638 642	CCBs
+T7	Interventions 692 696	CCBs
+T8	Interventions 845 849	CCBs
+T9	Interventions 869 891	lipid-lowering therapy
+T10	Interventions 896 899	CCB
+T11	Interventions 1121 1133	(pravastatin
+T12	Interventions 1138 1146	placebo)
+T13	Interventions 1190 1201	pravastatin
+T14	Interventions 1261 1265	CCBs
+T15	Interventions 1297 1300	CCB
+T16	Interventions 1329 1353	placebo (no pravastatin)
+T17	Interventions 1373 1376	CCB
+T18	Interventions 1459 1470	pravastatin
+T19	Interventions 1554 1558	CCBs
+T20	Interventions 1579 1582	CCB
+T21	Interventions 1611 1635	placebo (no pravastatin)
+T22	Interventions 1675 1678	CCB
+T23	Interventions 1728 1731	CCB
+T24	Interventions 2179 2183	CCBs
+T25	Interventions 2223 2236	(pravastatin)

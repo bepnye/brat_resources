@@ -1,0 +1,9 @@
+T0	Outcomes 491 513	number of transfusions
+T1	Outcomes 1091 1192	number of transfusions, the number of donor exposures, and various clinical and physiologic outcomes.
+T2	Outcomes 1256 1272	RBC transfusions
+T3	Outcomes 1367 1383	number of donors
+T4	Outcomes 1529 1586	percentage of infants who avoided transfusions altogether
+T5	Outcomes 1745 1810	intraparenchymal brain hemorrhage or periventricular leukomalacia
+T6	Outcomes 1825 1856	more frequent episodes of apnea
+T7	Outcomes 1873 1898	mild and severe episodes.
+T8	Outcomes 1996 2027	major adverse neurologic events

@@ -1,0 +1,8 @@
+T0	Interventions 257 284	Combined-modality treatment
+T1	Interventions 398 432	positron emission tomography (PET)
+T2	Interventions 564 598	involved-node radiotherapy (IN-RT)
+T3	Interventions 731 790	ABVD (doxorubicin, bleomycin, vinblastine, and dacarbazine)
+T4	Interventions 817 845	combined-modality treatment.
+T5	Interventions 1371 1379	PET scan
+T6	Interventions 1495 1503	PET scan
+T7	Interventions 1761 1773	PET-negative

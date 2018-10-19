@@ -1,0 +1,18 @@
+T1	Intervention 0 26	Noninfiltrative anesthesia
+T2	Intervention 31 59	transrectal prostate biopsy:
+T3	Intervention 101 127	lidocaine-prilocaine cream
+T4	Intervention 132 156	lidocaine-ketorolac gel.
+T5	Intervention 218 228	anesthesia
+T6	Intervention 422 476	perianal-intrarectal lidocaine-prilocaine (PILP) cream
+T7	Intervention 490 516	Noninfiltrative anesthesia
+T8	Intervention 663 727	perianal-intrarectal (PI) lidocaine gel, lidocaine-ketorolac gel
+T9	Intervention 733 759	lidocaine-prilocaine cream
+T10	Intervention 908 910	PI
+T11	Intervention 938 951	lidocaine gel
+T12	Intervention 1001 1082	5 g 2.5% lidocaine gel and 0.3% ketorolac tromethamine solution 1 hour before TPB
+T13	Intervention 1097 1163	5 g 2.5% lidocaine and 2.5% prilocaine cream 20 minutes before TPB
+T14	Intervention 1725 1734	ketorolac
+T15	Intervention 1738 1761	prilocaine to lidocaine
+T16	Intervention 1873 1914	lidocaine-prilocaine, lidocaine-ketorolac
+T17	Intervention 2311 2343	CONCLUSIONS Lidocaine-prilocaine
+T18	Intervention 2392 2419	whereas lidocaine-ketorolac

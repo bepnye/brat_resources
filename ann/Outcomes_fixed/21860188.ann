@@ -1,0 +1,5 @@
+T0	Outcomes 819 821	AF
+T1	Outcomes 896 932	ventricular tachycardia/fibrillation
+T2	Outcomes 1101 1153	sinus rhythm without cardioversion or defibrillation
+T3	Outcomes 1201 1233	Defibrillation or cardio version
+T4	Outcomes 1395 1417	post bypass arrhythmia

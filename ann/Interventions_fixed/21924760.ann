@@ -1,0 +1,13 @@
+T0	Interventions 178 209	Time in therapeutic range (TTR)
+T1	Interventions 214 250	international normalized ratio (INR)
+T2	Interventions 878 888	the stroke
+T3	Interventions 918 930	the bleeding
+T4	Interventions 992 1000	mean TTR
+T5	Interventions 1004 1021	both stroke cases
+T6	Interventions 1071 1076	cases
+T7	Interventions 1135 1151	range for stroke
+T8	Interventions 1311 1326	period bleeding
+T9	Interventions 1366 1374	controls
+T10	Interventions 1412 1423	CONCLUSIONS
+T11	Interventions 1532 1550	Maintaining a high
+T12	Interventions 1591 1599	and high

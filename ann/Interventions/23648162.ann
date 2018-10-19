@@ -1,0 +1,17 @@
+T1	Intervention 10 80	setting of ventilator volume tidal and airway pressure alarm threshold
+T2	Intervention 86 128	continuous extra-sternum heart compression
+T3	Intervention 205 269	ventilator volume tidal (VT) and airway pressure alarm threshold
+T4	Intervention 277 312	cardiopulmonary resuscitation (CPR)
+T5	Intervention 316 359	continuous extra-sternum heart compression.
+T6	Intervention 487 538	low VT ventilation group and conventional VT group.
+T7	Intervention 594 612	low VT ventilation
+T8	Intervention 714 726	conventional
+T9	Intervention 756 777	conventional VT group
+T10	Intervention 1065 1083	low VT ventilation
+T11	Intervention 1314 1341	conventional VT ventilation
+T12	Intervention 1657 1684	resuscitation in the low VT
+T13	Intervention 1719 1746	that of the conventional VT
+T14	Intervention 1796 1814	(cm H2O) of low VT
+T15	Intervention 1848 1872	that of the conventional
+T16	Intervention 2007 2026	The strategy of low
+T17	Intervention 2121 2153	better than that of conventional

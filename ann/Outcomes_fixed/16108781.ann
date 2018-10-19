@@ -1,0 +1,13 @@
+T0	Outcomes 0 19	Economic evaluation
+T1	Outcomes 334 351	evaluate the cost
+T2	Outcomes 526 556	development and sustainability
+T3	Outcomes 787 814	cost-effectiveness analysis
+T4	Outcomes 966 983	Resource use data
+T5	Outcomes 993 1058	length of stay, investigations performed, multiprofessional input
+T6	Outcomes 1063 1077	nursing input.
+T7	Outcomes 1078 1094	Clinical outcome
+T8	Outcomes 1114 1127	Barthel Index
+T9	Outcomes 1166 1178	Cost per day
+T10	Outcomes 1232 1254	cost per hospital stay
+T11	Outcomes 1313 1347	Postdischarge community care costs
+T12	Outcomes 1364 1400	incremental cost-effectiveness ratio

@@ -1,0 +1,7 @@
+T0	Interventions 22 39	radiation therapy
+T1	Interventions 52 127	split course radiation therapy combined with mitomycin C and 5 fluorouracil
+T2	Interventions 377 423	radiotherapy, 50 Gy in 20 fractions in 28 days
+T3	Interventions 427 708	split course radiotherapy and concurrent chemotherapy, 25 Gy in 10 fractions in 14 days followed by a 4 week rest and a further 25 Gy in 10 fractions in 14 days starting on day 43; Mitomycin C was given on day 1 and day 43 and 5FU continuous infusions on days 1--4 and days 43--46.
+T4	Interventions 1222 1234	radiotherapy
+T5	Interventions 1629 1641	radiotherapy
+T6	Interventions 1646 1705	concurrent chemotherapy with Mitomycin C and 5 Fluorouracil

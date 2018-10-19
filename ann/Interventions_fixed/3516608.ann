@@ -1,0 +1,5 @@
+T0	Interventions 45 64	antiplatelet agents
+T1	Interventions 132 139	aspirin
+T2	Interventions 144 156	dipyridamole
+T3	Interventions 284 324	aspirin plus dipyridamole versus placebo
+T4	Interventions 672 679	placebo

@@ -1,0 +1,17 @@
+T0	Outcomes 0 8	Efficacy
+T1	Outcomes 13 19	safety
+T2	Outcomes 214 222	efficacy
+T3	Outcomes 231 237	safety
+T4	Outcomes 528 603	changes in trough supine systolic and diastolic blood pressure (sSBP, sDBP)
+T5	Outcomes 647 658	Equivalence
+T6	Outcomes 663 671	assessed
+T7	Outcomes 761 775	decreased sSBP
+T8	Outcomes 828 847	confidence interval
+T9	Outcomes 921 952	predefined equivalence interval
+T10	Outcomes 983 997	sDBP decreased
+T11	Outcomes 1099 1118	confidence interval
+T12	Outcomes 1163 1183	equivalence interval
+T13	Outcomes 1204 1229	antihypertensive efficacy
+T14	Outcomes 1254 1264	equivalent
+T15	Outcomes 1356 1360	sSBP
+T16	Outcomes 1398 1408	tolerated.

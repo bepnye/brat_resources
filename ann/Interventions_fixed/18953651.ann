@@ -1,0 +1,6 @@
+T0	Interventions 3 24	adjuvant chemotherapy
+T1	Interventions 245 313	chemoendocrine treatment with that of endocrine treatment (ET) alone
+T2	Interventions 610 681	chemotherapy or endocrine therapy or combined chemoendocrine treatment.
+T3	Interventions 943 955	chemotherapy
+T4	Interventions 1047 1049	ET
+T5	Interventions 1219 1231	Chemotherapy

@@ -1,0 +1,9 @@
+T0	Interventions 73 90	sedation regimens
+T1	Interventions 237 263	standard sedation regimens
+T2	Interventions 595 624	Mini-Mental State Examination
+T3	Interventions 678 717	Telephone Interview of Cognitive Status
+T4	Interventions 730 752	propofol plus fentanyl
+T5	Interventions 850 873	midazolam plus fentanyl
+T6	Interventions 971 985	propofol-alone
+T7	Interventions 1151 1159	propofol
+T8	Interventions 1328 1337	fentanyl.

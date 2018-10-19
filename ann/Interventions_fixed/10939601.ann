@@ -1,0 +1,8 @@
+T0	Interventions 0 32	5-fluorouracil plus folinic acid
+T1	Interventions 49 59	ifosfamide
+T2	Interventions 176 253	5-fluorouracil (5-FU) plus folinic acid (FA) with or without ifosfamide (IFO)
+T3	Interventions 379 381	FA
+T4	Interventions 427 431	5-FU
+T5	Interventions 476 478	FA
+T6	Interventions 524 528	5-FU
+T7	Interventions 567 570	IFO

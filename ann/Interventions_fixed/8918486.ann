@@ -1,0 +1,12 @@
+T0	Interventions 53 115	concurrent cisplatin and preoperative or definitive radiation.
+T1	Interventions 270 338	concurrent cisplatin to preoperative or definitive radiation therapy
+T2	Interventions 615 658	radiotherapy or precystectomy radiotherapy;
+T3	Interventions 708 729	intravenous cisplatin
+T4	Interventions 777 809	concurrent with pelvic radiation
+T5	Interventions 817 856	receive radiation without chemotherapy.
+T6	Interventions 1152 1169	cisplatin-treated
+T7	Interventions 1262 1282	concurrent cisplatin
+T8	Interventions 1669 1678	cisplatin
+T9	Interventions 1711 1731	Concurrent cisplatin
+T10	Interventions 1799 1835	preoperative or definitive radiation
+T11	Interventions 1900 1920	concurrent cisplatin

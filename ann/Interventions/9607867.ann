@@ -1,0 +1,10 @@
+T1	Intervention 27 53	tetanus-diphtheria vaccine
+T2	Intervention 83 134	chloroquine or primaquine malaria chemoprophylaxis.
+T3	Intervention 289 307	placebo-controlled
+T4	Intervention 334 344	primaquine
+T5	Intervention 355 366	chloroquine
+T6	Intervention 469 505	tetanus-diphtheria (Td) vaccination.
+T7	Intervention 610 615	ELISA
+T8	Intervention 1007 1014	placebo
+T9	Intervention 1066 1073	placebo
+T10	Intervention 1078 1089	chloroquine

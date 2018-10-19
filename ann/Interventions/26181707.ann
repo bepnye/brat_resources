@@ -1,0 +1,10 @@
+T1	Intervention 14 24	Cobicistat
+T2	Intervention 39 48	Ritonavir
+T3	Intervention 75 85	Atazanavir
+T4	Intervention 89 150	Combination With Emtricitabine/Tenofovir Disoproxil Fumarate:
+T5	Intervention 181 191	Cobicistat
+T6	Intervention 364 387	COBI vs ritonavir (RTV)
+T7	Intervention 413 487	atazanavir in combination with emtricitabine/tenofovir disoproxil fumarate
+T8	Intervention 610 616	(COBI)
+T9	Intervention 625 630	(RTV)
+T10	Intervention 873 877	COBI

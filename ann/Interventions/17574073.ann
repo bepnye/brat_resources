@@ -1,0 +1,8 @@
+T1	Intervention 129 141	chemotherapy
+T2	Intervention 524 686	various analytic methods to evaluate the probability of response and identify independent predictors of progression-free survival (PFS) and overall survival (OS).
+T3	Intervention 695 707	Single agent
+T4	Intervention 711 744	combination chemotherapy regimens
+T5	Intervention 755 770	doxorubicin (A)
+T6	Intervention 778 799	doxorubicin/cisplatin
+T7	Intervention 812 834	doxorubicin/paclitaxel
+T8	Intervention 851 883	paclitaxel/doxorubicin/cisplatin

@@ -1,0 +1,11 @@
+T1	Intervention 39 56	radiation therapy
+T2	Intervention 359 399	pre- and postoperative radiation (45 Gy)
+T3	Intervention 421 434	surgery only.
+T4	Intervention 517 541	preoperative irradiation
+T5	Intervention 562 586	irradiated postoperative
+T6	Intervention 786 811	preoperatively irradiated
+T7	Intervention 873 880	surgery
+T8	Intervention 920 946	postoperatively irradiated
+T9	Intervention 982 989	surgery
+T10	Intervention 1414 1436	preoperatively treated
+T11	Intervention 1475 1488	postoperative

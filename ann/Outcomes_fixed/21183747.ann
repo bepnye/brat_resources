@@ -1,0 +1,10 @@
+T0	Outcomes 603 648	Death or neurological deterioration at day 10
+T1	Outcomes 712 723	systolic BP
+T2	Outcomes 764 786	mean arterial pressure
+T3	Outcomes 818 832	pulse pressure
+T4	Outcomes 868 882	BP variability
+T5	Outcomes 951 993	deterioration alone, and recurrent stroke.
+T6	Outcomes 1012 1017	death
+T7	Outcomes 1021 1060	neurologic deterioration, deterioration
+T8	Outcomes 1066 1082	recurrent stroke
+T9	Outcomes 1117 1194	high systolic BP, mean arterial pressure, pulse pressure, and BP variability.

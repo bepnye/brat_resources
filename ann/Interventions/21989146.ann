@@ -1,0 +1,8 @@
+T1	Intervention 29 67	levofloxacin, omeprazole, nitazoxanide
+T2	Intervention 73 84	doxycycline
+T3	Intervention 92 106	triple therapy
+T4	Intervention 336 353	four-drug regimen
+T5	Intervention 769 831	levofloxacin, omeprazole, nitazoxanide, and doxycycline (LOAD)
+T6	Intervention 892 1110	levofloxacin 250 mg with breakfast, omeprazole 40 mg before breakfast, nitazoxanide (Alina) 500 mg twice daily with meals and doxycycline 100 mg at dinner, or lansoprozole, amoxicillin, and clarithromycin (LAC) therapy
+T7	Intervention 1139 1254	lansoprozole 30 mg, amoxicillin 1 g with breakfast and dinner, and clarithromycin 500 mg with breakfast and dinner.
+T8	Intervention 1749 1753	LOAD

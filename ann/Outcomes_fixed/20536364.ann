@@ -1,0 +1,9 @@
+T0	Outcomes 904 918	hospital death
+T1	Outcomes 923 968	need for an additional course of antibiotics.
+T2	Outcomes 993 1085	duration of mechanical ventilation, length of hospital stay, and exacerbation-free interval.
+T3	Outcomes 1104 1163	hospital death and additional antibiotic prescription rates
+T4	Outcomes 1347 1361	Hospital death
+T5	Outcomes 1533 1573	need for an additional antibiotic course
+T6	Outcomes 1742 1773	mean exacerbation-free interval
+T7	Outcomes 1982 2034	Duration of mechanical ventilation and hospital stay
+T8	Outcomes 2180 2188	efficacy

@@ -1,0 +1,5 @@
+T1	Intervention 0 51	Hepatectomy Versus Hepatectomy With Lymphadenectomy
+T2	Intervention 314 366	hepatectomy combined with preventive lymphadenectomy
+T3	Intervention 434 466	(treated with hepatectomy alone)
+T4	Intervention 479 532	(underwent hepatectomy combined with lymphadenectomy)
+T5	Intervention 1572 1622	hepatectomy combined with regional lymphadenectomy

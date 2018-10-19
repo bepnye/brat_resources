@@ -1,0 +1,7 @@
+T0	Outcomes 153 212	objective response to chemotherapy using imaging modalities
+T1	Outcomes 304 387	serum tumor markers (TMs), namely carcinoembryonic antigen, CA19-9, DUPAN-2, SPan-1
+T2	Outcomes 455 502	Monitoring of serum TMs and computed tomography
+T3	Outcomes 672 696	fluctuation rates of TMs
+T4	Outcomes 872 897	time to progression (TTP)
+T5	Outcomes 1158 1184	follows: fluctuation rates
+T6	Outcomes 1350 1393	one-month earlier confirmation of treatment

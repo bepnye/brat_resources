@@ -1,0 +1,8 @@
+T0	Outcomes 100 120	antiretroviral-naive
+T1	Outcomes 460 468	efficacy
+T2	Outcomes 473 479	safety
+T3	Outcomes 740 778	baseline median plasma HIV-1 RNA level
+T4	Outcomes 1053 1075	plasma HIV-1 RNA level
+T5	Outcomes 1203 1235	infrequency of virologic failure
+T6	Outcomes 1250 1317	emergence of resistance mutations, CD4 cell increases from baseline
+T7	Outcomes 1350 1421	safety profile, and incidence of ABC-related hypersensitivity reactions

@@ -1,0 +1,15 @@
+T1	Intervention 49 94	cisplatin with cisplatin and cyclophosphamide
+T2	Intervention 265 336	cisplatin 75 mg/m2 or cisplatin 50 mg/m2 and cyclophosphamide 500 mg/m2
+T3	Intervention 471 487	CP and cisplatin
+T4	Intervention 740 756	CP and cisplatin
+T5	Intervention 892 908	CP and cisplatin
+T6	Intervention 1008 1032	carboplatin or cisplatin
+T7	Intervention 1341 1373	platinum-containing chemotherapy
+T8	Intervention 1477 1496	platinum-containing
+T9	Intervention 1501 1514	platinum-free
+T10	Intervention 1701 1718	cisplatin and CP.
+T11	Intervention 1741 1771	cisplatin and cyclophosphamide
+T12	Intervention 1835 1838	CP.
+T13	Intervention 1900 1902	CP
+T14	Intervention 1947 1957	cisplatin.
+T15	Intervention 2100 2128	platinum-containing therapy.

@@ -1,0 +1,7 @@
+T0	Outcomes 1467 1484	actual total dose
+T1	Outcomes 1682 1710	clinical target volume (CTV)
+T2	Outcomes 1817 1847	planned treatment volume (PTV)
+T3	Outcomes 1896 1899	CTV
+T4	Outcomes 1968 1992	cranio-caudal direction.
+T5	Outcomes 2007 2047	treated volumes and total radiation dose
+T6	Outcomes 2188 2219	inter-institutional consistency

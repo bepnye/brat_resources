@@ -1,0 +1,10 @@
+T0	Interventions 0 13	[Radiotherapy
+T1	Interventions 104 148	low- versus high-dose photon bean radiation]
+T2	Interventions 201 227	low-dose radiation therapy
+T3	Interventions 566 595	0 vs 10 vs 36 Gy of radiation
+T4	Interventions 973 978	10 Gy
+T5	Interventions 1157 1162	10 Gy
+T6	Interventions 1499 1505	36 Gy.
+T7	Interventions 1616 1628	10 or 36 Gy.
+T8	Interventions 1680 1685	10 Gy
+T9	Interventions 1813 1819	36 Gy;

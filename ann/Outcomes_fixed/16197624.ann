@@ -1,0 +1,9 @@
+T0	Outcomes 0 6	Safety
+T1	Outcomes 11 19	efficacy
+T2	Outcomes 580 698	overall response rate (ORR), progression-free survival (PFS), overall survival (OS), and occurrence of severe toxicity
+T3	Outcomes 784 787	ORR
+T4	Outcomes 1029 1040	weight loss
+T5	Outcomes 1165 1174	Median OS
+T6	Outcomes 1362 1372	longer OS.
+T7	Outcomes 1373 1392	Grade 4 neutropenia
+T8	Outcomes 1465 1473	diarrhea

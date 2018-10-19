@@ -1,0 +1,11 @@
+T0	Interventions 23 33	didanosine
+T1	Interventions 52 64	itraconazole
+T2	Interventions 173 189	didanosine (ddI)
+T3	Interventions 228 241	itraconazole.
+T4	Interventions 354 372	itraconazole alone
+T5	Interventions 377 411	itraconazole with simultaneous ddI
+T6	Interventions 646 755	single 200-mg oral dose of itraconazole or itraconazole with concomitant oral ddI 300 mg (two 150-mg tablets)
+T7	Interventions 954 966	itraconazole
+T8	Interventions 1267 1279	itraconazole
+T9	Interventions 1501 1527	oral administration of ddI
+T10	Interventions 1566 1579	itraconazole.

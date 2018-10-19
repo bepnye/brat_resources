@@ -1,9 +1,0 @@
-T1	Treatment 0 11	Nicardipine
-T2	Treatment 27 34	esmolol
-T3	Treatment 666 690	nicardipine and esmolol.
-T4	Treatment 948 970	nicardipine or esmolol
-T5	Treatment 1417 1443	(labetalol or hydralazine)
-T6	Treatment 2218 2236	for opioid therapy
-T7	Treatment 2360 2383	for rescue drug therapy
-T8	Treatment 3010 3033	CONCLUSIONS Nicardipine
-T9	Treatment 3046 3056	to esmolol

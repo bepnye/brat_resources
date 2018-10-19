@@ -1,0 +1,6 @@
+T1	Intervention 528 553	64 Gy vs 70 Gy salvage RT
+T2	Intervention 576 609	intense quality assurance program
+T3	Intervention 675 690	dummy run (DR).
+T4	Intervention 1158 1193	3-dimensional conformal RT (3D-CRT)
+T5	Intervention 1228 1257	intensity modulated RT (IMRT)
+T6	Intervention 1261 1303	volumetric modulated arc technique (VMAT).

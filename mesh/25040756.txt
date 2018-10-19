@@ -1,0 +1,15 @@
+Acetaminophen
+Analgesia
+Analgesics, Non-Narcotic
+Analgesics, Opioid
+Drug Synergism
+Drug Therapy, Combination
+Female
+Humans
+Infant, Newborn
+Infusions, Intravenous
+Male
+Morphine
+Pain, Postoperative
+Tramadol
+Treatment Outcome

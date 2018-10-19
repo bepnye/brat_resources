@@ -1,0 +1,17 @@
+T1	Intervention 47 55	surgery:
+T2	Intervention 67 74	glucose
+T3	Intervention 139 159	parenteral nutrition
+T4	Intervention 171 178	glucose
+T5	Intervention 320 331	amino acids
+T6	Intervention 351 358	glucose
+T7	Intervention 522 538	isotope infusion
+T8	Intervention 557 564	fasting
+T9	Intervention 597 618	amino acids, Travasol
+T10	Intervention 677 700	with or without glucose
+T11	Intervention 1054 1065	amino acids
+T12	Intervention 1201 1224	amino acids and glucose
+T13	Intervention 1412 1435	amino acids and glucose
+T14	Intervention 1574 1585	amino acids
+T15	Intervention 1679 1686	glucose
+T16	Intervention 1719 1726	glucose
+T17	Intervention 1810 1821	amino acids

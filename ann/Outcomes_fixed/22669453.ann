@@ -1,0 +1,5 @@
+T0	Outcomes 0 13	Tumor budding
+T1	Outcomes 784 830	Progression-free and cancer-specific survivals
+T2	Outcomes 1147 1187	tumor grade and lymphovascular invasion.
+T3	Outcomes 1416 1435	disease progression
+T4	Outcomes 1502 1526	and cancer-related death

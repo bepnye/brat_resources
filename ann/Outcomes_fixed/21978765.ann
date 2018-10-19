@@ -1,0 +1,9 @@
+T0	Outcomes 615 637	complete response (CR)
+T1	Outcomes 828 883	CR, disease progression (PD), or unacceptable toxicity.
+T2	Outcomes 884 895	PD or death
+T3	Outcomes 978 1013	for progression-free survival (PFS)
+T4	Outcomes 1239 1247	therapy.
+T5	Outcomes 1248 1251	PFS
+T6	Outcomes 1361 1385	(>52%), overall survival
+T7	Outcomes 1686 1697	improve PFS
+T8	Outcomes 1768 1788	TC, overall survival

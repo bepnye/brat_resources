@@ -1,0 +1,15 @@
+T0	Outcomes 583 696	response rate, duration of response, time to progression or death, time to treatment failure (TTF), and survival.
+T1	Outcomes 701 714	response rate
+T2	Outcomes 778 802	median response duration
+T3	Outcomes 897 907	median TTF
+T4	Outcomes 999 1014	median survival
+T5	Outcomes 1238 1270	The major dose-limiting toxicity
+T6	Outcomes 1290 1301	leukopenia.
+T7	Outcomes 1326 1364	less severe and less frequent toxicity
+T8	Outcomes 1399 1425	Severe nausea and vomiting
+T9	Outcomes 1539 1570	severe stomatitis and mucositis
+T10	Outcomes 1659 1667	alopecia
+T11	Outcomes 1897 1911	cardiotoxicity
+T12	Outcomes 2032 2057	metastatic breast cancer.
+T13	Outcomes 2101 2153	marginally less active and significantly less toxic.
+T14	Outcomes 2314 2327	drug toxicity

@@ -1,0 +1,11 @@
+T1	Intervention 0 25	Aortic valve replacement.
+T2	Intervention 59 104	Björk-Shiley and Lillehei-Kaster disc valves
+T3	Intervention 198 278	either Björk-Shiley (B-S) or Lillehei-Kaster (L-K) aortic disc valve prostheses
+T4	Intervention 406 423	over-represented.
+T5	Intervention 424 440	Cine-aortography
+T6	Intervention 472 537	and left ventricular catheterisation via the transseptal approach
+T7	Intervention 692 708	small L-K valves
+T8	Intervention 823 830	the B-S
+T9	Intervention 839 846	the L-K
+T10	Intervention 1075 1082	the L-K
+T11	Intervention 1278 1285	the L-K

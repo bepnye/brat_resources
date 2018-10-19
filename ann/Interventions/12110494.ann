@@ -1,0 +1,14 @@
+T1	Intervention 17 27	cytarabine
+T2	Intervention 39 48	cisplatin
+T3	Intervention 194 204	cytarabine
+T4	Intervention 284 293	cisplatin
+T5	Intervention 437 447	cytarabine
+T6	Intervention 455 486	cisplatin-5-fluorouracil (5-FU)
+T7	Intervention 683 704	irradiation treatment
+T8	Intervention 980 1003	1000 mg/m(2) cytarabine
+T9	Intervention 1031 1049	cisplatin infusion
+T10	Intervention 1067 1076	cisplatin
+T11	Intervention 1198 1216	cisplatin and 5-FU
+T12	Intervention 1273 1294	irradiation+/-surgery
+T13	Intervention 3018 3028	cytarabine
+T14	Intervention 3089 3099	cisplatin.

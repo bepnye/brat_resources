@@ -1,0 +1,19 @@
+T0	Interventions 14 29	weight training
+T1	Interventions 220 245	weight training exercises
+T2	Interventions 276 296	risedronate, calcium
+T3	Interventions 302 311	vitamin D
+T4	Interventions 454 462	exercise
+T5	Interventions 648 683	risedronate, calcium, and vitamin D
+T6	Interventions 866 905	strength/weight training (ST) exercises
+T7	Interventions 1001 1010	exercised
+T8	Interventions 1124 1148	exercise plus medication
+T9	Interventions 1152 1167	medication only
+T10	Interventions 1222 1229	calcium
+T11	Interventions 1244 1253	vitamin D
+T12	Interventions 1273 1284	risedronate
+T13	Interventions 1301 1309	exercise
+T14	Interventions 1333 1345	ST exercises
+T15	Interventions 1400 1430	medications without exercising
+T16	Interventions 1599 1608	exercised
+T17	Interventions 1920 1928	exercise
+T18	Interventions 2072 2106	Strength/weight training exercises

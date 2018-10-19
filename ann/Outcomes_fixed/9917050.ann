@@ -1,0 +1,13 @@
+T0	Outcomes 39 70	bradycardia and emetic symptoms
+T1	Outcomes 158 214	bradycardia and postoperative nausea and vomiting (PONV)
+T2	Outcomes 268 288	prophylaxis of PONV.
+T3	Outcomes 755 788	moderate peroperative bradycardia
+T4	Outcomes 912 933	intravenous atropine.
+T5	Outcomes 1062 1067	PONV.
+T6	Outcomes 1194 1204	droperidol
+T7	Outcomes 1335 1346	droperidol.
+T8	Outcomes 1351 1386	mean numbers of doses of droperidol
+T9	Outcomes 1523 1561	mild central anticholinergic syndrome.
+T10	Outcomes 1606 1654	prophylaxis against PONV (auriculoemetic reflex)
+T11	Outcomes 1682 1718	bradycardia (auriculocardiac reflex)
+T12	Outcomes 1794 1807	side effects.

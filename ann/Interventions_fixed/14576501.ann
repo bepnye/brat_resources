@@ -1,0 +1,14 @@
+T0	Interventions 17 26	meropenem
+T1	Interventions 112 121	imipenem.
+T2	Interventions 299 308	meropenem
+T3	Interventions 312 337	new carbapenem antibiotic
+T4	Interventions 352 360	imipenem
+T5	Interventions 384 406	prophylactic treatment
+T6	Interventions 555 577	prophylactic treatment
+T7	Interventions 583 605	0.5 g meropenem t.i.d.
+T8	Interventions 606 644	intravenously or 0.5 g imipenem q.i.d.
+T9	Interventions 645 659	intravenously.
+T10	Interventions 1137 1146	meropenem
+T11	Interventions 1170 1178	imipenem
+T12	Interventions 1320 1329	Meropenem
+T13	Interventions 1349 1357	imipenem

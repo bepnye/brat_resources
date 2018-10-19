@@ -1,0 +1,9 @@
+T0	Outcomes 0 9	Detection
+T1	Outcomes 13 62	recurrent or persistent nasopharyngeal carcinomas
+T2	Outcomes 1010 1054	sensitivity, specificity, and accuracy of CT
+T3	Outcomes 1075 1084	recurrent
+T4	Outcomes 1163 1218	sensitivity, specificity, and accuracy of Tc-MIBI SPECT
+T5	Outcomes 1261 1310	sensitivity, specificity, and accuracy of FDG-PET
+T6	Outcomes 1442 1480	sensitivity, specificity, and accuracy
+T7	Outcomes 1782 1807	recurrent or residual NPC
+T8	Outcomes 1904 1912	accuracy

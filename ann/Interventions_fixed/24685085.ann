@@ -1,0 +1,13 @@
+T0	Interventions 21 49	low molecular weight heparin
+T1	Interventions 70 101	graduated compression stockings
+T2	Interventions 219 306	low molecular weight heparin (LMWH) combined with graduated compression stockings (GCS)
+T3	Interventions 312 321	GCS alone
+T4	Interventions 582 590	LMWH+GCS
+T5	Interventions 594 597	GCS
+T6	Interventions 728 738	LMWH + GCS
+T7	Interventions 791 794	GCS
+T8	Interventions 913 917	LMWH
+T9	Interventions 1179 1183	LMWH
+T10	Interventions 1268 1280	LMWH and GCS
+T11	Interventions 1389 1393	GCS.
+T12	Interventions 1414 1418	LMWH

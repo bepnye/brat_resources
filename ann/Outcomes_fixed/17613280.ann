@@ -1,0 +1,10 @@
+T0	Outcomes 510 535	length of hospitalization
+T1	Outcomes 850 896	pain, need to stop feeding, post-refeeding LOH
+T2	Outcomes 960 979	re-admission rates.
+T3	Outcomes 1046 1121	number of patients requiring cessation of feeding because of pain or nausea
+T4	Outcomes 1190 1216	median LOH after refeeding
+T5	Outcomes 1342 1367	calories and grams of fat
+T6	Outcomes 1469 1494	28-day re-admission rates
+T7	Outcomes 1559 1582	mild acute pancreatitis
+T8	Outcomes 1591 1595	LFSD
+T9	Outcomes 1681 1685	LOH.

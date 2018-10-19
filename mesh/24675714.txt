@@ -1,0 +1,24 @@
+Adult
+Body Mass Index
+Body Weight
+Caloric Restriction
+Diet, Protein-Restricted
+Diet, Reducing
+Dietary Carbohydrates
+Dietary Proteins
+Energy Intake
+Europe
+European Continental Ancestry Group
+Family
+Female
+Glucose Tolerance Test
+Glycemic Index
+Humans
+Male
+Nutrition Surveys
+Obesity
+Patient Compliance
+Time Factors
+Waist Circumference
+Weight Gain
+Weight Loss

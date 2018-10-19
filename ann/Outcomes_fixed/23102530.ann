@@ -1,0 +1,13 @@
+T0	Outcomes 61 73	endotracheal
+T1	Outcomes 222 229	suction
+T2	Outcomes 453 464	lung volume
+T3	Outcomes 477 487	suctioning
+T4	Outcomes 505 538	end-expiratory lung volume (EELV)
+T5	Outcomes 639 650	postcardiac
+T6	Outcomes 660 662	CS
+T7	Outcomes 667 669	OS
+T8	Outcomes 720 734	Lung impedance
+T9	Outcomes 881 981	Oximetry, partial pressure of oxygen in the alveoli/fraction of inspired oxygen ratio and compliance
+T10	Outcomes 1025 1034	impedance
+T11	Outcomes 1217 1221	EELV
+T12	Outcomes 1599 1614	postsuctioning.

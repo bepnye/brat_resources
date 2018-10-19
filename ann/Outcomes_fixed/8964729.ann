@@ -1,0 +1,8 @@
+T0	Outcomes 788 802	endurance time
+T1	Outcomes 909 990	ratio of high- to low-frequency power of the diaphragmatic electromyogram (EMGdi)
+T2	Outcomes 1070 1075	EMGdi
+T3	Outcomes 1169 1222	PI,mmax and maximal transdiaphragmatic pressure (Pdi)
+T4	Outcomes 1287 1322	intensity of the IES rose with time
+T5	Outcomes 1420 1432	ratio of Pdi
+T6	Outcomes 1541 1600	superimposed Pdi twitch and Pdi twitch of relaxed diaphragm
+T7	Outcomes 1619 1688	value of (1-superimposed Pdi twitch/Pdi twitch of relaxed diaphragm).

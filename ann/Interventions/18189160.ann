@@ -1,0 +1,16 @@
+T1	Intervention 30 33	FEC
+T2	Intervention 48 69	growth factor support
+T3	Intervention 234 244	epirubicin
+T4	Intervention 462 508	fluorouracil/epirubicin/cyclophosphamide (FEC)
+T5	Intervention 600 608	FEC(100)
+T6	Intervention 687 711	dose-dense FEC regimens.
+T7	Intervention 754 761	FEC(75)
+T8	Intervention 765 772	FEC(90)
+T9	Intervention 855 868	pegfilgrastim
+T10	Intervention 1136 1143	FEC(75)
+T11	Intervention 1192 1199	FEC(90)
+T12	Intervention 1356 1365	(FEC(90))
+T13	Intervention 1462 1469	FEC(90)
+T14	Intervention 1688 1697	(FEC(90))
+T15	Intervention 1789 1795	FEC(75
+T16	Intervention 1801 1808	FEC(90)

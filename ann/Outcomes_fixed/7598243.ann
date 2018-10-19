@@ -1,0 +1,11 @@
+T0	Outcomes 108 127	nausea and vomiting
+T1	Outcomes 592 603	Hypotension
+T2	Outcomes 847 855	sedated.
+T3	Outcomes 893 929	severe nausea, retching, or vomiting
+T4	Outcomes 942 970	severe emetic sequelae (SES)
+T5	Outcomes 1187 1190	SES
+T6	Outcomes 1252 1264	ineffective.
+T7	Outcomes 1321 1330	effective
+T8	Outcomes 1344 1366	antiemetic prophylaxis
+T9	Outcomes 1395 1416	free of side effects.
+T10	Outcomes 1461 1499	best choice for antiemetic prophylaxis

@@ -1,0 +1,16 @@
+T1	Intervention 52 70	depot-pilocarpine.
+T2	Intervention 167 198	new pilocarpine polymer (Polym)
+T3	Intervention 221 264	traditional pilocarpine salt solution (Plc)
+T4	Intervention 589 679	given 1 drop into each eye: 1 drop every 12 hours for Polym, 1 drop every 6 hours for Plc.
+T5	Intervention 680 732	The patients were observed for a period of 24 hours.
+T6	Intervention 1244 1249	Polym
+T7	Intervention 1253 1257	Plc)
+T8	Intervention 1508 1519	pilocarpine
+T9	Intervention 1640 1643	Plc
+T10	Intervention 1661 1672	pilocarpine
+T11	Intervention 1683 1689	Polym.
+T12	Intervention 1795 1800	Polym
+T13	Intervention 1804 1807	Plc
+T14	Intervention 1945 1956	pilocarpine
+T15	Intervention 2002 2018	pilocarpine salt
+T16	Intervention 2045 2064	pilocarpine polymer

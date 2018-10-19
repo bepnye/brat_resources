@@ -1,0 +1,8 @@
+T0	Interventions 26 44	percutaneous laser
+T1	Interventions 49 72	radiofrequency ablation
+T2	Interventions 155 188	percutaneous laser ablation (PLA)
+T3	Interventions 193 228	radiofrequency thermoablation (RFA)
+T4	Interventions 470 474	with
+T5	Interventions 480 569	using a multifibre system connected to a neodymium yttrium-aluminium-garnet laser source;
+T6	Interventions 595 641	with RFA, using an expandable needle electrode
+T7	Interventions 1208 1216	compared

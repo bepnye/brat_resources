@@ -1,0 +1,17 @@
+Adult
+Aged
+Aneurysm, Ruptured
+Embolization, Therapeutic
+Endovascular Procedures
+Female
+Humans
+Hydrocephalus
+Intracranial Aneurysm
+Male
+Microsurgery
+Middle Aged
+Prospective Studies
+Retrospective Studies
+Risk Factors
+Surgical Instruments
+Ventriculoperitoneal Shunt

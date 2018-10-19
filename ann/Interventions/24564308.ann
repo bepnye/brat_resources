@@ -1,0 +1,17 @@
+T1	Intervention 49 236	combination of ketamine and propofol, propofol alone, or a combination of ketamine and diazepam before and after induction of anesthesia in dogs sedated with acepromazine and oxymorphone.
+T2	Intervention 314 322	propofol
+T3	Intervention 334 369	ketamine hydrochloride and propofol
+T4	Intervention 394 416	ketamine hydrochloride
+T5	Intervention 431 439	diazepam
+T6	Intervention 487 497	anesthesia
+T7	Intervention 525 545	acepromazine maleate
+T8	Intervention 550 576	oxymorphone hydrochloride.
+T9	Intervention 760 789	anesthetized with isoflurane.
+T10	Intervention 811 823	acepromazine
+T11	Intervention 841 852	oxymorphone
+T12	Intervention 960 982	propofol, K-P, or K-D.
+T13	Intervention 1162 1165	K-P
+T14	Intervention 1169 1172	K-D
+T15	Intervention 1266 1269	K-P
+T16	Intervention 1698 1701	K-P
+T17	Intervention 1852 1855	K-D

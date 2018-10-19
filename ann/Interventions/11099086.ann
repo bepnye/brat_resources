@@ -1,0 +1,15 @@
+T1	Intervention 0 22	Oral ciprofloxacin vs.
+T2	Intervention 23 48	intramuscular ceftriaxone
+T3	Intervention 274 312	antibiotics, intramuscular ceftriaxone
+T4	Intervention 655 668	ciprofloxacin
+T5	Intervention 980 1004	ciprofloxacin suspension
+T6	Intervention 1032 1040	placebo;
+T7	Intervention 1052 1066	im ceftriaxone
+T8	Intervention 1083 1102	placebo suspension;
+T9	Intervention 1740 1753	ciprofloxacin
+T10	Intervention 1758 1769	ceftriaxone
+T11	Intervention 1798 1811	ciprofloxacin
+T12	Intervention 2041 2055	[ciprofloxacin
+T13	Intervention 2065 2076	ceftriaxone
+T14	Intervention 2213 2231	Oral ciprofloxacin
+T15	Intervention 2261 2286	intramuscular ceftriaxone

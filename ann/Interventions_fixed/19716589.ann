@@ -1,0 +1,10 @@
+T0	Interventions 24 50	platelet-activating factor
+T1	Interventions 68 93	intrauterine insemination
+T2	Interventions 269 311	exogenous platelet-activating factor (PAF)
+T3	Interventions 315 346	intrauterine insemination (IUI)
+T4	Interventions 766 769	IUI
+T5	Interventions 788 827	with or without exogenous PAF treatment
+T6	Interventions 1028 1031	IUI
+T7	Interventions 1080 1104	sperm treatment with PAF
+T8	Interventions 1150 1169	PAF sperm treatment
+T9	Interventions 1267 1280	exogenous PAF

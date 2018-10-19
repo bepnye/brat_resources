@@ -1,0 +1,13 @@
+T0	Outcomes 224 249	time to progression (TTP)
+T1	Outcomes 578 632	survival, tumor response, safety, and quality of life.
+T2	Outcomes 944 947	TTP
+T3	Outcomes 1018 1021	TTP
+T4	Outcomes 1229 1298	survival, tumor response, duration of response, and time to response.
+T5	Outcomes 1311 1326	safety benefits
+T6	Outcomes 1410 1430	stomatitis/mucositis
+T7	Outcomes 1445 1461	myelosuppression
+T8	Outcomes 1494 1513	febrile neutropenia
+T9	Outcomes 1533 1553	documented infection
+T10	Outcomes 1657 1672	quality of life
+T11	Outcomes 1795 1804	diarrhea.
+T12	Outcomes 1867 1871	TTP;

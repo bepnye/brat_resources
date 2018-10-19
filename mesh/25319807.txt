@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Agents
+Chemotherapy, Adjuvant
+Female
+Humans
+Interferon-alpha
+Male
+Matrix Metalloproteinase 8
+Melanoma
+Middle Aged
+Neoplasm Staging
+Prognosis
+Recombinant Proteins
+Treatment Outcome
+Young Adult

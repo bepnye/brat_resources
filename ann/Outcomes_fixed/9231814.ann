@@ -1,0 +1,9 @@
+T0	Outcomes 0 6	Safety
+T1	Outcomes 99 125	cardiovascular event rates
+T2	Outcomes 1032 1054	Unadjusted odds ratios
+T3	Outcomes 1142 1238	definitive events (death, nonfatal myocardial infarction or stroke, revascularization procedure)
+T4	Outcomes 1272 1318	all events (definitive plus increased angina).
+T5	Outcomes 1323 1360	odds ratio for nifedipine monotherapy
+T6	Outcomes 1569 1627	odds ratio for nifedipine in combination with another drug
+T7	Outcomes 1775 1848	Differences in odds ratio for nifedipine monotherapy and combined therapy
+T8	Outcomes 1957 2009	safety of sustained- and extended-release nifedipine

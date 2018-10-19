@@ -1,0 +1,8 @@
+T0	Interventions 136 141	usual
+T1	Interventions 146 160	extended care.
+T2	Interventions 238 256	nutrition services
+T3	Interventions 402 407	usual
+T4	Interventions 412 425	extended care
+T5	Interventions 496 551	receive usual nutrition care or extended nutrition care
+T6	Interventions 632 824	usual care patients received no further nutrition support, whereas extended care patients received telephone dietary counselling from the same dietitian for up to 100 days post-transplantation
+T7	Interventions 1752 1805	were satisfied with usual and extended nutrition care

@@ -1,0 +1,10 @@
+T1	Intervention 36 62	antirheumatic drug therapy
+T2	Intervention 549 601	three disease-modifying antirheumatic drugs (DMARDs)
+T3	Intervention 607 620	single DMARD.
+T4	Intervention 729 924	combination of methotrexate, sulfasalazine, and hydroxychloroquine with prednisolone (FIN-RACo), or treatment with a single DMARD (initially, sulfasalazine) with or without prednisolone (SINGLE).
+T5	Intervention 1211 1219	FIN-RACo
+T6	Intervention 1234 1240	SINGLE
+T7	Intervention 1411 1419	FIN-RACo
+T8	Intervention 1459 1465	SINGLE
+T9	Intervention 1829 1850	combination of DMARDs
+T10	Intervention 1926 1944	DMARD monotherapy.

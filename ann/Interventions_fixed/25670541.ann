@@ -1,0 +1,12 @@
+T0	Interventions 0 54	Hyperfractionated accelerated radiation therapy (HART)
+T1	Interventions 82 98	5-FU/Mitomycin C
+T2	Interventions 114 118	HART
+T3	Interventions 376 411	mitomycin C/5-fluorouracil (C-HART)
+T4	Interventions 417 477	hyperfractionated accelerated radiation therapy (HART) alone
+T5	Interventions 765 962	30 Gy/2 Gy daily followed by twice-daily 1.4 Gy to a total of 70.6 Gy concurrently with mitomycin C/5-FU (C-HART) or 16 Gy/2 Gy daily followed by twice-daily 1.4 Gy to a total dose of 77.6 Gy alone
+T6	Interventions 1204 1214	were 38.0%
+T7	Interventions 1224 1236	versus 26.0%
+T8	Interventions 1314 1325	39% and 10%
+T9	Interventions 1342 1351	30.0% and
+T10	Interventions 1740 1751	CONCLUSIONS
+T11	Interventions 1767 1775	superior

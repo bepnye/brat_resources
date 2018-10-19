@@ -1,0 +1,5 @@
+T1	Intervention 0 18	Fibrin application
+T2	Intervention 207 218	fibrin glue
+T3	Intervention 555 587	treated with fibrin glue or not.
+T4	Intervention 588 625	Serial computed tomography (CT) scans
+T5	Intervention 905 916	fibrin glue

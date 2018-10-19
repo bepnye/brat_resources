@@ -1,0 +1,14 @@
+Anesthesia, Local
+Anesthetics, Local
+Bupivacaine
+Child
+Child, Preschool
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Humans
+Male
+Pain Management
+Pain, Postoperative
+Palatine Tonsil
+Tonsillectomy

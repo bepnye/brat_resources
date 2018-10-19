@@ -1,0 +1,11 @@
+T0	Outcomes 554 570	clinical outcome
+T1	Outcomes 943 952	mortality
+T2	Outcomes 986 1014	Q-wave myocardial infarction
+T3	Outcomes 1063 1070	stroke.
+T4	Outcomes 1075 1098	five-year survival rate
+T5	Outcomes 1294 1368	respective five-year survival rates free from Q-wave myocardial infarction
+T6	Outcomes 1506 1534	revascularization procedures
+T7	Outcomes 1807 1825	five-year survival
+T8	Outcomes 2020 2038	five-year survival
+T9	Outcomes 2086 2114	subsequent revascularization
+T10	Outcomes 2182 2200	five-year survival

@@ -1,0 +1,9 @@
+T0	Outcomes 61 84	neurohormonal responses
+T1	Outcomes 515 683	pre-enalapril and post-enalapril neurohormone levels (serum ACE activity (sACE), plasma angiotensin II (A-II), plasma renin activity (PRA), and serum aldosterone (ALDO)
+T2	Outcomes 839 877	predose/postdose sACE and postdose PRA
+T3	Outcomes 946 959	postdose sACE
+T4	Outcomes 1043 1084	predose and postdose ALDO and A-II levels
+T5	Outcomes 1195 1228	ALDO escape and A-II reactivation
+T6	Outcomes 1296 1308	Predose sACE
+T7	Outcomes 1417 1436	suppression of sACE
+T8	Outcomes 1502 1527	ALDO and A-II suppression

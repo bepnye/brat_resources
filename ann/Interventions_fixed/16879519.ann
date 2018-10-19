@@ -1,0 +1,9 @@
+T0	Interventions 48 58	rocuronium
+T1	Interventions 72 94	nitrous oxide-fentanyl
+T2	Interventions 98 134	nitrous oxide-sevoflurane anesthesia
+T3	Interventions 274 284	rocuronium
+T4	Interventions 315 347	nitrous oxide (N2O) and fentanyl
+T5	Interventions 356 376	N2O and sevoflurane.
+T6	Interventions 466 525	N2O/O2-fentanyl or N2O/O2-sevoflurane (one MAC) anesthesia.
+T7	Interventions 567 589	electromyographically.
+T8	Interventions 612 622	rocuronium

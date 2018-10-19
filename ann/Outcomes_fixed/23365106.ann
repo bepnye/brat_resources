@@ -1,0 +1,30 @@
+T0	Outcomes 81 91	elasticity
+T1	Outcomes 686 729	Large (C1) and small artery elasticity (C2)
+T2	Outcomes 801 808	reduced
+T3	Outcomes 827 838	body weight
+T4	Outcomes 846 865	waist circumference
+T5	Outcomes 873 881	systolic
+T6	Outcomes 892 901	diastolic
+T7	Outcomes 908 970	blood pressures, cardiac output (-4%), plasma TG concentration
+T8	Outcomes 987 1028	homeostasis model assessment (HOMA) score
+T9	Outcomes 1040 1072	increased plasma HDL cholesterol
+T10	Outcomes 1083 1094	adiponectin
+T11	Outcomes 1102 1117	concentrations.
+T12	Outcomes 1186 1219	significantly reduced body weight
+T13	Outcomes 1227 1246	waist circumference
+T14	Outcomes 1254 1262	systolic
+T15	Outcomes 1273 1282	diastolic
+T16	Outcomes 1289 1320	blood pressures, pulse pressure
+T17	Outcomes 1328 1338	heart rate
+T18	Outcomes 1346 1369	plasma TG concentration
+T19	Outcomes 1382 1392	HOMA score
+T20	Outcomes 1404 1427	increased stroke volume
+T21	Outcomes 1435 1457	plasma HDL cholesterol
+T22	Outcomes 1468 1494	adiponectin concentrations
+T23	Outcomes 1507 1509	C1
+T24	Outcomes 1521 1523	C2
+T25	Outcomes 1531 1549	artery elasticity.
+T26	Outcomes 1565 1624	systolic blood pressure, heart rate, plasma TGs, C1, and C2
+T27	Outcomes 1630 1651	significantly greater
+T28	Outcomes 1734 1743	C1 and C2
+T29	Outcomes 1761 1772	weight loss

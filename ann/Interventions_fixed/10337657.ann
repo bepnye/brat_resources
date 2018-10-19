@@ -1,0 +1,12 @@
+T0	Interventions 10 33	total androgen ablation
+T1	Interventions 263 289	radical prostatectomy (RP)
+T2	Interventions 611 648	"neoadjuvant" hormonal therapy (NHT).
+T3	Interventions 857 880	total androgen ablation
+T4	Interventions 1002 1071	radical retropubic prostatectomy and bilateral pelvic node dissection
+T5	Interventions 1492 1515	total androgen ablation
+T6	Interventions 1522 1526	NHT)
+T7	Interventions 1718 1741	total androgen ablation
+T8	Interventions 2017 2036	neoadjuvant therapy
+T9	Interventions 2061 2084	immediate surgery alone
+T10	Interventions 2709 2742	total androgen ablation before RP
+T11	Interventions 2964 2967	NHT

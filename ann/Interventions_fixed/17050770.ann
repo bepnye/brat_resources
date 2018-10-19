@@ -1,0 +1,4 @@
+T0	Interventions 0 22	Classroom intervention
+T1	Interventions 394 420	medical intervention alone
+T2	Interventions 437 473	behavioral plus medical intervention
+T3	Interventions 941 977	medical and behavioral interventions

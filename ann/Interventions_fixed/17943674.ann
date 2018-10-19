@@ -1,0 +1,6 @@
+T0	Interventions 11 37	vacuum-compression therapy
+T1	Interventions 174 206	vacuum-compression therapy (VCT)
+T2	Interventions 410 417	control
+T3	Interventions 587 626	VCT in addition to conventional therapy
+T4	Interventions 676 864	conventional therapy, including debridement, blood glucose control agents, systemic antibiotics, wound cleaning with normal saline, offloading (pressure relief), and daily wound dressings.
+T5	Interventions 1230 1233	VCT

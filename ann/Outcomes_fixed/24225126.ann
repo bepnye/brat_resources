@@ -1,0 +1,12 @@
+T0	Outcomes 890 1018	Heart rate (HR), mean arterial pressure, oxygen saturation, respiratory rate, the Ramsay sedation score (RSS), and recovery time
+T1	Outcomes 1131 1165	blood pressure and HR measurements
+T2	Outcomes 1254 1325	respiratory depression, bradycardia, hypotension, nausea, and vomiting.
+T3	Outcomes 1354 1384	pain on the site of injection.
+T4	Outcomes 1385 1394	Myoclonus
+T5	Outcomes 1423 1436	Recovery time
+T6	Outcomes 1540 1543	RSS
+T7	Outcomes 1637 1652	operation time.
+T8	Outcomes 1653 1675	Physician satisfaction
+T9	Outcomes 1745 1766	hemodynamic responses
+T10	Outcomes 1787 1802	adverse effects
+T11	Outcomes 1835 1852	anesthetic effect

@@ -1,0 +1,9 @@
+T0	Outcomes 0 65	Cost effectiveness of treatment with percutaneous Kirschner wires
+T1	Outcomes 535 578	(cost per quality-adjusted life year; QALY)
+T2	Outcomes 867 893	costs of surgery, implants
+T3	Outcomes 898 921	healthcare resource use
+T4	Outcomes 1007 1028	cost of time off work
+T5	Outcomes 1046 1070	additional private care.
+T6	Outcomes 1108 1113	QALYs
+T7	Outcomes 1320 1366	an incremental cost effectiveness ratio (ICER)
+T8	Outcomes 1475 1483	the ICER

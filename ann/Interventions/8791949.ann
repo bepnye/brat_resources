@@ -1,0 +1,26 @@
+T1	Intervention 30 64	macrolide antibiotic dirithromycin
+T2	Intervention 119 140	Macrolide antibiotics
+T3	Intervention 222 246	macrolide, dirithromycin
+T4	Intervention 436 463	dirithromycin 500 mg q.d.s.
+T5	Intervention 465 492	dirithromycin 500 mg q.d.s.
+T6	Intervention 493 521	plus omeprazole 40 mg q.d.s.
+T7	Intervention 523 553	or dirithromycin 500 mg q.d.s.
+T8	Intervention 554 586	plus metronidazole 500 mg t.d.s.
+T9	Intervention 596 623	dirithromycin 500 mg q.d.s.
+T10	Intervention 624 650	plus omeprazole 20 mg b.d.
+T11	Intervention 652 680	dirithromycin 1000 mg q.d.s.
+T12	Intervention 681 707	plus omeprazole 20 mg b.d.
+T13	Intervention 709 737	or amoxycillin 500 mg q.d.s.
+T14	Intervention 738 765	plus omepirazole 20 mg b.d.
+T15	Intervention 894 907	dirithromycin
+T16	Intervention 945 955	omeprazole
+T17	Intervention 1065 1078	dirithromycin
+T18	Intervention 1084 1098	metronidazole.
+T19	Intervention 1126 1148	omeprazole-amoxycillin
+T20	Intervention 1230 1243	dirithromycin
+T21	Intervention 1249 1260	omeprazole)
+T22	Intervention 1297 1310	dirithromycin
+T23	Intervention 1334 1344	omeprazole
+T24	Intervention 1472 1485	dirithromycin
+T25	Intervention 1515 1525	omeprazole
+T26	Intervention 1563 1576	Dirithromycin

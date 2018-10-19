@@ -1,0 +1,20 @@
+Adult
+Aged
+Antibodies, Monoclonal
+Antineoplastic Agents
+Combined Modality Therapy
+Female
+Fever
+Headache
+Humans
+Iodine Radioisotopes
+Kaplan-Meier Estimate
+Lymphoma, Follicular
+Male
+Middle Aged
+Nausea
+Neoplasm Recurrence, Local
+Radioimmunotherapy
+Rituximab
+Thrombocytopenia
+Treatment Outcome

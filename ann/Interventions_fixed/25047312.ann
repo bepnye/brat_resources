@@ -1,0 +1,10 @@
+T0	Interventions 0 47	Intramuscular compared to intravenous midazolam
+T1	Interventions 220 229	Midazolam
+T2	Interventions 236 250	benzodiazepine
+T3	Interventions 366 430	midazolam prescription; intramuscular (IM) and intravenous (IV).
+T4	Interventions 585 597	IM midazolam
+T5	Interventions 640 652	IV midazolam
+T6	Interventions 1206 1227	received IV midazolam
+T7	Interventions 1261 1282	received IM midazolam
+T8	Interventions 1497 1520	of midazolam, IM and IV
+T9	Interventions 1640 1652	of midazolam

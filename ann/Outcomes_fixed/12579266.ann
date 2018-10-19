@@ -1,0 +1,12 @@
+T0	Outcomes 581 600	Skp2 overexpression
+T1	Outcomes 778 795	Survival analysis
+T2	Outcomes 900 933	disease-free and overall survival
+T3	Outcomes 978 1016	Skp2 expression and p27kip1 expression
+T4	Outcomes 1083 1104	expression of p27kip1
+T5	Outcomes 1114 1134	poorest disease-free
+T6	Outcomes 1139 1155	overall survival
+T7	Outcomes 1350 1377	overall survival (p=0.0234)
+T8	Outcomes 1390 1411	disease-free survival
+T9	Outcomes 1459 1550	Cox proportional hazards model, tumor grade, tumor size, clinical stage and Skp2 expression
+T10	Outcomes 1595 1629	disease-free and overall survival.
+T11	Outcomes 1660 1675	Skp2 expression

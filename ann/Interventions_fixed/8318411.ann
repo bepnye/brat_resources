@@ -1,0 +1,5 @@
+T0	Interventions 0 23	Continuous chemotherapy
+T1	Interventions 666 679	chemotherapy.
+T2	Interventions 753 823	discontinue cytotoxics after 6 months and move to maintenance hormones
+T3	Interventions 836 857	continue chemotherapy
+T4	Interventions 998 1021	Continuous chemotherapy

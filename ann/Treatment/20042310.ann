@@ -1,9 +1,0 @@
-T1	Treatment 20 43	cetuximab, capecitabine
-T2	Treatment 48 60	radiotherapy
-T3	Treatment 170 193	chemoradiotherapy (CRT)
-T4	Treatment 404 416	capecitabine
-T5	Treatment 466 487	intravenous cetuximab
-T6	Treatment 547 565	cetuximab plus CRT
-T7	Treatment 576 588	capecitabine
-T8	Treatment 659 671	radiotherapy
-T9	Treatment 1633 1670	cetuximab with capecitabine-based CRT

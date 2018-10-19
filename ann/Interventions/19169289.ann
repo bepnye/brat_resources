@@ -1,0 +1,16 @@
+T1	Intervention 0 13	Pegfilgrastim
+T2	Intervention 97 125	pegfilgrastim+/-chemotherapy
+T3	Intervention 303 316	pegfilgrastim
+T4	Intervention 353 363	filgrastim
+T5	Intervention 451 464	pegfilgrastim
+T6	Intervention 506 516	filgrastim
+T7	Intervention 642 655	pegfilgrastim
+T8	Intervention 748 759	filgrastim;
+T9	Intervention 810 832	carboplatin/paclitaxel
+T10	Intervention 866 879	pegfilgrastim
+T11	Intervention 897 907	filgrastim
+T12	Intervention 1048 1061	pegfilgrastim
+T13	Intervention 1066 1076	filgrastim
+T14	Intervention 1109 1122	pegfilgrastim
+T15	Intervention 1210 1223	pegfilgrastim
+T16	Intervention 1273 1283	filgrastim

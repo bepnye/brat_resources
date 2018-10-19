@@ -1,0 +1,5 @@
+T0	Interventions 31 42	antibiotics
+T1	Interventions 381 505	randomly assigned to either receive systemic metronidazole plus amoxicillin (AP+AB) or were treated mechanically alone (AP).
+T2	Interventions 521 654	identified with 16S rRNA oligodeoxynucleotide probes and dot-blot hybridization before and at days 2, 3, 4, 7, 10, and 21 of healing.
+T3	Interventions 719 735	placebo tablets.
+T4	Interventions 1073 1100	SRP plus antibiotic therapy

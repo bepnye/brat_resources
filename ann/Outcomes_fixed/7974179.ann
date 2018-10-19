@@ -1,0 +1,8 @@
+T0	Outcomes 1092 1123	5-year cause specific survivals
+T1	Outcomes 1256 1277	5-year survival rates
+T2	Outcomes 1510 1539	Five-year local failure rates
+T3	Outcomes 1686 1718	Moderate-to-severe complications
+T4	Outcomes 1853 1885	bladder and rectal complications
+T5	Outcomes 1934 1954	Severe complications
+T6	Outcomes 2091 2095	dead
+T7	Outcomes 2132 2260	statistically significant differences between 2 treatment schedules in survival rates, failure patterns and complications rates.

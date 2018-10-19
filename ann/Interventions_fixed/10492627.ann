@@ -1,0 +1,5 @@
+T0	Interventions 0 12	Chemotherapy
+T1	Interventions 190 202	chemotherapy
+T2	Interventions 379 495	chemotherapy using 5-fluorouracil, doxorubicin and methotrexate (FAMTX) prior to surgery or to undergo surgery only.
+T3	Interventions 811 881	The response to chemotherapy was evaluated after two and four courses.
+T4	Interventions 2090 2095	FAMTX

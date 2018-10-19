@@ -1,0 +1,15 @@
+T0	Interventions 12 82	nebulized flunisolide combined with salbutamol and ipratropium bromide
+T1	Interventions 203 218	corticosteroids
+T2	Interventions 381 402	nebulized flunisolide
+T3	Interventions 410 442	+ salbutamol/ipratropium bromide
+T4	Interventions 488 529	placebo + salbutamol/ipratropium bromide.
+T5	Interventions 990 1001	flunisolide
+T6	Interventions 1024 1031	placebo
+T7	Interventions 1264 1275	flunisolide
+T8	Interventions 1296 1303	placebo
+T9	Interventions 1342 1353	flunisolide
+T10	Interventions 1600 1611	flunisolide
+T11	Interventions 1649 1660	flunisolide
+T12	Interventions 1665 1672	placebo
+T13	Interventions 1916 1937	Nebulized flunisolide
+T14	Interventions 2007 2047	nebulized salbutamol/ipratropium bromide

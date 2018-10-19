@@ -1,0 +1,7 @@
+T0	Interventions 216 258	in-person recall with an obese interviewer
+T1	Interventions 263 303	in-person recall with a lean interviewer
+T2	Interventions 311 356	telephone recall with an unknown interviewer.
+T3	Interventions 480 531	telephone-administered multiple-pass 24-hour recall
+T4	Interventions 548 567	unknown interviewer
+T5	Interventions 606 694	in-person MP24R with either a lean or obese interviewer to gather reported energy intake
+T6	Interventions 818 840	Caltrac accelerometer.

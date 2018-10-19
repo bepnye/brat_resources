@@ -1,0 +1,7 @@
+T1	Intervention 89 98	midazolam
+T2	Intervention 103 111	ketamine
+T3	Intervention 210 226	bispectral index
+T4	Intervention 242 250	sedation
+T5	Intervention 420 443	midazolam and ketamine.
+T6	Intervention 645 653	sedation
+T7	Intervention 668 742	without use of the bispectral index, while the index was used in the other

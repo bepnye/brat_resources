@@ -1,0 +1,12 @@
+T0	Outcomes 188 216	modify the long-term outcome
+T1	Outcomes 796 816	Hematologic toxicity
+T2	Outcomes 830 860	Nausea/vomiting and stomatitis
+T3	Outcomes 910 944	left ventricular ejection fraction
+T4	Outcomes 1036 1054	died of infections
+T5	Outcomes 1120 1149	objective response rate (ORR)
+T6	Outcomes 1233 1236	ORR
+T7	Outcomes 1401 1448	response duration and time to progression (TTP)
+T8	Outcomes 1552 1573	median survival times
+T9	Outcomes 1738 1764	response duration and TTP.
+T10	Outcomes 1794 1798	ORR.
+T11	Outcomes 1907 1923	overall survival

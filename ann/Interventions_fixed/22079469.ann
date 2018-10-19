@@ -1,0 +1,9 @@
+T0	Interventions 19 46	beclomethasone dipropionate
+T1	Interventions 150 188	oral beclomethasone dipropionate (BDP)
+T2	Interventions 466 474	oral BDP
+T3	Interventions 631 658	Study drug (BDP or placebo)
+T4	Interventions 821 835	glucocorticoid
+T5	Interventions 928 931	BDP
+T6	Interventions 979 986	placebo
+T7	Interventions 1208 1242	hematopoietic cell transplantation
+T8	Interventions 1442 1468	myeloablative conditioning

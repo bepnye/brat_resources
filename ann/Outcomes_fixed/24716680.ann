@@ -1,0 +1,10 @@
+T0	Outcomes 48 66	ejection fraction.
+T1	Outcomes 239 246	effects
+T2	Outcomes 600 726	composite of death from cardiovascular causes, aborted cardiac arrest, or hospitalization for the management of heart failure.
+T3	Outcomes 1035 1068	hospitalization for heart failure
+T4	Outcomes 1266 1278	total deaths
+T5	Outcomes 1283 1299	hospitalizations
+T6	Outcomes 1421 1444	serum creatinine levels
+T7	Outcomes 1467 1487	rate of hyperkalemia
+T8	Outcomes 1662 1684	serum creatinine level
+T9	Outcomes 1891 2053	the incidence of the primary composite outcome of death from cardiovascular causes, aborted cardiac arrest, or hospitalization for the management of heart failure

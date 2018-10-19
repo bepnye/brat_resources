@@ -1,0 +1,21 @@
+T0	Outcomes 65 93	5-year failure-free survival
+T1	Outcomes 321 348	failure-free survival (FFS)
+T2	Outcomes 839 847	Response
+T3	Outcomes 945 958	Response rate
+T4	Outcomes 1020 1042	complete response [CR]
+T5	Outcomes 1049 1070	partial response [PR]
+T6	Outcomes 1110 1113	FFS
+T7	Outcomes 1241 1254	Response rate
+T8	Outcomes 1268 1270	CI
+T9	Outcomes 1284 1286	CR
+T10	Outcomes 1293 1295	PR
+T11	Outcomes 1331 1352	did not influence FFS
+T12	Outcomes 1494 1507	Response rate
+T13	Outcomes 1521 1523	CI
+T14	Outcomes 1537 1539	CR
+T15	Outcomes 1546 1548	PR
+T16	Outcomes 1589 1592	FFS
+T17	Outcomes 1700 1709	no effect
+T18	Outcomes 1713 1717	FFS.
+T19	Outcomes 1740 1753	response rate
+T20	Outcomes 1860 1863	FFS

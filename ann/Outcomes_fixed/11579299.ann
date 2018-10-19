@@ -1,0 +1,17 @@
+T0	Outcomes 155 174	efficacy and safety
+T1	Outcomes 862 895	biopsy-confirmed acute rejections
+T2	Outcomes 984 1031	incidence of steroid-sensitive acute rejections
+T3	Outcomes 1088 1122	Steroid-resistant acute rejections
+T4	Outcomes 1220 1225	died.
+T5	Outcomes 1226 1261	Patient survival and graft survival
+T6	Outcomes 1409 1436	incidence of adverse events
+T7	Outcomes 1452 1483	cytomegalovirus (CMV) infection
+T8	Outcomes 1537 1547	leukopenia
+T9	Outcomes 1575 1580	fever
+T10	Outcomes 1609 1623	herpes simplex
+T11	Outcomes 1655 1671	thrombocytopenia
+T12	Outcomes 1723 1737	serum sickness
+T13	Outcomes 1790 1817	new onset diabetes mellitus
+T14	Outcomes 1893 1908	acute rejection
+T15	Outcomes 2063 2077	adverse events
+T16	Outcomes 2092 2106	CMV infection.

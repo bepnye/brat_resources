@@ -1,0 +1,12 @@
+T1	Intervention 0 29	Epidural fentanyl-bupivacaine
+T2	Intervention 44 65	clonidine-bupivacaine
+T3	Intervention 356 365	clonidine
+T4	Intervention 378 396	50 microg fentanyl
+T5	Intervention 406 438	combined with 0.125% bupivacaine
+T6	Intervention 742 763	bupivacaine-clonidine
+T7	Intervention 807 827	bupivacaine-fentanyl
+T8	Intervention 920 940	fentanyl-bupivacaine
+T9	Intervention 997 1018	clonidine-bupivacaine
+T10	Intervention 1128 1139	bupivacaine
+T11	Intervention 1144 1153	clonidine
+T12	Intervention 1238 1259	bupivacaine-fentanyl.

@@ -1,0 +1,12 @@
+T0	Interventions 0 38	Combined chemotherapy and radiotherapy
+T1	Interventions 53 71	radiotherapy alone
+T2	Interventions 369 412	combined chemotherapy and radiation therapy
+T3	Interventions 583 754	fluorouracil (1000 mg per square meter of body-surface area daily for four days) and cisplatin (75 mg per square meter on the first day) plus 5000 cGy of radiation therapy
+T4	Interventions 773 802	6400 cGy of radiation therapy
+T5	Interventions 1043 1078	chemotherapy and radiation therapy.
+T6	Interventions 1215 1250	chemotherapy and radiation therapy.
+T7	Interventions 1427 1443	combined therapy
+T8	Interventions 1487 1499	radiotherapy
+T9	Interventions 1520 1536	combined-therapy
+T10	Interventions 1947 2011	Concurrent therapy with cisplatin and fluorouracil and radiation
+T11	Interventions 2027 2044	radiation therapy

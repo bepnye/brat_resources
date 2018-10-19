@@ -1,0 +1,11 @@
+T0	Outcomes 14 42	acute postoperative pressure
+T1	Outcomes 159 185	intraocular pressure (IOP)
+T2	Outcomes 629 633	IOPs
+T3	Outcomes 694 731	average of the maximum pressure rises
+T4	Outcomes 990 999	IOP rises
+T5	Outcomes 1181 1190	IOP rises
+T6	Outcomes 1340 1364	pressure rise > 20 mm Hg
+T7	Outcomes 1538 1553	rises > 6 mm Hg
+T8	Outcomes 1657 1666	rises > 6
+T9	Outcomes 1718 1738	acute pressure rises
+T10	Outcomes 1887 1896	acute IOP

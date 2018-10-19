@@ -1,8 +1,0 @@
-T1	Treatment 30 56	complementary radiotherapy
-T2	Treatment 82 106	combination chemotherapy
-T3	Treatment 224 255	modern combination chemotherapy
-T4	Treatment 548 728	cycles of alternating cyclophosphamide, vincristine, procarbazine, and prednisone (COPP) plus doxorubicin, bleomycin, vinblastine, and dacarbazine (ABVD) followed by EF irradiation
-T5	Treatment 1610 1620	radiation.
-T6	Treatment 1687 1699	radiotherapy
-T7	Treatment 1793 1809	polychemotherapy
-T8	Treatment 2082 2099	polychemotherapy.

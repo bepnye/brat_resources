@@ -1,0 +1,26 @@
+T0	Interventions 0 22	Pelvic lymphadenectomy
+T1	Interventions 47 106	laparotomy extraperitoneal, transperitoneal or laparoscopic
+T2	Interventions 159 231	transperitoneal, extraperitoneal and laparoscopic pelvic lymphadenectomy
+T3	Interventions 321 342	radical hysterectomy.
+T4	Interventions 430 445	radical surgery
+T5	Interventions 500 590	transperitoneal (TPL), extraperitoneal (EPL) or laparoscopic pelvic lymphadenectomy (LPL).
+T6	Interventions 614 645	classical radical hysterectomy.
+T7	Interventions 871 875	(TPL
+T8	Interventions 879 882	EPL
+T9	Interventions 912 915	TPL
+T10	Interventions 919 922	LPL
+T11	Interventions 936 944	TPL, EPL
+T12	Interventions 949 952	LPL
+T13	Interventions 1068 1090	TPL, EPL and LPL group
+T14	Interventions 1187 1191	(TPL
+T15	Interventions 1195 1198	EPL
+T16	Interventions 1208 1211	TPL
+T17	Interventions 1215 1218	LPL
+T18	Interventions 1232 1240	TPL, EPL
+T19	Interventions 1245 1248	LPL
+T20	Interventions 1275 1278	EPL
+T21	Interventions 1283 1286	LPL
+T22	Interventions 1320 1323	TPL
+T23	Interventions 1393 1396	LPL
+T24	Interventions 1469 1472	EPL
+T25	Interventions 1477 1480	LPL

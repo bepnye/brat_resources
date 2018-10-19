@@ -1,0 +1,13 @@
+T0	Interventions 26 69	combined diethylcarbamazine and albendazole
+T1	Interventions 182 200	placebo-controlled
+T2	Interventions 282 308	chemotherapeutic treatment
+T3	Interventions 615 689	placebo, albendazole (ALB), diethylcarbamazine (DEC), or combined therapy.
+T4	Interventions 799 810	Albendazole
+T5	Interventions 815 822	DEC/ALB
+T6	Interventions 975 978	ALB
+T7	Interventions 983 990	DEC/ALB
+T8	Interventions 1042 1049	placebo
+T9	Interventions 1067 1078	Albendazole
+T10	Interventions 1083 1090	DEC/ALB
+T11	Interventions 1200 1207	DEC/ALB
+T12	Interventions 1232 1235	DEC

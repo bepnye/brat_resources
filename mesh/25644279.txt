@@ -1,0 +1,17 @@
+Adult
+Aged
+Anilides
+Antiviral Agents
+Carbamates
+Drug Therapy, Combination
+Female
+Hepatitis C, Chronic
+Humans
+Interferons
+Liver Cirrhosis
+Macrocyclic Compounds
+Male
+Middle Aged
+Ribavirin
+Ritonavir
+Young Adult

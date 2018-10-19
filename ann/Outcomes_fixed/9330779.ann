@@ -1,0 +1,15 @@
+T0	Outcomes 8 22	effect of food
+T1	Outcomes 30 73	steady state pharmacokinetics of BMS-181101
+T2	Outcomes 120 172	effect of food on the pharmacokinetics of BMS-181101
+T3	Outcomes 667 687	Serial blood samples
+T4	Outcomes 794 814	trough blood samples
+T5	Outcomes 882 896	Plasma samples
+T6	Outcomes 915 932	intact BMS-181101
+T7	Outcomes 1051 1060	tolerated
+T8	Outcomes 1136 1147	Cmin values
+T9	Outcomes 1163 1175	steady state
+T10	Outcomes 1328 1344	Cmax was reduced
+T11	Outcomes 1362 1380	tmax was prolonged
+T12	Outcomes 1398 1457	AUCtau, t1/2, and time to attain steady state of BMS-181101
+T13	Outcomes 1575 1581	safety
+T14	Outcomes 1585 1609	pharmacokinetic profiles

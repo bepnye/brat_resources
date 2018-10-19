@@ -1,0 +1,12 @@
+T1	Intervention 0 40	Recombinant human erythropoietin therapy
+T2	Intervention 534 575	Recombinant human erythropoietin (rHuEPO)
+T3	Intervention 981 1012	cyclic combination chemotherapy
+T4	Intervention 1137 1143	rHuEPO
+T5	Intervention 1158 1165	placebo
+T6	Intervention 1343 1349	rHuEPO
+T7	Intervention 1456 1462	rHuEPO
+T8	Intervention 1734 1748	rHuEPO-treated
+T9	Intervention 1787 1802	placebo-treated
+T10	Intervention 2227 2241	rHuEPO-treated
+T11	Intervention 2337 2351	rHuEPO-treated
+T12	Intervention 2712 2718	rHuEPO

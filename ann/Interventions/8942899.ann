@@ -1,0 +1,19 @@
+T1	Intervention 53 89	lateral and standard SMAS face lifts
+T2	Intervention 95 108	extended SMAS
+T3	Intervention 113 138	composite rhytidectomies.
+T4	Intervention 183 250	limited SMAS (lateral SMASectomy), conventional SMAS, extended SMAS
+T5	Intervention 256 281	composite rhytidectomies.
+T6	Intervention 320 422	limited SMAS or conventional SMAS face lift on one side and an extended SMAS or composite rhytidectomy
+T7	Intervention 928 951	primary rhytidectomies;
+T8	Intervention 966 987	secondary face lifts.
+T9	Intervention 1096 1113	conventional SMAS
+T10	Intervention 1126 1138	limited SMAS
+T11	Intervention 1197 1214	conventional SMAS
+T12	Intervention 1251 1263	limited SMAS
+T13	Intervention 1298 1320	composite rhytidectomy
+T14	Intervention 1647 1660	extended SMAS
+T15	Intervention 1665 1690	composite rhytidectomies.
+T16	Intervention 2215 2243	limited (lateral SMASectomy)
+T17	Intervention 2248 2265	conventional SMAS
+T18	Intervention 2291 2304	extended SMAS
+T19	Intervention 2309 2334	composite rhytidectomies.

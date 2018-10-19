@@ -1,0 +1,13 @@
+T1	Intervention 24 62	inhaled combination therapies (EDICT):
+T2	Intervention 104 112	Seretide
+T3	Intervention 131 141	Diskus vs.
+T4	Intervention 142 152	formoterol
+T5	Intervention 172 182	budesonide
+T6	Intervention 354 407	Seretide (salmeterol/fluticasone propionate (Salm/FP)
+T7	Intervention 431 453	Diskus with formoterol
+T8	Intervention 479 489	budesonide
+T9	Intervention 777 807	current corticosteroid therapy
+T10	Intervention 2280 2287	Salm/FP
+T11	Intervention 2435 2466	corticosteroid dose of Bud (800
+T12	Intervention 2502 2506	Form
+T13	Intervention 2646 2653	Salm/FP

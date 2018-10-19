@@ -1,0 +1,14 @@
+T0	Outcomes 533 631	Operating and anesthesia times, postoperative pain, complications, hospital stay, functional index
+T1	Outcomes 658 695	sick leave, and time to full recovery
+T2	Outcomes 732 746	operating time
+T3	Outcomes 751 761	overweight
+T4	Outcomes 906 920	operating time
+T5	Outcomes 1013 1043	operating and anesthesia times
+T6	Outcomes 1143 1161	Postoperative pain
+T7	Outcomes 1283 1301	Postoperative pain
+T8	Outcomes 1636 1649	Hospital stay
+T9	Outcomes 1822 1832	Sick leave
+T10	Outcomes 2089 2110	Time to full recovery
+T11	Outcomes 2318 2336	postoperative pain
+T12	Outcomes 2350 2372	postoperative recovery
+T13	Outcomes 2480 2525	operating time, hospital stay, and sick leave

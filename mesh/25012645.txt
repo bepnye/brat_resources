@@ -1,0 +1,19 @@
+Aged
+Bone Density
+Breast Neoplasms
+Carcinoma
+Combined Modality Therapy
+Female
+Humans
+Kidney Neoplasms
+Lung Neoplasms
+Male
+Melanoma
+Middle Aged
+Neoplasms
+Palliative Care
+Physical Therapy Modalities
+Prostatic Neoplasms
+Resistance Training
+Skin Neoplasms
+Spinal Neoplasms

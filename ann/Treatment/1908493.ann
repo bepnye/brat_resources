@@ -1,9 +1,0 @@
-T1	Treatment 38 85	growth hormone releasing hormone administration
-T2	Treatment 185 250	growth hormone GHRH (1 microgram/kg iv) or TRH (400 microgram iv)
-T3	Treatment 318 330	GHRH-induced
-T4	Treatment 747 758	TRH-induced
-T5	Treatment 1063 1070	placebo
-T6	Treatment 1319 1324	GHRH-
-T7	Treatment 1333 1344	TRH-induced
-T8	Treatment 1460 1475	GHRH-stimulated
-T9	Treatment 1483 1497	TRH-stimulated

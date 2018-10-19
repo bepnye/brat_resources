@@ -1,0 +1,12 @@
+T0	Outcomes 991 1063	sum of pain intensity difference (SPID) over 30 min post-administration.
+T1	Outcomes 1102 1154	pain intensity difference (PID) and pain relief (PR)
+T2	Outcomes 1256 1298	long-term safety phase of up to 12 months.
+T3	Outcomes 1299 1313	Adverse events
+T4	Outcomes 1574 1578	SPID
+T5	Outcomes 1773 1783	PID and PR
+T6	Outcomes 2055 2104	well-tolerated both systemically and sublingually
+T7	Outcomes 2150 2176	drug-related adverse event
+T8	Outcomes 2212 2218	nausea
+T9	Outcomes 2228 2236	vomiting
+T10	Outcomes 2248 2258	somnolence
+T11	Outcomes 2271 2304	serious AE (mild affect lability)

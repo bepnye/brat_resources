@@ -1,0 +1,4 @@
+T0	Interventions 0 18	Epidural analgesia
+T1	Interventions 33 53	intravenous morphine
+T2	Interventions 422 456	patient-controlled analgesia (PCA)
+T3	Interventions 782 807	epidural analgesia or PCA

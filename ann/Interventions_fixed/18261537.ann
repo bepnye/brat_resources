@@ -1,0 +1,7 @@
+T0	Interventions 11 33	losartan and enalapril
+T1	Interventions 323 352	enalapril (E) and/or losartan
+T2	Interventions 760 761	E
+T3	Interventions 782 783	L
+T4	Interventions 872 877	E + L
+T5	Interventions 1511 1525	E(+)L(+), L(+)
+T6	Interventions 1530 1534	E(+)

@@ -1,0 +1,13 @@
+T0	Outcomes 143 162	efficacy and safety
+T1	Outcomes 700 719	disease progression
+T2	Outcomes 723 744	intolerable toxicity.
+T3	Outcomes 769 828	tumor response, time to progression, survival and toxicity.
+T4	Outcomes 873 895	improved response rate
+T5	Outcomes 947 966	time to progression
+T6	Outcomes 1011 1024	survival time
+T7	Outcomes 1097 1105	toxicity
+T8	Outcomes 1130 1150	Cumulative 5-FU dose
+T9	Outcomes 1267 1287	disease progression.
+T10	Outcomes 1288 1293	Fever
+T11	Outcomes 1382 1391	toxicity.
+T12	Outcomes 1401 1418	grade IV toxicity

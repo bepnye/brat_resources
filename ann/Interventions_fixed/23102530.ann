@@ -1,0 +1,14 @@
+T0	Interventions 54 84	closed endotracheal suctioning
+T1	Interventions 96 112	open suctioning:
+T2	Interventions 215 234	Closed suction (CS)
+T3	Interventions 425 449	open suction (OS) and CS
+T4	Interventions 477 487	suctioning
+T5	Interventions 660 662	CS
+T6	Interventions 667 669	OS
+T7	Interventions 1067 1069	CS
+T8	Interventions 1079 1081	OS
+T9	Interventions 1250 1252	CS
+T10	Interventions 1264 1267	OS.
+T11	Interventions 1369 1386	Closed suctioning
+T12	Interventions 1519 1522	OS.
+T13	Interventions 1545 1547	CS

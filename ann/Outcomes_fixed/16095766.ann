@@ -1,0 +1,13 @@
+T0	Outcomes 253 269	surface proteins
+T1	Outcomes 873 927	Serum and fecal antibodies against SsWC, LPS, and IpaC
+T2	Outcomes 1050 1060	tolerated.
+T3	Outcomes 1064 1105	fever or severe gastrointestinal symptoms
+T4	Outcomes 1152 1170	Antibody responses
+T5	Outcomes 1210 1236	Serum IgG or IgA responses
+T6	Outcomes 1355 1374	Fecal IgA responses
+T7	Outcomes 1534 1550	serum IgA levels
+T8	Outcomes 1593 1606	IgG increases
+T9	Outcomes 1689 1700	immunogenic
+T10	Outcomes 1705 1715	protective
+T11	Outcomes 1743 1752	tolerated
+T12	Outcomes 1757 1768	immunogenic

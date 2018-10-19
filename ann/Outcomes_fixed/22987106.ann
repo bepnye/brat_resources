@@ -1,0 +1,13 @@
+T0	Outcomes 0 30	Junctional ectopic tachycardia
+T1	Outcomes 122 172	postoperative junctional ectopic tachycardia (JET)
+T2	Outcomes 233 253	risk factors for JET
+T3	Outcomes 271 285	effects of JET
+T4	Outcomes 289 327	postoperative morbidity and mortality.
+T5	Outcomes 1014 1073	low operative weight, cardiopulmonary bypass (CPB) duration
+T6	Outcomes 1088 1135	immediate postoperative serum lactic acid level
+T7	Outcomes 1230 1318	mechanical ventilation time, cardiac intensive care unit (CICU) stay, and hospital stay.
+T8	Outcomes 1338 1343	death
+T9	Outcomes 1461 1485	postoperative arrhythmia
+T10	Outcomes 1619 1656	postoperative lactic acidosis levels.
+T11	Outcomes 1657 1666	Mortality
+T12	Outcomes 1728 1737	morbidity

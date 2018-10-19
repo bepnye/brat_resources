@@ -1,0 +1,10 @@
+T0	Outcomes 0 8	Efficacy
+T1	Outcomes 219 223	safe
+T2	Outcomes 228 237	effective
+T3	Outcomes 632 671	interval from randomization to delivery
+T4	Outcomes 872 917	admitted for labor during the dosing interval
+T5	Outcomes 982 1014	mean gestational age at delivery
+T6	Outcomes 1130 1162	incidence of postdates pregnancy
+T7	Outcomes 1188 1204	Hyperstimulation
+T8	Outcomes 1364 1373	effective
+T9	Outcomes 1378 1394	initiating labor

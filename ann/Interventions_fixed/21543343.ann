@@ -1,0 +1,10 @@
+T0	Interventions 13 31	placebo-controlled
+T1	Interventions 52 83	aspirin and/or resistant starch
+T2	Interventions 158 191	aspirin and resistant starch (RS)
+T3	Interventions 273 289	(aspirin and RS)
+T4	Interventions 332 341	(aspirin)
+T5	Interventions 541 559	placebo-controlled
+T6	Interventions 569 576	aspirin
+T7	Interventions 595 597	RS
+T8	Interventions 794 899	arms: aspirin plus RS placebo; RS plus aspirin placebo; aspirin plus RS; RS placebo plus aspirin placebo;
+T9	Interventions 2213 2223	of aspirin

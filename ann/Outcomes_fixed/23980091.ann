@@ -1,0 +1,12 @@
+T0	Outcomes 372 394	overall survival (OS).
+T1	Outcomes 673 719	OS, disease-free survival (DFS), and toxicity.
+T2	Outcomes 993 995	OS
+T3	Outcomes 1056 1059	DFS
+T4	Outcomes 1157 1160	DFS
+T5	Outcomes 1206 1216	OS benefit
+T6	Outcomes 1378 1381	DFS
+T7	Outcomes 1428 1430	OS
+T8	Outcomes 1553 1567	Adverse events
+T9	Outcomes 1612 1634	Serious adverse events
+T10	Outcomes 1665 1700	except infection, fatigue, and pain
+T11	Outcomes 1726 1747	had fatal pneumonitis

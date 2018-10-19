@@ -1,0 +1,11 @@
+T0	Interventions 35 56	adjuvant chemotherapy
+T1	Interventions 231 252	adjuvant chemotherapy
+T2	Interventions 410 434	resection of gross tumor
+T3	Interventions 449 475	postoperative radiotherapy
+T4	Interventions 537 724	adjuvant chemotherapy consisting of doxorubicin (less than or equal to 550 mg/m2), cyclophosphamide (less than or equal to 5500 mg/m2), and methotrexate (less than or equal to 1000 mg/kg)
+T5	Interventions 776 788	chemotherapy
+T6	Interventions 825 840	no-chemotherapy
+T7	Interventions 2135 2147	chemotherapy
+T8	Interventions 2265 2277	chemotherapy
+T9	Interventions 2282 2301	doxorubicin-induced
+T10	Interventions 2416 2428	chemotherapy

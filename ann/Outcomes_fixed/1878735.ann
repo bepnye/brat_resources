@@ -1,0 +1,5 @@
+T0	Outcomes 390 413	median neutrophil count
+T1	Outcomes 501 587	duration of hospital stay, the number of antibiotic days, and the number of fever days
+T2	Outcomes 630 646	lymphocyte count
+T3	Outcomes 791 887	haemoglobin concentrations and platelets counts, and higher plasma urea creatinine and bilirubin
+T4	Outcomes 990 1008	leukaemic relapse.

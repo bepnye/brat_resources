@@ -1,0 +1,8 @@
+T0	Interventions 21 34	carbenicillin
+T1	Interventions 39 49	ampicillin
+T2	Interventions 118 156	carbenicillin (CB) or ampicillin (AMP)
+T3	Interventions 863 866	AMP
+T4	Interventions 926 928	CB
+T5	Interventions 1025 1027	CB
+T6	Interventions 1351 1354	AMP
+T7	Interventions 1359 1361	CB

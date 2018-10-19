@@ -1,0 +1,6 @@
+T1	Intervention 182 200	sodium restriction
+T2	Intervention 384 406	no dietary restriction
+T3	Intervention 439 461	an energy reduced diet
+T4	Intervention 487 539	sodium intake being supplemented and hence unchanged
+T5	Intervention 618 691	no intervention, which was followed by taking a diet restricted in energy
+T6	Intervention 716 722	sodium

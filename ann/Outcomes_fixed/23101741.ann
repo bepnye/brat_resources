@@ -1,0 +1,11 @@
+T0	Outcomes 60 74	brain activity
+T1	Outcomes 430 443	EEG activity.
+T2	Outcomes 655 713	EEG activity (event-related potentials and spectral power)
+T3	Outcomes 882 946	autism symptoms, IQ, language, and adaptive and social behaviors
+T4	Outcomes 1031 1125	shorter Nc latency and increased cortical activation (decreased α power and increased θ power)
+T5	Outcomes 1215 1293	(shorter latency event-related potential [ERP] and greater cortical activation
+T6	Outcomes 1307 1316	objects).
+T7	Outcomes 1317 1344	Greater cortical activation
+T8	Outcomes 1380 1409	with improved social behavior
+T9	Outcomes 1512 1554	with normalized patterns of brain activity
+T10	Outcomes 1576 1612	with improvements in social behavior

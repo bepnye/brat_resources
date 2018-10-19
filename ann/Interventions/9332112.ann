@@ -1,0 +1,21 @@
+T1	Intervention 0 29	Intravenous magnesium sulfate
+T2	Intervention 71 92	conventional therapy.
+T3	Intervention 161 196	intravenous Magnesium sulfate (i.v.
+T4	Intervention 197 203	MgSO4)
+T5	Intervention 259 280	conventional therapy.
+T6	Intervention 313 331	placebo-controlled
+T7	Intervention 525 545	nebulized salbutamol
+T8	Intervention 600 605	MgSO4
+T9	Intervention 612 674	received 0.2 ml/kg of 50% MgSO4 as intravenous (i.v.) infusion
+T10	Intervention 699 706	placebo
+T11	Intervention 722 744	normal saline infusion
+T12	Intervention 784 798	MgSO4 solution
+T13	Intervention 803 816	normal saline
+T14	Intervention 943 977	oxygen, nebulized salbutamol, i.v.
+T15	Intervention 978 991	aminophylline
+T16	Intervention 996 1012	corticosteroids.
+T17	Intervention 1021 1026	MgSO4
+T18	Intervention 1089 1096	placebo
+T19	Intervention 1286 1291	MgSO4
+T20	Intervention 1382 1387	MgSO4
+T21	Intervention 1391 1411	conventional therapy

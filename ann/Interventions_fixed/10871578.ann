@@ -1,0 +1,14 @@
+T0	Interventions 32 55	high-dose chemotherapy:
+T1	Interventions 152 186	Chemotherapy and radiation therapy
+T2	Interventions 292 317	parenteral nutrition (PN)
+T3	Interventions 338 371	bone marrow transplantation (BMT)
+T4	Interventions 471 493	high-dose chemotherapy
+T5	Interventions 576 579	BMT
+T6	Interventions 622 624	PN
+T7	Interventions 685 687	PN
+T8	Interventions 759 762	BMT
+T9	Interventions 813 908	standard PN containing conventional amounts of dextrose, amino acids, micronutrients, and lipid
+T10	Interventions 925 964	solution containing only micronutrients
+T11	Interventions 1774 1795	chemotherapy and BMT.
+T12	Interventions 1967 1989	high-dose chemotherapy
+T13	Interventions 1994 1997	BMT

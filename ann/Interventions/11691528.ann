@@ -1,0 +1,6 @@
+T1	Intervention 160 174	cardiac pacing
+T2	Intervention 356 371	cardiac pacing.
+T3	Intervention 652 699	dual-chamber pacemaker implant (paced patients)
+T4	Intervention 703 733	standard treatment (controls).
+T5	Intervention 927 936	pacemaker
+T6	Intervention 941 949	controls

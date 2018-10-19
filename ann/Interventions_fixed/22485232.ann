@@ -1,0 +1,9 @@
+T0	Interventions 0 13	Procalcitonin
+T1	Interventions 50 68	antibiotic therapy
+T2	Interventions 223 236	procalcitonin
+T3	Interventions 267 285	antibiotic therapy
+T4	Interventions 571 658	Procalcitonin was measured daily by a semi-quantitative immunoassay in the study group.
+T5	Interventions 696 801	2 groups including a PCT-guided group (study group) and a prophylactic antibiotic therapy (control group)
+T6	Interventions 803 938	Antibiotic therapy in the study group was not applied until clinical signs and symptoms of infection appeared (PCT value was >0.5ng/ml)
+T7	Interventions 1142 1160	antibiotic therapy
+T8	Interventions 1646 1659	Procalcitonin

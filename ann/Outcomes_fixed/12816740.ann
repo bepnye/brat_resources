@@ -1,0 +1,13 @@
+T0	Outcomes 0 24	Antiinflammatory effects
+T1	Outcomes 207 220	lung function
+T2	Outcomes 292 316	antiinflammatory effects
+T3	Outcomes 424 463	Induced sputum differential cell counts
+T4	Outcomes 518 555	Interleukin-8 and neutrophil elastase
+T5	Outcomes 683 754	neutrophils, CD8+ and CD4+ T-lymphocyte subsets, and CD68+ macrophages.
+T6	Outcomes 776 831	genes for interleukin-8 and tumor necrosis factor-alpha
+T7	Outcomes 1010 1034	sputum endpoint or FEV1.
+T8	Outcomes 1122 1140	reductions in CD8+
+T9	Outcomes 1164 1175	CD68+ cells
+T10	Outcomes 1309 1327	reductions of CD8+
+T11	Outcomes 1347 1352	CD68+
+T12	Outcomes 1437 1469	airway tissue inflammatory cells

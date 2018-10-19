@@ -1,0 +1,8 @@
+T0	Interventions 253 309	sensory level-high volt pulsed electrical current (HVPC)
+T1	Interventions 711 740	experimental condition (HVPC)
+T2	Interventions 746 753	placebo
+T3	Interventions 815 819	HVPC
+T4	Interventions 946 953	placebo
+T5	Interventions 1282 1299	(HVPC or placebo)
+T6	Interventions 1586 1590	HVPC
+T7	Interventions 1624 1631	placebo

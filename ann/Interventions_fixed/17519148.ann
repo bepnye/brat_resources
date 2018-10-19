@@ -1,0 +1,9 @@
+T0	Interventions 72 95	hormonal contraceptives
+T1	Interventions 193 234	hormonal contraceptive vaginal ring (CVR)
+T2	Interventions 250 289	nonandrogenic progestin Nestorone (NES)
+T3	Interventions 294 311	ethinyl estradiol
+T4	Interventions 953 1106	randomized to three cycles of treatment with a CVR delivering NES/EE (150/15 microg/day) or a combined OC providing LNG and EE (150/30 microg per tablet)
+T5	Interventions 1108 1198	Each cycle consisted of 21 days of active treatment, followed by 7 days without treatment.
+T6	Interventions 1269 1645	blood samples were obtained for determinations of plasma concentrations of angiotensinogen, an estrogen-sensitive hepatic protein, and serum concentrations of sex hormone-binding globulin (SHBG), total cholesterol (TC), high-density lipoprotein cholesterol (HDL-C), low-density lipoprotein cholesterol (LDL-C), triglycerides (TG) and estrogen- and androgen-sensitive proteins.
+T7	Interventions 3328 3338	NES/EE CVR
+T8	Interventions 3347 3356	LNG/EE OC

@@ -1,0 +1,10 @@
+T0	Outcomes 133 149	clinical benefit
+T1	Outcomes 571 626	Respiratory Distress Assessment Instrument (RDAI) score
+T2	Outcomes 1275 1285	RDAI score
+T3	Outcomes 1331 1396	oxygen saturation, respiratory rate, RDAI measurement twice daily
+T4	Outcomes 1427 1453	length of hospitalization.
+T5	Outcomes 1478 1494	mean change (SD)
+T6	Outcomes 1516 1526	RDAI score
+T7	Outcomes 1706 1757	oxygen saturation, respiratory rate, and RDAI score
+T8	Outcomes 1788 1809	median length of stay
+T9	Outcomes 2010 2025	clinical course

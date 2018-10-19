@@ -1,0 +1,15 @@
+T0	Interventions 32 79	laparoscopically assisted vaginal hysterectomy:
+T1	Interventions 122 144	abdominal hysterectomy
+T2	Interventions 214 306	laparoscopically assisted vaginal hysterectomy (LAVH) and total abdominal hysterectomy (TAH)
+T3	Interventions 573 586	LAVH and TAH.
+T4	Interventions 937 941	LAVH
+T5	Interventions 946 949	TAH
+T6	Interventions 994 998	LAVH
+T7	Interventions 1034 1038	TAH;
+T8	Interventions 1075 1079	LAVH
+T9	Interventions 1226 1230	LAVH
+T10	Interventions 1251 1254	TAH
+T11	Interventions 1615 1624	TAH, LAVH
+T12	Interventions 1789 1793	LAVH
+T13	Interventions 1852 1855	TAH
+T14	Interventions 1888 1899	laparotomy.

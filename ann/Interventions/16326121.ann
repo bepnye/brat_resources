@@ -1,0 +1,11 @@
+T1	Intervention 61 83	salmeterol/fluticasone
+T2	Intervention 167 203	of salmeterol/fluticasone propionate
+T3	Intervention 303 313	salmeterol
+T4	Intervention 749 756	placebo
+T5	Intervention 778 785	placebo
+T6	Intervention 805 828	allergen challenge (T1)
+T7	Intervention 855 906	placebo and a single dose of salmeterol/fluticasone
+T8	Intervention 926 949	allergen challenge (T2)
+T9	Intervention 954 1010	1-week treatment with salmeterol/fluticasone combination
+T10	Intervention 1036 1058	salmeterol/fluticasone
+T11	Intervention 1078 1102	allergen challenge (T3).

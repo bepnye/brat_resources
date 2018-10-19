@@ -1,0 +1,9 @@
+T0	Interventions 23 126	concurrent gemcitabine and cisplatin with or without sequential chemotherapy with gemcitabine/cisplatin
+T1	Interventions 130 178	chemoradiotherapy with concurrent 5-fluorouracil
+T2	Interventions 572 584	radiotherapy
+T3	Interventions 628 642	5-fluorouracil
+T4	Interventions 680 692	radiotherapy
+T5	Interventions 708 730	concurrent gemcitabine
+T6	Interventions 751 760	cisplatin
+T7	Interventions 820 890	same concurrent treatment followed by sequential full-dose gemcitabine
+T8	Interventions 911 920	cisplatin

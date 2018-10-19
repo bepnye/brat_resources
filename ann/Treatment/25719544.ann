@@ -1,6 +1,0 @@
-T1	Treatment 0 16	Mask ventilation
-T2	Treatment 288 297	face mask
-T3	Treatment 545 597	round face masks (Fisher & Paykel (F&P) and Laerdal)
-T4	Treatment 789 797	mask PPV
-T5	Treatment 939 982	PPV with either a F&P or Laerdal face mask.
-T6	Treatment 1378 1426	randomized to the F&P face mask and Laerdal face

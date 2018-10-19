@@ -1,0 +1,12 @@
+T0	Interventions 39 72	brushings before and after biopsy
+T1	Interventions 184 204	endoscopic brushings
+T2	Interventions 253 262	brushings
+T3	Interventions 547 602	undergo brushing either before or after forceps biopsy.
+T4	Interventions 619 636	brushing cytology
+T5	Interventions 698 706	brushing
+T6	Interventions 987 1019	brushings obtained before biopsy
+T7	Interventions 1196 1227	(brushing cytology plus biopsy)
+T8	Interventions 1303 1315	biopsy alone
+T9	Interventions 1327 1341	cytology alone
+T10	Interventions 1394 1437	combined application of brushing and biopsy
+T11	Interventions 1512 1520	brushing

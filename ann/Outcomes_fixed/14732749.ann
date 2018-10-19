@@ -1,0 +1,11 @@
+T0	Outcomes 907 973	congestive failure, hypertension, prior CABG, and unstable angina;
+T1	Outcomes 989 1004	body mass index
+T2	Outcomes 1015 1032	ejection fraction
+T3	Outcomes 1093 1122	degree of multivessel disease
+T4	Outcomes 1217 1231	type C lesions
+T5	Outcomes 1296 1337	Angiographic and procedural success rates
+T6	Outcomes 1342 1360	in-hospital events
+T7	Outcomes 1423 1493	death, myocardial infarction, or target vessel revascularization (TVR)
+T8	Outcomes 1661 1666	death
+T9	Outcomes 1772 1775	TVR
+T10	Outcomes 1856 1887	death/myocardial infarction/TVR

@@ -1,0 +1,15 @@
+T0	Interventions 0 17	Protein ingestion
+T1	Interventions 166 203	carbohydrate and/or protein ingestion
+T2	Interventions 221 229	exercise
+T3	Interventions 487 506	resistance exercise
+T4	Interventions 541 637	carbohydrate with or without 0.3 g x kg(-1) protein hydrolysate (CHO+PRO and CHO, respectively).
+T5	Interventions 638 653	Muscle biopsies
+T6	Interventions 869 891	4E-BP1 phosphorylation
+T7	Interventions 931 934	CHO
+T8	Interventions 970 977	CHO+PRO
+T9	Interventions 1329 1342	CHO treatment
+T10	Interventions 1424 1431	CHO+PRO
+T11	Interventions 1538 1545	CHO+PRO
+T12	Interventions 1554 1557	CHO
+T13	Interventions 1640 1647	CHO+PRO
+T14	Interventions 1676 1679	CHO

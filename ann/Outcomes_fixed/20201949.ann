@@ -1,0 +1,6 @@
+T0	Outcomes 811 833	complete response (CR)
+T1	Outcomes 845 868	partial remission (PR).
+T2	Outcomes 984 1009	the overall response rate
+T3	Outcomes 1076 1143	The progression-free survival (PFS) and overall survival at 5 years
+T4	Outcomes 1326 1334	relapsed
+T5	Outcomes 1350 1369	long-term survivors

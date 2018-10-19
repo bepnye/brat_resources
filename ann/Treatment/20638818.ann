@@ -1,8 +1,0 @@
-T1	Treatment 32 67	short-term neoadjuvant chemotherapy
-T2	Treatment 122 165	short-term neoadjuvant chemotherapy (s-NAC)
-T3	Treatment 475 497	5-fluorouracil (5-FU);
-T4	Treatment 556 603	cis-diamminedichloroplatinum (CDDP; cisplatin);
-T5	Treatment 641 651	5-FU+CDDP;
-T6	Treatment 690 715	not receive chemotherapy.
-T7	Treatment 1330 1335	s-NAC
-T8	Treatment 1460 1488	Combination of CDDP and 5-FU

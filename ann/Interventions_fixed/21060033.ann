@@ -1,0 +1,15 @@
+T0	Interventions 0 9	Denosumab
+T1	Interventions 24 39	zoledronic acid
+T2	Interventions 192 201	denosumab
+T3	Interventions 301 321	with zoledronic acid
+T4	Interventions 488 556	receive either subcutaneous denosumab 120 mg and intravenous placebo
+T5	Interventions 569 663	or intravenous zoledronic acid 4 mg adjusted for creatinine clearance and subcutaneous placebo
+T6	Interventions 738 765	daily calcium and vitamin D
+T7	Interventions 924 941	RESULTS Denosumab
+T8	Interventions 955 973	to zoledronic acid
+T9	Interventions 1486 1500	with denosumab
+T10	Interventions 1556 1566	denosumab;
+T11	Interventions 1573 1589	zoledronic acid;
+T12	Interventions 1600 1620	CONCLUSION Denosumab
+T13	Interventions 1634 1652	to zoledronic acid
+T14	Interventions 1858 1867	denosumab

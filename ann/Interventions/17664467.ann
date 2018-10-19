@@ -1,0 +1,10 @@
+T1	Intervention 22 63	docetaxel plus fluorouracil and cisplatin
+T2	Intervention 78 104	cisplatin and fluorouracil
+T3	Intervention 605 652	docetaxel plus cisplatin and fluorouracil (DCF)
+T4	Intervention 656 688	cisplatin and fluorouracil (CF).
+T5	Intervention 1419 1421	CF
+T6	Intervention 1604 1607	DCF
+T7	Intervention 1891 1922	protocol-specific chemotherapy.
+T8	Intervention 1939 1940	D
+T9	Intervention 1944 1946	CF
+T10	Intervention 2087 2090	CF.

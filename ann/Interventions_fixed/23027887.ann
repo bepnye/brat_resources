@@ -1,0 +1,17 @@
+T0	Interventions 20 29	rituximab
+T1	Interventions 172 205	tumor necrosis factor inhibitors:
+T2	Interventions 409 424	rituximab (RTX)
+T3	Interventions 502 541	tumor necrosis factor (TNF) inhibitors.
+T4	Interventions 599 680	placebo (PBO) + methotrexate (MTX; PBO-randomized) or RTX + MTX (RTX-randomized).
+T5	Interventions 774 777	RTX
+T6	Interventions 810 813	RTX
+T7	Interventions 923 926	RTX
+T8	Interventions 967 981	RTX-randomized
+T9	Interventions 1075 1078	RTX
+T10	Interventions 1201 1215	RTX-randomized
+T11	Interventions 1267 1272	1 RTX
+T12	Interventions 1760 1779	both PBO-randomized
+T13	Interventions 1789 1807	and RTX-randomized
+T14	Interventions 1884 1923	in PBO-randomized versus RTX-randomized
+T15	Interventions 1949 1976	CONCLUSION RTX re-treatment
+T16	Interventions 2145 2169	initiating RTX treatment

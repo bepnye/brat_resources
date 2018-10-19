@@ -1,0 +1,5 @@
+T0	Interventions 105 109	CSII
+T1	Interventions 114 117	MDI
+T2	Interventions 263 357	continuous subcutaneous insulin infusion (CSII) or multiple daily injections of insulin (MDI).
+T3	Interventions 509 527	CSII treated group
+T4	Interventions 535 556	and MDI treated group

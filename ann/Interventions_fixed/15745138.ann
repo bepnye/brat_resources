@@ -1,0 +1,9 @@
+T0	Interventions 0 31	Online conductivity monitoring:
+T1	Interventions 81 112	reduced dialysate conductivity.
+T2	Interventions 114 158	Relatively low dialysate conductivity (Cndi)
+T3	Interventions 337 347	controlled
+T4	Interventions 357 375	reduction of Cndi.
+T5	Interventions 422 539	maintenance of Cndi at 13.6 mS/cm (equivalent to 135 mmol/L of Na+) or serial reduction of Cndi in steps of 0.2 mS/cm
+T6	Interventions 788 805	reduction of Cndi
+T7	Interventions 1129 1154	convective sodium removal
+T8	Interventions 1260 1277	Reduction in Cndi

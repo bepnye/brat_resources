@@ -1,0 +1,14 @@
+T0	Interventions 0 20	Human papillomavirus
+T1	Interventions 25 43	Papanicolaou tests
+T2	Interventions 560 620	HPV test plus a Papanicolaou (Pap) test (intervention group)
+T3	Interventions 624 657	a Pap test alone (control group).
+T4	Interventions 680 688	HPV test
+T5	Interventions 702 710	Pap test
+T6	Interventions 740 748	HPV test
+T7	Interventions 947 986	Pap smears and colposcopies with biopsy
+T8	Interventions 1349 1361	intervention
+T9	Interventions 1554 1561	control
+T10	Interventions 1674 1686	intervention
+T11	Interventions 1883 1890	control
+T12	Interventions 2089 2097	HPV test
+T13	Interventions 2105 2113	Pap test

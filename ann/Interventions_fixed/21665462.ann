@@ -1,0 +1,17 @@
+T0	Interventions 13 34	irinotecan or FOLFIRI
+T1	Interventions 50 62	chemotherapy
+T2	Interventions 214 224	irinotecan
+T3	Interventions 313 323	irinotecan
+T4	Interventions 352 366	5-fluorouracil
+T5	Interventions 414 431	fluoropyrimidine.
+T6	Interventions 524 536	chemotherapy
+T7	Interventions 541 551	irinotecan
+T8	Interventions 689 730	Combination therapy (FOLFIRI), irinotecan
+T9	Interventions 768 782	5-fluorouracil
+T10	Interventions 857 869	folinic acid
+T11	Interventions 926 936	irinotecan
+T12	Interventions 1233 1243	irinotecan
+T13	Interventions 1602 1618	irinotecan-based
+T14	Interventions 1643 1653	irinotecan
+T15	Interventions 1764 1785	Combination treatment
+T16	Interventions 1813 1823	irinotecan

@@ -1,0 +1,11 @@
+Absorptiometry, Photon
+Aged
+Bone Density
+Bone Diseases, Metabolic
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Femur Neck
+Humans
+Middle Aged
+Postmenopause

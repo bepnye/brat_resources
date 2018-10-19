@@ -1,0 +1,14 @@
+Adalimumab
+Adult
+Antibodies, Monoclonal, Humanized
+Azathioprine
+Colonoscopy
+Crohn Disease
+Female
+Humans
+Male
+Mercaptopurine
+Metronidazole
+Middle Aged
+Recurrence
+Treatment Outcome

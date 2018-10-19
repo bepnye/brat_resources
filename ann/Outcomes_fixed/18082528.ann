@@ -1,0 +1,6 @@
+T0	Outcomes 705 734	Maximal diameters and volumes
+T1	Outcomes 816 854	absolute difference of aortic diameter
+T2	Outcomes 1044 1055	correlation
+T3	Outcomes 1111 1134	correlation coefficient
+T4	Outcomes 1235 1256	optimal cut-off value
+T5	Outcomes 1279 1402	receiver-operating characteristic curve analysis, sensitivity, specificity, and the positive and negative predictive values

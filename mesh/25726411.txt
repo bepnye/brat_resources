@@ -1,0 +1,17 @@
+Aged
+Confidence Intervals
+Coronary Angiography
+Coronary Stenosis
+Female
+Humans
+Male
+Middle Aged
+Myocardial Infarction
+Myocardial Ischemia
+Myocardial Perfusion Imaging
+Observer Variation
+Purines
+Pyrazoles
+Sensitivity and Specificity
+Tomography, Emission-Computed, Single-Photon
+Tomography, X-Ray Computed

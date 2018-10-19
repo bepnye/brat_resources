@@ -1,0 +1,11 @@
+T0	Outcomes 92 135	pharmacokinetics of cephalexin monohydrate.
+T1	Outcomes 400 452	pharmacokinetics and pharmacodynamics of cephalexin.
+T2	Outcomes 637 655	Time-concentration
+T3	Outcomes 685 711	pharmacokinetic parameters
+T4	Outcomes 862 1086	percentage of time that serum concentrations remain above the MIC(90) during the dosing interval (T > MIC(90)) for Streptococcus pyogenes and Staphylococcus aureus associated with the pharmacokinetic profiles was calculated.
+T5	Outcomes 1192 1231	C(max), AUC(infinity), t(1/2), or CL/F.
+T6	Outcomes 1232 1238	t(max)
+T7	Outcomes 1331 1353	Suboptimal T > MIC(90)
+T8	Outcomes 1494 1505	T > MIC(90)
+T9	Outcomes 1608 1614	t(max)
+T10	Outcomes 1728 1734	t(max)

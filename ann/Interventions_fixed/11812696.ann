@@ -1,0 +1,16 @@
+T0	Interventions 21 38	spinal anesthesia
+T1	Interventions 121 143	desflurane anesthesia.
+T2	Interventions 242 275	selective spinal anesthesia (SSA)
+T3	Interventions 280 307	desflurane anesthesia (DES)
+T4	Interventions 322 348	gynecological laparoscopy.
+T5	Interventions 458 461	SSA
+T6	Interventions 467 547	lidocaine 10 mg + sufentanil 10 microg or general anesthesia with DES and N(2)O.
+T7	Interventions 743 746	SSA
+T8	Interventions 824 827	DES
+T9	Interventions 887 890	SSA
+T10	Interventions 1087 1090	DES
+T11	Interventions 1098 1101	SSA
+T12	Interventions 1158 1161	DES
+T13	Interventions 1237 1240	DES
+T14	Interventions 1329 1339	desflurane
+T15	Interventions 1598 1608	desflurane

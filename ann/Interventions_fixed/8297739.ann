@@ -1,0 +1,14 @@
+T0	Interventions 0 57	Granulocyte-macrophage colony-stimulating factor (GM-CSF)
+T1	Interventions 109 126	CEF chemotherapy:
+T2	Interventions 331 339	(GM-CSF)
+T3	Interventions 391 416	standard-dose CEF regimen
+T4	Interventions 444 456	chemotherapy
+T5	Interventions 491 578	CEF (cyclophosphamide 600 mg m-2, epidoxorubicin 60 mg m-2 and fluorouracil 600 mg m-2)
+T6	Interventions 605 617	chemotherapy
+T7	Interventions 624 630	GM-CSF
+T8	Interventions 757 769	CEF + GM-CSF
+T9	Interventions 1072 1078	GM-CSF
+T10	Interventions 1395 1398	CEF
+T11	Interventions 1419 1431	CEF + GM-CSF
+T12	Interventions 1490 1496	GM-CSF
+T13	Interventions 1550 1562	CEF + GM-CSF

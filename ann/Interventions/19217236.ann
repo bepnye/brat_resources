@@ -1,0 +1,19 @@
+T1	Intervention 8 45	laryngeal tube suction-device (LTS-D)
+T2	Intervention 417 478	single-use laryngeal tube with suction option (LTS-D) instead
+T3	Intervention 482 585	endotracheal intubation (ET) and bag-mask-valve ventilation (BMV) for emergency airway management could
+T4	Intervention 987 992	LTS-D
+T5	Intervention 1196 1201	LTS-D
+T6	Intervention 1225 1227	ET
+T7	Intervention 1247 1251	BMV.
+T8	Intervention 1262 1267	LTS-D
+T9	Intervention 1290 1293	NFT
+T10	Intervention 1306 1308	ET
+T11	Intervention 1317 1320	BMV
+T12	Intervention 1394 1397	NFT
+T13	Intervention 1433 1438	LTS-D
+T14	Intervention 1465 1476	ET and BMV.
+T15	Intervention 1581 1586	LTS-D
+T16	Intervention 1616 1618	ET
+T17	Intervention 1623 1626	BMV
+T18	Intervention 1735 1737	ET
+T19	Intervention 1796 1800	BMV.

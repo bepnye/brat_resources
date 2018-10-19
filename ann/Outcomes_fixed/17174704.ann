@@ -1,0 +1,12 @@
+T0	Outcomes 1130 1183	AIDS-defining event, death, or CD4 cell count decline
+T1	Outcomes 1263 1287	change in CD4 cell count
+T2	Outcomes 1577 1595	composite endpoint
+T3	Outcomes 1655 1674	hazard ratios (HRs)
+T4	Outcomes 1707 1760	AIDS or death, for death, and for virological failure
+T5	Outcomes 1955 1984	Mean change in CD4 cell count
+T6	Outcomes 2135 2138	HRs
+T7	Outcomes 2179 2216	AIDS or death and virological failure
+T8	Outcomes 2275 2278	HRs
+T9	Outcomes 2319 2332	AIDS or death
+T10	Outcomes 2714 2735	discontinue treatment
+T11	Outcomes 2747 2760	toxic effects

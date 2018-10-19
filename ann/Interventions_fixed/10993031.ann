@@ -1,0 +1,26 @@
+T0	Interventions 29 66	micronized estradiol and progesterone
+T1	Interventions 85 109	micronized testosterone:
+T2	Interventions 305 371	micronized estradiol (E2), progesterone (P4), and testosterone (T)
+T3	Interventions 614 627	micronized E2
+T4	Interventions 643 656	micronized E2
+T5	Interventions 668 680	micronized T
+T6	Interventions 743 756	micronized E2
+T7	Interventions 768 781	micronized P4
+T8	Interventions 797 810	micronized E2
+T9	Interventions 820 835	+ micronized P4
+T10	Interventions 846 860	+ micronized T
+T11	Interventions 984 986	E2
+T12	Interventions 991 996	E2+P4
+T13	Interventions 1059 1063	E2+T
+T14	Interventions 1068 1075	E2+P4+T
+T15	Interventions 1106 1113	HRT + T
+T16	Interventions 2187 2190	HRT
+T17	Interventions 2231 2238	HRT + T
+T18	Interventions 2302 2311	HRT alone
+T19	Interventions 2316 2323	HRT + T
+T20	Interventions 2632 2641	HRT alone
+T21	Interventions 2677 2684	HRT + T
+T22	Interventions 2745 2754	HRT alone
+T23	Interventions 2809 2816	HRT + T
+T24	Interventions 2875 2878	HRT
+T25	Interventions 3076 3079	HRT

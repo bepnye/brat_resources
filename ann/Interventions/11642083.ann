@@ -1,0 +1,9 @@
+T1	Intervention 0 32	[Neoton and thrombolytic therapy
+T2	Intervention 77 91	neoton therapy
+T3	Intervention 228 255	thrombolytic therapy (TLT).
+T4	Intervention 328 360	treatment without TLT and neoton
+T5	Intervention 383 418	TLT with streptokinase preparations
+T6	Intervention 443 481	streptokinase preparations and neoton.
+T7	Intervention 766 772	neoton
+T8	Intervention 950 956	neoton
+T9	Intervention 992 998	Neoton

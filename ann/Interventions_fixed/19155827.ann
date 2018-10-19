@@ -1,0 +1,13 @@
+T0	Interventions 3 20	catheter washouts
+T1	Interventions 118 164	acidic washout solution, normal saline washout
+T2	Interventions 169 183	standard care.
+T3	Interventions 371 388	catheter washouts
+T4	Interventions 723 832	control (usual care, no washout), saline washout, or commercially available acidic washout solution (Contisol
+T5	Interventions 1052 1081	saline or commercial solution
+T6	Interventions 1095 1102	washout
+T7	Interventions 1369 1388	commercial solution
+T8	Interventions 1460 1490	washout versus no intervention
+T9	Interventions 1516 1543	saline and washout solution
+T10	Interventions 2269 2309	catheter washout with saline or Contisol
+T11	Interventions 2333 2359	usual care with no washout
+T12	Interventions 2429 2445	washout regimes.

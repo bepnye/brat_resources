@@ -1,0 +1,10 @@
+T1	Intervention 0 26	Pulsatile insulin delivery
+T2	Intervention 50 69	continuous infusion
+T3	Intervention 196 240	continuous and intermittent insulin delivery
+T4	Intervention 382 402	saline or continuous
+T5	Intervention 423 435	or pulsatile
+T6	Intervention 500 513	human insulin
+T7	Intervention 764 770	saline
+T8	Intervention 776 824	smaller amount of insulin delivered continuously
+T9	Intervention 846 870	or in a pulsatile manner
+T10	Intervention 983 991	arginine

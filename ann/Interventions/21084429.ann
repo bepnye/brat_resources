@@ -1,0 +1,18 @@
+T1	Intervention 19 45	gemcitabine plus docetaxel
+T2	Intervention 53 80	capecitabine plus docetaxel
+T3	Intervention 198 229	gemcitabine plus docetaxel (GD)
+T4	Intervention 234 266	capecitabine plus docetaxel (CD)
+T5	Intervention 354 384	monotherapy (GD→C or CD→G)
+T6	Intervention 477 495	either gemcitabine
+T7	Intervention 525 539	plus docetaxel
+T8	Intervention 558 575	1 or capecitabine
+T9	Intervention 609 628	1-14 plus docetaxel
+T10	Intervention 674 704	received crossover monotherapy
+T11	Intervention 1081 1085	More
+T12	Intervention 1128 1132	than
+T13	Intervention 1334 1343	comparing
+T14	Intervention 1347 1350	and
+T15	Intervention 1532 1539	groups.
+T16	Intervention 1633 1645	neutropenia;
+T17	Intervention 1723 1734	CONCLUSIONS
+T18	Intervention 1738 1741	and

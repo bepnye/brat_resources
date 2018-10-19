@@ -1,0 +1,16 @@
+T0	Outcomes 100 138	cervical ripening and labor induction.
+T1	Outcomes 279 317	cervical ripening and labor induction.
+T2	Outcomes 1378 1438	average interval from start of induction to vaginal delivery
+T3	Outcomes 1635 1665	Oxytocin augmentation of labor
+T4	Outcomes 1879 1897	routes of delivery
+T5	Outcomes 1965 1985	cesarean deliveries.
+T6	Outcomes 2032 2044	tachysystole
+T7	Outcomes 2322 2374	frequency of uterine hyperstimulation or hypertonus.
+T8	Outcomes 2375 2409	Abnormal fetal heart rate tracings
+T9	Outcomes 2628 2644	meconium passage
+T10	Outcomes 2661 2673	Apgar scores
+T11	Outcomes 2679 2753	neonatal resuscitations, or admissions to the neonatal intensive care unit
+T12	Outcomes 2831 2840	effective
+T13	Outcomes 2861 2906	cervical ripening and the induction of labor.
+T14	Outcomes 2907 2994	Mean time intervals to delivery, need for oxytocin augmentation, and routes of delivery
+T15	Outcomes 3045 3065	uterine tachysystole

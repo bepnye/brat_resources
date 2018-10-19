@@ -1,0 +1,12 @@
+T0	Outcomes 744 773	endogenous leucine flux (ELF)
+T1	Outcomes 836 859	leucine oxidation (LOX)
+T2	Outcomes 889 926	non-oxidative leucine disposal (NOLD)
+T3	Outcomes 946 949	ELF
+T4	Outcomes 1047 1078	plasma AA and branched-chain KA
+T5	Outcomes 1351 1354	LOX
+T6	Outcomes 1671 1675	NOLD
+T7	Outcomes 1784 1824	basal plasma AA/branched-chain KA levels
+T8	Outcomes 1888 1926	plasma branched-chain KA concentration
+T9	Outcomes 1979 1983	NOLD
+T10	Outcomes 2023 2027	NOLD
+T11	Outcomes 2051 2067	plasma AA levels

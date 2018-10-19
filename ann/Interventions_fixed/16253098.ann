@@ -1,0 +1,5 @@
+T0	Interventions 395 459	control, treated with full-mouth scaling and root planing (SRP);
+T1	Interventions 468 541	treated with SRP and 400 mg systemically administered metronidazole (MET)
+T2	Interventions 583 650	treated with SRP and professional supragingival plaque removal (PP)
+T3	Interventions 701 721	SRP and MET plus PP.
+T4	Interventions 1415 1436	Periodontal treatment

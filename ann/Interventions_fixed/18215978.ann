@@ -1,0 +1,11 @@
+T0	Interventions 15 24	efavirenz
+T1	Interventions 72 80	ACTG 368
+T2	Interventions 104 118	abacavir (ABC)
+T3	Interventions 139 154	efavirenz (EFV)
+T4	Interventions 159 174	indinavir (IDV)
+T5	Interventions 361 379	placebo-controlled
+T6	Interventions 401 433	EFV plus indinavir (EFV+IDV) vs.
+T7	Interventions 434 461	EFV+IDV plus abacavir (ABC)
+T8	Interventions 870 876	EFV-HS
+T9	Interventions 1385 1395	EFV-HS HIV
+T10	Interventions 1494 1502	EFV+IDV.

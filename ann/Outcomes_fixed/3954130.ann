@@ -1,0 +1,9 @@
+T0	Outcomes 777 800	breathing frequency (f)
+T1	Outcomes 910 933	mean tidal volume (VT).
+T2	Outcomes 950 979	minute ventilation (VE) and f
+T3	Outcomes 1127 1129	VT
+T4	Outcomes 1235 1237	VT
+T5	Outcomes 1255 1256	f
+T6	Outcomes 1323 1336	changes in VE
+T7	Outcomes 1379 1422	peak inspiratory and expiratory flow rates.
+T8	Outcomes 1445 1506	oxygen consumption (VO2) and carbon dioxide production (VCO2)

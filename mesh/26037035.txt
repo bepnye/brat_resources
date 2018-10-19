@@ -1,0 +1,18 @@
+Adult
+Blood Glucose
+Diabetes Mellitus, Type 1
+Drug Administration Schedule
+Drug Delivery Systems
+Equipment Design
+Female
+Humans
+Hypoglycemic Agents
+Infusions, Subcutaneous
+Injections, Intradermal
+Insulin
+Insulin Infusion Systems
+Male
+Microinjections
+Needles
+Postprandial Period
+Treatment Outcome

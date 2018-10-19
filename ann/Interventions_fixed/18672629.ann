@@ -1,0 +1,9 @@
+T0	Interventions 38 46	atropine
+T1	Interventions 80 91	neostigmine
+T2	Interventions 180 205	atropine plus neostigmine
+T3	Interventions 544 562	0.9 mg of atropine
+T4	Interventions 574 581	control
+T5	Interventions 597 616	1.2 mg of atropine.
+T6	Interventions 638 675	2.5 mg of neostigmine simultaneously.
+T7	Interventions 1183 1191	atropine
+T8	Interventions 1204 1215	neostigmine

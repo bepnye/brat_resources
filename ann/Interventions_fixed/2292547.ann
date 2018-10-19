@@ -1,0 +1,5 @@
+T0	Interventions 26 39	ciprofloxacin
+T1	Interventions 44 71	intra-peritoneal vancomycin
+T2	Interventions 76 86	gentamicin
+T3	Interventions 202 262	oral ciprofloxacin and intraperitoneal vancomycin/gentamicin
+T4	Interventions 533 546	ciprofloxacin

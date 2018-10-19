@@ -1,0 +1,11 @@
+T0	Outcomes 0 19	Optimal vaccination
+T1	Outcomes 164 192	optimal vaccination schedule
+T2	Outcomes 429 430	.
+T3	Outcomes 431 444	Blood samples
+T4	Outcomes 510 651	The geometric mean titer (GMT), seroconversion rate (levels of anti-HBs ≥ 10 mIU/mL) and high response rate (levels of anti-HBs ≥ 100 mIU/mL)
+T5	Outcomes 751 752	.
+T6	Outcomes 753 787	The seroconversion/sero-protective
+T7	Outcomes 930 943	respectively.
+T8	Outcomes 944 960	GMT for anti-HBs
+T9	Outcomes 1144 1198	differences of seroconversion/sero-protective rate and
+T10	Outcomes 1244 1281	high anti-HBs seroconversion rate and

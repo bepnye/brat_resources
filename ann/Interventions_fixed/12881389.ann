@@ -1,0 +1,8 @@
+T0	Interventions 0 59	Cisplatin, epirubicin, leucovorin and 5-fluorouracil (PELF)
+T1	Interventions 80 132	5-fluorouracil, doxorubicin and methotrexate (FAMTX)
+T2	Interventions 176 289	5-Fluorouracil (5-FU), doxorubicin and methotrexate (FAMTX) and cisplatin, epirubicin, leucovorin and 5-FU (PELF)
+T3	Interventions 538 544	FAMTX.
+T4	Interventions 656 669	PELF or FAMTX
+T5	Interventions 781 786	FAMTX
+T6	Interventions 1443 1447	PELF
+T7	Interventions 1482 1487	FAMTX

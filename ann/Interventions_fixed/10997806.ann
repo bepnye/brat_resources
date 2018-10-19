@@ -1,0 +1,13 @@
+T0	Interventions 0 10	Paclitaxel
+T1	Interventions 23 39	plus carboplatin
+T2	Interventions 48 65	versus paclitaxel
+T3	Interventions 78 94	plus carboplatin
+T4	Interventions 256 282	paclitaxel and carboplatin
+T5	Interventions 645 657	chemotherapy
+T6	Interventions 735 745	paclitaxel
+T7	Interventions 779 795	plus carboplatin
+T8	Interventions 917 927	paclitaxel
+T9	Interventions 1087 1099	chemotherapy
+T10	Interventions 1788 1798	paclitaxel
+T11	Interventions 1968 1978	paclitaxel
+T12	Interventions 2168 2178	paclitaxel

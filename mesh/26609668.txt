@@ -1,0 +1,17 @@
+Adult
+Age Factors
+Behavior Therapy
+Binge-Eating Disorder
+Body Mass Index
+Educational Status
+Female
+Humans
+Male
+Middle Aged
+Multivariate Analysis
+Obesity
+Overweight
+Patient Dropouts
+Psychiatric Status Rating Scales
+Surveys and Questionnaires
+Weight Loss

@@ -1,0 +1,10 @@
+T0	Interventions 0 15	Methylphenidate
+T1	Interventions 25 55	nursing telephone intervention
+T2	Interventions 116 134	placebo-controlled
+T3	Interventions 285 305	methylphenidate (MP)
+T4	Interventions 320 327	placebo
+T5	Interventions 505 541	nursing telephone intervention (NTI)
+T6	Interventions 777 809	+ control telephone intervention
+T7	Interventions 821 828	PL+CTI.
+T8	Interventions 829 844	Methylphenidate
+T9	Interventions 1951 1970	superior to placebo

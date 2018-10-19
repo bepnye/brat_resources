@@ -1,0 +1,12 @@
+T0	Interventions 0 31	Pre-operative radiochemotherapy
+T1	Interventions 92 109	pre-operative vs.
+T2	Interventions 110 141	postoperative radiochemotherapy
+T3	Interventions 223 254	pre-operative radiochemotherapy
+T4	Interventions 287 318	postoperative radiochemotherapy
+T5	Interventions 579 598	pre-operative (PRE)
+T6	Interventions 603 641	postoperative (POST) radiochemotherapy
+T7	Interventions 750 763	radiotherapy.
+T8	Interventions 1576 1579	PRE
+T9	Interventions 1607 1611	POST
+T10	Interventions 1727 1753	pre-operative radiotherapy
+T11	Interventions 1782 1809	postoperative radiotherapy.

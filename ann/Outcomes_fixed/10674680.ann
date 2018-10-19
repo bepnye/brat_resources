@@ -1,0 +1,9 @@
+T0	Outcomes 14 25	therapeutic
+T1	Outcomes 864 884	therapeutic failures
+T2	Outcomes 898 929	early treatment failures (ETFs)
+T3	Outcomes 937 968	late treatment failures (LTFs).
+T4	Outcomes 1010 1030	therapeutic failures
+T5	Outcomes 1052 1071	Therapeutic failure
+T6	Outcomes 1301 1321	therapeutic failures
+T7	Outcomes 1395 1403	efficacy
+T8	Outcomes 1511 1531	therapeutic failures

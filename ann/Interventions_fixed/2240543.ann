@@ -1,0 +1,10 @@
+T0	Interventions 21 32	intubation.
+T1	Interventions 33 56	Tracheal tube placement
+T2	Interventions 64 83	gum-elastic bougie.
+T3	Interventions 144 166	tracheal tube rotation
+T4	Interventions 391 400	simulated
+T5	Interventions 420 432	laryngoscope
+T6	Interventions 497 518	first-time intubation
+T7	Interventions 740 751	intubations
+T8	Interventions 901 913	laryngoscope
+T9	Interventions 1098 1110	laryngoscope

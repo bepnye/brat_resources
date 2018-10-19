@@ -1,0 +1,10 @@
+T1	Intervention 0 79	Transcutaneous electrical nerve stimulation combined with task-related training
+T2	Intervention 389 472	transcutaneous electrical nerve stimulation (TENS) with task-related training (TRT)
+T3	Intervention 718 789	TENS, (2) TENS+TRT, (3) placebo TENS+TRT, or (4) no treatment (control)
+T4	Intervention 1123 1127	TENS
+T5	Intervention 1142 1150	TENS+TRT
+T6	Intervention 1328 1339	placebo+TRT
+T7	Intervention 1345 1353	TENS+TRT
+T8	Intervention 1529 1537	TENS+TRT
+T9	Intervention 1674 1702	combined TENS+TRT home-based
+T10	Intervention 1848 1852	TENS

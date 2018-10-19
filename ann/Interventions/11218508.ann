@@ -1,0 +1,8 @@
+T1	Intervention 14 32	splinting of teeth
+T2	Intervention 53 87	reconstructive periodontal surgery
+T3	Intervention 156 171	splinting teeth
+T4	Intervention 190 224	periodontal reconstructive surgery
+T5	Intervention 340 359	periodontal surgery
+T6	Intervention 519 570	splinted to at least two rigid teeth before surgery
+T7	Intervention 608 634	splinted at suture removal
+T8	Intervention 668 707	treated teeth were not splinted at all.

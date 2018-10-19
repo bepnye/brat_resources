@@ -1,0 +1,14 @@
+T0	Interventions 119 136	montelukast alone
+T1	Interventions 160 173	desloratadine
+T2	Interventions 177 192	levocetirizine.
+T3	Interventions 608 656	desloratadine, levocetirizine, montelukast alone
+T4	Interventions 664 676	combination.
+T5	Interventions 734 752	placebo-controlled
+T6	Interventions 845 889	montelukast and/or levocetirizine or placebo
+T7	Interventions 928 960	montelukast and/or desloratadine
+T8	Interventions 964 971	placebo
+T9	Interventions 1294 1320	montelukast/levocetirizine
+T10	Interventions 1326 1337	montelukast
+T11	Interventions 1391 1405	levocetirizine
+T12	Interventions 1508 1533	desloratadine/montelukast
+T13	Interventions 1774 1785	montelukast

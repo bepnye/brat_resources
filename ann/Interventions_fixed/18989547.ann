@@ -1,0 +1,16 @@
+T0	Interventions 19 53	intermittent mandatory ventilation
+T1	Interventions 58 105	synchronized intermittent mandatory ventilation
+T2	Interventions 111 127	pressure support
+T3	Interventions 163 203	intermittent mandatory ventilation (IMV)
+T4	Interventions 209 288	synchronized intermittent mandatory ventilation plus pressure support (SIMV+PS)
+T5	Interventions 587 614	mechanical ventilation (MV)
+T6	Interventions 707 710	IMV
+T7	Interventions 717 723	(IMVG;
+T8	Interventions 736 743	SIMV+PS
+T9	Interventions 750 757	(SIMVG;
+T10	Interventions 1299 1305	[IMVG:
+T11	Interventions 1322 1328	SIMVG:
+T12	Interventions 1380 1386	[IMVG:
+T13	Interventions 1405 1411	SIMVG:
+T14	Interventions 1541 1544	IMV
+T15	Interventions 1549 1556	SIMV+PS

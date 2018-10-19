@@ -1,0 +1,7 @@
+T0	Outcomes 0 20	Dose-response effect
+T1	Outcomes 505 522	effect and safety
+T2	Outcomes 747 755	PAF/PAFL
+T3	Outcomes 895 927	significant linear dose-response
+T4	Outcomes 1045 1058	dose-response
+T5	Outcomes 1165 1190	cardioversion or ablation
+T6	Outcomes 1309 1350	death nor ventricular proarrhythmic event

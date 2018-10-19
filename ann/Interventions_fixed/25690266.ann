@@ -1,0 +1,8 @@
+T0	Interventions 53 69	telephone triage
+T1	Interventions 183 240	general practitioner-led and nurse-led management systems
+T2	Interventions 289 305	Telephone triage
+T3	Interventions 585 591	triage
+T4	Interventions 704 719	usual care (UC)
+T5	Interventions 745 829	GP-led telephone triage (GPT) and nurse-led computer-supported telephone triage (NT)
+T6	Interventions 1341 1365	randomised to GPT, NT or
+T7	Interventions 3506 3519	somewhat less

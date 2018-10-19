@@ -1,0 +1,9 @@
+T1	Intervention 40 48	propofol
+T2	Intervention 58 79	with and without EDTA
+T3	Intervention 278 294	EDTA to propofol
+T4	Intervention 414 452	induction of anesthesia with halothane
+T5	Intervention 508 569	received propofol without EDTA (n = 33) or propofol with EDTA
+T6	Intervention 782 800	Propofol with EDTA
+T7	Intervention 873 899	Propofol and propofol EDTA
+T8	Intervention 1365 1369	EDTA
+T9	Intervention 1477 1491	EDTA, propofol

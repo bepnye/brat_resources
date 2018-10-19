@@ -1,0 +1,13 @@
+T0	Outcomes 0 20	Resource utilization
+T1	Outcomes 25 39	economic costs
+T2	Outcomes 177 197	resource utilization
+T3	Outcomes 202 223	direct economic costs
+T4	Outcomes 690 740	Resource utilization, procedures, and direct costs
+T5	Outcomes 859 924	in-patient hospital stay (number of admissions or length of stay)
+T6	Outcomes 1037 1093	average number of dressing changes performed per patient
+T7	Outcomes 1202 1229	outpatient treatment visits
+T8	Outcomes 1301 1332	average direct cost per patient
+T9	Outcomes 1467 1504	average total cost to achieve healing
+T10	Outcomes 1706 1726	resource utilization
+T11	Outcomes 1741 1763	proportion of patients
+T12	Outcomes 1793 1819	lower overall cost of care

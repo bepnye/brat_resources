@@ -1,0 +1,13 @@
+T0	Outcomes 532 562	plasma total cholesterol level
+T1	Outcomes 571 596	plasma triglyceride level
+T2	Outcomes 605 651	very-low-density lipoprotein cholesterol level
+T3	Outcomes 664 705	low-density lipoprotein cholesterol level
+T4	Outcomes 735 777	high-density lipoprotein cholesterol level
+T5	Outcomes 834 867	deterioration of glycemic control
+T6	Outcomes 903 937	mean plasma glucose concentrations
+T7	Outcomes 957 987	glycosylated hemoglobin levels
+T8	Outcomes 1010 1027	marked glycosuria
+T9	Outcomes 1084 1107	plasma uric acid levels
+T10	Outcomes 1156 1192	lipid and lipoprotein concentrations
+T11	Outcomes 1215 1228	hyperglycemia
+T12	Outcomes 1252 1265	hyperuricemia

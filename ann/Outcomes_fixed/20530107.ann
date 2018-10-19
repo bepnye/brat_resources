@@ -1,0 +1,12 @@
+T0	Outcomes 171 192	effective ventilation
+T1	Outcomes 346 450	variations in delivered airway pressure, tidal volume (TV), minute ventilation (MV) and inspiratory time
+T2	Outcomes 717 752	variation in mechanical ventilation
+T3	Outcomes 993 1024	peak inspiratory pressure (PIP)
+T4	Outcomes 1041 1080	positive end-expiratory pressure (PEEP)
+T5	Outcomes 1267 1270	PIP
+T6	Outcomes 1275 1279	PEEP
+T7	Outcomes 1411 1413	TV
+T8	Outcomes 1418 1420	MV
+T9	Outcomes 1571 1593	delivered ventilation.
+T10	Outcomes 1644 1646	TV
+T11	Outcomes 1651 1653	MV

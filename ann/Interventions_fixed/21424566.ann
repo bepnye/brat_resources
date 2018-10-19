@@ -1,0 +1,9 @@
+T0	Interventions 25 85	virtual colonoscopy using different intestinal preparations:
+T1	Interventions 261 298	computed tomography (CT) colonography
+T2	Interventions 617 633	CT colonography.
+T3	Interventions 650 707	CT scan was performed with conventional bowel preparation
+T4	Interventions 832 895	CT colonography was performed after a reduced bowel preparation
+T5	Interventions 1493 1518	reduced bowel preparation
+T6	Interventions 1537 1555	standard procedure
+T7	Interventions 1707 1732	reduced bowel preparation
+T8	Interventions 1818 1856	conventional CT colonography technique

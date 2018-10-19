@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Antibodies, Monoclonal, Humanized
+Antineoplastic Agents
+Carcinoma, Squamous Cell
+Cetuximab
+Female
+Head and Neck Neoplasms
+Humans
+Male
+Middle Aged
+Quinazolines
+Receptor, Epidermal Growth Factor
+Receptor, ErbB-2
+Treatment Outcome
+Young Adult

@@ -1,0 +1,16 @@
+T0	Outcomes 43 53	myocardial
+T1	Outcomes 197 207	myocardial
+T2	Outcomes 891 965	cardiac troponin I (CTnI) and creatine kinase isoenzyme MB (CK-MB) values.
+T3	Outcomes 992 1038	recovery of the mean stroke volume index (SVI)
+T4	Outcomes 1089 1097	mean SVI
+T5	Outcomes 1107 1128	significant reduction
+T6	Outcomes 1210 1230	mean heart rate (HR)
+T7	Outcomes 1284 1294	CTnI level
+T8	Outcomes 1313 1332	significantly lower
+T9	Outcomes 1403 1416	CK-MB release
+T10	Outcomes 1454 1508	duration of mechanical ventilation, the length of stay
+T11	Outcomes 1516 1519	ICU
+T12	Outcomes 1529 1556	use of inotropic medication
+T13	Outcomes 1818 1835	myocardial enzyme
+T14	Outcomes 1889 1891	HR
+T15	Outcomes 1925 1929	SVI.

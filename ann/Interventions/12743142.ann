@@ -1,0 +1,15 @@
+T1	Intervention 60 72	radiotherapy
+T2	Intervention 77 153	neoadjuvant versus adjuvant combined androgen suppression: Radiation Therapy
+T3	Intervention 231 297	androgen suppression (CAS) and whole-pelvic (WP) radiotherapy (RT)
+T4	Intervention 470 520	neoadjuvant and concurrent hormonal therapy (NCHT)
+T5	Intervention 548 579	adjuvant hormonal therapy (AHT)
+T6	Intervention 1239 1243	NCHT
+T7	Intervention 1291 1294	AHT
+T8	Intervention 1381 1420	WP RT + NCHT, PO RT + NCHT, WP RT + AHT
+T9	Intervention 1426 1437	PO RT + AHT
+T10	Intervention 1538 1550	WP RT + NCHT
+T11	Intervention 1578 1583	PO RT
+T12	Intervention 1588 1592	NCHT
+T13	Intervention 1596 1601	PO RT
+T14	Intervention 1606 1609	AHT
+T15	Intervention 1629 1640	WP RT + AHT

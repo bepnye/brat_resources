@@ -1,0 +1,7 @@
+T0	Outcomes 0 38	Pharmacokinetic and safety assessments
+T1	Outcomes 457 474	drug interactions
+T2	Outcomes 792 805	ratios of AUC
+T3	Outcomes 1084 1131	treatment ratios of Cmax and associated 90% CIs
+T4	Outcomes 1325 1340	pharmacokinetic
+T5	Outcomes 1447 1515	Adverse events (predominantly headache, nervousness, and somnolence)
+T6	Outcomes 1597 1636	clinically meaningful drug interactions

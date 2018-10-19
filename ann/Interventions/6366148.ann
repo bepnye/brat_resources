@@ -1,0 +1,8 @@
+T1	Intervention 331 395	(cyclophosphamide, vincristine, methotrexate, prednisone [COMP])
+T2	Intervention 401 427	10-drug (LSA2-L2 modified)
+T3	Intervention 481 545	central nervous system prophylaxis with intrathecal methotrexate
+T4	Intervention 564 602	local or regional radiation treatment.
+T5	Intervention 927 931	COMP
+T6	Intervention 979 986	LSA2-L2
+T7	Intervention 1100 1107	LSA2-L2
+T8	Intervention 1164 1168	COMP

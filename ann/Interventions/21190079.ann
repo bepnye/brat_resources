@@ -1,0 +1,7 @@
+T1	Intervention 110 122	chemotherapy
+T2	Intervention 183 223	Human epidermal growth factor receptor 2
+T3	Intervention 647 659	chemotherapy
+T4	Intervention 859 876	anti-HER2 therapy
+T5	Intervention 985 1076	local and central evaluation using immunohistochemistry combined with in situ-hybridization
+T6	Intervention 1088 1204	evaluation of HER2 mRNA expression using kinetic RT-PCR from formalin-fixed, paraffin-embedded (FFPE) tissue samples
+T7	Intervention 1818 1838	primary chemotherapy

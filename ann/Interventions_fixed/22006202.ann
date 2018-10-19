@@ -1,0 +1,12 @@
+T0	Interventions 38 96	oral JAK inhibitor tofacitinib (CP-690,550) versus placebo
+T1	Interventions 117 140	background methotrexate
+T2	Interventions 216 235	methotrexate alone.
+T3	Interventions 313 355	oral tofacitinib (CP-690,550) with placebo
+T4	Interventions 463 481	methotrexate (MTX)
+T5	Interventions 517 533	MTX monotherapy.
+T6	Interventions 651 673	placebo or tofacitinib
+T7	Interventions 835 839	MTX.
+T8	Interventions 1030 1041	tofacitinib
+T9	Interventions 1257 1268	for placebo
+T10	Interventions 1996 2007	response to
+T11	Interventions 2037 2060	addition of tofacitinib

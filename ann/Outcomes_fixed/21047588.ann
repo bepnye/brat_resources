@@ -1,0 +1,11 @@
+T0	Outcomes 0 84	Detection rates of cancer, high grade PIN and atypical lesions suspicious for cancer
+T1	Outcomes 1003 1018	Detection rates
+T2	Outcomes 1022 1048	subsequent prostate cancer
+T3	Outcomes 1123 1152	average cancer detection rate
+T4	Outcomes 1249 1276	Incidence of high grade PIN
+T5	Outcomes 1412 1433	cancer detection rate
+T6	Outcomes 1506 1523	Incidence of LSPC
+T7	Outcomes 1618 1639	cancer detection rate
+T8	Outcomes 1725 1746	Cancer detection rate
+T9	Outcomes 1961 1975	detection rate
+T10	Outcomes 2213 2240	low risk of prostate cancer

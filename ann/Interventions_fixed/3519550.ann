@@ -1,0 +1,7 @@
+T0	Interventions 14 26	radiotherapy
+T1	Interventions 163 189	postoperative radiotherapy
+T2	Interventions 208 226	radical mastectomy
+T3	Interventions 354 380	conventional roentgen unit
+T4	Interventions 416 425	60Co unit
+T5	Interventions 705 719	60Co radiation
+T6	Interventions 893 907	60Co radiation

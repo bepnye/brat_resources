@@ -1,0 +1,9 @@
+T1	Intervention 0 47	Bipolar transurethral resection of the prostate
+T2	Intervention 78 98	monopolar technique:
+T3	Intervention 171 178	bipolar
+T4	Intervention 188 257	conventional monopolar transurethral resection of the prostate (TURP)
+T5	Intervention 401 541	undergo TURP using either a bipolar system (Surgmaster TURis, Olympus, Tokyo, Japan) or a monopolar system (24 F, Storz, Tübingen, Germany)
+T6	Intervention 602 614	a photometer
+T7	Intervention 1276 1323	CONCLUSIONS Bipolar TURP using the TURis system
+T8	Intervention 1358 1375	as monopolar TURP
+T9	Intervention 1472 1484	Bipolar TURP

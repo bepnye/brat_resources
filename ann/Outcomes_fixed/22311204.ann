@@ -1,0 +1,16 @@
+T0	Outcomes 205 266	response error monitoring and post-error response correction.
+T1	Outcomes 328 344	error processing
+T2	Outcomes 359 380	behavioral correction
+T3	Outcomes 465 495	event-related potentials (ERP)
+T4	Outcomes 537 622	fronto-central error-related negativity (ERN), and the error-related positivity (Pe).
+T5	Outcomes 672 737	reaction time (RT), error rate, post-error RT change, ERN, and Pe
+T6	Outcomes 1035 1063	behavioral and ERP measures.
+T7	Outcomes 1159 1191	Baseline and post-TMS/or WTL EEG
+T8	Outcomes 1375 1378	ERN
+T9	Outcomes 1452 1467	omission errors
+T10	Outcomes 1492 1494	RT
+T11	Outcomes 1515 1528	post-error RT
+T12	Outcomes 1569 1630	RT, error rate, post-error RT slowing, nor in ERN/Pe measures
+T13	Outcomes 1712 1731	response-locked ERP
+T14	Outcomes 1740 1743	ERN
+T15	Outcomes 1865 1875	ERN and Pe

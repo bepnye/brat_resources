@@ -1,0 +1,9 @@
+T0	Interventions 38 85	growth hormone releasing hormone administration
+T1	Interventions 185 250	growth hormone GHRH (1 microgram/kg iv) or TRH (400 microgram iv)
+T2	Interventions 318 330	GHRH-induced
+T3	Interventions 747 758	TRH-induced
+T4	Interventions 1063 1070	placebo
+T5	Interventions 1319 1324	GHRH-
+T6	Interventions 1333 1344	TRH-induced
+T7	Interventions 1460 1475	GHRH-stimulated
+T8	Interventions 1483 1497	TRH-stimulated

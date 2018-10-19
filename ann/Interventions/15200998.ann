@@ -1,0 +1,14 @@
+T1	Intervention 0 12	Chemotherapy
+T2	Intervention 201 229	cisplatin-based chemotherapy
+T3	Intervention 256 263	surgery
+T4	Intervention 576 583	surgery
+T5	Intervention 636 648	chemotherapy
+T6	Intervention 670 685	no chemotherapy
+T7	Intervention 738 848	cisplatin/vindesine, mitomycin/ifosfamide/cisplatin, mitomycin/vinblastine/cisplatin or vinorelbine/cisplatin.
+T8	Intervention 857 869	Chemotherapy
+T9	Intervention 887 894	surgery
+T10	Intervention 933 955	adjuvant chemotherapy.
+T11	Intervention 1194 1209	no chemotherapy
+T12	Intervention 1279 1291	chemotherapy
+T13	Intervention 1727 1748	adjuvant chemotherapy
+T14	Intervention 1997 2026	cisplatin-based chemotherapy.

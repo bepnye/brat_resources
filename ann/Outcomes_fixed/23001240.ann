@@ -1,0 +1,14 @@
+T0	Outcomes 160 180	carcinogenic effects
+T1	Outcomes 461 525	gastric cardia cancer (GCC) and gastric noncardia cancer (GNCC).
+T2	Outcomes 813 847	Total iron-binding capacity (TIBC)
+T3	Outcomes 1050 1068	Serum iron metrics
+T4	Outcomes 1094 1097	GCC
+T5	Outcomes 1176 1180	GNCC
+T6	Outcomes 1211 1225	serum ferritin
+T7	Outcomes 1246 1256	serum iron
+T8	Outcomes 1291 1314	transferrin saturation.
+T9	Outcomes 1315 1319	TIBC
+T10	Outcomes 1369 1373	GNCC
+T11	Outcomes 1394 1416	Dietary iron exposures
+T12	Outcomes 1638 1658	pathogenesis of GCC.
+T13	Outcomes 1659 1663	GNCC

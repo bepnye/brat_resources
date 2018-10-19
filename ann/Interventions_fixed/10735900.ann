@@ -1,0 +1,17 @@
+T0	Interventions 7 62	recombinant human granulocyte colony-stimulating factor
+T1	Interventions 75 87	chemotherapy
+T2	Interventions 224 301	recombinant human granulocyte colony-stimulating factor ([G-CSF] lenogastrim)
+T3	Interventions 370 396	consolidation chemotherapy
+T4	Interventions 664 677	chemotherapy;
+T5	Interventions 721 791	combination of high-dose cytarabine, etoposide, and dexamethasone (R3)
+T6	Interventions 848 930	vincristine, prednisone, cyclophosphamide, doxorubicin, and methotrexate (COPADM).
+T7	Interventions 931 936	G-CSF
+T8	Interventions 1288 1293	G-CSF
+T9	Interventions 1318 1327	non-G-CSF
+T10	Interventions 1474 1479	G-CSF
+T11	Interventions 1499 1510	post-COPADM
+T12	Interventions 1697 1702	G-CSF
+T13	Interventions 1738 1744	COPADM
+T14	Interventions 1829 1834	G-CSF
+T15	Interventions 2041 2046	G-CSF
+T16	Interventions 2152 2173	G-CSF administration.

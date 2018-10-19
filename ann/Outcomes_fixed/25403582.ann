@@ -1,0 +1,12 @@
+T0	Outcomes 331 352	disease-free survival
+T1	Outcomes 975 1030	DFS; recurrence-free survival and overall survival (OS)
+T2	Outcomes 1123 1179	relative risks of disease progression [hazard ratio (HR)
+T3	Outcomes 1192 1211	confidence interval
+T4	Outcomes 1246 1251	death
+T5	Outcomes 1400 1410	DFS events
+T6	Outcomes 1418 1424	deaths
+T7	Outcomes 1440 1464	Absolute risk reductions
+T8	Outcomes 1522 1536	DFS difference
+T9	Outcomes 1614 1634	higher risk of death
+T10	Outcomes 1741 1750	tolerated
+T11	Outcomes 1757 1813	no reports of renal failure or osteonecrosis of the jaw.

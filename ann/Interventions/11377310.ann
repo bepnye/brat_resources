@@ -1,0 +1,6 @@
+T1	Intervention 72 95	transurethral resection
+T2	Intervention 238 284	transurethral resection of the prostate (TURP)
+T3	Intervention 488 553	room temperature irrigation fluid (70 degrees F) throughout TURP;
+T4	Intervention 622 645	warmed irrigation fluid
+T5	Intervention 1076 1109	room temperature irrigation fluid
+T6	Intervention 1243 1265	warm irrigation fluid.

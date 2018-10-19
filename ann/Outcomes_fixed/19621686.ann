@@ -1,0 +1,9 @@
+T0	Outcomes 348 363	quality of life
+T1	Outcomes 780 1003	(i) severity of pain, (ii) ease of swallowing, (iii) satisfaction of daily activities, (iv) dependence on medications, (v) working ability, (vi) fatigue, (vii) appetite, (viii) sociality, (ix) happiness and (x) self respect
+T2	Outcomes 1053 1101	demographic data, operative results and survival
+T3	Outcomes 1281 1295	operation time
+T4	Outcomes 1330 1342	leakage rate
+T5	Outcomes 1449 1506	intraoperative blood loss and postoperative hospital stay
+T6	Outcomes 1568 1596	Kaplan-Meier survival curves
+T7	Outcomes 1695 1710	quality of life
+T8	Outcomes 1967 1979	leakage rate

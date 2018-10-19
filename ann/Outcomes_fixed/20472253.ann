@@ -1,0 +1,12 @@
+T0	Outcomes 125 152	cardiovascular risk factors
+T1	Outcomes 501 521	red blood cell (RBC)
+T2	Outcomes 533 591	eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA)
+T3	Outcomes 748 777	Systolic blood pressure (SBP)
+T4	Outcomes 931 973	Plasma triacylglycerol (TAG) concentration
+T5	Outcomes 978 997	insulin sensitivity
+T6	Outcomes 1043 1104	Plasma high-density lipoprotein (HDL) and non-HDL cholesterol
+T7	Outcomes 1220 1246	changes in RBC EPA content
+T8	Outcomes 1282 1304	changes in SBP and DBP
+T9	Outcomes 1351 1406	HDL cholesterol and non-HDL cholesterol concentrations.
+T10	Outcomes 1439 1499	RBC EPA and plasma TAG concentration or insulin sensitivity.
+T11	Outcomes 1529 1531	BP

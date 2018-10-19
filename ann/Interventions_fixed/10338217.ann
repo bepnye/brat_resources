@@ -1,0 +1,12 @@
+T0	Interventions 20 29	glutamine
+T1	Interventions 108 174	Total parenteral nutrition (TPN) supplemented with glutamine (GLN)
+T2	Interventions 510 518	oral GLN
+T3	Interventions 531 546	glycine-control
+T4	Interventions 592 595	TPN
+T5	Interventions 636 639	GLN
+T6	Interventions 658 670	TPN with GLN
+T7	Interventions 725 728	TPN
+T8	Interventions 809 889	high-dose chemotherapy, total body irradiation, and either allogeneic (ALLO) BMT
+T9	Interventions 902 945	autologous (AUTO) stem cell transplantation
+T10	Interventions 1007 1012	AUTO.
+T11	Interventions 1703 1706	GLN

@@ -1,9 +1,0 @@
-T1	Treatment 14 26	remifentanil
-T2	Treatment 32 40	fentanyl
-T3	Treatment 190 209	midazolam, propofol
-T4	Treatment 215 227	remifentanil
-T5	Treatment 438 526	midazolam 0.03 mg/kg, fentanyl 1 microg/kg, and propofol initially at 140 microg/kg/min.
-T6	Treatment 544 660	midazolam 0.03 mg/kg, remifentanil: propofol (1:500) given at an initial propofol infusion rate of 40 microg/kg/min.
-T7	Treatment 1020 1028	propofol
-T8	Treatment 1383 1391	propofol
-T9	Treatment 1410 1418	fentanyl

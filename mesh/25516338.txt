@@ -1,0 +1,20 @@
+Adult
+African Americans
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+Bevacizumab
+Carboplatin
+Carcinoma, Non-Small-Cell Lung
+Disease-Free Survival
+Drug Administration Schedule
+Female
+Humans
+Lung Neoplasms
+Male
+Middle Aged
+Neoplasm Staging
+Paclitaxel
+Pemetrexed
+Retrospective Studies
+Survival Analysis
+Treatment Outcome

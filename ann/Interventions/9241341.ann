@@ -1,0 +1,19 @@
+T1	Intervention 0 16	2-Chloroprocaine
+T2	Intervention 72 95	2-Chloroprocaine (2-CP)
+T3	Intervention 184 197	morphine (EM)
+T4	Intervention 285 293	morphine
+T5	Intervention 418 420	EM
+T6	Intervention 425 430	2-CP.
+T7	Intervention 540 564	2-CP, 2-CP + epinephrine
+T8	Intervention 593 621	2% lidocaine (Lido) with Epi
+T9	Intervention 658 660	EM
+T10	Intervention 670 682	PCA morphine
+T11	Intervention 733 741	morphine
+T12	Intervention 1012 1026	2-CP, 2-CP+Epi
+T13	Intervention 1031 1039	Lido+Epi
+T14	Intervention 1210 1214	2-CP
+T15	Intervention 1265 1269	2-CP
+T16	Intervention 1299 1307	morphine
+T17	Intervention 1414 1416	EM
+T18	Intervention 1435 1439	2-CP
+T19	Intervention 1473 1483	Lido + Epi

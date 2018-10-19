@@ -1,0 +1,15 @@
+T0	Outcomes 0 10	Comparison
+T1	Outcomes 56 86	volumetry of pulmonary nodules
+T2	Outcomes 596 619	volumetric measurements
+T3	Outcomes 697 723	volume doubling time (VDT)
+T4	Outcomes 1014 1035	volume of each nodule
+T5	Outcomes 1220 1223	VDT
+T6	Outcomes 1242 1265	evaluate nodule growth.
+T7	Outcomes 1266 1300	Volume, VDT, and nodule management
+T8	Outcomes 1486 1506	Initial segmentation
+T9	Outcomes 1649 1664	measured volume
+T10	Outcomes 1733 1743	the volume
+T11	Outcomes 1796 1839	was consensus on nodule size categorization
+T12	Outcomes 1876 1921	At follow-up, consensus on VDT categorization
+T13	Outcomes 2044 2082	differences in volumetric measurements
+T14	Outcomes 2097 2136	variation affects the classification of

@@ -1,0 +1,11 @@
+T0	Outcomes 0 48	MRI signal hyperintensities and failure to remit
+T1	Outcomes 138 147	remission
+T2	Outcomes 249 269	total lesion volume.
+T3	Outcomes 363 405	lesion volume by region of interest (ROI).
+T4	Outcomes 789 810	DWMH, and PVH volumes
+T5	Outcomes 889 914	Remission from depression
+T6	Outcomes 940 982	Hamilton Rating Scale for Depression score
+T7	Outcomes 1094 1102	to remit
+T8	Outcomes 1470 1513	whether remission from geriatric depression
+T9	Outcomes 1522 1545	on lesion volume by ROI
+T10	Outcomes 1712 1732	that lesion location

@@ -1,0 +1,9 @@
+T0	Interventions 0 26	Long pediatric colonoscope
+T1	Interventions 34 71	intermediate length adult colonoscope
+T2	Interventions 241 267	long pediatric colonoscope
+T3	Interventions 276 313	intermediate length adult colonoscope
+T4	Interventions 631 656	colonoscopic examinations
+T5	Interventions 721 834	colonoscopy with either intermediate length adult colonoscope (CF-240I) or long pediatric colonoscope (PCF-240L).
+T6	Interventions 1236 1243	CF-240I
+T7	Interventions 1248 1256	PCF 240L
+T8	Interventions 1976 2013	intermediate length adult colonoscope

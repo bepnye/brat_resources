@@ -1,0 +1,12 @@
+T0	Interventions 33 59	GH-releasing hormone alone
+T1	Interventions 63 85	combined with arginine
+T2	Interventions 784 804	GHRH injection alone
+T3	Interventions 808 886	combined with an infusion of the functional somatostatin antagonist, arginine.
+T4	Interventions 937 946	controls.
+T5	Interventions 956 1057	arginine (30 g) was infused from -30 to 0 min, and GHRH (100 microg) was injected as a bolus at 0 min
+T6	Interventions 1079 1120	serum GH [immunoradiometric assay (IRMA)]
+T7	Interventions 1147 1195	Plasma IGF-I (RIA after acid-ethanol extraction)
+T8	Interventions 2252 2266	GHRH treatment
+T9	Interventions 2414 2432	GHRH plus arginine
+T10	Interventions 2584 2602	GHRH plus arginine
+T11	Interventions 2613 2629	GHRH plus saline

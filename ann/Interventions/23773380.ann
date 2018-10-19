@@ -1,0 +1,17 @@
+T1	Intervention 19 60	completion axillary lymph node dissection
+T2	Intervention 94 112	adjuvant treatment
+T3	Intervention 355 404	completion axillary lymph node dissection (cALND)
+T4	Intervention 410 442	regional nodal irradiation (RNI)
+T5	Intervention 590 593	RNI
+T6	Intervention 605 611	cALND.
+T7	Intervention 822 827	cALND
+T8	Intervention 1000 1005	cALND
+T9	Intervention 1324 1329	cALND
+T10	Intervention 1376 1379	RNI
+T11	Intervention 1850 1854	ALND
+T12	Intervention 1859 1862	RNI
+T13	Intervention 1925 1937	chemotherapy
+T14	Intervention 1950 1967	Endocrine therapy
+T15	Intervention 2283 2304	adjuvant chemotherapy
+T16	Intervention 2449 2454	cALND
+T17	Intervention 2536 2562	adjuvant systemic therapy.

@@ -1,0 +1,7 @@
+T1	Intervention 12 20	morphine
+T2	Intervention 102 110	morphine
+T3	Intervention 192 205	hysterectomy.
+T4	Intervention 287 394	intrathecal 0.5 mg morphine (Group IT0.5), intrathecal 0.1 mg morphine (Group IT0.1) or 10 mg morphine i.v.
+T5	Intervention 466 493	inhalation anesthesia alone
+T6	Intervention 1455 1464	analgesic
+T7	Intervention 1495 1503	morphine

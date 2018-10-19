@@ -1,0 +1,24 @@
+Adult
+Anesthetics, Inhalation
+Anesthetics, Intravenous
+Anti-Inflammatory Agents, Non-Steroidal
+Biomarkers
+C-Reactive Protein
+CD18 Antigens
+Cardiopulmonary Bypass
+Female
+Heme Oxygenase-1
+Humans
+Hypoxia-Inducible Factor 1, alpha Subunit
+Interleukin-6
+Interleukin-8
+Isoflurane
+Leukocytes, Mononuclear
+Male
+Middle Aged
+Polymorphism, Genetic
+Promoter Regions, Genetic
+Propofol
+Receptors, Complement 3d
+Systemic Inflammatory Response Syndrome
+Treatment Outcome

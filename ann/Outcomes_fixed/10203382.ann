@@ -1,0 +1,8 @@
+T0	Outcomes 280 449	medical history, indicators of current disease status, therapeutic drug use, in vitro drug susceptibility, immune status and mycobacterial load on bacteriologic response
+T1	Outcomes 454 462	survival
+T2	Outcomes 789 880	survival and bacteriologic response, defined by consecutive negative blood cultures for MAC
+T3	Outcomes 1149 1157	survival
+T4	Outcomes 1306 1315	mortality
+T5	Outcomes 1489 1529	baseline quantitative mycobacterial load
+T6	Outcomes 1667 1682	Karnofsky score
+T7	Outcomes 1842 1860	multivariate model

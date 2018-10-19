@@ -1,0 +1,14 @@
+T0	Outcomes 197 257	efficacy (maintenance of remission), safety and tolerability
+T1	Outcomes 1071 1108	Relapse-free survival; number of N.S.
+T2	Outcomes 1109 1282	relapses/patient/year; cumulative dose of prednisone/patient; laboratory investigations (kidney and liver functions, haematological parameters); incidence of adverse events.
+T3	Outcomes 1347 1365	complete remission
+T4	Outcomes 1402 1420	partial remission;
+T5	Outcomes 1472 1490	complete remission
+T6	Outcomes 1503 1520	partial remission
+T7	Outcomes 1609 1624	risk of relapse
+T8	Outcomes 1787 1819	mean number of relapses per year
+T9	Outcomes 1833 1860	dose of prednisone per year
+T10	Outcomes 2136 2150	relapse of NS.
+T11	Outcomes 2151 2160	Tolerance
+T12	Outcomes 2202 2226	CsA-related side-effects
+T13	Outcomes 2406 2424	stable remissions.

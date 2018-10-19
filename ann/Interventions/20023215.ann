@@ -1,0 +1,6 @@
+T1	Intervention 0 55	Rituximab plus concurrent infusional EPOCH chemotherapy
+T2	Intervention 466 732	rituximab (375 mg/m(2)) given either concurrently before each infusional etoposide, vincristine, doxorubicin, cyclophosphamide, and prednisone (EPOCH) chemotherapy cycle or sequentially (weekly for 6 weeks) after completion of all chemotherapy in HIV-associated NHL.
+T3	Intervention 733 738	EPOCH
+T4	Intervention 786 846	etoposide, doxorubicin, and vincristine plus oral prednisone
+T5	Intervention 877 893	cyclophosphamide
+T6	Intervention 1408 1450	concurrent rituximab plus infusional EPOCH

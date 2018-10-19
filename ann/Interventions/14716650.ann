@@ -1,0 +1,4 @@
+T1	Intervention 0 43	Transcutaneous electrical nerve stimulation
+T2	Intervention 106 156	Transcutaneous electrical nerve stimulation (TENS)
+T3	Intervention 309 327	placebo-controlled
+T4	Intervention 447 527	patient-controlled anesthesia (PCA) alone, PCA plus TENS, or PCA plus sham TENS.

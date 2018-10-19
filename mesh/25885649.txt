@@ -1,0 +1,14 @@
+Accelerometry
+Adult
+Arthritis, Rheumatoid
+Body Mass Index
+Exercise
+Exercise Therapy
+Female
+Health Status
+Humans
+Male
+Middle Aged
+Motor Activity
+Self Report
+Surveys and Questionnaires

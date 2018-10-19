@@ -1,0 +1,12 @@
+T0	Interventions 36 62	immunosuppressive regimens
+T1	Interventions 116 152	different immunosuppressive regimens
+T2	Interventions 383 481	cyclosporine, azathioprine, and methylprednisolone, or any possible combination of two drugs--i.e.
+T3	Interventions 483 526	Aza plus CsA, Aza plus MP, and CsA plus MP.
+T4	Interventions 593 635	Aza plus CsA, Aza plus MP, and CsA plus MP
+T5	Interventions 1002 1013	Aza plus MP
+T6	Interventions 1317 1325	steroids
+T7	Interventions 1452 1463	Aza plus MP
+T8	Interventions 1516 1530	triple therapy
+T9	Interventions 2249 2269	cyclosporine-related
+T10	Interventions 2484 2493	steroids.
+T11	Interventions 2508 2527	triple drug therapy

@@ -1,0 +1,5 @@
+T1	Intervention 31 68	bacillus Calmette-Guérin vaccination
+T2	Intervention 280 331	without bacillus Calmette-Guérin (BCG) vaccination
+T3	Intervention 739 751	received BCG
+T4	Intervention 1047 1056	after BCG
+T5	Intervention 1314 1322	with BCG

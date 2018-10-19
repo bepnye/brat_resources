@@ -1,0 +1,13 @@
+T1	Intervention 65 83	palatal operations
+T2	Intervention 156 185	2 palatal surgical procedures
+T3	Intervention 604 777	radiofrequency ablation of the palate (RFAP) for a planned 3-stage treatment or laser-assisted uvulopalatoplasty (LAUP), also for 3 stages of treatment, using a CO(2) laser.
+T4	Intervention 1139 1190	alternative surgical therapy for attempted salvage.
+T5	Intervention 1299 1303	RFAP
+T6	Intervention 1324 1328	LAUP
+T7	Intervention 1347 1351	RFAP
+T8	Intervention 1456 1461	LAUP.
+T9	Intervention 1473 1477	LAUP
+T10	Intervention 1589 1603	nasal surgery.
+T11	Intervention 1704 1708	RFA.
+T12	Intervention 1860 1864	LAUP
+T13	Intervention 1870 1874	RFAP

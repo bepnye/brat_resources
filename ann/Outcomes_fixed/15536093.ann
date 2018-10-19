@@ -1,0 +1,10 @@
+T0	Outcomes 706 714	Survival
+T1	Outcomes 961 982	presumptive diagnosis
+T2	Outcomes 1057 1075	hospital admission
+T3	Outcomes 1139 1166	total patient-hospital days
+T4	Outcomes 1196 1214	Actuarial survival
+T5	Outcomes 1245 1281	survival free from recurrent syncope
+T6	Outcomes 1461 1477	diagnostic yield
+T7	Outcomes 1518 1536	hospital admission
+T8	Outcomes 1541 1570	total length of hospital stay
+T9	Outcomes 1621 1630	mortality

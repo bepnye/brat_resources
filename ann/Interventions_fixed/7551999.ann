@@ -1,0 +1,7 @@
+T0	Interventions 0 26	Abdominoperineal resection
+T1	Interventions 31 49	anterior resection
+T2	Interventions 108 143	adjuvant preoperative radiotherapy.
+T3	Interventions 199 280	abdominoperineal or anterior resection, with or without preoperative radiotherapy
+T4	Interventions 514 539	preoperative radiotherapy
+T5	Interventions 775 787	radiotherapy
+T6	Interventions 975 1002	Sphincter-saving procedures

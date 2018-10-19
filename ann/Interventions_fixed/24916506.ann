@@ -1,0 +1,6 @@
+T0	Interventions 93 142	rituximab (R) to fludarabine and cyclophosphamide
+T1	Interventions 492 494	FC
+T2	Interventions 498 502	R-FC
+T3	Interventions 677 686	from R-FC
+T4	Interventions 898 907	from R-FC
+T5	Interventions 1338 1353	with R-FC vs FC

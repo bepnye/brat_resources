@@ -1,0 +1,13 @@
+T0	Interventions 0 40	Multicyclic, dose-intensive chemotherapy
+T1	Interventions 79 104	hematopoietic progenitors
+T2	Interventions 154 181	dose-intensive chemotherapy
+T3	Interventions 210 246	reinfusing hematopoietic progenitors
+T4	Interventions 421 516	ifosfamide, carboplatin, and etoposide (ICE) with granulocyte colony-stimulating factor (G-CSF)
+T5	Interventions 717 730	leukapheresis
+T6	Interventions 749 795	cryopreservation of the leukapheresis product.
+T7	Interventions 796 808	Chemotherapy
+T8	Interventions 949 962	leukapheresis
+T9	Interventions 1009 1030	leukapheresis product
+T10	Interventions 1215 1227	chemotherapy
+T11	Interventions 1403 1419	ICE chemotherapy
+T12	Interventions 1823 1839	ICE chemotherapy

@@ -1,0 +1,18 @@
+T1	Intervention 38 62	oral anti-diabetic agent
+T2	Intervention 68 86	clomiphene citrate
+T3	Intervention 90 94	rFSH
+T4	Intervention 276 285	metformin
+T5	Intervention 291 314	clomiphene citrate (CC)
+T6	Intervention 319 323	rFSH
+T7	Intervention 778 787	metformin
+T8	Intervention 808 816	control.
+T9	Intervention 828 837	metformin
+T10	Intervention 856 858	CC
+T11	Intervention 880 885	rFSH.
+T12	Intervention 916 921	rFSH.
+T13	Intervention 922 931	Metformin
+T14	Intervention 971 992	Afterwards CC or rFSH
+T15	Intervention 1037 1051	with metformin
+T16	Intervention 1159 1173	of CC and rFSH
+T17	Intervention 1474 1481	of rFSH
+T18	Intervention 1671 1687	Use of metformin

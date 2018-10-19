@@ -1,0 +1,11 @@
+T0	Outcomes 24 31	effects
+T1	Outcomes 65 87	heart rate variability
+T2	Outcomes 193 221	heart rate variability (HRV)
+T3	Outcomes 441 480	forced expiratory volume in one second.
+T4	Outcomes 908 1015	Total power (TP: <0.40 Hz), high-frequency power (HF: 0.15-0.40 Hz), low-frequency power (LF: 0.04-0.15 Hz)
+T5	Outcomes 1020 1031	LF/HF ratio
+T6	Outcomes 1053 1071	LF and LF/HF ratio
+T7	Outcomes 1086 1088	TP
+T8	Outcomes 1176 1178	HF
+T9	Outcomes 1328 1350	heart rate variability
+T10	Outcomes 1364 1386	sympathetic modulation

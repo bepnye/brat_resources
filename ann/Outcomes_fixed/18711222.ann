@@ -1,0 +1,9 @@
+T0	Outcomes 55 77	chronic heart failure:
+T1	Outcomes 176 185	mortality
+T2	Outcomes 746 771	All-cause hospitalization
+T3	Outcomes 1004 1056	Matched HR for cardiovascular and HF hospitalization
+T4	Outcomes 1198 1238	HR for all-cause hospitalization for GFR
+T5	Outcomes 1381 1446	HR for all-cause death for GFR 45-59 and <45 ml/min/1.73 m(2) BSA
+T6	Outcomes 1543 1611	Matched HR for death due to cardiovascular causes and progressive HF
+T7	Outcomes 1752 1781	mortality and hospitalization
+T8	Outcomes 1867 1883	kidney function.

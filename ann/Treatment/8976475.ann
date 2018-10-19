@@ -1,9 +1,0 @@
-T1	Treatment 0 65	Trunk exercise combined with spinal manipulative or NSAID therapy
-T2	Treatment 288 375	Spinal manipulative therapy (SMT) combined with trunk strengthening exercises (TSE) vs.
-T3	Treatment 376 425	SMT combined with trunk stretching exercises, and
-T4	Treatment 430 455	SMT combined with TSE vs.
-T5	Treatment 456 526	nonsteroidal anti-inflammatory drug (NSAID) therapy combined with TSE.
-T6	Treatment 1025 1091	SMT or NSAID therapy in combination with supervised trunk exercise
-T7	Treatment 1128 1154	supervised exercise alone.
-T8	Treatment 1834 1854	SMT or NSAID therapy
-T9	Treatment 1936 1945	(placebo)

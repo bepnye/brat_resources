@@ -1,0 +1,9 @@
+T1	Intervention 408 435	Three Component Model (3CM)
+T2	Intervention 442 452	usual care
+T3	Intervention 689 723	usual care or usual care plus 3CM.
+T4	Intervention 1013 1024	usual care.
+T5	Intervention 1050 1053	3CM
+T6	Intervention 1068 1094	telephone care management.
+T7	Intervention 1118 1150	supervision from a psychiatrist.
+T8	Intervention 1430 1433	3CM
+T9	Intervention 1561 1564	3CM

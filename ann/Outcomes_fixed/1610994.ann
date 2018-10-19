@@ -1,0 +1,10 @@
+T0	Outcomes 39 66	transient renal dysfunction
+T1	Outcomes 207 222	renal function.
+T2	Outcomes 306 324	renal hemodynamics
+T3	Outcomes 740 761	Systemic hemodynamics
+T4	Outcomes 840 959	effective renal plasma flow (ERPF) (131I-hippuran clearance) and glomerular filtration rate (GFR) (99Tc-DTPA clearance)
+T5	Outcomes 1189 1204	renal variables
+T6	Outcomes 1524 1528	ERPF
+T7	Outcomes 1666 1669	GFR
+T8	Outcomes 1796 1828	transient renal vasoconstriction
+T9	Outcomes 1943 1972	renal hemodynamic impairment.

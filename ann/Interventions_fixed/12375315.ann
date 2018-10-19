@@ -1,0 +1,24 @@
+T0	Interventions 25 60	methotrexate and hydroxychloroquine
+T1	Interventions 167 185	methotrexate (MTX)
+T2	Interventions 205 229	hydroxychloroquine (HCQ)
+T3	Interventions 375 378	MTX
+T4	Interventions 383 386	HCQ
+T5	Interventions 438 441	MTX
+T6	Interventions 556 559	MTX
+T7	Interventions 602 605	HCQ
+T8	Interventions 670 673	MTX
+T9	Interventions 690 693	HCQ
+T10	Interventions 854 857	MTX
+T11	Interventions 900 903	MTX
+T12	Interventions 952 955	MTX
+T13	Interventions 980 983	HCQ
+T14	Interventions 997 1000	MTX
+T15	Interventions 1126 1129	HCQ
+T16	Interventions 1154 1157	HCQ
+T17	Interventions 1306 1313	MTX-HCQ
+T18	Interventions 1331 1334	MTX
+T19	Interventions 1387 1390	MTX
+T20	Interventions 1414 1418	HCQ.
+T21	Interventions 1452 1455	MTX
+T22	Interventions 1568 1571	MTX
+T23	Interventions 1620 1623	HCQ

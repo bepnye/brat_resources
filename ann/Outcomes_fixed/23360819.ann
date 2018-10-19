@@ -1,0 +1,11 @@
+T0	Outcomes 21 39	nutrient-sensitive
+T1	Outcomes 50 55	genes
+T2	Outcomes 60 99	gene-diet interactions on blood lipids:
+T3	Outcomes 121 132	Blood lipid
+T4	Outcomes 341 394	nutrient-sensitive genes involved in lipid metabolism
+T5	Outcomes 404 417	lipid profile
+T6	Outcomes 692 751	total cholesterol, LDL-cholesterol, HDL-cholesterol and TAG
+T7	Outcomes 957 1002	SNP-dietary protein interaction effect on TAG
+T8	Outcomes 1056 1071	decrease in TAG
+T9	Outcomes 1180 1226	SNP-diet interactions for blood lipid profiles
+T10	Outcomes 1364 1442	interaction between LPIN1 rs4315495 and dietary protein for TAG concentration.

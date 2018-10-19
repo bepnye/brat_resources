@@ -1,0 +1,10 @@
+T0	Interventions 0 25	Clofarabine ± fludarabine
+T1	Interventions 45 46	.
+T2	Interventions 47 55	busulfan
+T3	Interventions 157 164	of i.v.
+T4	Interventions 165 200	busulfan (Bu) and fludarabine (Flu)
+T5	Interventions 449 484	supplant Flu with clofarabine (Clo)
+T6	Interventions 993 1002	I-Clo:Flu
+T7	Interventions 1071 1090	IV-single-agent Clo
+T8	Interventions 3069 3084	efficacy of Clo
+T9	Interventions 3087 3099	Flu with i.v

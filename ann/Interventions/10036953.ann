@@ -1,0 +1,17 @@
+T1	Intervention 35 48	H2 blockaders
+T2	Intervention 112 122	ranitidine
+T3	Intervention 127 139	lansoprazole
+T4	Intervention 311 330	antisecretory drugs
+T5	Intervention 428 440	lansoprazole
+T6	Intervention 450 460	ranitidine
+T7	Intervention 486 506	clarithromycin (CAM)
+T8	Intervention 511 530	metrinidazole (MTZ)
+T9	Intervention 602 605	LPZ
+T10	Intervention 613 616	CAM
+T11	Intervention 625 628	MTZ
+T12	Intervention 653 663	ranitidine
+T13	Intervention 679 682	RNT
+T14	Intervention 691 694	CAM
+T15	Intervention 703 706	MTZ
+T16	Intervention 779 782	LCM
+T17	Intervention 818 821	RCM

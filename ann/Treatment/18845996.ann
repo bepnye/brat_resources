@@ -1,9 +1,0 @@
-T1	Treatment 71 83	chemotherapy
-T2	Treatment 118 165	doxorubicin or pegylated liposomal doxorubicin:
-T3	Treatment 305 317	chemotherapy
-T4	Treatment 323 383	doxorubicin (DOX) or a pegylated liposomal formulation (PLD)
-T5	Treatment 507 510	DOX
-T6	Treatment 541 544	PLD
-T7	Treatment 1337 1340	DOX
-T8	Treatment 1348 1351	PLD
-T9	Treatment 1849 1882	anthracycline-based chemotherapy.

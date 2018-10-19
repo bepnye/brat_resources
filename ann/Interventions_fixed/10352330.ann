@@ -1,0 +1,11 @@
+T0	Interventions 10 47	granulocyte/colony-stimulating factor
+T1	Interventions 132 177	granulocyte/colony-stimulating factor (G-CSF)
+T2	Interventions 363 386	chemotherapy with G-CSF
+T3	Interventions 391 425	historical controls without G-CSF.
+T4	Interventions 686 691	G-CSF
+T5	Interventions 1019 1024	G-CSF
+T6	Interventions 1319 1324	G-CSF
+T7	Interventions 1568 1573	G-CSF
+T8	Interventions 1708 1713	G-CSF
+T9	Interventions 1811 1816	G-CSF
+T10	Interventions 1861 1866	G-CSF

@@ -1,0 +1,20 @@
+T1	Intervention 12 54	fimasartan/hydrochlorothiazide combination
+T2	Intervention 107 130	fimasartan monotherapy.
+T3	Intervention 221 237	fimasartan alone
+T4	Intervention 251 300	fimasartan/hydrochlorothiazide (HCTZ) combination
+T5	Intervention 387 397	fimasartan
+T6	Intervention 495 516	once-daily fimasartan
+T7	Intervention 564 618	once-daily fimasartan 60 mg/HCTZ 12.5 mg or fimasartan
+T8	Intervention 676 702	from fimasartan 60 mg/HCTZ
+T9	Intervention 711 736	to fimasartan 120 mg/HCTZ
+T10	Intervention 748 763	from fimasartan
+T11	Intervention 770 783	to fimasartan
+T12	Intervention 916 935	The fimasartan/HCTZ
+T13	Intervention 1000 1014	the fimasartan
+T14	Intervention 1197 1222	BP in the fimasartan/HCTZ
+T15	Intervention 1261 1283	that in the fimasartan
+T16	Intervention 1572 1601	higher in the fimasartan/HCTZ
+T17	Intervention 1612 1629	group than in the
+T18	Intervention 1819 1854	combination treatment of fimasartan
+T19	Intervention 1880 1906	BP control than fimasartan
+T20	Intervention 1946 1973	and tolerance to fimasartan

@@ -1,0 +1,14 @@
+Acute Lung Injury
+Adult
+Critical Care
+Female
+Humans
+Lung
+Male
+Middle Aged
+Positive-Pressure Respiration
+Prospective Studies
+Respiratory Function Tests
+Survival Analysis
+Treatment Outcome
+Ventilators, Mechanical

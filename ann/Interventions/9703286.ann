@@ -1,0 +1,11 @@
+T1	Intervention 25 77	paclitaxel or cyclophosphamide combination treatment
+T2	Intervention 188 200	chemotherapy
+T3	Intervention 492 511	paclitaxel therapy.
+T4	Intervention 635 694	paclitaxel and cisplatin or cyclophosphamide and cisplatin.
+T5	Intervention 832 860	paclitaxel/cisplatin therapy
+T6	Intervention 910 936	cyclophosphamide/cisplatin
+T7	Intervention 1009 1042	paclitaxel/cisplatin chemotherapy
+T8	Intervention 1290 1310	paclitaxel/cisplatin
+T9	Intervention 1369 1385	cyclophosphamide
+T10	Intervention 1390 1407	cisplatin therapy
+T11	Intervention 1522 1542	paclitaxel/cisplatin

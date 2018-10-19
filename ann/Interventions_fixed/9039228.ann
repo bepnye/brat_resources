@@ -1,0 +1,8 @@
+T0	Interventions 93 105	radiotherapy
+T1	Interventions 109 126	combined therapy.
+T2	Interventions 283 301	radiotherapy alone
+T3	Interventions 333 440	radiotherapy (the same schedule) plus adjuvant chemotherapy (cyclophosphamide, vincristine and prednisone).
+T4	Interventions 529 541	radiotherapy
+T5	Interventions 726 742	combined therapy
+T6	Interventions 795 816	adjuvant chemotherapy
+T7	Interventions 998 1010	radiotherapy

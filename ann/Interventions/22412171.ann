@@ -1,0 +1,9 @@
+T1	Intervention 0 23	Theta burst stimulation
+T2	Intervention 160 180	cortical stimulation
+T3	Intervention 532 561	theta burst stimulation (TBS)
+T4	Intervention 584 623	transcranial magnetic stimulation (TMS)
+T5	Intervention 733 736	TBS
+T6	Intervention 771 785	inhibitory TBS
+T7	Intervention 887 896	sham TBS.
+T8	Intervention 897 900	TBS
+T9	Intervention 1007 1011	TBS.

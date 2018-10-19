@@ -1,9 +1,0 @@
-T1	Treatment 0 32	[Neoton and thrombolytic therapy
-T2	Treatment 77 91	neoton therapy
-T3	Treatment 228 255	thrombolytic therapy (TLT).
-T4	Treatment 328 360	treatment without TLT and neoton
-T5	Treatment 383 418	TLT with streptokinase preparations
-T6	Treatment 443 481	streptokinase preparations and neoton.
-T7	Treatment 766 772	neoton
-T8	Treatment 950 956	neoton
-T9	Treatment 992 998	Neoton

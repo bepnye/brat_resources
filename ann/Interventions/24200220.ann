@@ -1,0 +1,10 @@
+T1	Intervention 11 48	proton stereotactic body radiotherapy
+T2	Intervention 109 146	Stereotactic body radiotherapy (SBRT)
+T3	Intervention 306 310	SBRT
+T4	Intervention 365 380	20, 30, or 40Gy
+T5	Intervention 566 584	photon-based SBRT.
+T6	Intervention 657 668	photon SBRT
+T7	Intervention 876 897	generated proton SBRT
+T8	Intervention 1035 1046	proton SBRT
+T9	Intervention 1534 1557	standpoint, proton SBRT
+T10	Intervention 1665 1679	to photon SBRT

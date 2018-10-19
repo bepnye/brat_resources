@@ -1,0 +1,8 @@
+T0	Interventions 0 25	Intraperitoneal cisplatin
+T1	Interventions 189 229	platinum-based intravenous chemotherapy.
+T2	Interventions 231 266	First-line intravenous chemotherapy
+T3	Interventions 543 572	platinum-based intravenous CT
+T4	Interventions 597 683	four courses of intraperitoneal cisplatin (P) (90 mg/m2 every 3 weeks) or observation.
+T5	Interventions 1147 1165	Intraperitoneal CT
+T6	Interventions 1274 1299	intraperitoneal cisplatin
+T7	Interventions 1869 1887	intraperitoneal CT

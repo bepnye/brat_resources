@@ -1,0 +1,10 @@
+T1	Intervention 29 40	antibiotics
+T2	Intervention 377 389	antibiotics.
+T3	Intervention 548 592	amoxicillin, clarithromycin and rabeprazole;
+T4	Intervention 611 669	tinidazole, clarithromycin and ranitidine bismuth citrate;
+T5	Intervention 688 730	tinidazole, clarithromycin and rabeprazole
+T6	Intervention 874 924	tinidazole, tetracycline, bismuth and rabeprazole.
+T7	Intervention 1607 1640	tinidazole, tetracycline, bismuth
+T8	Intervention 1645 1656	rabeprazole
+T9	Intervention 1874 1919	triple rabeprazole-based eradicating regimens
+T10	Intervention 2031 2048	Quadruple therapy

@@ -1,0 +1,7 @@
+T0	Interventions 14 65	patient-controlled and nurse-administered analgesia
+T1	Interventions 149 165	fentanyl citrate
+T2	Interventions 293 338	patient-controlled administration of fentanyl
+T3	Interventions 352 388	administration by nurses on request.
+T4	Interventions 491 598	fentanyl intravenously by either patient-controlled administration (n=37) or nurse administration on demand
+T5	Interventions 1176 1205	administration by the patient
+T6	Interventions 1229 1257	administration by the nurses

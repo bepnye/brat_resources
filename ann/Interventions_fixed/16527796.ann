@@ -1,0 +1,7 @@
+T0	Interventions 0 59	Nasotracheal intubation under curve-tipped suction catheter
+T1	Interventions 100 129	Nasotracheal intubation (NTI)
+T2	Interventions 312 351	curve-tipped suction catheter (CTSC) to
+T3	Interventions 450 454	NTI.
+T4	Interventions 506 542	NTI under CTSC guidance (G[+] group)
+T5	Interventions 792 817	NTI without CTSC guidance
+T6	Interventions 1529 1572	Nasotracheal intubation under CTSC guidance

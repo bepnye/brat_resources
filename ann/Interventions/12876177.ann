@@ -1,0 +1,14 @@
+T1	Intervention 60 67	placebo
+T2	Intervention 87 112	human synthetic secretin.
+T3	Intervention 161 191	human synthetic secretin (HSS)
+T4	Intervention 419 426	placebo
+T5	Intervention 476 506	human synthetic secretin (HSS)
+T6	Intervention 569 589	(saline placebo/HSS)
+T7	Intervention 601 622	(HSS/saline placebo).
+T8	Intervention 1382 1409	placebo, secretin treatment
+T9	Intervention 1599 1602	HSS
+T10	Intervention 1619 1627	placebo.
+T11	Intervention 1697 1700	HSS
+T12	Intervention 1704 1719	saline placebo.
+T13	Intervention 1761 1775	human secretin
+T14	Intervention 1871 1879	placebo.

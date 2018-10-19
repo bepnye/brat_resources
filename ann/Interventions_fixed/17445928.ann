@@ -1,0 +1,8 @@
+T0	Interventions 22 34	radiotherapy
+T1	Interventions 49 77	cisplatin chemo-radiotherapy
+T2	Interventions 268 306	adding chemotherapy to radiotherapy in
+T3	Interventions 421 581	RT group received 50 Gy/25 fx/5 weeks of teletherapy followed 1-2 weeks later with 12 Gy/2 fx of high-dose-rate intra-lumenal brachytherapy spaced a week apart.
+T4	Interventions 660 673	brachytherapy
+T5	Interventions 753 847	received identical radiotherapy with concurrent weekly cisplatin at 35 mg/m(2) for 6-7 cycles.
+T6	Interventions 1758 1767	cisplatin
+T7	Interventions 1771 1783	radiotherapy

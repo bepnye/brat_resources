@@ -1,0 +1,14 @@
+T0	Interventions 19 47	concurrent chemoradiotherapy
+T1	Interventions 55 73	radiotherapy alone
+T2	Interventions 298 358	concurrent chemoradiotherapy (CCRT) versus radiotherapy (RT)
+T3	Interventions 690 728	concurrent chemotherapy with cisplatin
+T4	Interventions 747 759	fluorouracil
+T5	Interventions 1124 1128	CCRT
+T6	Interventions 1133 1141	RT-alone
+T7	Interventions 1217 1221	CCRT
+T8	Interventions 1244 1251	RT-only
+T9	Interventions 1330 1334	CCRT
+T10	Interventions 1369 1376	RT-only
+T11	Interventions 1449 1453	CCRT
+T12	Interventions 1757 1761	CCRT
+T13	Interventions 1777 1779	RT

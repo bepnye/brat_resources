@@ -1,0 +1,6 @@
+T0	Interventions 499 623	mechlorethamine, Oncovin, procarbazine, and prednisone (MOPP) and supradiaphragmatic radiotherapy (40 Gy), and no laparotomy
+T1	Interventions 699 703	MOPP
+T2	Interventions 753 784	CCNU, vinblastine, procarbazine
+T3	Interventions 790 800	prednisone
+T4	Interventions 838 848	laparotomy
+T5	Interventions 861 892	supradiaphragmatic radiotherapy

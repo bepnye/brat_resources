@@ -1,0 +1,14 @@
+T1	Intervention 64 81	spinal anesthesia
+T2	Intervention 119 158	intravenous fluids or vasoconstrictors.
+T3	Intervention 315 319	i.v.
+T4	Intervention 320 359	fluid or vasoconstrictor administration
+T5	Intervention 458 498	volume group (lactated Ringer's solution
+T6	Intervention 551 568	dihydroergotamine
+T7	Intervention 608 640	anesthesia), or a placebo group.
+T8	Intervention 686 703	spinal anesthesia
+T9	Intervention 724 736	bupivacaine)
+T10	Intervention 747 754	placebo
+T11	Intervention 851 868	Dihydroergotamine
+T12	Intervention 1633 1651	placebo-controlled
+T13	Intervention 1698 1714	(fluid infusions
+T14	Intervention 1722 1740	dihydroergotamine)

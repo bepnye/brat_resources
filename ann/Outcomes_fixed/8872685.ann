@@ -1,0 +1,12 @@
+T0	Outcomes 39 61	splanchnic oxygenation
+T1	Outcomes 147 226	hepatic venous oxygen saturation (ShvO2) and splanchnic oxygen (O2) extraction.
+T2	Outcomes 1040 1246	hemodynamic parameters, arterial (SaO2), mixed venous (SvO2), and hepatic venous oxygen saturations, systemic and splanchnic O2 extraction, arterial, mixed venous, and hepatic venous lactate concentrations.
+T3	Outcomes 1247 1299	Cardiac output (CO) and mean arterial pressure (MAP)
+T4	Outcomes 1338 1376	SaO2, SvO2, and systemic O2 extraction
+T5	Outcomes 1495 1500	ShvO2
+T6	Outcomes 1573 1578	ShvO2
+T7	Outcomes 1604 1628	splanchnic O2 extraction
+T8	Outcomes 1715 1720	ShvO2
+T9	Outcomes 1755 1775	splanchnic perfusion
+T10	Outcomes 1810 1820	CO and MAP
+T11	Outcomes 1870 1890	splanchnic perfusion

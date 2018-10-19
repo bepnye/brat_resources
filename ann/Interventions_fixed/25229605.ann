@@ -1,0 +1,16 @@
+T0	Interventions 17 59	static active or dynamic active stretching
+T1	Interventions 163 211	active or dynamic hamstring-stretching exercises
+T2	Interventions 476 483	jogging
+T3	Interventions 534 634	3 min of static active stretching (SAS), 3 min of dynamic active stretching (DAS), or control (CON).
+T4	Interventions 658 676	eccentric exercise
+T5	Interventions 999 1009	stretching
+T6	Interventions 1069 1072	SAS
+T7	Interventions 1078 1085	and DAS
+T8	Interventions 1109 1116	the CON
+T9	Interventions 1178 1185	the DAS
+T10	Interventions 1207 1214	the CON
+T11	Interventions 1309 1316	the SAS
+T12	Interventions 1331 1346	the DAS and CON
+T13	Interventions 1469 1478	exercise.
+T14	Interventions 1479 1482	SAS
+T15	Interventions 1498 1506	over DAS

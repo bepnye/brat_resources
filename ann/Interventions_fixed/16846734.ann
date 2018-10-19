@@ -1,0 +1,9 @@
+T0	Interventions 0 11	Gemcitabine
+T1	Interventions 27 37	paclitaxel
+T2	Interventions 41 50	docetaxel
+T3	Interventions 175 241	split-dose paclitaxel or docetaxel in combination with gemcitabine
+T4	Interventions 434 743	gemcitabine 1,250 mg/m(2) Days 1 and 8 and paclitaxel 175 mg/m(2) as a 3-h infusion on Day 1 (GP1); gemcitabine 1,000 mg/m(2) Days 1 and 8 and paclitaxel 100 mg/m(2) as a 1-h infusion on Days 1 and 8 (GP2); gemcitabine 1,000 mg/m(2) Days 1 and 8 and docetaxel 40 mg/m(2) as a 1-h infusion on Days 1 and 8 (GD)
+T5	Interventions 1506 1537	gemcitabine-taxane combinations
+T6	Interventions 1557 1567	paclitaxel
+T7	Interventions 1649 1658	docetaxel
+T8	Interventions 1695 1718	paclitaxel combinations

@@ -1,0 +1,11 @@
+T0	Outcomes 25 41	pharmacokinetics
+T1	Outcomes 183 203	therapeutic efficacy
+T2	Outcomes 217 225	toxicity
+T3	Outcomes 910 935	peak plasma concentration
+T4	Outcomes 1158 1190	time to reach peak concentration
+T5	Outcomes 1385 1393	lag time
+T6	Outcomes 1478 1493	absorption rate
+T7	Outcomes 1609 1660	bodyweight-corrected area under the curve (AUC0-12)
+T8	Outcomes 1838 1859	elimination half-life
+T9	Outcomes 1974 1989	total clearance
+T10	Outcomes 2073 2090	circadian rhythms

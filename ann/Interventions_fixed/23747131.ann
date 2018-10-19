@@ -1,0 +1,31 @@
+T0	Interventions 215 240	novel antibiotic regimens
+T1	Interventions 263 296	including concomitant, sequential
+T2	Interventions 302 319	hybrid therapies.
+T3	Interventions 644 675	concomitant therapy: omeprazole
+T4	Interventions 682 693	amoxicillin
+T5	Interventions 698 712	clarithromycin
+T6	Interventions 725 735	tinidazole
+T7	Interventions 759 789	sequential therapy: omeprazole
+T8	Interventions 799 810	amoxicillin
+T9	Interventions 837 847	omeprazole
+T10	Interventions 854 868	clarithromycin
+T11	Interventions 881 891	tinidazole
+T12	Interventions 915 941	hybrid therapy: omeprazole
+T13	Interventions 952 963	amoxicillin
+T14	Interventions 990 1000	omeprazole
+T15	Interventions 1007 1018	amoxicillin
+T16	Interventions 1023 1037	clarithromycin
+T17	Interventions 1050 1060	tinidazole
+T18	Interventions 1191 1214	(13)C-urea breath test.
+T19	Interventions 1225 1244	second-line therapy
+T20	Interventions 1250 1260	omeprazole
+T21	Interventions 1267 1279	levofloxacin
+T22	Interventions 1292 1303	amoxicillin
+T23	Interventions 1602 1621	concomitant regimen
+T24	Interventions 1648 1666	sequential therapy
+T25	Interventions 1695 1710	hybrid regimen.
+T26	Interventions 1821 1841	second-line regimen.
+T27	Interventions 1872 1883	concomitant
+T28	Interventions 1888 1906	sequential therapy
+T29	Interventions 1916 1930	hybrid therapy
+T30	Interventions 1996 2029	levofloxacin-based triple therapy

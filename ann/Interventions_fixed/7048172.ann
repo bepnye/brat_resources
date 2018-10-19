@@ -1,0 +1,4 @@
+T0	Interventions 72 100	chemo + radio + BCG-therapy.
+T1	Interventions 234 297	chemo + radiotherapy and thereafter by maintenance BCG therapy.
+T2	Interventions 456 460	BCG.
+T3	Interventions 495 498	BCG

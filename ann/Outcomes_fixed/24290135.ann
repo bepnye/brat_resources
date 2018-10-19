@@ -1,0 +1,9 @@
+T0	Outcomes 166 179	fracture risk
+T1	Outcomes 815 832	homogeneity index
+T2	Outcomes 996 1008	failure load
+T3	Outcomes 1126 1154	average reconstruction error
+T4	Outcomes 1288 1303	The correlation
+T5	Outcomes 1307 1336	the FE predicted failure load
+T6	Outcomes 1342 1371	the experimental failure load
+T7	Outcomes 1609 1634	shows encouraging results
+T8	Outcomes 1638 1679	estimating patient-specific failure loads

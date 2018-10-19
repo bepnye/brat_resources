@@ -1,0 +1,13 @@
+T1	Intervention 51 148	Combined Androgen-Deprivation Therapy Plus Radiotherapy Versus Androgen-Deprivation Therapy Alone
+T2	Intervention 228 245	radiotherapy (RT)
+T3	Intervention 255 289	androgen-deprivation therapy (ADT)
+T4	Intervention 822 837	to lifelong ADT
+T5	Intervention 847 856	to ADT+RT
+T6	Intervention 858 864	The RT
+T7	Intervention 1142 1148	to ADT
+T8	Intervention 1163 1172	to ADT+RT
+T9	Intervention 1351 1360	to ADT+RT
+T10	Intervention 1491 1503	of RT to ADT
+T11	Intervention 1557 1566	on ADT+RT
+T12	Intervention 1714 1722	after RT
+T13	Intervention 1890 1895	of RT

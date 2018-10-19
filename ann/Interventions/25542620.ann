@@ -1,0 +1,6 @@
+T1	Intervention 450 470	intestinal resection
+T2	Intervention 575 588	metronidazole
+T3	Intervention 650 675	thiopurine, or adalimumab
+T4	Intervention 768 805	colonoscopy at 6 months (active care)
+T5	Intervention 809 840	no colonoscopy (standard care).
+T6	Intervention 1065 1103	fortnightly adalimumab with thiopurine

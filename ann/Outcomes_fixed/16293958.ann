@@ -1,0 +1,15 @@
+T0	Outcomes 0 8	Efficacy
+T1	Outcomes 181 189	efficacy
+T2	Outcomes 352 360	efficacy
+T3	Outcomes 365 377	tolerability
+T4	Outcomes 677 710	frequency of severe exacerbations
+T5	Outcomes 762 863	respiratory symptoms, forced expiratory volume in 1 s (FEV(1)), shuttle walking test distance and St.
+T6	Outcomes 864 905	George's Respiratory Questionnaire scores
+T7	Outcomes 934 963	total number of exacerbations
+T8	Outcomes 1066 1140	number of patients experiencing at least one exacerbation during the study
+T9	Outcomes 1199 1233	type 3 Anthonisens's exacerbations
+T10	Outcomes 1383 1427	dyspnea, cough, sputum amount and purulence.
+T11	Outcomes 1428 1434	FEV(1)
+T12	Outcomes 1508 1566	area under the FEV(1)-time curve during the 6-month period
+T13	Outcomes 1704 1755	shuttle walking test distance and scores of the St.
+T14	Outcomes 1756 1790	George's Respiratory Questionnaire

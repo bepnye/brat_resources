@@ -1,0 +1,8 @@
+T1	Intervention 0 64	Palliative brachytherapy with or without primary stent placement
+T2	Intervention 166 232	combination of self-expanding metal stent (SEMS) and brachytherapy
+T3	Intervention 428 513	SEMS followed by brachytherapy, 8 Gy×3 (n=21) or brachytherapy alone, 8 Gy×3 (n=20)
+T4	Intervention 857 897	receiving SEMS followed by brachytherapy
+T5	Intervention 963 992	receiving brachytherapy alone
+T6	Intervention 1259 1274	dysphagia, SEMS
+T7	Intervention 1284 1300	by brachytherapy
+T8	Intervention 1371 1421	while brachytherapy with or without preceding SEMS

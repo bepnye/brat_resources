@@ -1,0 +1,6 @@
+T1	Intervention 28 83	minimally invasive or conventional esophageal resection
+T2	Intervention 208 239	conventional open esophagectomy
+T3	Intervention 274 300	thoracotomy and laparotomy
+T4	Intervention 306 408	minimally invasive esophagectomy [minimally invasive procedure (MIE)] by thoracoscopy and laparoscopy.
+T5	Intervention 674 704	neoadjuvant chemoradiotherapy.
+T6	Intervention 1953 1956	MIE

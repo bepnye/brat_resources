@@ -1,0 +1,7 @@
+T0	Interventions 50 80	tumor-infiltrating lymphocytes
+T1	Interventions 189 225	tumor-infiltrating lymphocytes (TIL)
+T2	Interventions 404 433	TIL plus interleukin-2 (IL-2)
+T3	Interventions 451 461	IL-2 only.
+T4	Interventions 1104 1112	TIL+IL-2
+T5	Interventions 1135 1139	IL-2
+T6	Interventions 1489 1492	TIL

@@ -1,0 +1,10 @@
+T1	Intervention 13 24	ranibizumab
+T2	Intervention 32 55	isovolemic hemodilution
+T3	Intervention 333 361	isovolemic hemodilution (IH)
+T4	Intervention 423 441	ranibizumab 0.5 mg
+T5	Intervention 652 667	ranibizumab IVI
+T6	Intervention 688 690	IH
+T7	Intervention 712 714	IH
+T8	Intervention 832 844	ranibizumab.
+T9	Intervention 1253 1269	need ranibizumab
+T10	Intervention 1309 1331	CONCLUSION Ranibizumab

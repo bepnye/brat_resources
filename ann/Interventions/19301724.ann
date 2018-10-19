@@ -1,0 +1,18 @@
+T1	Intervention 16 53	continuous femoral nerve block (CFNB)
+T2	Intervention 58 92	continuous epidural infusion (CEI)
+T3	Intervention 207 230	epidural analgesia (EA)
+T4	Intervention 235 260	femoral nerve block (FNB)
+T5	Intervention 455 458	FNB
+T6	Intervention 467 470	EA.
+T7	Intervention 579 613	continuous epidural infusion (CEI)
+T8	Intervention 619 656	continuous femoral nerve block (CFNB)
+T9	Intervention 1082 1087	(CEI)
+T10	Intervention 1107 1166	continuous infusion of 0.125% levobupivacaine with morphine
+T11	Intervention 1200 1206	(CFNB)
+T12	Intervention 1226 1248	0.125% levobupivacaine
+T13	Intervention 1284 1288	CFNB
+T14	Intervention 1388 1391	CEI
+T15	Intervention 1470 1473	CEI
+T16	Intervention 1536 1540	CFNB
+T17	Intervention 1604 1608	CFNB
+T18	Intervention 1710 1714	CFNB

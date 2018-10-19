@@ -1,0 +1,8 @@
+T0	Interventions 62 86	tamsulosin and silodosin
+T1	Interventions 257 295	α(1)-blockers, tamsulosin or silodosin
+T2	Interventions 449 681	the T-S group (tamsulosin 0.2 mg orally once daily for 4 weeks then silodosin 4 mg orally twice daily for 4 weeks) or the S-T group (silodosin 4 mg orally twice daily for 4 weeks then tamsulosin 0.2 mg orally once daily for 4 weeks)
+T3	Interventions 997 1017	preferred tamsulosin
+T4	Interventions 1056 1075	preferred silodosin
+T5	Interventions 1220 1235	with tamsulosin
+T6	Interventions 1263 1277	with silodosin
+T7	Interventions 1327 1342	that tamsulosin

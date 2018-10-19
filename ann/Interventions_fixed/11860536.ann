@@ -1,0 +1,10 @@
+T0	Interventions 0 46	Laparoscopically assisted vaginal hysterectomy
+T1	Interventions 54 76	abdominal hysterectomy
+T2	Interventions 163 185	laparoscopic treatment
+T3	Interventions 226 261	traditional transabdominal approach
+T4	Interventions 477 621	laparoscopic assisted vaginal hysterectomy (LAVH) and bilateral salpingo-oophrectomy (BSO) plus minus laparoscopic pelvic lymphadenectomy (LPLA)
+T5	Interventions 675 685	laparotomy
+T6	Interventions 700 734	total abdominal hysterectomy (TAH)
+T7	Interventions 754 776	pelvic lymphadenectomy
+T8	Interventions 999 1021	laparoscopic treatment
+T9	Interventions 1349 1371	laparoscopic procedure

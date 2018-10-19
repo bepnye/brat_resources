@@ -1,0 +1,10 @@
+T0	Interventions 53 75	Corynebacterium parvum
+T1	Interventions 151 192	single neighbourhood injection of 2 mg C.
+T2	Interventions 193 204	parvum (CP)
+T3	Interventions 330 346	radical surgery.
+T4	Interventions 523 549	postoperative radiotherapy
+T5	Interventions 582 595	immunotherapy
+T6	Interventions 671 693	no immune stimulation.
+T7	Interventions 941 955	CP stimulation
+T8	Interventions 1037 1056	immune stimulation:
+T9	Interventions 1241 1256	CP stimulation.

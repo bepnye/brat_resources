@@ -1,0 +1,9 @@
+T0	Outcomes 40 73	pain intensity, functional status
+T1	Outcomes 87 100	health status
+T2	Outcomes 200 242	Minimal Clinically Important Change (MCIC)
+T3	Outcomes 250 296	pain intensity numerical rating scale (PI-NRS)
+T4	Outcomes 302 343	Quebec Back Pain Disability Scale (QBPDS)
+T5	Outcomes 353 365	Euroqol (EQ)
+T6	Outcomes 957 961	MCIC
+T7	Outcomes 1095 1112	MCIC of the QBPDS
+T8	Outcomes 1238 1253	MCIC for the EQ

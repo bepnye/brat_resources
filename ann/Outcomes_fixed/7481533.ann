@@ -1,0 +1,9 @@
+T0	Outcomes 238 259	risk of new neoplasia
+T1	Outcomes 538 575	risk of a patient having new adenomas
+T2	Outcomes 769 875	significant neoplasia (carcinoma or adenoma with villous structure, severe dysplasia, or diameter > 10 mm)
+T3	Outcomes 1056 1084	higher risk of new adenomas.
+T4	Outcomes 1198 1207	adenomas.
+T5	Outcomes 1309 1343	risk of new significant neoplasia.
+T6	Outcomes 1405 1411	cancer
+T7	Outcomes 1649 1669	risk of new adenomas
+T8	Outcomes 1740 1749	neoplasia

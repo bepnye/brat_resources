@@ -1,0 +1,9 @@
+T1	Intervention 0 69	Cognitive control therapy and transcranial direct current stimulation
+T2	Intervention 390 421	cognitive control therapy (CCT)
+T3	Intervention 508 547	transcranial direct current stimulation
+T4	Intervention 679 682	CCT
+T5	Intervention 749 766	sham tDCS and CCT
+T6	Intervention 774 777	vs.
+T7	Intervention 778 797	active tDCS and CCT
+T8	Intervention 806 809	CCT
+T9	Intervention 814 818	tDCS

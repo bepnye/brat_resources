@@ -1,0 +1,7 @@
+T1	Intervention 0 14	Active warming
+T2	Intervention 714 738	alkalinized lidocaine 2%
+T3	Intervention 767 834	standard general anesthesia by means of low-flow rebreathing system
+T4	Intervention 1111 1135	low-flow anesthesia only
+T5	Intervention 1155 1210	low-flow anesthesia with additional reflective blankets
+T6	Intervention 1233 1283	low-flow anesthesia with active forced-air warming
+T7	Intervention 2399 2468	low-flow anesthesia alone and in combination with reflective blankets

@@ -1,0 +1,20 @@
+T1	Intervention 81 94	carbamazepine
+T2	Intervention 99 125	sustained-release morphine
+T3	Intervention 154 178	spinal cord stimulation:
+T4	Intervention 298 327	spinal cord stimulation (SCS)
+T5	Intervention 370 373	SCS
+T6	Intervention 446 465	carbamazepine (CMZ)
+T7	Intervention 470 477	opioids
+T8	Intervention 499 517	placebo-controlled
+T9	Intervention 592 617	CMZ (600 mg/d) or placebo
+T10	Intervention 675 678	CMZ
+T11	Intervention 739 786	sustained-release morphine (90 mg/d) or placebo
+T12	Intervention 878 882	SCS.
+T13	Intervention 1032 1035	CMZ
+T14	Intervention 1059 1066	placebo
+T15	Intervention 1116 1124	morphine
+T16	Intervention 1159 1162	CMZ
+T17	Intervention 1180 1188	morphine
+T18	Intervention 1300 1304	SCS.
+T19	Intervention 1322 1325	CMZ
+T20	Intervention 1371 1379	Morphine

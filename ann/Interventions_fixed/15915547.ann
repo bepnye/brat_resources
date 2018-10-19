@@ -1,0 +1,22 @@
+T0	Interventions 50 62	sulfonylurea
+T1	Interventions 91 105	ACE inhibitor:
+T2	Interventions 190 199	enalapril
+T3	Interventions 231 244	glibenclamide
+T4	Interventions 506 532	5 mg enalapril or placebo.
+T5	Interventions 601 614	glibenclamide
+T6	Interventions 642 663	enalapril or placebo.
+T7	Interventions 796 837	Biostator-based euglycemic glucose clamp.
+T8	Interventions 866 884	enalapril-compared
+T9	Interventions 890 906	placebo-resulted
+T10	Interventions 951 964	glibenclamide
+T11	Interventions 1084 1093	enalapril
+T12	Interventions 1155 1168	glibenclamide
+T13	Interventions 1194 1203	enalapril
+T14	Interventions 1309 1322	glibenclamide
+T15	Interventions 1370 1390	enalapril or placebo
+T16	Interventions 1514 1527	glibenclamide
+T17	Interventions 1578 1600	enalapril and placebo.
+T18	Interventions 1751 1765	ACE inhibitors
+T19	Interventions 1780 1793	sulfonylureas
+T20	Interventions 1797 1805	insulin.
+T21	Interventions 1806 1820	ACE inhibitors

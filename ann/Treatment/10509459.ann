@@ -1,9 +1,0 @@
-T1	Treatment 35 62	minimally invasive surgery.
-T2	Treatment 95 127	minimally invasive surgery (MIS)
-T3	Treatment 132 143	laparoscopy
-T4	Treatment 253 273	laparoscopic surgery
-T5	Treatment 336 365	minimally invasive techniques
-T6	Treatment 964 1050	Inspection by direct palpation, conventional instruments, and laparoscopic instruments
-T7	Treatment 1438 1461	conventional instrument
-T8	Treatment 1467 1490	laparoscopic instrument
-T9	Treatment 1834 1858	laparoscopic instruments

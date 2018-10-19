@@ -1,0 +1,23 @@
+T0	Outcomes 52 65	lung function
+T1	Outcomes 70 90	cytokine production.
+T2	Outcomes 148 161	lung function
+T3	Outcomes 182 199	system disruption
+T4	Outcomes 275 288	lung function
+T5	Outcomes 293 314	inflammatory markers.
+T6	Outcomes 557 679	Serum and urine cotinine, lung function, and cytokines IL-4, IL-5, IL-6, tumor necrosis factor (TNF)-alpha, and IFN-gamma.
+T7	Outcomes 696 720	lung function parameters
+T8	Outcomes 909 917	cotinine
+T9	Outcomes 1121 1130	IFN-gamma
+T10	Outcomes 1225 1243	IL-4 and TNF-alpha
+T11	Outcomes 1275 1300	IL-5, IL-6, and IFN-gamma
+T12	Outcomes 1410 1416	FEV(1)
+T13	Outcomes 1421 1437	FEV(1)/FVC ratio
+T14	Outcomes 1443 1447	IL-5
+T15	Outcomes 1475 1479	IL-5
+T16	Outcomes 1492 1496	IL-6
+T17	Outcomes 1510 1519	IFN-gamma
+T18	Outcomes 1536 1550	serum cotinine
+T19	Outcomes 1680 1707	decrements on lung function
+T20	Outcomes 1732 1754	inflammatory cytokines
+T21	Outcomes 1822 1846	effects on lung function
+T22	Outcomes 1883 1905	inflammatory cytokines

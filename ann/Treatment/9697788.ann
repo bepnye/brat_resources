@@ -1,8 +1,0 @@
-T1	Treatment 14 102	prostate-specific antigen corrected for total prostate volume and transition zone volume
-T2	Treatment 278 443	screening study, of serum prostate-specific antigen levels (PSA) and PSA corrected for both the total prostate volume (PSA-D) and the transition zone volume (PSA-T).
-T3	Treatment 632 646	biopsy results
-T4	Treatment 710 822	Planimetric and prolate ellipsoid volumes of the total prostate as well as of the transition zone were measured.
-T5	Treatment 867 912	volumes of 57 radical prostatectomy specimens
-T6	Treatment 1109 1155	PSA and PSA corrected for the volumes measured
-T7	Treatment 2053 2075	transition zone volume
-T8	Treatment 2173 2195	total prostate volume;

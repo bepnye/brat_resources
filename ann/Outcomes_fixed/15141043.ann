@@ -1,0 +1,10 @@
+T0	Outcomes 782 807	time to tumor recurrence.
+T1	Outcomes 836 855	rates of recurrence
+T2	Outcomes 1135 1170	Recurrence rates in surgical wounds
+T3	Outcomes 1225 1246	overall survival rate
+T4	Outcomes 1400 1422	hazard ratio for death
+T5	Outcomes 1564 1602	time to recurrence or overall survival
+T6	Outcomes 1642 1664	Perioperative recovery
+T7	Outcomes 1770 1790	median hospital stay
+T8	Outcomes 1957 2105	rates of intraoperative complications, 30-day postoperative mortality, complications at discharge and 60 days, hospital readmission, and reoperation
+T9	Outcomes 2191 2216	rates of recurrent cancer

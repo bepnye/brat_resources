@@ -1,0 +1,5 @@
+T0	Interventions 23 45	early intensification:
+T1	Interventions 444 523	an early intensification block, a late intensification block, both, or neither.
+T2	Interventions 599 657	different central nervous system (CNS) directed therapies.
+T3	Interventions 731 757	late intensification alone
+T4	Interventions 762 790	both early plus late blocks.

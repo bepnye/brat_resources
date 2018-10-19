@@ -1,0 +1,16 @@
+T0	Interventions 19 27	propofol
+T1	Interventions 173 181	propofol
+T2	Interventions 300 318	placebo-controlled
+T3	Interventions 552 611	normal saline followed by propofol 2.0 mg/kg at 3.3 mg/sec.
+T4	Interventions 650 715	lidocaine 0.5 mg/kg followed by propofol 2.0 mg/kg at 3.3 mg/sec.
+T5	Interventions 758 823	lidocaine 1.0 mg/kg followed by propofol 2.0 mg/kg at 3.3 mg/sec.
+T6	Interventions 866 924	normal saline followed by propofol 2.0 mg/kg at 50 mg/sec.
+T7	Interventions 1072 1087	Rapid injection
+T8	Interventions 1134 1143	lidocaine
+T9	Interventions 1174 1188	slow injection
+T10	Interventions 1195 1222	pretreatment with lidocaine
+T11	Interventions 1234 1249	Rapid injection
+T12	Interventions 1284 1313	slow injection with lidocaine
+T13	Interventions 1370 1418	slow injection after pretreatment with lidocaine
+T14	Interventions 1446 1478	rapid administration of propofol
+T15	Interventions 1529 1561	slow administration of propofol.

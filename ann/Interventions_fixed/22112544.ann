@@ -1,0 +1,7 @@
+T0	Interventions 35 91	colorectal cancer screening with flexible sigmoidoscopy.
+T1	Interventions 250 288	flexible sigmoidoscopy (FSG) screening
+T2	Interventions 315 331	repeat screening
+T3	Interventions 552 606	baseline questionnaires and underwent FSG at baseline.
+T4	Interventions 650 667	repeat screening.
+T5	Interventions 746 760	inadequate FSG
+T6	Interventions 1685 1731	alternative colorectal cancer screening method

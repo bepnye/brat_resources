@@ -1,0 +1,5 @@
+T0	Interventions 28 42	intra-arterial
+T1	Interventions 50 69	intravenous heparin
+T2	Interventions 386 393	heparin
+T3	Interventions 484 691	randomized to an intravenous group (n = 250), receiving 50 U/kg of unfractionated heparin (maximal dose 5,000 U) intravenously, and an intra-arterial group (n = 250) receiving the same dose intra-arterially.
+T4	Interventions 716 837	vasodilator "cocktail" intra-arterially and underwent cardiac catheterization using a 5F introducer sheath and catheters.

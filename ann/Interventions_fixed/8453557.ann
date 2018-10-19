@@ -1,0 +1,5 @@
+T0	Interventions 9 80	cyclophosphamide, doxorubicin, vincristine, and prednisone chemotherapy
+T1	Interventions 297 385	adjuvant chemotherapy (cyclophosphamide, doxorubicin, vincristine, and prednisone; CHOP)
+T2	Interventions 630 736	receive regional RT alone (median dose, 40 Gy) or regional RT followed by six cycles of CHOP chemotherapy.
+T3	Interventions 1427 1431	CHOP
+T4	Interventions 1693 1710	CHOP chemotherapy

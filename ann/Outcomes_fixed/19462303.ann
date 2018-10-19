@@ -1,0 +1,13 @@
+T0	Outcomes 68 95	alcohol withdrawal syndrome
+T1	Outcomes 237 280	treating alcohol withdrawal syndrome (AWS).
+T2	Outcomes 468 472	AWS.
+T3	Outcomes 602 605	AWS
+T4	Outcomes 622 638	medical diseases
+T5	Outcomes 887 940	AWS symptoms (tremor, sweating, nausea, restlessness)
+T6	Outcomes 980 1001	additional medication
+T7	Outcomes 1093 1102	AWS score
+T8	Outcomes 1332 1339	outcome
+T9	Outcomes 1347 1368	duration of ICU stay.
+T10	Outcomes 1369 1392	No serious side effects
+T11	Outcomes 1435 1456	controls AWS symptoms
+T12	Outcomes 1565 1596	duration of patient withdrawal.

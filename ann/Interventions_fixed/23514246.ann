@@ -1,0 +1,16 @@
+T0	Interventions 55 71	radiotherapy vs.
+T1	Interventions 72 114	trans-oral robotic surgery (ORATOR)--study
+T2	Interventions 358 383	Primary radiotherapy (RT)
+T3	Interventions 480 503	concurrent chemotherapy
+T4	Interventions 608 640	Transoral robotic surgery (TORS)
+T5	Interventions 829 833	TORS
+T6	Interventions 838 840	RT
+T7	Interventions 1019 1046	primary RT (± chemotherapy)
+T8	Interventions 1049 1050	.
+T9	Interventions 1051 1079	TORS (± adjuvant [chemo] RT)
+T10	Interventions 1436 1461	Arm 1 (RT ± chemotherapy)
+T11	Interventions 1466 1496	Arm 2 (TORS ± adjuvant [chemo]
+T12	Interventions 1537 1549	will receive
+T13	Interventions 1582 1620	will receive concurrent chemoradiation
+T14	Interventions 1641 1696	will undergo TORS along with selective neck dissections
+T15	Interventions 1779 1833	requirement for adjuvant radiotherapy +/- chemotherapy

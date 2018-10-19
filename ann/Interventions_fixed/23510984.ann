@@ -1,0 +1,10 @@
+T0	Interventions 14 32	placebo-controlled
+T1	Interventions 50 74	ganitumab or conatumumab
+T2	Interventions 278 289	bevacizumab
+T3	Interventions 294 306	aflibercept.
+T4	Interventions 347 358	conatumumab
+T5	Interventions 429 438	ganitumab
+T6	Interventions 734 786	fluoropyrimidine- and oxaliplatin-based chemotherapy
+T7	Interventions 824 917	intravenous FOLFIRI plus conatumumab 10 mg/kg (Arm A), ganitumab 12 mg/kg (Arm B), or placebo
+T8	Interventions 1451 1474	CONCLUSIONS Conatumumab
+T9	Interventions 1480 1507	not ganitumab, plus FOLFIRI

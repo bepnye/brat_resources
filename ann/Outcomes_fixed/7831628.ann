@@ -1,0 +1,6 @@
+T0	Outcomes 15 30	transfer factor
+T1	Outcomes 71 125	Transfer factor of the lung for carbon monoxide (TLCO)
+T2	Outcomes 573 598	Exhalation TLCO (TLCO,ex)
+T3	Outcomes 621 687	standard (Jones and Meade) 10 second breath holding TLCO (TLCO,bh)
+T4	Outcomes 927 935	relation
+T5	Outcomes 1173 1210	comparable pathophysiological factors

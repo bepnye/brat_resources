@@ -1,0 +1,16 @@
+T0	Outcomes 45 64	shivering threshold
+T1	Outcomes 585 594	shivering
+T2	Outcomes 615 623	sedation
+T3	Outcomes 954 983	tympanic membrane temperature
+T4	Outcomes 1063 1069	oxygen
+T5	Outcomes 1112 1129	gain of shivering
+T6	Outcomes 1183 1199	core temperature
+T7	Outcomes 1212 1220	Sedation
+T8	Outcomes 1243 1268	verbal rating score (VRS)
+T9	Outcomes 1286 1320	bispectral index (BIS) of the EEG.
+T10	Outcomes 1321 1347	Peripheral muscle strength
+T11	Outcomes 1514 1533	shivering threshold
+T12	Outcomes 1618 1635	gain of shivering
+T13	Outcomes 1787 1795	sedation
+T14	Outcomes 1818 1834	muscle strength.
+T15	Outcomes 1883 1903	shivering threshold.

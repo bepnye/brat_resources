@@ -1,0 +1,9 @@
+T0	Interventions 0 9	Erlotinib
+T1	Interventions 176 187	gemcitabine
+T2	Interventions 204 213	erlotinib
+T3	Interventions 532 578	with gemcitabine or gemcitabine plus erlotinib
+T4	Interventions 880 910	the gemcitabine plus erlotinib
+T5	Interventions 925 946	the gemcitabine alone
+T6	Interventions 957 987	the gemcitabine plus erlotinib
+T7	Interventions 1315 1353	CONCLUSIONS Gemcitabine plus erlotinib
+T8	Interventions 1372 1394	than gemcitabine alone

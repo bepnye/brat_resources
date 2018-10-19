@@ -1,0 +1,15 @@
+T0	Interventions 29 38	terazosin
+T1	Interventions 43 52	enalapril
+T2	Interventions 179 200	antihypertensive drug
+T3	Interventions 348 394	selective alpha 1-adrenergic blocker terazosin
+T4	Interventions 424 473	angiotensin-converting enzyme inhibitor enalapril
+T5	Interventions 752 759	placebo
+T6	Interventions 775 798	Terazosin and enalapril
+T7	Interventions 1093 1102	terazosin
+T8	Interventions 1107 1116	enalapril
+T9	Interventions 1220 1227	placebo
+T10	Interventions 1264 1273	terazosin
+T11	Interventions 1298 1308	enalapril;
+T12	Interventions 1404 1413	terazosin
+T13	Interventions 1437 1447	enalapril;
+T14	Interventions 1563 1570	placebo

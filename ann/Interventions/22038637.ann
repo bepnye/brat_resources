@@ -1,0 +1,7 @@
+T1	Intervention 0 41	[Prophylactic intraaortic balloon pumping
+T2	Intervention 120 147	prophylactic IABP insertion
+T3	Intervention 285 327	either without prophylactic IABP insertion
+T4	Intervention 348 357	with IABP
+T5	Intervention 680 693	postoperative
+T6	Intervention 1033 1034	.
+T7	Intervention 1035 1076	CONCLUSION Prophylactic preoperative IABP

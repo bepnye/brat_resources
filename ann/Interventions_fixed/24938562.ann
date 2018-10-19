@@ -1,0 +1,16 @@
+T0	Interventions 10 21	selumetinib
+T1	Interventions 25 37	chemotherapy
+T2	Interventions 293 304	selumetinib
+T3	Interventions 496 507	selumetinib
+T4	Interventions 511 523	chemotherapy
+T5	Interventions 769 780	selumetinib
+T6	Interventions 838 867	or chemotherapy (temozolomide
+T7	Interventions 916 930	or dacarbazine
+T8	Interventions 1253 1281	Patients in the chemotherapy
+T9	Interventions 1294 1313	receive selumetinib
+T10	Interventions 1649 1675	randomized to chemotherapy
+T11	Interventions 1805 1830	randomized to selumetinib
+T12	Interventions 2104 2116	months) with
+T13	Interventions 2202 2220	were observed with
+T14	Interventions 2257 2278	patients treated with
+T15	Interventions 2626 2651	selumetinib compared with

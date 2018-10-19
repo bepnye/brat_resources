@@ -1,0 +1,10 @@
+T0	Outcomes 0 37	Cytokine levels and systemic toxicity
+T1	Outcomes 301 315	response rates
+T2	Outcomes 436 455	secondary mediators
+T3	Outcomes 473 491	systemic toxicity.
+T4	Outcomes 1009 1033	Systemic leaks > or = 1%
+T5	Outcomes 1043 1060	perfusion circuit
+T6	Outcomes 1143 1188	Hypotension that required vasopressor support
+T7	Outcomes 1349 1373	peak systemic TNF levels
+T8	Outcomes 1569 1605	systemic interleukin-6 (IL-6) levels
+T9	Outcomes 1708 1770	Intracellular adhesion molecule (ICAM), IL-8, and TNF-R levels

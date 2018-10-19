@@ -1,0 +1,21 @@
+Adult
+Aged
+Blood Glucose
+Critical Illness
+Dose-Response Relationship, Drug
+Exercise
+Female
+Humans
+Hyperglycemia
+Immobilization
+Insulin
+Insulin Resistance
+Intensive Care Units
+Logistic Models
+Male
+Middle Aged
+Muscle Strength
+Muscle Weakness
+Physical Therapy Modalities
+Respiration, Artificial
+Treatment Outcome

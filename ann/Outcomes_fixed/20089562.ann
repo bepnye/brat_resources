@@ -1,0 +1,9 @@
+T0	Outcomes 635 665	objective response rate (ORR).
+T1	Outcomes 692 759	progression-free survival (PFS), overall survival (OS), and safety.
+T2	Outcomes 768 771	ORR
+T3	Outcomes 867 877	Median PFS
+T4	Outcomes 951 953	OS
+T5	Outcomes 1048 1068	grade 3/4 leucopenia
+T6	Outcomes 1188 1233	febrile neutropenia and grade 3/4 infections.
+T7	Outcomes 1234 1269	Grade 3/4 non-haematologic toxicity
+T8	Outcomes 1299 1323	Congestive heart failure

@@ -1,0 +1,4 @@
+T1	Intervention 38 60	hippotherapy simulator
+T2	Intervention 183 225	hippotherapy (when applied by a simulator)
+T3	Intervention 609 663	intervention (simulator ON) or control (simulator OFF)
+T4	Intervention 1565 1577	Hippotherapy

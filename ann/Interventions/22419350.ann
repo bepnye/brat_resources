@@ -1,0 +1,10 @@
+T1	Intervention 26 41	tranexamic acid
+T2	Intervention 139 171	antifibrinolytic tranexamic acid
+T3	Intervention 381 396	tranexamic acid
+T4	Intervention 503 514	intravenous
+T5	Intervention 520 526	local;
+T6	Intervention 570 586	tranexamic acid)
+T7	Intervention 597 608	intravenous
+T8	Intervention 647 822	intraoperative dose (IO) given before tourniquet deflation, (2) additional preoperative dose (POIO), (3) additional postoperative dose (IOPO), and (4) all three doses (POIOPO)
+T9	Intervention 855 872	local application
+T10	Intervention 1473 1488	tranexamic acid

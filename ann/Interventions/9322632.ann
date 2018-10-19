@@ -1,0 +1,27 @@
+T1	Intervention 16 66	intermittent vaginal administration of misoprostol
+T2	Intervention 72 95	continuous dinoprostone
+T3	Intervention 191 238	vaginal administration of misoprostol (Cytotec)
+T4	Intervention 252 275	dinoprostone (Cervidil)
+T5	Intervention 487 517	misoprostol (prostaglandin E1)
+T6	Intervention 525 556	dinoprostone (prostaglandin E2)
+T7	Intervention 606 617	misoprostol
+T8	Intervention 715 726	misoprostol
+T9	Intervention 931 939	Cervidil
+T10	Intervention 961 973	dinoprostone
+T11	Intervention 1337 1348	misoprostol
+T12	Intervention 1360 1373	dinoprostone.
+T13	Intervention 1465 1476	misoprostol
+T14	Intervention 1522 1534	dinoprostone
+T15	Intervention 1635 1643	Oxytocin
+T16	Intervention 1689 1708	misoprostol-treated
+T17	Intervention 1733 1753	dinoprostone-treated
+T18	Intervention 1903 1914	misoprostol
+T19	Intervention 1918 1931	dinoprostone.
+T20	Intervention 2147 2158	misoprostol
+T21	Intervention 2184 2196	dinoprostone
+T22	Intervention 2438 2457	misoprostol-treated
+T23	Intervention 2485 2505	dinoprostone-treated
+T24	Intervention 2813 2824	misoprostol
+T25	Intervention 2949 2957	oxytocin
+T26	Intervention 3071 3082	misoprostol
+T27	Intervention 3130 3143	dinoprostone.

@@ -1,0 +1,14 @@
+T1	Intervention 11 20	halothane
+T2	Intervention 25 35	isoflurane
+T3	Intervention 223 246	Halothane or isoflurane
+T4	Intervention 505 520	halothane group
+T5	Intervention 533 549	isoflurane group
+T6	Intervention 573 583	anesthesia
+T7	Intervention 597 634	midazolam, fentanyl, and pancuronium.
+T8	Intervention 635 645	Anesthesia
+T9	Intervention 666 730	fentanyl and halothane or isoflurane in nitrous oxide and oxygen
+T10	Intervention 1075 1085	isoflurane
+T11	Intervention 1275 1298	isoflurane-anesthetized
+T12	Intervention 1392 1414	halothane-anesthetized
+T13	Intervention 1751 1761	anesthesia
+T14	Intervention 1767 1776	halothane

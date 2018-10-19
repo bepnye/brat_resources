@@ -1,0 +1,16 @@
+T0	Outcomes 0 20	Deep vein thrombosis
+T1	Outcomes 182 202	deep vein thrombosis
+T2	Outcomes 355 375	deep vein thrombosis
+T3	Outcomes 390 401	prophylaxis
+T4	Outcomes 593 625	deep vein thrombosis prophylaxis
+T5	Outcomes 653 673	duplex doppler scans
+T6	Outcomes 1084 1138	clinical signs and symptoms of thromboembolic disease.
+T7	Outcomes 1263 1275	asymptomatic
+T8	Outcomes 1284 1296	duplex scans
+T9	Outcomes 1353 1361	venogram
+T10	Outcomes 1430 1451	excessive blood loss.
+T11	Outcomes 1517 1568	clinically detectable proximal deep vein thrombosis
+T12	Outcomes 1592 1616	duplex ultra-sonography.
+T13	Outcomes 1629 1647	clinical incidence
+T14	Outcomes 1651 1671	deep vein thrombosis
+T15	Outcomes 1783 1806	thromboembolic disease.

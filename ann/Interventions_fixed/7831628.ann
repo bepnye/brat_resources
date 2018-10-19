@@ -1,0 +1,8 @@
+T0	Interventions 38 58	constant exhalation.
+T1	Interventions 286 306	constant exhalation.
+T2	Interventions 573 598	Exhalation TLCO (TLCO,ex)
+T3	Interventions 621 687	standard (Jones and Meade) 10 second breath holding TLCO (TLCO,bh)
+T4	Interventions 1230 1244	breath holding
+T5	Interventions 1249 1269	constant exhalation.
+T6	Interventions 1270 1289	Constant exhalation
+T7	Interventions 1335 1349	breath holding

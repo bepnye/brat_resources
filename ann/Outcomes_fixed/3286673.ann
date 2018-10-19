@@ -1,0 +1,8 @@
+T0	Outcomes 0 26	Pulsatile insulin delivery
+T1	Outcomes 1062 1098	plasma C-peptide and glucagon levels
+T2	Outcomes 1225 1267	basal plasma glucagon and C-peptide levels
+T3	Outcomes 1303 1338	arginine-induced glucagon response.
+T4	Outcomes 1579 1626	basal or arginine-stimulated glucagon response.
+T5	Outcomes 1702 1735	arginine-induced glucagon release
+T6	Outcomes 1826 1882	physiological modulator of islet A- and B-cell function.
+T7	Outcomes 2044 2087	pulsatile physiological release of insulin.

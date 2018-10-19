@@ -1,0 +1,11 @@
+T1	Intervention 16 77	amifostine to carboplatin and paclitaxel based chemoradiation
+T2	Intervention 320 330	amifostine
+T3	Intervention 485 495	paclitaxel
+T4	Intervention 529 540	carboplatin
+T5	Intervention 620 630	paclitaxel
+T6	Intervention 646 657	carboplatin
+T7	Intervention 672 707	hyperfractionated radiation therapy
+T8	Intervention 768 778	amifostine
+T9	Intervention 1607 1644	regimen of carboplatin and paclitaxel
+T10	Intervention 1727 1736	regimens.
+T11	Intervention 1737 1747	Amifostine

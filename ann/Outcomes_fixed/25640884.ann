@@ -1,0 +1,10 @@
+T0	Outcomes 9 25	cancer screening
+T1	Outcomes 134 150	cancer mortality
+T2	Outcomes 283 299	cancer screening
+T3	Outcomes 859 904	Self-reported data on screening participation
+T4	Outcomes 1026 1142	demographic characteristics and baseline screening prevalence of breast, cervical, prostate, and colorectal cancers.
+T5	Outcomes 1229 1268	Papanicolaou test in the past 24 months
+T6	Outcomes 1352 1383	mammogram in the past 12 months
+T7	Outcomes 1465 1517	prostate-specific antigen test in the past 12 months
+T8	Outcomes 1610 1667	flexible sigmoidoscopy or colonoscopy in the past 5 years
+T9	Outcomes 1735 1751	cancer screening

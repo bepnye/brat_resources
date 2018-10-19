@@ -1,0 +1,9 @@
+T0	Interventions 0 11	Nicardipine
+T1	Interventions 27 34	esmolol
+T2	Interventions 666 690	nicardipine and esmolol.
+T3	Interventions 948 970	nicardipine or esmolol
+T4	Interventions 1417 1443	(labetalol or hydralazine)
+T5	Interventions 2217 2235	for opioid therapy
+T6	Interventions 2359 2382	for rescue drug therapy
+T7	Interventions 3009 3032	CONCLUSIONS Nicardipine
+T8	Interventions 3045 3055	to esmolol

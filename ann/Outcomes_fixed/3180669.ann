@@ -1,0 +1,8 @@
+T0	Outcomes 262 300	Forced expiratory volume in 1 s (FEV1)
+T1	Outcomes 305 332	forced vital capacity (FVC)
+T2	Outcomes 573 585	FEV1 and FVC
+T3	Outcomes 625 637	FEV1 and FVC
+T4	Outcomes 729 741	FEV1 and FVC
+T5	Outcomes 915 944	ratio of the FEV1 and the FVC
+T6	Outcomes 1146 1174	static ventilatory function.
+T7	Outcomes 1175 1187	Bronchospasm

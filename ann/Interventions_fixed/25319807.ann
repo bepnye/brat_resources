@@ -1,0 +1,8 @@
+T0	Interventions 11 54	adjuvant interferon alfa-2b (IFN-α) therapy
+T1	Interventions 294 340	to adjuvant interferon alfa-2b (IFN-α) therapy
+T2	Interventions 517 548	after surgery to adjuvant IFN-α
+T3	Interventions 579 598	or observation only
+T4	Interventions 752 775	subgroup, IFN-α therapy
+T5	Interventions 883 906	receiving IFN-α therapy
+T6	Interventions 1161 1181	model, IFN-α therapy
+T7	Interventions 1626 1653	benefit from adjuvant IFN-α

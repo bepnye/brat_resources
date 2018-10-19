@@ -1,0 +1,10 @@
+T0	Interventions 19 108	induction gemcitabine or paclitaxel plus carboplatin followed by paclitaxel consolidation
+T1	Interventions 166 281	gemcitabine plus carboplatin (GC) or paclitaxel plus carboplatin (TC) induction regimens with or without paclitaxel
+T2	Interventions 405 420	GC (gemcitabine
+T3	Interventions 450 466	plus carboplatin
+T4	Interventions 507 521	TC (paclitaxel
+T5	Interventions 534 556	plus carboplatin AUC 6
+T6	Interventions 679 689	paclitaxel
+T7	Interventions 1264 1277	for GC and TC
+T8	Interventions 1662 1676	CONCLUSIONS GC
+T9	Interventions 1698 1705	over TC

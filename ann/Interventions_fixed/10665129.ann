@@ -1,0 +1,10 @@
+T0	Interventions 29 75	formoterol, ipratropium, and their combination
+T1	Interventions 233 251	placebo-controlled
+T2	Interventions 395 471	ipratropium bromide (Atrovent MDI, 20 micrograms/puff) plus 2 puffs placebo;
+T3	Interventions 489 564	formoterol fumarate (Foradil MDI, 12 micrograms/puff) plus 3 puffs placebo;
+T4	Interventions 568 597	80 micrograms ipratropium; D.
+T5	Interventions 598 647	24 micrograms formoterol plus 2 puffs placebo; E.
+T6	Interventions 648 724	12 micrograms formoterol plus 40 micrograms ipratropium plus 1 puff placebo;
+T7	Interventions 728 744	4 puffs placebo.
+T8	Interventions 1026 1052	ipratropium and formoterol
+T9	Interventions 1194 1205	ipratropium

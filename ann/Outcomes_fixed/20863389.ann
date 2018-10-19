@@ -1,0 +1,5 @@
+T0	Outcomes 903 941	The mean number of chemotherapy cycles
+T1	Outcomes 1117 1143	developed tumor recurrence
+T2	Outcomes 1145 1169	The Median Survival time
+T3	Outcomes 1226 1262	The proportion of patients surviving
+T4	Outcomes 1438 1460	any clinical advantage

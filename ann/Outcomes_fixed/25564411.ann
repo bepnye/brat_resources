@@ -1,0 +1,7 @@
+T0	Outcomes 570 589	oncologic prognoses
+T1	Outcomes 900 927	disease-free survival rates
+T2	Outcomes 1080 1102	overall survival rates
+T3	Outcomes 1250 1292	disease-free survival and overall survival
+T4	Outcomes 1439 1465	surgical complication rate
+T5	Outcomes 1706 1716	recurrence
+T6	Outcomes 1733 1742	prognosis

@@ -1,0 +1,15 @@
+T0	Outcomes 967 1007	survival, toxicity, and overall response
+T1	Outcomes 1668 1682	hematotoxicity
+T2	Outcomes 1700 1708	Toxicity
+T3	Outcomes 1758 1781	grade 3 or 4 leukopenia
+T4	Outcomes 1794 1824	grade 3 or 4 thrombocytopenia;
+T5	Outcomes 1836 1846	leukopenia
+T6	Outcomes 1862 1879	thrombocytopenia.
+T7	Outcomes 1884 1897	response rate
+T8	Outcomes 1970 1992	hematological toxicity
+T9	Outcomes 2037 2047	leukopenia
+T10	Outcomes 2099 2107	response
+T11	Outcomes 2124 2140	thrombocytopenia
+T12	Outcomes 2286 2311	steep dose-response curve
+T13	Outcomes 2358 2374	myelosuppression
+T14	Outcomes 2389 2407	Rates of responses

@@ -1,0 +1,9 @@
+T0	Outcomes 915 974	median time to eye opening and exit from the operation room
+T1	Outcomes 1193 1218	median time to extubation
+T2	Outcomes 1263 1282	quality of recovery
+T3	Outcomes 1388 1415	visual analogue scale score
+T4	Outcomes 1428 1477	Observer's Assessment of Alertness/Sedation score
+T5	Outcomes 1490 1525	Mini-Mental State Examination score
+T6	Outcomes 1541 1589	Modified Aldrete Post Anaesthesia Recovery score
+T7	Outcomes 1605 1627	serious adverse events
+T8	Outcomes 1737 1750	recovery time

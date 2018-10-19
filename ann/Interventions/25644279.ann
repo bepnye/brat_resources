@@ -1,0 +1,11 @@
+T1	Intervention 20 31	interferon-
+T2	Intervention 36 84	ribavirin-free ombitasvir/paritaprevir/ritonavir
+T3	Intervention 343 383	interferon (IFN)/ribavirin (RBV) therapy
+T4	Intervention 512 529	IFN- and RBV-free
+T5	Intervention 552 572	ombitasvir (ABT-267)
+T6	Intervention 577 620	NS5A inhibitor, plus paritaprevir (ABT-450)
+T7	Intervention 625 696	NS3/4A protease inhibitor dosed with ritonavir (paritaprevir/ritonavir)
+T8	Intervention 711 718	IFN/RBV
+T9	Intervention 899 943	ombitasvir 25 mg plus paritaprevir/ritonavir
+T10	Intervention 1033 1116	ombitasvir 25 mg plus paritaprevir/ritonavir 100/100 mg or 150/100 mg for 12 weeks.
+T11	Intervention 1862 1903	failed, ombitasvir/paritaprevir/ritonavir

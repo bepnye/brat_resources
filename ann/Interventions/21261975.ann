@@ -1,0 +1,4 @@
+T1	Intervention 817 847	initiation of PN when EN fails
+T2	Intervention 875 1032	In the early PN group, PN is initiated within 24-48 hours after ICU admission to complete early enteral nutrition (EN) up to a calculated nutritional target.
+T3	Intervention 1033 1125	In the late PN group, PN completing EN is initiated when the target is not reached on day 8.
+T4	Intervention 1157 1159	EN

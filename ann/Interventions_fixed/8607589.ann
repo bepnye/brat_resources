@@ -1,0 +1,13 @@
+T0	Interventions 105 115	enoxaparin
+T1	Interventions 121 130	warfarin.
+T2	Interventions 185 206	fixed-dose enoxaparin
+T3	Interventions 211 233	adjusted dose warfarin
+T4	Interventions 497 616	enoxaparin (30 mg subcutaneously every 12 hours) or adjusted-dose warfarin (international normalized ratio, 2.0 to 3.0)
+T5	Interventions 893 901	warfarin
+T6	Interventions 972 982	enoxaparin
+T7	Interventions 1066 1076	enoxaparin
+T8	Interventions 1112 1120	warfarin
+T9	Interventions 1147 1157	enoxaparin
+T10	Interventions 1267 1275	warfarin
+T11	Interventions 1562 1572	enoxaparin
+T12	Interventions 1618 1626	warfarin

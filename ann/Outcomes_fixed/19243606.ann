@@ -1,0 +1,12 @@
+T0	Outcomes 42 48	safety
+T1	Outcomes 53 61	efficacy
+T2	Outcomes 528 534	safety
+T3	Outcomes 539 551	tolerability
+T4	Outcomes 882 906	dose limiting toxicities
+T5	Outcomes 969 988	safety and efficacy
+T6	Outcomes 1222 1230	toxicity
+T7	Outcomes 1318 1326	toxicity
+T8	Outcomes 1410 1423	response rate
+T9	Outcomes 1439 1462	Median overall survival
+T10	Outcomes 1697 1719	Dose limiting toxicity
+T11	Outcomes 1789 1811	dose limiting toxicity

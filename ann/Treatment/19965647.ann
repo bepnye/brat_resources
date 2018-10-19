@@ -1,8 +1,0 @@
-T1	Treatment 41 90	all-trans retinoic acid to intensive chemotherapy
-T2	Treatment 300 330	all-trans retinoic acid (ATRA)
-T3	Treatment 334 346	chemotherapy
-T4	Treatment 619 623	ATRA
-T5	Treatment 639 730	daunorubicin/Ara-C/thioguanine chemotherapy with Ara-C at standard or double standard dose.
-T6	Treatment 1305 1309	ATRA
-T7	Treatment 1483 1487	ATRA
-T8	Treatment 1680 1701	ATRA to chemotherapy.

@@ -1,0 +1,10 @@
+T1	Intervention 12 28	insulin infusion
+T2	Intervention 144 160	intradermal (ID)
+T3	Intervention 355 397	continuous microneedle-based drug infusion
+T4	Intervention 598 618	subcutaneous insulin
+T5	Intervention 694 700	one SC
+T6	Intervention 705 711	one ID
+T7	Intervention 733 770	of insulin aspart (NovoRapid® U-100)
+T8	Intervention 909 915	study.
+T9	Intervention 916 939	Bolus insulin infusions
+T10	Intervention 1719 1738	delivery of insulin

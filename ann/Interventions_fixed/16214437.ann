@@ -1,0 +1,13 @@
+T0	Interventions 11 45	glucose-insulin-potassium infusion
+T1	Interventions 109 130	thrombolytic therapy.
+T2	Interventions 144 184	glucose-insulin-potassium (GIK) infusion
+T3	Interventions 432 649	GIK (25% glucose, 50 IU of soluble insulin per liter, and 80 mmol of potassium chloride per liter at 1 ml/kg/hour over 24 hours) as adjunct to thrombolytic therapy (1.5 MU of streptokinase/30 to 60 minutes; GIK group)
+T4	Interventions 653 696	thrombolytic therapy alone (control group).
+T5	Interventions 1123 1132	GIK group
+T6	Interventions 1235 1238	GIK
+T7	Interventions 1460 1469	GIK group
+T8	Interventions 1651 1660	GIK group
+T9	Interventions 1732 1739	control
+T10	Interventions 1772 1775	GIK
+T11	Interventions 1799 1819	thrombolytic therapy
+T12	Interventions 1897 1900	GIK

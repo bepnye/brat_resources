@@ -1,0 +1,15 @@
+T1	Intervention 0 21	Codeine/acetaminophen
+T2	Intervention 26 63	hydrocodone/acetaminophen combination
+T3	Intervention 374 388	acetaminophen.
+T4	Intervention 459 482	codeine and hydrocodone
+T5	Intervention 496 530	in combination with acetaminophen.
+T6	Intervention 818 865	codeine phosphate versus hydrocodone bitartrate
+T7	Intervention 886 899	acetaminophen
+T8	Intervention 1502 1532	of codeine/acetaminophen (C/A)
+T9	Intervention 1543 1577	or hydrocodone/acetaminophen (H/A)
+T10	Intervention 2268 2280	received C/A
+T11	Intervention 2288 2300	received H/A
+T12	Intervention 2490 2502	received C/A
+T13	Intervention 2661 2669	with H/A
+T14	Intervention 2995 3010	the C/A and H/A
+T15	Intervention 3259 3278	between C/A and H/A

@@ -1,0 +1,15 @@
+T0	Outcomes 869 889	Mean airway pressure
+T1	Outcomes 1015 1030	ventilation+15.
+T2	Outcomes 1031 1057	Right ventricular function
+T3	Outcomes 1071 1109	using transesophageal echocardiography
+T4	Outcomes 1179 1210	a right ventricular dysfunction
+T5	Outcomes 1322 1349	a right ventricular failure
+T6	Outcomes 1486 1529	further worsened right ventricular function
+T7	Outcomes 1565 1646	in right ventricular end-diastolic area/left ventricular end-diastolic area ratio
+T8	Outcomes 1666 1701	in end-diastolic eccentricity index
+T9	Outcomes 1868 1901	had right ventricular dysfunction
+T10	Outcomes 1911 1940	had right ventricular failure
+T11	Outcomes 1985 2008	not improve oxygenation
+T12	Outcomes 2194 2230	when increasing mean airway pressure
+T13	Outcomes 2304 2345	a worsening of right ventricular function
+T14	Outcomes 2640 2677	can worsen right ventricular function

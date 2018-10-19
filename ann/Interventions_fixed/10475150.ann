@@ -1,0 +1,19 @@
+T0	Interventions 12 37	somatostatin (octreotide)
+T1	Interventions 147 159	Somatostatin
+T2	Interventions 311 323	somatostatin
+T3	Interventions 705 739	saline or octreotide (Sandostatin;
+T4	Interventions 824 834	octreotide
+T5	Interventions 910 917	saline.
+T6	Interventions 1104 1114	octreotide
+T7	Interventions 1150 1160	octreotide
+T8	Interventions 1194 1201	saline;
+T9	Interventions 1301 1311	octreotide
+T10	Interventions 1316 1323	saline.
+T11	Interventions 1477 1487	octreotide
+T12	Interventions 1523 1533	octreotide
+T13	Interventions 1564 1571	saline;
+T14	Interventions 1616 1626	octreotide
+T15	Interventions 1717 1730	somatostatin.
+T16	Interventions 1747 1763	somatostatin--in
+T17	Interventions 1776 1793	octreotide--fails
+T18	Interventions 1969 1981	somatostatin

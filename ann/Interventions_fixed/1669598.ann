@@ -1,0 +1,11 @@
+T0	Interventions 0 53	Local immunotherapy by inhalation of a powder extract
+T1	Interventions 150 175	parenteral immunotherapy.
+T2	Interventions 224 307	local immunotherapy (LI) by inhalation of a powder extract of house dust mite (HDM)
+T3	Interventions 328 370	parenteral immunotherapy (PI) by injection
+T4	Interventions 471 473	LI
+T5	Interventions 505 512	placebo
+T6	Interventions 545 573	PI and inhalation of lactose
+T7	Interventions 654 682	disodium cromoglycate (DSCG)
+T8	Interventions 1313 1315	LI
+T9	Interventions 1335 1337	PI
+T10	Interventions 1418 1420	LI

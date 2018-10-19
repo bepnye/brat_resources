@@ -1,0 +1,13 @@
+T0	Outcomes 25 46	histology and outcome
+T1	Outcomes 230 251	histology and outcome
+T2	Outcomes 378 502	Age, race, performance status, histologic type (serous=S; clear cell=CC; endometrioid=E), disease stage, and prior radiation
+T3	Outcomes 628 686	progression-free survival (PFS) and overall survival (OS).
+T4	Outcomes 980 993	disease stage
+T5	Outcomes 1059 1082	Histologic distribution
+T6	Outcomes 1295 1316	Overall response rate
+T7	Outcomes 1349 1364	Histologic type
+T8	Outcomes 1450 1508	race, performance status, disease stage, and CC histology.
+T9	Outcomes 1509 1518	Histology
+T10	Outcomes 1564 1585	relative hazard ratio
+T11	Outcomes 1777 1807	not associated with histology.
+T12	Outcomes 1891 1908	Poorer PFS and OS

@@ -1,0 +1,10 @@
+T0	Interventions 58 78	Vibrotactile stimuli
+T1	Interventions 231 245	auditory tones
+T2	Interventions 314 335	vibrotactile stimulus
+T3	Interventions 429 553	auditory stimulation (no tone, tone at detection threshold, tone at 5 dB above threshold, and tone at 10 dB above threshold)
+T4	Interventions 573 594	vibrotactile stimulus
+T5	Interventions 856 868	vibrotaction
+T6	Interventions 911 923	vibrotaction
+T7	Interventions 977 1017	conditions without vibrotactile stimuli.
+T8	Interventions 1041 1053	vibrotaction
+T9	Interventions 1152 1164	vibrotaction

@@ -1,0 +1,23 @@
+Adult
+Aged
+Antineoplastic Agents
+Antineoplastic Combined Chemotherapy Protocols
+Bortezomib
+Cyclophosphamide
+Dexamethasone
+Doxorubicin
+Drug Administration Schedule
+Female
+Humans
+Induction Chemotherapy
+Injections, Intravenous
+Injections, Subcutaneous
+Kidney
+Male
+Middle Aged
+Multiple Myeloma
+Neoplasm Staging
+Peripheral Nervous System Diseases
+Prospective Studies
+Remission Induction
+Survival Analysis

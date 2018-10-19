@@ -1,0 +1,11 @@
+T0	Interventions 0 20	Gefitinib or placebo
+T1	Interventions 272 294	tamoxifen plus placebo
+T2	Interventions 502 511	tamoxifen
+T3	Interventions 804 813	gefitinib
+T4	Interventions 976 995	(gefitinib:placebo)
+T5	Interventions 1262 1276	with gefitinib
+T6	Interventions 1287 1299	with placebo
+T7	Interventions 1340 1354	with gefitinib
+T8	Interventions 1365 1377	with placebo
+T9	Interventions 1578 1607	with gefitinib plus tamoxifen
+T10	Interventions 1734 1748	for gefitinib;

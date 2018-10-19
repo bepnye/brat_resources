@@ -1,0 +1,7 @@
+T1	Intervention 29 81	intensive diabetes management with implantable pumps
+T2	Intervention 89 121	multiple subcutaneous injections
+T3	Intervention 185 257	intraperitoneal (IP) insulin infusion via programmable implantable pumps
+T4	Intervention 288 338	subcutaneous (SC) insulin via multiple injections.
+T5	Intervention 1045 1049	pump
+T6	Intervention 1198 1214	implantable pump
+T7	Intervention 1291 1310	multiple injections

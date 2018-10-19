@@ -1,0 +1,18 @@
+T0	Outcomes 46 64	colorectal adenoma
+T1	Outcomes 70 87	colorectal cancer
+T2	Outcomes 221 246	risk of colorectal cancer
+T3	Outcomes 447 507	colorectal adenoma incidence, adenoma recurrence, and cancer
+T4	Outcomes 710 733	incident distal adenoma
+T5	Outcomes 749 766	recurrent adenoma
+T6	Outcomes 784 810	incident colorectal cancer
+T7	Outcomes 1020 1049	odds ratios (ORs) and 95% CIs
+T8	Outcomes 1054 1086	adenoma incidence and recurrence
+T9	Outcomes 1092 1111	hazard ratios (HRs)
+T10	Outcomes 1116 1123	95% CIs
+T11	Outcomes 1128 1155	colorectal cancer incidence
+T12	Outcomes 1301 1332	higher risk of incident adenoma
+T13	Outcomes 1366 1387	and colorectal cancer
+T14	Outcomes 1453 1473	of recurrent adenoma
+T15	Outcomes 1542 1566	either adenoma or cancer
+T16	Outcomes 1692 1712	of colorectal cancer
+T17	Outcomes 1731 1752	and colorectal cancer

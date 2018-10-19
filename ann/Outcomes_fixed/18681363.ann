@@ -1,0 +1,28 @@
+T0	Outcomes 0 27	[Intra-uterine insemination
+T1	Outcomes 44 68	ovarian hyperstimulation
+T2	Outcomes 84 104	expectant management
+T3	Outcomes 133 145	subfertility
+T4	Outcomes 209 240	Intrauterine insemination (IUI)
+T5	Outcomes 246 287	controlled ovarian hyperstimulation (COH)
+T6	Outcomes 350 375	unexplained subfertility.
+T7	Outcomes 440 471	increase in chance of pregnancy
+T8	Outcomes 583 586	IUI
+T9	Outcomes 592 595	COH
+T10	Outcomes 608 628	expectant management
+T11	Outcomes 645 669	unexplained subfertility
+T12	Outcomes 705 735	spontaneous ongoing pregnancy.
+T13	Outcomes 806 830	unexplained subfertility
+T14	Outcomes 854 883	spontaneous ongoing pregnancy
+T15	Outcomes 942 945	IUI
+T16	Outcomes 951 954	COH
+T17	Outcomes 1044 1078	ongoing pregnancy within 6 months.
+T18	Outcomes 1358 1361	IUI
+T19	Outcomes 1367 1370	COH
+T20	Outcomes 1382 1403	expectant management.
+T21	Outcomes 1551 1560	conceived
+T22	Outcomes 1591 1598	ongoing
+T23	Outcomes 1684 1698	twin pregnancy
+T24	Outcomes 1758 1782	twins and one a triplet.
+T25	Outcomes 1829 1841	IUI with COH
+T26	Outcomes 1858 1882	unexplained subfertility
+T27	Outcomes 1930 1950	Expectant management

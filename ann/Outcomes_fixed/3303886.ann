@@ -1,0 +1,17 @@
+T0	Outcomes 0 23	Prognostic significance
+T1	Outcomes 28 45	beneficial effect
+T2	Outcomes 79 103	early recurrent ischemia
+T3	Outcomes 470 482	Reinfarction
+T4	Outcomes 522 527	death
+T5	Outcomes 773 777	ST-T
+T6	Outcomes 960 972	reinfarction
+T7	Outcomes 1012 1028	extensive damage
+T8	Outcomes 1044 1074	peak MB-creatine kinase levels
+T9	Outcomes 1146 1167	higher mortality rate
+T10	Outcomes 1196 1202	Angina
+T11	Outcomes 1219 1241	transient ST-T changes
+T12	Outcomes 1376 1407	cumulative life-table incidence
+T13	Outcomes 1560 1590	risk of reinfarction and death
+T14	Outcomes 1596 1657	angina associated with transient electrocardiographic changes
+T15	Outcomes 1740 1746	viable
+T16	Outcomes 1751 1773	jeopardized myocardium

@@ -1,0 +1,18 @@
+T0	Interventions 11 35	atropine and scopolamine
+T1	Interventions 121 154	unilateral or bilateral otoplasty
+T2	Interventions 249 260	scopolamine
+T3	Interventions 523 552	scopolamine (TTS-scopolamine)
+T4	Interventions 612 619	placebo
+T5	Interventions 635 676	atropine 10 microg x kg(-1) intravenously
+T6	Interventions 707 726	scopolamine-treated
+T7	Interventions 814 830	atropine-treated
+T8	Interventions 883 898	TTS-scopolamine
+T9	Interventions 924 933	atropine.
+T10	Interventions 974 997	TTS-scopolamine-treated
+T11	Interventions 1022 1038	atropine-treated
+T12	Interventions 1253 1269	atropine-treated
+T13	Interventions 1299 1318	scopolamine-treated
+T14	Interventions 1376 1386	droperidol
+T15	Interventions 1486 1501	TTS-scopolamine
+T16	Interventions 1573 1588	TTS-scopolamine
+T17	Interventions 1748 1763	TTS-scopolamine

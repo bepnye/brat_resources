@@ -1,0 +1,10 @@
+T0	Outcomes 960 1043	median pain score, ulcer size, number of ulcers, or total number of ulcer episodes.
+T1	Outcomes 1087 1096	less pain
+T2	Outcomes 1110 1134	smaller and fewer ulcers
+T3	Outcomes 1192 1206	no improvement
+T4	Outcomes 1272 1292	more ulcer-free days
+T5	Outcomes 1333 1355	differences were small
+T6	Outcomes 1370 1400	exception of median ulcer size
+T7	Outcomes 1412 1451	did not reach statistical significance.
+T8	Outcomes 1452 1467	Adverse effects
+T9	Outcomes 1505 1532	not significantly different

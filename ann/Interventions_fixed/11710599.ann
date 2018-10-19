@@ -1,0 +1,11 @@
+T0	Interventions 45 80	hyperfractionated radiation therapy
+T1	Interventions 98 121	concurrent chemotherapy
+T2	Interventions 323 325	Gy
+T3	Interventions 406 450	hyperfractionated radiation therapy (HFX RT)
+T4	Interventions 473 475	Gy
+T5	Interventions 560 576	cisplatin (CDDP)
+T6	Interventions 800 810	50.6 Gy to
+T7	Interventions 938 944	HFX RT
+T8	Interventions 988 993	CDDP.
+T9	Interventions 1283 1288	CDDP.
+T10	Interventions 1395 1413	radio-chemotherapy

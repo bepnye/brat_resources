@@ -1,0 +1,8 @@
+T0	Outcomes 205 243	postoperative morbidity and mortality.
+T1	Outcomes 244 253	Morbidity
+T2	Outcomes 320 329	mortality
+T3	Outcomes 820 946	morbidity and mortality, need for postoperative mechanical ventilation, and length of stay (LOS) on intensive care unit (ICU).
+T4	Outcomes 968 1002	assisted postoperative ventilation
+T5	Outcomes 1082 1099	Median LOS on ICU
+T6	Outcomes 1154 1197	rate of postoperative medical complications
+T7	Outcomes 1487 1511	postoperative morbidity.

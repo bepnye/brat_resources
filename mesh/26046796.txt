@@ -1,0 +1,23 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents
+Antineoplastic Combined Chemotherapy Protocols
+DNA Mutational Analysis
+Deoxycytidine
+Disease-Free Survival
+Erlotinib Hydrochloride
+Female
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Mutation
+Pancreatic Neoplasms
+Prospective Studies
+Protein Kinase Inhibitors
+Proto-Oncogene Proteins p21(ras)
+Receptor, Epidermal Growth Factor
+Taiwan
+Time Factors
+Treatment Outcome

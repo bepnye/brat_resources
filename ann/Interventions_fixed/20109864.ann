@@ -1,0 +1,19 @@
+T0	Interventions 0 51	Catheter ablation of stable ventricular tachycardia
+T1	Interventions 59 72	defibrillator
+T2	Interventions 297 341	implantable cardioverter defibrillator (ICD)
+T3	Interventions 549 566	catheter ablation
+T4	Interventions 1040 1135	receive catheter ablation and an ICD (ablation group, n=54) or ICD alone (control group, n=56).
+T5	Interventions 1570 1585	(ablation group
+T6	Interventions 1593 1600	control
+T7	Interventions 1892 1906	ablation group
+T8	Interventions 1994 2007	control group
+T9	Interventions 2107 2121	ablation group
+T10	Interventions 2137 2150	control group
+T11	Interventions 2411 2426	(ablation group
+T12	Interventions 2434 2447	control group
+T13	Interventions 2492 2501	(ablation
+T14	Interventions 2515 2522	control
+T15	Interventions 2552 2576	Prophylactic VT ablation
+T16	Interventions 2584 2610	defibrillator implantation
+T17	Interventions 2732 2762	Prophylactic catheter ablation
+T18	Interventions 2819 2845	cardioverter defibrillator

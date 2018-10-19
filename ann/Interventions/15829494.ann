@@ -1,0 +1,10 @@
+T1	Intervention 0 46	Temozolomide and cisplatin versus temozolomide
+T2	Intervention 164 182	Temozolomide (TMZ)
+T3	Intervention 371 387	cisplatin (CDDP)
+T4	Intervention 448 452	CDDP
+T5	Intervention 493 497	TMZ.
+T6	Intervention 601 636	combination versus single-agent TMZ
+T7	Intervention 910 936	TMZ 200 mg/m(2)/day orally
+T8	Intervention 980 990	TMZ + CDDP
+T9	Intervention 1039 1043	CDDP
+T10	Intervention 1802 1813	TMZ + CDDP.

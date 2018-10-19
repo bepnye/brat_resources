@@ -1,0 +1,22 @@
+T0	Outcomes 0 43	Acute and long-term safety and tolerability
+T1	Outcomes 104 118	adverse events
+T2	Outcomes 706 730	safety and tolerability:
+T3	Outcomes 735 842	laboratory blood assessments (CBC with differential, electrolytes, and liver function tests) and urinalyses
+T4	Outcomes 848 859	vital signs
+T5	Outcomes 865 891	Side Effects Review of AEs
+T6	Outcomes 939 952	sleep records
+T7	Outcomes 958 1004	Simpson Angus Neurological Rating Scale (SARS)
+T8	Outcomes 1010 1052	Abnormal Involuntary Movement Scale (AIMS)
+T9	Outcomes 1062 1080	height and weight.
+T10	Outcomes 1310 1320	Somnolence
+T11	Outcomes 1336 1344	enuresis
+T12	Outcomes 1360 1378	excessive appetite
+T13	Outcomes 1394 1402	rhinitis
+T14	Outcomes 1417 1434	difficulty waking
+T15	Outcomes 1453 1465	constipation
+T16	Outcomes 1481 1520	"Difficulty falling asleep" and anxiety
+T17	Outcomes 1610 1613	AEs
+T18	Outcomes 1761 1793	weight and body mass index (BMI)
+T19	Outcomes 2053 2076	Extrapyramidal symptoms
+T20	Outcomes 2285 2293	seizures
+T21	Outcomes 2520 2547	somnolence and weight gain.

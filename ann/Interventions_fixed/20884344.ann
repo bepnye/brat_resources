@@ -1,0 +1,6 @@
+T0	Interventions 0 25	Hypoxic exercise training
+T1	Interventions 446 686	normoxic (21%O₂) resting (N-C), hypoxic (15%O₂) resting (H-C), normoxic exercise (50%W(max) under 21%O₂, N-T), hypoxic-relative exercise (50% maximal heart rate reserve under 15%O₂, H-RT), or hypoxic-absolute exercise (50%W(max) under 15%O₂
+T2	Interventions 1162 1195	Simultaneously, this intervention
+T3	Interventions 1504 1555	following the N-C, H-C, N-T, and H-RT interventions
+T4	Interventions 1580 1609	that 4-week H-AT intervention
+T5	Interventions 1828 1848	an effective hypoxic

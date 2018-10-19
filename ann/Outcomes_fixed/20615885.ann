@@ -1,0 +1,15 @@
+T0	Outcomes 137 163	human papillomavirus (HPV)
+T1	Outcomes 994 1011	carcinogenic HPV.
+T2	Outcomes 1012 1017	HPV16
+T3	Outcomes 1027 1032	HPV31
+T4	Outcomes 1042 1047	HPV52
+T5	Outcomes 1057 1062	HPV51
+T6	Outcomes 1076 1081	HPV18
+T7	Outcomes 1140 1212	Younger age, consensus histologic confirmation, smoking, and multiparity
+T8	Outcomes 1241 1265	testing HPV 16 positive.
+T9	Outcomes 1280 1299	HPV16-positive CIN3
+T10	Outcomes 1331 1344	CIN3 positive
+T11	Outcomes 1355 1381	carcinogenic HPV genotypes
+T12	Outcomes 1476 1495	HPV16-positive CIN3
+T13	Outcomes 1732 1745	CIN3 positive
+T14	Outcomes 1756 1783	carcinogenic HPV genotypes.

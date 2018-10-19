@@ -1,0 +1,10 @@
+T1	Intervention 35 59	3D finite element models
+T2	Intervention 76 91	2D radiographs.
+T3	Intervention 93 122	Finite element (FE) modelling
+T4	Intervention 184 210	patient-specific FE models
+T5	Intervention 233 252	computed tomography
+T6	Intervention 308 371	create personalised 3D models from standard 2D hip radiographs.
+T7	Intervention 444 463	a-p hip radiographs
+T8	Intervention 484 517	3D femoral shape obtained from CT
+T9	Intervention 975 984	FE models
+T10	Intervention 1538 1609	a patient-specific 3D finite element model from standard 2D radiographs

@@ -1,0 +1,16 @@
+T0	Outcomes 0 48	Angiographic and electrocardiographic parameters
+T1	Outcomes 341 359	microvascular flow
+T2	Outcomes 658 733	angiographic and electrocardiographic parameters of myocardial reperfusion.
+T3	Outcomes 763 842	angiographic corrected TIMI Frame count (cTFC) and myocardial blush grade (MBG)
+T4	Outcomes 880 901	ST segment resolution
+T5	Outcomes 958 973	cTFC after PCI.
+T6	Outcomes 999 1075	cTFC prior to PCI, TIMI flow grade, MBG and the percentage of ST resolution.
+T7	Outcomes 1208 1226	mean ischemic time
+T8	Outcomes 1286 1336	the time between loading dose and stent deployment
+T9	Outcomes 1396 1404	p=0.36).
+T10	Outcomes 1405 1409	cTFC
+T11	Outcomes 1609 1623	clopidogrel in
+T12	Outcomes 1674 1682	p=0.62);
+T13	Outcomes 1751 1760	(p=0.41).
+T14	Outcomes 1761 1792	The percentage of ST resolution
+T15	Outcomes 2018 2081	improvement of angiographic and electrocardiographic parameters

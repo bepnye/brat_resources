@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols
+Carcinoma, Squamous Cell
+Disease-Free Survival
+Female
+Head and Neck Neoplasms
+Humans
+Male
+Methotrexate
+Middle Aged
+Neoplasm Metastasis
+Neoplasm Recurrence, Local
+Platinum
+Quinazolines
+Treatment Outcome

@@ -1,0 +1,10 @@
+T0	Outcomes 0 26	Focal therapeutic efficacy
+T1	Outcomes 150 174	focal therapeutic effect
+T2	Outcomes 823 855	fever (maximum body temperature)
+T3	Outcomes 864 1021	frequency of shaking chills and abdominal pain, and by biochemical parameters such as albumin, prothrombin time, and aspartate and alanine aminotransferases.
+T4	Outcomes 1022 1056	Lipiodol accumulation in the tumor
+T5	Outcomes 1209 1230	tumor regression rate
+T6	Outcomes 1436 1467	elevations of aminotransferases
+T7	Outcomes 1472 1500	reductions of cholinesterase
+T8	Outcomes 1506 1520	shaking chills
+T9	Outcomes 1728 1767	more favorable focal therapeutic effect

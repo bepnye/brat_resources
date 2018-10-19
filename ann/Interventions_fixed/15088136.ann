@@ -1,0 +1,13 @@
+T0	Interventions 0 25	Bisphosphonate infusions:
+T1	Interventions 189 211	bisphosphonate therapy
+T2	Interventions 223 261	pamidronate (P) or zoledronic acid (Z)
+T3	Interventions 436 454	P and Z infusions.
+T4	Interventions 542 556	infusions of Z
+T5	Interventions 701 721	Z then P or P then Z
+T6	Interventions 795 806	Z infusions
+T7	Interventions 1061 1078	Z and P infusions
+T8	Interventions 1294 1300	Z to P
+T9	Interventions 1673 1674	Z
+T10	Interventions 1789 1803	bisphosphonate
+T11	Interventions 1852 1868	Z 4 mg infusions
+T12	Interventions 1957 1972	Z rather than P

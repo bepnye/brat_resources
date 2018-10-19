@@ -1,0 +1,8 @@
+T1	Intervention 32 67	short-term neoadjuvant chemotherapy
+T2	Intervention 122 165	short-term neoadjuvant chemotherapy (s-NAC)
+T3	Intervention 475 497	5-fluorouracil (5-FU);
+T4	Intervention 556 603	cis-diamminedichloroplatinum (CDDP; cisplatin);
+T5	Intervention 641 651	5-FU+CDDP;
+T6	Intervention 690 715	not receive chemotherapy.
+T7	Intervention 1330 1335	s-NAC
+T8	Intervention 1460 1488	Combination of CDDP and 5-FU

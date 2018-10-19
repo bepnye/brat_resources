@@ -1,0 +1,10 @@
+T0	Outcomes 0 8	Efficacy
+T1	Outcomes 13 19	safety
+T2	Outcomes 204 212	efficacy
+T3	Outcomes 217 223	safety
+T4	Outcomes 932 980	HIV-RNA, CD4 cells, and blood chemistry profiles
+T5	Outcomes 1178 1185	HIV RNA
+T6	Outcomes 1313 1320	HIV RNA
+T7	Outcomes 1396 1405	CD4 cells
+T8	Outcomes 1502 1524	Serious adverse events
+T9	Outcomes 1670 1688	antiviral activity

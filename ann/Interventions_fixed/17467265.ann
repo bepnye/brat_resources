@@ -1,0 +1,8 @@
+T0	Interventions 25 34	cisplatin
+T1	Interventions 42 53	carboplatin
+T2	Interventions 235 269	chemoradiotherapy with carboplatin
+T3	Interventions 277 329	standard concurrent chemoradiotherapy with cisplatin
+T4	Interventions 516 559	101 to cisplatin arm and 105 to carboplatin
+T5	Interventions 565 585	Planned radiotherapy
+T6	Interventions 1543 1554	carboplatin
+T7	Interventions 1596 1605	cisplatin

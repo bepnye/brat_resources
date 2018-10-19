@@ -1,0 +1,13 @@
+T0	Outcomes 398 417	blood triglycerides
+T1	Outcomes 470 487	blood cholesterol
+T2	Outcomes 592 621	pre-beta-lipoprotein fraction
+T3	Outcomes 805 825	platelet aggregation
+T4	Outcomes 983 1025	platelet adhesiveness nor aggregation rate
+T5	Outcomes 1035 1044	Tolerance
+T6	Outcomes 1116 1138	palpebral xanthelasmas
+T7	Outcomes 1231 1240	heartburn
+T8	Outcomes 1301 1316	urticarial rash
+T9	Outcomes 1480 1524	renal, hepatic or hematological malfunctions
+T10	Outcomes 1594 1610	GOT, GPT and LDH
+T11	Outcomes 1721 1749	type IV hyperlipoproteinemia
+T12	Outcomes 1801 1820	thromboembolic risk

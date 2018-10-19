@@ -1,0 +1,18 @@
+Adult
+Aged
+Aged, 80 and over
+Brain Neoplasms
+Breast Neoplasms
+Combined Modality Therapy
+Cranial Irradiation
+Female
+Humans
+Kidney Neoplasms
+Lung Neoplasms
+Male
+Melanoma
+Middle Aged
+Prognosis
+Radiosurgery
+Regression Analysis
+Young Adult

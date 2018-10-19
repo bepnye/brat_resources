@@ -1,0 +1,17 @@
+Adult
+Aged
+Carcinoma, Hepatocellular
+Cellulose, Oxidized
+Female
+Hemangioma
+Hemostatics
+Hepatectomy
+Humans
+Liver
+Liver Neoplasms
+Male
+Middle Aged
+Pleural Effusion
+Postoperative Complications
+Postoperative Hemorrhage
+Treatment Outcome

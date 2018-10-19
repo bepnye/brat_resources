@@ -1,0 +1,9 @@
+T1	Intervention 71 83	aripiprazole
+T2	Intervention 248 260	aripiprazole
+T3	Intervention 268 275	placebo
+T4	Intervention 431 449	placebo-controlled
+T5	Intervention 858 870	aripiprazole
+T6	Intervention 1195 1237	continue aripiprazole or switch to placebo
+T7	Intervention 1449 1481	between aripiprazole and placebo
+T8	Intervention 1600 1611	for placebo
+T9	Intervention 2040 2072	between aripiprazole and placebo

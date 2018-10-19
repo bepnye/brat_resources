@@ -1,0 +1,11 @@
+T0	Outcomes 31 54	{beta}-cell dysfunction
+T1	Outcomes 417 435	beta-cell function
+T2	Outcomes 713 731	beta-Cell function
+T3	Outcomes 748 794	changes in insulin and C-peptide concentration
+T4	Outcomes 819 887	changes in acute insulin response to arginine stimulation (AIR(arg))
+T5	Outcomes 933 973	mean time to discontinue insulin therapy
+T6	Outcomes 1143 1150	glucose
+T7	Outcomes 1225 1251	baseline AIR(arg) response
+T8	Outcomes 1329 1357	free fatty acid (FFA) levels
+T9	Outcomes 1445 1477	response to AIR(arg) stimulation
+T10	Outcomes 1501 1529	insulin and C-peptide levels

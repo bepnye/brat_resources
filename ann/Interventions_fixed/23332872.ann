@@ -1,0 +1,17 @@
+T0	Interventions 4 30	tyrosine kinase inhibitors
+T1	Interventions 119 144	tyrosine kinase inhibitor
+T2	Interventions 149 159	everolimus
+T3	Interventions 399 409	everolimus
+T4	Interventions 447 503	tyrosine kinase inhibitors (TKI) sunitinib or sorafenib.
+T5	Interventions 541 544	TKI
+T6	Interventions 603 627	TKI-everolimus sequence.
+T7	Interventions 884 912	TKI-everolimus-TKI sequence.
+T8	Interventions 952 955	TKI
+T9	Interventions 962 983	everolimus: sunitinib
+T10	Interventions 1000 1009	sorafenib
+T11	Interventions 1021 1030	dovitinib
+T12	Interventions 1069 1072	TKI
+T13	Interventions 1205 1223	TKI-everolimus-TKI
+T14	Interventions 1416 1426	everolimus
+T15	Interventions 1514 1517	TKI
+T16	Interventions 1567 1594	TKI-everolimus-TKI sequence

@@ -1,0 +1,10 @@
+T0	Interventions 18 27	radiation
+T1	Interventions 56 84	breast conserving treatment:
+T2	Interventions 168 185	"boost" radiation
+T3	Interventions 192 225	breast conservative therapy (BCT)
+T4	Interventions 451 488	BCT and 50Gy whole breast irradiation
+T5	Interventions 508 531	no boost and 16Gy boost
+T6	Interventions 576 581	boost
+T7	Interventions 759 764	boost
+T8	Interventions 1025 1030	boost
+T9	Interventions 1185 1190	boost

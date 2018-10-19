@@ -1,0 +1,6 @@
+T0	Interventions 50 62	radiotherapy
+T1	Interventions 66 83	chemoradiotherapy
+T2	Interventions 168 198	Preoperative chemoradiotherapy
+T3	Interventions 220 232	radiotherapy
+T4	Interventions 522 544	preoperative CRT or RT
+T5	Interventions 558 584	5-fluorouracil/leucovorin)

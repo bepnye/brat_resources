@@ -1,0 +1,11 @@
+T0	Interventions 0 9	Induction
+T1	Interventions 17 29	noninduction
+T2	Interventions 203 232	antithymocyte globulins (ATG)
+T3	Interventions 245 255	tacrolimus
+T4	Interventions 487 513	induction therapy with ATG
+T5	Interventions 548 558	tacrolimus
+T6	Interventions 581 612	tacrolimus-based triple therapy
+T7	Interventions 660 670	tacrolimus
+T8	Interventions 691 706	Steroid boluses
+T9	Interventions 789 801	Azathioprine
+T10	Interventions 1969 1972	ATG

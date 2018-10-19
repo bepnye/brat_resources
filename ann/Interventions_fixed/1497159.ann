@@ -1,0 +1,16 @@
+T0	Interventions 0 25	Rapid-sequence intubation
+T1	Interventions 85 96	pancuronium
+T2	Interventions 104 129	minidose succinylcholine.
+T3	Interventions 348 379	succinylcholine administration.
+T4	Interventions 537 552	succinylcholine
+T5	Interventions 853 868	succinylcholine
+T6	Interventions 872 884	pancuronium.
+T7	Interventions 1009 1044	rapid-sequence intubation maneuvers
+T8	Interventions 1049 1058	lidocaine
+T9	Interventions 1116 1167	minidose succinylcholine (0.1 mg/kg) or pancuronium
+T10	Interventions 1208 1246	full paralytic dose of succinylcholine
+T11	Interventions 1370 1381	pancuronium
+T12	Interventions 1415 1430	succinylcholine
+T13	Interventions 1783 1798	succinylcholine
+T14	Interventions 1850 1861	pancuronium
+T15	Interventions 1938 1953	succinylcholine

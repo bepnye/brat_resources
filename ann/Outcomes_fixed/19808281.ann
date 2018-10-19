@@ -1,0 +1,14 @@
+T0	Outcomes 472 625	primary (combined death or unplanned first hospitalization and quality-of-life changes) and secondary end points (hospitalization, death, and adherence).
+T1	Outcomes 1040 1087	composite of death or unplanned hospitalization
+T2	Outcomes 1189 1205	hospitalization.
+T3	Outcomes 1210 1245	quality-of-life questionnaire score
+T4	Outcomes 1297 1306	Mortality
+T5	Outcomes 1335 1361	Number of hospitalizations
+T6	Outcomes 1402 1442	total hospital days during the follow-up
+T7	Outcomes 1496 1521	need for emergency visits
+T8	Outcomes 1600 1618	Beneficial effects
+T9	Outcomes 1920 1945	unplanned hospitalization
+T10	Outcomes 1962 1981	total hospital days
+T11	Outcomes 1997 2020	need for emergency care
+T12	Outcomes 2033 2057	improved quality of life
+T13	Outcomes 2074 2091	program adherence

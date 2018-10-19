@@ -1,8 +1,0 @@
-T1	Treatment 51 77	extracorporeal circulation
-T2	Treatment 95 117	cardiopulmonary bypass
-T3	Treatment 121 158	coronary artery bypass graft surgery:
-T4	Treatment 204 245	Minimal extracorporeal circulation (MECC)
-T5	Treatment 269 312	coronary artery bypass graft (CABG) surgery
-T6	Treatment 419 423	MECC
-T7	Treatment 489 535	conventional extracorporeal circulation (CECC)
-T8	Treatment 817 830	MECC or CECC.

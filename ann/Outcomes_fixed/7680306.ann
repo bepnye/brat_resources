@@ -1,0 +1,10 @@
+T0	Outcomes 6 22	cardiac toxicity
+T1	Outcomes 374 434	chronic changes in myocardium, pericardium or cardiac valves
+T2	Outcomes 455 477	haemodynamic sequelae.
+T3	Outcomes 478 514	Maximal and integrated early (E, Ei)
+T4	Outcomes 519 586	late (A, Ai) diastolic flow velocities and their ratio (E/A, Ei/Ai)
+T5	Outcomes 729 746	valvar thickening
+T6	Outcomes 759 781	pericardial thickening
+T7	Outcomes 798 852	reduced fibre shortening fraction, the Doppler indices
+T8	Outcomes 978 1017	functional and morphological parameters
+T9	Outcomes 1063 1097	measurements of diastolic function

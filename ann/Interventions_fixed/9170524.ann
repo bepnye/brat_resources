@@ -1,0 +1,13 @@
+T0	Interventions 35 137	surgical adjuvant chemotherapy using 5-fluorouracil and dl-leucovorin with CDDP 5-FU and dl-leucovorin
+T1	Interventions 197 227	surgical adjuvant chemotherapy
+T2	Interventions 234 335	dl-leucovorin (dl-LV) and 5-fluorouracil (5-FU) (FL-therapy) with CDDP, 5-FU, and dl-LV (PFL-therapy)
+T3	Interventions 422 426	CDDP
+T4	Interventions 441 445	5-FU
+T5	Interventions 465 470	dl-LV
+T6	Interventions 521 525	5-FU
+T7	Interventions 544 549	dl-LV
+T8	Interventions 649 654	dl-LV
+T9	Interventions 659 663	5-FU
+T10	Interventions 1132 1143	PFL-therapy
+T11	Interventions 1148 1158	FL-therapy
+T12	Interventions 1193 1220	surgical adjuvant therapies

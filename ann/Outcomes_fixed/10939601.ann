@@ -1,0 +1,11 @@
+T0	Outcomes 63 90	advanced colorectal cancer:
+T1	Outcomes 176 190	5-fluorouracil
+T2	Outcomes 859 875	partial response
+T3	Outcomes 937 945	complete
+T4	Outcomes 954 970	partial response
+T5	Outcomes 996 1011	Time to failure
+T6	Outcomes 1157 1177	median survival time
+T7	Outcomes 1269 1302	Diarrhea, stomatitis and vomiting
+T8	Outcomes 1324 1349	nonhematologic toxicities
+T9	Outcomes 1381 1417	hematologic toxicity was leukopenia;
+T10	Outcomes 1578 1604	advanced colorectal cancer

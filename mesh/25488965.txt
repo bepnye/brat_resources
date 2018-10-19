@@ -1,0 +1,17 @@
+Adult
+Aged
+Antineoplastic Agents
+Carcinoma, Squamous Cell
+Chemoradiotherapy
+Cisplatin
+Disease-Free Survival
+Dose Fractionation
+Female
+Head and Neck Neoplasms
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Neoplasm Staging
+Patient Selection
+Prospective Studies

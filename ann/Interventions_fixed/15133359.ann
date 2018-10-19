@@ -1,0 +1,15 @@
+T0	Interventions 148 161	Biventricular
+T1	Interventions 372 450	dedicated guiding catheters (guiding catheter alone positioning strategy, GCA)
+T2	Interventions 473 598	electrophysiology catheter advanced inside the guiding catheter (electrophysiology catheter aided positioning strategy, EPA).
+T3	Interventions 640 653	EPA technique
+T4	Interventions 724 738	GCA technique.
+T5	Interventions 810 813	GCA
+T6	Interventions 831 834	EPA
+T7	Interventions 849 872	CS cannulation strategy
+T8	Interventions 950 953	EPA
+T9	Interventions 991 994	GCA
+T10	Interventions 1056 1059	EPA
+T11	Interventions 1096 1099	GCA
+T12	Interventions 1196 1199	EPA
+T13	Interventions 1236 1239	GCA
+T14	Interventions 1310 1336	electrophysiology catheter

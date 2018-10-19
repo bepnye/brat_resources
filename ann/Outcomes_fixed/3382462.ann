@@ -1,0 +1,15 @@
+T0	Outcomes 26 59	electroencephalographic vigilance
+T1	Outcomes 573 589	number of epochs
+T2	Outcomes 744 811	anterior-posterior and left-right relations of absolute alpha-power
+T3	Outcomes 948 960	baseline-EEG
+T4	Outcomes 1193 1198	forms
+T5	Outcomes 1303 1315	non-A epochs
+T6	Outcomes 1322 1337	alpha-activity)
+T7	Outcomes 1359 1372	non-A epochs;
+T8	Outcomes 1393 1441	prevalence of A-epochs (abundant alpha-activity)
+T9	Outcomes 1522 1557	left-right relations of alpha-power
+T10	Outcomes 1631 1645	alpha-activity
+T11	Outcomes 1655 1673	shift to the left;
+T12	Outcomes 1701 1729	alpha-activity to the right.
+T13	Outcomes 1777 1795	shift to the left.
+T14	Outcomes 1852 1885	electroencephalographic vigilance

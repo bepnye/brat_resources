@@ -1,0 +1,11 @@
+T0	Outcomes 560 614	risk of all-cause mortality and/or dialysis initiation
+T1	Outcomes 630 677	coronary artery calcification (CAC) progression
+T2	Outcomes 1078 1129	were death for any cause and initiation of dialysis
+T3	Outcomes 1283 1401	with increased CAC progression and occurrence of all-cause mortality, dialysis initiation, and the composite end-point
+T4	Outcomes 1497 1526	reduced risk of each endpoint
+T5	Outcomes 1536 1554	if CAC progression
+T6	Outcomes 1576 1585	moderate.
+T7	Outcomes 1586 1609	Accelerated progression
+T8	Outcomes 1679 1734	the risk of all-cause mortality and composite end-point
+T9	Outcomes 1811 1894	reduction in all-cause mortality, dialysis initiation, and composite end-point risk
+T10	Outcomes 2023 2050	accelerated CAC progression

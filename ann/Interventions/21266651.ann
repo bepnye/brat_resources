@@ -1,0 +1,9 @@
+T1	Intervention 284 319	continuous glucose monitoring (CGM)
+T2	Intervention 509 512	CGM
+T3	Intervention 529 536	control
+T4	Intervention 553 591	standard home blood glucose monitoring
+T5	Intervention 693 696	CGM
+T6	Intervention 1160 1163	CGM
+T7	Intervention 1390 1396	by CGM
+T8	Intervention 1493 1499	study.
+T9	Intervention 1500 1512	CGM-measured

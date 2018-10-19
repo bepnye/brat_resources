@@ -1,0 +1,19 @@
+Aged
+Antigens, CD
+Antigens, Differentiation, Myelomonocytic
+CD3 Complex
+CD40 Ligand
+Carotid Arteries
+Carotid Stenosis
+Collagen
+Drugs, Chinese Herbal
+Female
+Humans
+Immunohistochemistry
+Inflammation
+Intercellular Adhesion Molecule-1
+Lipids
+Male
+Matrix Metalloproteinase 9
+Plaque, Atherosclerotic
+Tenascin

@@ -1,0 +1,19 @@
+T0	Interventions 0 74	Piperacillin/tazobactam plus tobramycin versus ceftazidime plus tobramycin
+T1	Interventions 230 257	piperacillin and tazobactam
+T2	Interventions 463 474	ceftazidime
+T3	Interventions 501 511	tobramycin
+T4	Interventions 551 563	piperacillin
+T5	Interventions 578 588	tazobactam
+T6	Interventions 623 633	tobramycin
+T7	Interventions 670 680	Vancomycin
+T8	Interventions 731 742	ceftazidime
+T9	Interventions 819 842	piperacillin/tazobactam
+T10	Interventions 1127 1148	antibacterial therapy
+T11	Interventions 1266 1289	piperacillin/tazobactam
+T12	Interventions 1326 1337	ceftazidime
+T13	Interventions 1489 1513	piperacillin/ tazobactam
+T14	Interventions 1545 1556	ceftazidime
+T15	Interventions 1603 1615	glycopeptide
+T16	Interventions 1630 1653	piperacillin/tazobactam
+T17	Interventions 1757 1780	piperacillin/tazobactam
+T18	Interventions 1911 1942	empiric glycopeptide antibiotic

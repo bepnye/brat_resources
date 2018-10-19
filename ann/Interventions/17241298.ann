@@ -1,0 +1,17 @@
+T1	Intervention 14 78	7-day and 14-day proton pump inhibitor-containing triple therapy
+T2	Intervention 220 246	triple combination therapy
+T3	Intervention 258 287	a proton pump inhibitor (PPI)
+T4	Intervention 292 307	two antibiotics
+T5	Intervention 514 561	7-day and 14-day PPI-containing triple therapy.
+T6	Intervention 665 697	upper gastrointestinal endoscopy
+T7	Intervention 800 804	PAC7
+T8	Intervention 811 933	(omeprazole 20 mg or equivalent dose of other PPIs, amoxicillin 1000 mg, and clarithromycin 500 mg twice daily for 7 days)
+T9	Intervention 942 947	PAC14
+T10	Intervention 954 1006	(the same regimen as the PAC7 group but for 14 days)
+T11	Intervention 1186 1190	PAC7
+T12	Intervention 1212 1217	PAC14
+T13	Intervention 1323 1327	PAC7
+T14	Intervention 1368 1373	PAC14
+T15	Intervention 1550 1585	7-day PPI-containing triple anti-H.
+T16	Intervention 1586 1600	pylori therapy
+T17	Intervention 1624 1630	14-day

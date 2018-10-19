@@ -1,0 +1,17 @@
+T1	Intervention 0 35	Modified constraint-induced therapy
+T2	Intervention 50 66	mental practice:
+T3	Intervention 131 173	Modified constraint-induced therapy (mCIT)
+T4	Intervention 269 273	mCIT
+T5	Intervention 424 439	mental practice
+T6	Intervention 459 463	mCIT
+T7	Intervention 471 480	mCIT only
+T8	Intervention 751 755	mCIT
+T9	Intervention 1038 1058	mCIT+mental practice
+T10	Intervention 1179 1194	mental practice
+T11	Intervention 1290 1294	mCIT
+T12	Intervention 1543 1563	mCIT+mental practice
+T13	Intervention 1729 1738	mCIT only
+T14	Intervention 1822 1831	mCIT only
+T15	Intervention 1921 1925	mCIT
+T16	Intervention 2021 2036	mental practice
+T17	Intervention 2061 2065	mCIT

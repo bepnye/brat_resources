@@ -1,0 +1,21 @@
+T0	Interventions 10 84	inspiratory impedance threshold device on a facemask and endotracheal tube
+T1	Interventions 241 285	inspiratory impedance threshold device (ITD)
+T2	Interventions 383 406	endotracheal tube (ETT)
+T3	Interventions 414 477	active compression-decompression cardiopulmonary resuscitation.
+T4	Interventions 512 515	ITD
+T5	Interventions 578 594	facemask or ETT.
+T6	Interventions 603 625	An active and sham ITD
+T7	Interventions 659 667	facemask
+T8	Interventions 683 686	ETT
+T9	Interventions 694 756	active compression-decompression cardiopulmonary resuscitation
+T10	Interventions 1019 1043	A sham and an active ITD
+T11	Interventions 1103 1111	facemask
+T12	Interventions 1127 1131	ETT.
+T13	Interventions 1403 1407	sham
+T14	Interventions 1439 1449	active ITD
+T15	Interventions 1627 1643	facemask and ETT
+T16	Interventions 1700 1743	active ITD attached to a facemask or an ETT
+T17	Interventions 1961 1964	ITD
+T18	Interventions 1975 1985	a facemask
+T19	Interventions 1989 1992	ETT
+T20	Interventions 2011 2035	ITD-facemask combination

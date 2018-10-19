@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Antineoplastic Combined Chemotherapy Protocols
+Cytarabine
+Etoposide
+Fibroblast Growth Factor 7
+Humans
+Idarubicin
+Leukemia, Myeloid, Acute
+Male
+Middle Aged
+Stomatitis

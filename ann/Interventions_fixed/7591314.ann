@@ -1,0 +1,7 @@
+T0	Interventions 100 119	thrombolytic agents
+T1	Interventions 602 643	pre-hospital early thrombolytic treatment
+T2	Interventions 866 888	pre-hospital treatment
+T3	Interventions 894 906	anistreplase
+T4	Interventions 937 956	followed by placebo
+T5	Interventions 1022 1054	placebo followed by anistreplase
+T6	Interventions 1616 1650	pre-hospital thrombolytic strategy

@@ -1,0 +1,10 @@
+T0	Outcomes 46 80	management of atrial fibrillation.
+T1	Outcomes 228 240	rate control
+T2	Outcomes 278 361	diltiazem-induced hypotension [defined by systolic blood pressure (SBP) < 90 mm Hg]
+T3	Outcomes 382 393	hypotension
+T4	Outcomes 467 478	hypotension
+T5	Outcomes 592 600	SBP drop
+T6	Outcomes 1199 1209	heart rate
+T7	Outcomes 1237 1251	adverse events
+T8	Outcomes 1351 1373	tachycardic and apneic
+T9	Outcomes 1576 1596	blunting of SBP drop

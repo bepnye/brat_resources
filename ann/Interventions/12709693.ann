@@ -1,0 +1,16 @@
+T1	Intervention 34 59	remifentanil and propofol
+T2	Intervention 67 134	total intravenous anesthesia with fentanyl, midazolam, and propofol
+T3	Intervention 255 280	remifentanil and propofol
+T4	Intervention 363 397	midazolam, fentanyl, and propofol.
+T5	Intervention 487 522	analgesia/sedation (Sedation group)
+T6	Intervention 526 568	total intravenous anesthesia (TIVA group).
+T7	Intervention 569 587	Analgesia/sedation
+T8	Intervention 616 628	remifentanil
+T9	Intervention 662 670	propofol
+T10	Intervention 740 799	fentanyl (2 microg/kg), midazolam (0.05 mg/kg) and propofol
+T11	Intervention 1306 1310	TIVA
+T12	Intervention 1370 1378	Sedation
+T13	Intervention 1476 1484	Sedation
+T14	Intervention 1489 1493	TIVA
+T15	Intervention 1670 1674	TIVA
+T16	Intervention 1835 1860	remifentanil and propofol
